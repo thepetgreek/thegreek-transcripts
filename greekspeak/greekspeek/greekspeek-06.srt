@@ -1,0 +1,2932 @@
+1
+00:00:00,000 --> 00:00:25,680
+Hello to everyone tuned into this episode of the Greekspeak podcast.
+
+2
+00:00:25,680 --> 00:00:31,360
+I'm the Archon creator of Greekspeak.com and this is episode 6 of my talks with my co-host
+
+3
+00:00:31,360 --> 00:00:32,760
+the Greek.
+
+4
+00:00:32,760 --> 00:00:38,480
+We have yet another hour or so of conversation before us and I hope to make it as engaging
+
+5
+00:00:38,480 --> 00:00:40,000
+as possible.
+
+6
+00:00:40,000 --> 00:00:44,120
+If you have yet to catch up to speed with previous episodes you can do that on the podcast
+
+7
+00:00:44,120 --> 00:00:48,160
+page on Greekspeak.com where there are free downloads as well.
+
+8
+00:00:48,160 --> 00:00:53,080
+I've decided to retire the live stream chat room so there won't be any further possibility
+
+9
+00:00:53,080 --> 00:00:57,840
+of posting anything there during streams but feel free to use the general chat if anyone
+
+10
+00:00:57,840 --> 00:01:03,000
+has any questions about anything Greek speak related and as always Greekspeak.com has
+
+11
+00:01:03,000 --> 00:01:07,440
+no political religious or commercial affiliations as it's a personal project that's managed
+
+12
+00:01:07,440 --> 00:01:09,440
+by myself.
+
+13
+00:01:09,440 --> 00:01:11,040
+And that's it for the introduction.
+
+14
+00:01:11,040 --> 00:01:13,320
+Please enjoy the rest of the show and thanks again for listening.
+
+15
+00:01:13,320 --> 00:01:24,720
+Hi there Greek.
+
+16
+00:01:24,720 --> 00:01:26,760
+Hi greetings.
+
+17
+00:01:26,760 --> 00:01:30,080
+How have you been faring since the last stream?
+
+18
+00:01:30,080 --> 00:01:35,160
+Oh fairly well you know you say no political religious or whatever affiliations you want
+
+19
+00:01:35,160 --> 00:01:38,640
+to run run run away from those things.
+
+20
+00:01:38,640 --> 00:01:40,520
+Go in the opposite direction.
+
+21
+00:01:40,520 --> 00:01:41,520
+But anyway.
+
+22
+00:01:41,520 --> 00:01:44,360
+No I figured that.
+
+23
+00:01:44,360 --> 00:01:45,360
+I mean it wouldn't.
+
+24
+00:01:45,360 --> 00:01:50,360
+I wouldn't mind having some financial support but I'll generate that myself.
+
+25
+00:01:50,360 --> 00:01:56,520
+Yeah well the financial support is interesting because you know it's a credit based economy
+
+26
+00:01:56,520 --> 00:02:03,840
+people don't know that those that do know get about it get more confused people who don't
+
+27
+00:02:03,840 --> 00:02:10,920
+know about it are confused nonetheless so yeah food clothing and shelter indeed.
+
+28
+00:02:10,920 --> 00:02:15,760
+Well at least for this week I mean I think that we'll have ample time to dig into food clothing
+
+29
+00:02:15,760 --> 00:02:21,520
+and shelter in future episodes but for this week we have the topic of science although
+
+30
+00:02:21,520 --> 00:02:26,400
+I'm somewhat limited in that field thanks to my useless secondary school education it's
+
+31
+00:02:26,400 --> 00:02:30,760
+something that I know the Greek to be quite learned in so I'm going to perhaps rely a little
+
+32
+00:02:30,760 --> 00:02:34,400
+more than usual on the Greeks capacity for explaining things on this episode but I'm
+
+33
+00:02:34,400 --> 00:02:37,280
+sure you'll carry that load just fine.
+
+34
+00:02:37,280 --> 00:02:42,580
+So let's start with what the word science actually means and how that word has come to represent
+
+35
+00:02:42,580 --> 00:02:49,120
+something quite embellished and sometimes misleading given its etymology it comes from the Latin
+
+36
+00:02:49,120 --> 00:02:54,520
+word ciencia meaning knowledge or expertness but probably had the original meaning of to
+
+37
+00:02:54,520 --> 00:02:58,760
+separate one thing from another or to distinguish and then by the 18th century we get the modern
+
+38
+00:02:58,760 --> 00:03:04,160
+sense of the word as referring to knowledge gained from methodical observation of a subject
+
+39
+00:03:04,160 --> 00:03:10,120
+so Greek what is your studies about the history or origins of science revealed to you about
+
+40
+00:03:10,120 --> 00:03:13,280
+its evolutions over the centuries or millennia.
+
+41
+00:03:13,280 --> 00:03:17,480
+Well again how the word is being used like for example there's political science right
+
+42
+00:03:17,480 --> 00:03:23,240
+whilst people are off degrees in that and you know when you say the word science you think
+
+43
+00:03:23,240 --> 00:03:29,080
+of state of the art and technology and you know physical know how and we'll get into
+
+44
+00:03:29,080 --> 00:03:37,080
+why physical know how later but the term science of course just like any term is used very
+
+45
+00:03:37,080 --> 00:03:43,280
+loosely and to the you know the common pedestrian it means you know usually something they're
+
+46
+00:03:43,280 --> 00:03:48,000
+either intimidated by have been propagandized to think that they know something about
+
+47
+00:03:48,000 --> 00:03:52,720
+and also the third part dare I say it's become sort of a religion with its adherence and
+
+48
+00:03:52,720 --> 00:03:59,360
+priests and altars to be worshipped and you know useless debates and even further more importantly
+
+49
+00:03:59,360 --> 00:04:01,600
+useless information.
+
+50
+00:04:01,600 --> 00:04:07,640
+Well certainly that is the modern day landscape of that but if we look historically that did
+
+51
+00:04:07,640 --> 00:04:12,480
+take its root from somewhere that you know people often uphold this like the golden standard
+
+52
+00:04:12,480 --> 00:04:17,800
+of the inquisitive mind of people that you know pondered and looked into things that were
+
+53
+00:04:17,800 --> 00:04:19,960
+hitherto unknown.
+
+54
+00:04:19,960 --> 00:04:23,960
+We don't know much about that time other than what we have let's say written that's been
+
+55
+00:04:23,960 --> 00:04:30,040
+allowed to be published and I'll say that as a preface the reason why is you know roughly
+
+56
+00:04:30,040 --> 00:04:38,640
+and let's say around the 13 to 1500s the idea of having a centralized ruling body over the
+
+57
+00:04:38,640 --> 00:04:43,280
+entire planet for those for example who live in the West you know so Columbus discovered
+
+58
+00:04:43,280 --> 00:04:48,240
+America well it's a ridiculous statement on its face and it's a ridiculous even more
+
+59
+00:04:48,240 --> 00:04:54,200
+ridiculous when you research there was any discovery being done as in terms of finding something
+
+60
+00:04:54,200 --> 00:04:55,480
+new.
+
+61
+00:04:55,480 --> 00:05:00,480
+The entire world was always known to let's say those that were interested in the information
+
+62
+00:05:00,480 --> 00:05:01,480
+was there.
+
+63
+00:05:01,480 --> 00:05:08,920
+The term discovery is a legal term which means to bring you know jurisdiction over so when
+
+64
+00:05:08,920 --> 00:05:14,600
+you consider the political aspect or the aspect to control let's say the planet through
+
+65
+00:05:14,600 --> 00:05:24,280
+from a central location it had its purpose to all control right so not only control the
+
+66
+00:05:24,280 --> 00:05:28,800
+what they call nations as territories and such but also control the goings on and the
+
+67
+00:05:28,800 --> 00:05:35,080
+first goings on would be something called industry so you have industry that as we know
+
+68
+00:05:35,080 --> 00:05:40,480
+today that pretty much only can go back as far as that time period let's say 500 years
+
+69
+00:05:40,480 --> 00:05:48,400
+ago and what we call science today is based hand in hand to promote that form of industry
+
+70
+00:05:48,400 --> 00:05:54,400
+which is also part of that control system so what this really means is if we go prior
+
+71
+00:05:54,400 --> 00:06:02,560
+to that 500 year period we know very little about what was known because it's just not
+
+72
+00:06:02,560 --> 00:06:08,400
+brought forward so what we do know is you know from a philosophical perspective from an
+
+73
+00:06:08,400 --> 00:06:13,120
+observational experimental perspective and again it always ties into some form of industry
+
+74
+00:06:13,120 --> 00:06:20,360
+like for example if you look at someone who was talented in many fields like Da Vinci
+
+75
+00:06:20,360 --> 00:06:26,680
+90% of his work that we know of other than some art pieces were all basically commissions
+
+76
+00:06:26,680 --> 00:06:32,920
+by industrialists and bankers so all of his work that we you know glorify him as a scientist
+
+77
+00:06:32,920 --> 00:06:37,640
+to quote unquote and the term scientist is a very recent one by the way they were natural
+
+78
+00:06:37,640 --> 00:06:44,100
+philosophers these things were all based around the industry of the time and going back to
+
+79
+00:06:44,100 --> 00:06:51,560
+500 years or so we can call that a form of cultural censorship you know I would agree that
+
+80
+00:06:51,560 --> 00:06:58,720
+would be a good pretty accurate term so what we know now about science is stemming from
+
+81
+00:06:58,720 --> 00:07:05,680
+that industrial cultural censorship that started 500 years ago and the rest of that would
+
+82
+00:07:05,680 --> 00:07:11,200
+pretty much be going back and pondering what the ancient Egyptians wrote about the Babylonian
+
+83
+00:07:11,200 --> 00:07:17,760
+Samarians and the Greeks for ancient knowledge of it and it contrasts very starkly to what
+
+84
+00:07:17,760 --> 00:07:19,960
+people consider to be science today.
+
+85
+00:07:19,960 --> 00:07:25,240
+I hear what you're saying and yeah I think that provides us with a good platform moving
+
+86
+00:07:25,240 --> 00:07:30,240
+forward we'll develop some of those points as things go on.
+
+87
+00:07:30,240 --> 00:07:35,640
+When we talk about science quote unquote I think it's worth distinguishing its methodologies
+
+88
+00:07:35,640 --> 00:07:40,320
+like the scientific method from the institutions of science which are managed by academia
+
+89
+00:07:40,320 --> 00:07:45,640
+and oftentimes careerist scientists so on one hand you have an objective mode of inquiry
+
+90
+00:07:45,640 --> 00:07:48,720
+into the natural world and on the other hand you have a collection of disciplines like
+
+91
+00:07:48,720 --> 00:07:53,360
+physics and biology and they make very specific assumptions about how the natural world is
+
+92
+00:07:53,360 --> 00:07:59,680
+constituted which amounts to an ideology really that sometimes gets called scientism what
+
+93
+00:07:59,680 --> 00:08:05,160
+has been your experience with this quote unquote scientism Greek and what kinds of interactions
+
+94
+00:08:05,160 --> 00:08:09,680
+of you had with scientists who have a blind devotion to that.
+
+95
+00:08:09,680 --> 00:08:15,000
+Well it's a sign of the times of culture and society worldwide society and decline these
+
+96
+00:08:15,000 --> 00:08:20,520
+are basically these quote unquote institutions don't do the scientific method it's all
+
+97
+00:08:20,520 --> 00:08:25,760
+predetermined to pretty much support all the systems that are in place like for example
+
+98
+00:08:25,760 --> 00:08:31,600
+people that operate what I call a motorized engine driven wagon or automobile or car you
+
+99
+00:08:31,600 --> 00:08:35,320
+know why are they still burning gas in it at the almost the same rate of efficiency as
+
+100
+00:08:35,320 --> 00:08:41,440
+a hundred years ago you know chemical rockets to you know an airplane to go up into the
+
+101
+00:08:41,440 --> 00:08:47,080
+sky basically medicine that is based on battlefield medicine because you know the worst
+
+102
+00:08:47,080 --> 00:08:54,480
+thing for an army is an injured injured troop so you know the medicine they have is subpar
+
+103
+00:08:54,480 --> 00:08:59,880
+also and not changed much all of the fields are like that nutrition you know I mean astrophysics
+
+104
+00:08:59,880 --> 00:09:07,800
+all this stuff is based on a subpar point of view of maintaining what seems to be progress
+
+105
+00:09:07,800 --> 00:09:12,000
+and really is not but maintaining the systems that are already in place my experience with
+
+106
+00:09:12,000 --> 00:09:17,320
+it is the the only scientific method that is being performed is someone in their kitchen
+
+107
+00:09:17,320 --> 00:09:22,360
+or someone in their garage or a very very small lab of let's say a multitude of just three
+
+108
+00:09:22,360 --> 00:09:28,400
+people working but once you go beyond that into what's called corporate or a university
+
+109
+00:09:28,400 --> 00:09:33,400
+study there is no scientific method it's all the predetermined result and experiment structured
+
+110
+00:09:33,400 --> 00:09:40,240
+to lead to that result it's backwards now that's why a little backup of this is if you actually
+
+111
+00:09:40,240 --> 00:09:46,200
+take a hint I assure you you go online which is your easiest way to access a lot of current
+
+112
+00:09:46,200 --> 00:09:52,920
+information and I assure you 99.999999% of all the new research if you look at the authors
+
+113
+00:09:52,920 --> 00:09:58,400
+and where it's being done it's being done in some undergraduate or graduate college lab
+
+114
+00:09:58,400 --> 00:10:03,400
+with a bunch of snotty 18 19 or 20 year olds basically don't know anything they still
+
+115
+00:10:03,400 --> 00:10:09,160
+wet in the crotch right and they don't know anything and this is what they're putting
+
+116
+00:10:09,160 --> 00:10:13,000
+forward I mean this is ridiculous and when you look at a lot of their experiments it's
+
+117
+00:10:13,000 --> 00:10:17,720
+a bunch of like acrylic roughly cut and glued together with silicone I mean it's just
+
+118
+00:10:17,720 --> 00:10:24,600
+they're just mocking society you know so and the people love it you know they that's why
+
+119
+00:10:24,600 --> 00:10:29,800
+there's no you know Barnum and Bailey circus the circus here in America what no longer exists
+
+120
+00:10:29,800 --> 00:10:34,080
+because you have these these scientific morons to do it for you but people don't see it
+
+121
+00:10:34,080 --> 00:10:39,640
+as such and just like any religion the people just do it because it's it's what everyone
+
+122
+00:10:39,640 --> 00:10:44,580
+else does they don't question it again they're the only site from my experience the only
+
+123
+00:10:44,580 --> 00:10:51,700
+real science that's being done is on the on the individual level someone who has a discreet
+
+124
+00:10:51,700 --> 00:10:57,220
+desire in a particular discreet field and does it on their own you're not going to get
+
+125
+00:10:57,220 --> 00:11:04,380
+anything from any any establishment anymore there what you will get from the establishment
+
+126
+00:11:04,380 --> 00:11:09,060
+those about done all the grunt work is basically a lot of reference material you know you want
+
+127
+00:11:09,060 --> 00:11:14,020
+the melting point of this or the boiling point of that or you know what certain you know
+
+128
+00:11:14,020 --> 00:11:18,580
+basic parameters are and that's it pretty much a reference manuals but the rest of it is pretty
+
+129
+00:11:18,580 --> 00:11:26,100
+much junk and you know most people are confused about industrialization and miniaturization
+
+130
+00:11:26,100 --> 00:11:31,300
+as being scientific and it's not you know most of the devices today that seem to do a lot more
+
+131
+00:11:31,300 --> 00:11:36,500
+than they did years ago or operate in a higher level of efficiency in some cases are is
+
+132
+00:11:36,500 --> 00:11:41,700
+mistaken as the progress of science and it's not it is actually the implementation of advanced
+
+133
+00:11:41,700 --> 00:11:52,380
+miniaturization so again it's nothing specific to the field of quote unquote science or learning
+
+134
+00:11:52,380 --> 00:11:58,380
+what you know things that we associate with science are but it's actually the state of a society
+
+135
+00:11:58,380 --> 00:12:03,620
+and decline at worldwide society and decline if you're going to view it from a personal you know
+
+136
+00:12:03,620 --> 00:12:10,580
+experiential perspective I mean there certainly is a lot that one has to reconcile to assimilate
+
+137
+00:12:10,580 --> 00:12:14,580
+what you just said because people judge with their eyes and when they look around and they look
+
+138
+00:12:14,580 --> 00:12:20,020
+at the society that seemingly seems to be filled with technological marvels it doesn't compute that
+
+139
+00:12:20,020 --> 00:12:25,460
+science has not provided that so if you go into any establishment and make the claims that you're
+
+140
+00:12:25,460 --> 00:12:30,020
+saying they're going to point to the society around you and say well how would you like if we
+
+141
+00:12:30,020 --> 00:12:36,500
+didn't have all these things well because we do it's a it's it's not a matter of if we didn't have
+
+142
+00:12:36,500 --> 00:12:45,220
+all these things because we do right so there there's a lot of you know other allegory about that you
+
+143
+00:12:45,220 --> 00:12:51,060
+know if well what if this and what if that no it's just what is and what we do have is just wasteful
+
+144
+00:12:51,060 --> 00:12:58,340
+you know at this rate in less than maybe a few two or three or four generations a good portion
+
+145
+00:12:58,340 --> 00:13:04,660
+of usable land will be landfill because it's still a throwaway planned obsolescence industrial
+
+146
+00:13:05,540 --> 00:13:10,820
+aspect in the motive again is profit and the in the irony and the paradox here is there is no money
+
+147
+00:13:10,820 --> 00:13:15,220
+so how can there be a profit so if there is no money and there really is no profit because it's all
+
+148
+00:13:15,220 --> 00:13:26,420
+private credit it's about just a society in decline sorry simple now when most things go into a state
+
+149
+00:13:26,420 --> 00:13:31,460
+of decline or right up to the precipice where they will decline are usually at a maximum point
+
+150
+00:13:31,460 --> 00:13:37,140
+like if you let an inflated balloon out into the room by opening you know a creating an
+
+151
+00:13:37,140 --> 00:13:41,780
+orifice that the air can come out you'll notice it when it's fully inflated it just buzzes around
+
+152
+00:13:41,780 --> 00:13:46,820
+the room real slow but as it comes to the point where it's going to be completely deflated and use
+
+153
+00:13:46,820 --> 00:13:53,300
+and fall to the floor it starts moving faster and faster and it's louder and louder if you look at
+
+154
+00:13:53,300 --> 00:13:59,300
+any aspect of industry or any industry in the past that has that is no longer around let's say
+
+155
+00:13:59,300 --> 00:14:04,660
+while when we're recording this podcast you'll see that it reached its peak right before it's
+
+156
+00:14:04,660 --> 00:14:11,860
+to climb and I'm suggesting here that society is at a certain peak and they are within the system
+
+157
+00:14:11,860 --> 00:14:18,980
+that exists because if you actually just to go back to you know the topic if you actually look
+
+158
+00:14:18,980 --> 00:14:24,180
+at what they're putting forward is science it's actually all theory very little of it is purported
+
+159
+00:14:24,180 --> 00:14:30,660
+to be fact other than reference materials and even a lot of the reference materials are spurious
+
+160
+00:14:30,660 --> 00:14:35,940
+meaning that they're subject to change but but generally the the the aspect of everything being a
+
+161
+00:14:35,940 --> 00:14:41,300
+theory and then if you look at the theories they're just a patently ridiculous you know like
+
+162
+00:14:41,300 --> 00:14:46,980
+everything being a particle you know even magnets have particles that create a quote unquote
+
+163
+00:14:46,980 --> 00:14:53,140
+attraction and repulsion and light is a particle you know photon which I like to spell FAU X
+
+164
+00:14:53,700 --> 00:15:01,860
+to in for those that understand the French word FAU X anyway this is patently ridiculous with
+
+165
+00:15:01,860 --> 00:15:08,900
+their putting in front of as being the science in the scientific community and as much to speak
+
+166
+00:15:08,900 --> 00:15:14,900
+about there's a lot of criticism and I don't mean for this to be a strictly critical podcast of it
+
+167
+00:15:14,900 --> 00:15:21,940
+because it's put it this way so what I see as being scientific is so worthless these days that
+
+168
+00:15:21,940 --> 00:15:27,140
+it's not even worth criticizing just sweep it to the side if you want to learn about how to
+
+169
+00:15:27,140 --> 00:15:32,340
+criticize what they're putting out is being patently ridiculous and obscene and untrue there's
+
+170
+00:15:32,340 --> 00:15:38,020
+plenty of stuff on the internet you could research maybe we want might want to lay down a little bit more
+
+171
+00:15:38,020 --> 00:15:43,940
+of what is really going on that you don't need a special lab or a special training and you could
+
+172
+00:15:43,940 --> 00:15:48,660
+actually see what you're on eye and prove is being reality as part of what people call science
+
+173
+00:15:49,460 --> 00:15:55,140
+yes we will certainly look at specific concepts later on in the stream but just to stick with the
+
+174
+00:15:55,140 --> 00:16:00,660
+historic aspect a little bit I think that through the process of what became known as the scientific
+
+175
+00:16:00,660 --> 00:16:06,020
+revolution in the 16th and 17th centuries you had science becoming one of the pillars of the
+
+176
+00:16:06,020 --> 00:16:10,820
+modern age but I'm curious as to how that came to pass given that every movement has its
+
+177
+00:16:10,820 --> 00:16:16,420
+detractors and I don't think that the these sort of irrationalities that you speak of that are
+
+178
+00:16:16,420 --> 00:16:22,340
+present in the dogmas of scientism would have gone ignored at that time so on one hand you have the
+
+179
+00:16:22,340 --> 00:16:29,140
+sort of typical Galileo renaid discartus and Darwin's whose theories about things like empiricism or
+
+180
+00:16:29,140 --> 00:16:33,860
+evolution became canonized but you also had the romantic poets and the natural philosophers of that
+
+181
+00:16:33,860 --> 00:16:38,500
+time like William Wood'sworth for example who opposed those things and we don't really hear a lot
+
+182
+00:16:38,500 --> 00:16:42,740
+about them what do you know about the pushback that the scientific revolution received?
+
+183
+00:16:43,940 --> 00:16:49,540
+they had no choice I mean there were riots there were small I would say minor and I would say major
+
+184
+00:16:49,540 --> 00:16:54,740
+riots in many urban environments when things like evolution and particle physics and later on
+
+185
+00:16:54,740 --> 00:17:00,260
+you know quantum was brought out but that these people who were you know the day card or even
+
+186
+00:17:00,260 --> 00:17:05,860
+Newton to a certain degree and all the way through let's say the late 19th century Tesla
+
+187
+00:17:05,860 --> 00:17:12,100
+you know if you look up what Tesla had to say about Einstein and this is I know not the 16th or 17th
+
+188
+00:17:12,100 --> 00:17:17,300
+century but they you have to realize that their opposition means nothing because they weren't the
+
+189
+00:17:17,300 --> 00:17:23,460
+ones funding and putting the the power behind the or the drive behind the research once they
+
+190
+00:17:23,460 --> 00:17:28,180
+those that are funding them let's say or the powers that their political powers are working under
+
+191
+00:17:28,180 --> 00:17:33,300
+decide that they're going to put in place a ridiculous system you know like evolution or whatever
+
+192
+00:17:33,300 --> 00:17:37,940
+an evolution is not new that that goes back to ancient Egypt where the pharaohs was written
+
+193
+00:17:37,940 --> 00:17:42,820
+there's still writings found that the pharaohs told the people they evolved from slime from the
+
+194
+00:17:42,820 --> 00:17:49,380
+Nile there's nothing new about that it's actually internally known by certain secret societies that's
+
+195
+00:17:49,380 --> 00:17:55,140
+what you tell the people as a prank but but here's the the interesting aspect about this this whole
+
+196
+00:17:55,140 --> 00:18:00,180
+thing about science is it and it's not about what I'm going to say now which I started with it's
+
+197
+00:18:00,180 --> 00:18:06,740
+all political in other words most of the people look for example there are people this is why
+
+198
+00:18:06,740 --> 00:18:11,780
+their psychology and psychiatry there are people who have made incredible discoveries and were
+
+199
+00:18:11,780 --> 00:18:18,500
+were stunted and prevented from developing them through quote unquote psychiatry and psychology
+
+200
+00:18:18,500 --> 00:18:26,740
+and propaganda right there's lots of evidence of that anyone could look up the uh but before I give
+
+201
+00:18:26,740 --> 00:18:31,780
+references which I don't think that's the point just think of this as a cognitive point of view
+
+202
+00:18:32,420 --> 00:18:37,060
+that there are more systems put in place under the name of science and which is really
+
+203
+00:18:37,060 --> 00:18:44,980
+scientism uh to fort development of the field in its natural reality versus its theoretical
+
+204
+00:18:44,980 --> 00:18:52,820
+aspect so uh going back to the 16th and 17th century we're looking at a mercantile system that was
+
+205
+00:18:52,820 --> 00:18:59,860
+still uh usually in generally pre-powered driven ship right there was uh very little if none
+
+206
+00:19:00,500 --> 00:19:06,980
+air travel airship there were airships back then and not just hot air balloons my point here is that
+
+207
+00:19:06,980 --> 00:19:13,540
+the mercantile system reflected the progress allowed to the scientific community when
+
+208
+00:19:13,540 --> 00:19:19,380
+when it was time to change the mercantile system it was time to change the scientific community
+
+209
+00:19:19,380 --> 00:19:25,380
+and when it was time to seriously embed and solidify a certain mercantile system then the science
+
+210
+00:19:25,380 --> 00:19:30,180
+was changed to the point where no one can apply that new science to produce anything new because
+
+211
+00:19:30,180 --> 00:19:35,300
+it was so ridiculous and that left a mercantile system or an industrial system as you have today
+
+212
+00:19:35,300 --> 00:19:40,420
+in place unchanged if you look at what they call the automobile the jet airplane electricity as
+
+213
+00:19:40,420 --> 00:19:46,500
+it's used this you know in the past hundred years so again you know we're trying to have a podcast
+
+214
+00:19:46,500 --> 00:19:53,700
+or a discussion about science and you cannot avoid through the ages especially from 500 years on
+
+215
+00:19:53,700 --> 00:19:58,820
+that it is hand in hand and interlaced and interlinked and controlled by the political interests or
+
+216
+00:19:58,820 --> 00:20:04,260
+the power interests the oligarchs and you know the secret rulers of the world they're the ones that
+
+217
+00:20:04,260 --> 00:20:09,060
+decide what's put out just like they decide which religion stays or goes which religion is supported
+
+218
+00:20:09,060 --> 00:20:15,380
+and so on and so forth right and and it has to also be custom tailored to each culture
+
+219
+00:20:15,380 --> 00:20:21,700
+so you know you'll have certain cultures that are more advanced technologically like for example
+
+220
+00:20:21,700 --> 00:20:27,620
+the Japanese and Germans all throughout history have been very advanced in that it was part of
+
+221
+00:20:27,620 --> 00:20:33,780
+their culture to be advanced in in mechanization and research and things like that and then for
+
+222
+00:20:33,780 --> 00:20:37,620
+example if you go to the African continent down by the southern part of the continent
+
+223
+00:20:37,620 --> 00:20:42,020
+the whole grouping of countries there that if you even go there today they're living almost identical
+
+224
+00:20:42,020 --> 00:20:47,380
+to how they were two thousand years ago so it's also a cultural aspect you have to examine
+
+225
+00:20:47,380 --> 00:20:54,260
+hmm yeah that's quite interesting I'd never given that too much thought but I see what you mean
+
+226
+00:20:55,300 --> 00:21:03,780
+right so it's it's it's not it's very difficult to answer a question within the topic about the topic
+
+227
+00:21:03,780 --> 00:21:11,620
+because there are so many external influences that that pose the direction of science
+
+228
+00:21:11,620 --> 00:21:19,940
+into a certain posture that no one admits is acting upon what we what is called the body of work
+
+229
+00:21:19,940 --> 00:21:26,660
+as science but it is notably there you see and that is the political quote unquote money control
+
+230
+00:21:26,660 --> 00:21:31,780
+power and military and industrial interests always in control what and this is exactly what the
+
+231
+00:21:31,780 --> 00:21:37,460
+public is showing is what we're discussing we're not discussing specifics now because I can give
+
+232
+00:21:37,460 --> 00:21:44,100
+like an example anyone can look up there was a NIMS a group NYMCA who is a group of Prussians
+
+233
+00:21:44,820 --> 00:21:54,500
+Germans let's say from the late 1700s to the late 1890s that worked on aero space in the Sonora region
+
+234
+00:21:54,500 --> 00:21:59,140
+of California they didn't do it in Europe they came here to do it in America let's say and they
+
+235
+00:21:59,140 --> 00:22:05,060
+had airships that flew at a hundred to three hundred miles per hour against the wind and they were
+
+236
+00:22:05,060 --> 00:22:11,700
+not how hot air balloons and this is going on over two hundred years ago right Abraham Lincoln
+
+237
+00:22:12,260 --> 00:22:21,220
+was given a demonstration of this and he said publicly no publicly so we're we're speaking on
+
+238
+00:22:21,220 --> 00:22:28,820
+the general cultural science that people understand and then maybe we'll speak on the real science
+
+239
+00:22:28,820 --> 00:22:35,620
+you know there have been quote unquote inventors developers researchers throughout all time have
+
+240
+00:22:35,620 --> 00:22:41,060
+developed things that even now would be difficult to imagine for that time and that is another
+
+241
+00:22:41,060 --> 00:22:47,620
+discussion or maybe we can sort of integrate that into what we're discussing about science and
+
+242
+00:22:47,620 --> 00:22:53,140
+again why aren't these things you know why aren't we we're told about quote unquote anti-gravity
+
+243
+00:22:53,140 --> 00:22:58,580
+propulsion from the early 1800s now it it exists it's very easy to evidence this
+
+244
+00:22:58,580 --> 00:23:04,260
+all right everyone thinks oh hot air balloons and the right brothers you know came later and
+
+245
+00:23:04,260 --> 00:23:10,020
+let's balloony it's funny that the one of the people in the NIMS a group I've found some notes
+
+246
+00:23:10,020 --> 00:23:18,740
+from the 1850s in late 1800s or early 19th 20th century they called airplanes sky lubricators I
+
+247
+00:23:18,740 --> 00:23:23,300
+thought that was really funny and and the reason why they call that I'm presuming is because they're
+
+248
+00:23:23,300 --> 00:23:28,420
+full of oil you know the airplanes you know they use oil driven petroleum driven so obviously
+
+249
+00:23:28,420 --> 00:23:32,340
+they're going to be leaking oil and exhaust and they were lubricating the sky that's all they
+
+250
+00:23:32,340 --> 00:23:41,460
+did they always poked fun if that stuff right so yeah there's you know there's an aspect to
+
+251
+00:23:41,460 --> 00:23:48,180
+are we going to discuss you know the real physicality of our existence and you know non-physicality
+
+252
+00:23:48,180 --> 00:23:56,180
+which also affects they're actually predominant and primary to the physical or we can discuss you
+
+253
+00:23:56,180 --> 00:24:01,540
+know more what people think is science which is absolute rubbish and I see absolute rubbish because
+
+254
+00:24:01,540 --> 00:24:08,020
+if you don't believe that you're still using inefficient things in your house and in what's
+
+255
+00:24:08,020 --> 00:24:14,020
+called a car airplane it's all junk rocket science is junk that's a thousand-year-old technology
+
+256
+00:24:14,020 --> 00:24:21,620
+and you're just you know because it's a culture and decline so let's look at the the idea of
+
+257
+00:24:21,620 --> 00:24:26,420
+the scientist today's definition of a scientist as you've sort of mentioned was uncommon until
+
+258
+00:24:26,420 --> 00:24:31,620
+a few hundred years ago you know the 19th century probably prior to that point you had natural
+
+259
+00:24:31,620 --> 00:24:36,260
+philosophers as the ones who were striving to understand the physical world and if you go back
+
+260
+00:24:36,260 --> 00:24:40,980
+even further to ancient Greece and Rome I believe the word used is the physicist for someone who
+
+261
+00:24:40,980 --> 00:24:46,900
+is doing that yeah so you have a book by a guy called Antistheans which is called Physicus and they
+
+262
+00:24:46,900 --> 00:24:52,660
+translated as natural philosophy accordingly what do you know about the role of that that character
+
+263
+00:24:52,660 --> 00:24:57,860
+in how they conceptualize the world at that time well they came for it depends on which school I'm
+
+264
+00:24:57,860 --> 00:25:03,460
+not very familiar with that particular one but there were various schools that were even pre-pigarian
+
+265
+00:25:03,460 --> 00:25:10,020
+you know if you look at the entire grouping the famous Greek philosophers if you go back to the
+
+266
+00:25:10,020 --> 00:25:14,660
+the older ones you know they you had the ones that said well everything came from water
+
+267
+00:25:14,660 --> 00:25:19,220
+then you had other ones that said well everything came from the ether right then you had another
+
+268
+00:25:19,220 --> 00:25:24,020
+one that said everything came from duality right and then another one that said that everything is a
+
+269
+00:25:24,020 --> 00:25:30,980
+representation of something in a heavenly realm more platonic let's say right so they're various
+
+270
+00:25:30,980 --> 00:25:36,580
+schools are they're actually they're all right and they're all wrong see when you say something
+
+271
+00:25:36,580 --> 00:25:42,420
+like everything came from water which I tend to believe in a very strong sense because when you
+
+272
+00:25:42,420 --> 00:25:47,620
+start researching with water you'll see that you can create anything in water pretty much and I
+
+273
+00:25:47,620 --> 00:25:52,580
+mean that and also how water is created during a thunderstorm it doesn't come out of the air or out
+
+274
+00:25:52,580 --> 00:25:59,780
+of the cloud it's a very easy thing to postulate and lead a good experimentation on but I wouldn't say
+
+275
+00:25:59,780 --> 00:26:05,460
+that it's strictly so because you know we haven't taken it to to the realm where we could prove that
+
+276
+00:26:05,460 --> 00:26:11,140
+but I would say that all of them are correct in some aspect then all of them are incorrect in the
+
+277
+00:26:11,140 --> 00:26:17,060
+aspects that we've been shown I would say that when you say physics or physics the Greek
+
+278
+00:26:17,060 --> 00:26:23,460
+word is feces not that not as the way it sounds in English word but it means nature and what is
+
+279
+00:26:23,460 --> 00:26:27,140
+nature I mean again you know we could play around with the need toers the word nature comes from
+
+280
+00:26:27,140 --> 00:26:34,500
+the need toer which just means god in Egypt in Egyptian ancient Egyptian not the modern Arabic so
+
+281
+00:26:34,500 --> 00:26:44,260
+I would say that to go back into those days is to see not just from a philosophical standpoint what
+
+282
+00:26:44,260 --> 00:26:50,580
+they brought what is brought forward to our time now is but what experimental or strictly
+
+283
+00:26:50,580 --> 00:26:56,260
+directly let's say what directly relates to what we can perceive now because a lot of the
+
+284
+00:26:56,260 --> 00:27:04,820
+philosophers were making just allegorian points that you know were were analogies and you know ways
+
+285
+00:27:04,820 --> 00:27:10,740
+to perceive things but did they have anything that is experimental see the experimentation is
+
+286
+00:27:10,740 --> 00:27:16,820
+paramount in the scientific method right so anyone could look up what the scientific method is and
+
+287
+00:27:16,820 --> 00:27:26,100
+it it requires experimentation and repeatability and again that because of that it's very easy to
+
+288
+00:27:26,100 --> 00:27:32,660
+prevent in a society that is in its downward stages for that to take hold right because in other
+
+289
+00:27:32,660 --> 00:27:36,900
+in other words to do good science now you're going to have to do experiments and have repeatability
+
+290
+00:27:36,900 --> 00:27:41,380
+and because of the way technology and communication works now that could be nipped in the
+
+291
+00:27:41,380 --> 00:27:49,540
+bud very easily by restricting access to things to experiment with and also when people communicate
+
+292
+00:27:49,540 --> 00:27:54,180
+what they're doing it'll be intercepted and of course if any group tries to form it shut down
+
+293
+00:27:54,180 --> 00:28:00,660
+first they you know ridiculed and shut down so again it's not happy times from that perspective
+
+294
+00:28:00,660 --> 00:28:06,020
+this was also going on in ancient Greece by the way if you brought up the Greek philosopher there was
+
+295
+00:28:06,020 --> 00:28:14,580
+a lot of suppression I had seen a document once where there was a it was basically an unfinished
+
+296
+00:28:14,580 --> 00:28:24,340
+or a partial script about someone who had been arrested by the Athenian authorities because
+
+297
+00:28:24,340 --> 00:28:30,340
+the markets would not function when he came out and they didn't have refrigeration so if you
+
+298
+00:28:30,340 --> 00:28:35,940
+were a fisherman or whatever had meat you know it would spoil so the all the merchants got together
+
+299
+00:28:35,940 --> 00:28:42,100
+and pressed the government there the policing authorities to arrest this man because whenever he
+
+300
+00:28:42,100 --> 00:28:47,540
+came out he the markets would shut down and all this merchandise had to be thrown away it turns out
+
+301
+00:28:47,540 --> 00:28:54,660
+that he had a horseless wagon with thunder and lightning and coming out of it and smoke you would
+
+302
+00:28:55,380 --> 00:29:00,820
+bring out this device which was a horseless carriage and it had a a spiritual kutti which means a
+
+303
+00:29:00,820 --> 00:29:05,380
+fire box on it where smoke and thunder and lightning came out of it and a lot of smoke and it made
+
+304
+00:29:05,380 --> 00:29:10,180
+a lot of noise and the people wouldn't leave their homes to go to market so they had to arrest
+
+305
+00:29:10,180 --> 00:29:14,180
+this guy because the markets were shutting down because of this guy right? Oh so you were scared of
+
+306
+00:29:14,180 --> 00:29:21,300
+the way yeah he was scaring people away yeah and this is about 150 BC 200 BC.
+
+307
+00:29:22,420 --> 00:29:27,940
+So curious yeah yeah it's not on the internet this was at a university library it's the frequent and
+
+308
+00:29:27,940 --> 00:29:32,500
+they said look we got some interesting stuff here we found in a garbage dump in Libya
+
+309
+00:29:32,500 --> 00:29:38,420
+you know landfills yeah Libya was a it was a Greek and then Italian colony you know people don't
+
+310
+00:29:38,420 --> 00:29:45,860
+know that Libya was an Italian colony up until 1950s right? So what's interesting is you know it was
+
+311
+00:29:45,860 --> 00:29:49,060
+found in a landfill you know I was actually having discussion on someone this morning if you have a
+
+312
+00:29:49,060 --> 00:29:53,860
+landfill and you press something down hard enough and it's anaerobic of instable temperature it will
+
+313
+00:29:53,860 --> 00:29:59,540
+not decay even if it's paper and it will just will not decay thousands of years will go by so
+
+314
+00:29:59,540 --> 00:30:06,660
+yeah interesting stuff so in other words what I just gave a story of was a form of suppression
+
+315
+00:30:06,660 --> 00:30:14,020
+from 200 BC in the Greek society right? And this is a single example of many
+
+316
+00:30:15,380 --> 00:30:20,260
+yes there is suppression but it's not a suppression for the sake of developing something new in advanced
+
+317
+00:30:20,260 --> 00:30:28,660
+it's the sake suppression for the sake of it disturbing what's in place. Change is the enemy of the
+
+318
+00:30:28,660 --> 00:30:33,060
+oligarch in other words the small group of people that own the planet yes you heard me right and they
+
+319
+00:30:33,060 --> 00:30:38,580
+did it legally just like people say oh that's illegal or illegal who cares if it's legal illegal is
+
+320
+00:30:38,580 --> 00:30:44,180
+it lawful? Well ultimately you could say it's lawful because once you get someone to legally agree to
+
+321
+00:30:44,180 --> 00:30:48,180
+be a slave whether they know it or not it doesn't matter well then it becomes lawful so they actually
+
+322
+00:30:48,180 --> 00:30:56,100
+lawfully hold the planet right now they don't want any change because in order for the people that
+
+323
+00:30:56,100 --> 00:31:03,140
+run the world and own the world by the way there's no nation states anymore all that's a lie just
+
+324
+00:31:03,140 --> 00:31:09,940
+like Santa Claus the people that they had to put into motion with great investment a tremendous
+
+325
+00:31:09,940 --> 00:31:16,180
+amount of radical change to get it this way you see so they don't want any more change once they get
+
+326
+00:31:16,180 --> 00:31:23,220
+to that position to get back to the topic though I do want to contrast a little bit more this idea of
+
+327
+00:31:23,220 --> 00:31:29,220
+the modern scientist and the sort of ancient natural philosopher because there exists within academia
+
+328
+00:31:29,220 --> 00:31:34,420
+this imperative to view science as the vehicle that takes mankind towards quote unquote progress
+
+329
+00:31:34,420 --> 00:31:39,380
+and the things which belong to the past particularly the pre 17th century traditions are
+
+330
+00:31:39,380 --> 00:31:45,540
+irrational and so the implication is that ancient man and even middle age man were at best uninformed
+
+331
+00:31:45,540 --> 00:31:50,500
+or at worst stupid because their methods of comprehending the world were un thorough or superstitious
+
+332
+00:31:50,500 --> 00:31:56,500
+but when I look at the various disciplines within science and I look at what ancient man accomplished
+
+333
+00:31:56,500 --> 00:32:00,900
+I don't see a lot of modern equivalents like for example within chemistry there is no equivalent to
+
+334
+00:32:00,900 --> 00:32:06,820
+the Greek fire if you look at biology a lot of the depictions of ancient man whether it's drawings
+
+335
+00:32:06,820 --> 00:32:12,260
+or cave paintings or whatever else they always look more robust and physically capable than modern man
+
+336
+00:32:12,260 --> 00:32:18,180
+with their biological developments so my question is that how should a person's understanding of
+
+337
+00:32:18,180 --> 00:32:26,580
+ancient man and civilizations be revised in light of that you had a level of independence honor and
+
+338
+00:32:26,580 --> 00:32:33,620
+other things that were going on back then if you were not a slave like for example if you have a
+
+339
+00:32:33,620 --> 00:32:41,860
+thousand people in a room thousand men in a room 999 are slave and one is not how many men are in the room
+
+340
+00:32:41,860 --> 00:32:47,780
+it was only one that 999 are not counted as men they're slaves
+
+341
+00:32:47,780 --> 00:32:56,020
+do you understand what I mean by that yeah absolutely okay so when they say we the people and let's
+
+342
+00:32:56,020 --> 00:33:02,580
+say the American side or they say for mankind they you have to specify because if again if you have
+
+343
+00:33:02,580 --> 00:33:08,660
+one million slaves and two and one million men that are slaves and two that are not there's only two
+
+344
+00:33:08,660 --> 00:33:15,380
+people in the room you see so this is I just gave up part of the code when you when you look at your
+
+345
+00:33:15,380 --> 00:33:20,260
+media your science your education when you receive oh that sounds so altruistic for mankind they when
+
+346
+00:33:20,260 --> 00:33:24,980
+they say they're not talking about you they're talking about maybe a handful of people on the planet
+
+347
+00:33:24,980 --> 00:33:30,180
+yeah I saw a trailer by the way recently on a movie called the hunt someone sent me a link
+
+348
+00:33:30,180 --> 00:33:34,660
+and you know they're basically hunting people right because it was you know hunting boars and deer and
+
+349
+00:33:34,660 --> 00:33:40,020
+you know Africans so far he's got you know it's not interesting enough let's hunt people so they
+
+350
+00:33:40,020 --> 00:33:44,980
+abducted people and started hunting them was this premise of the story and they said but but you
+
+351
+00:33:44,980 --> 00:33:50,500
+know you're killing people and then then you know one of the prognosis of caters or whatever she says
+
+352
+00:33:50,500 --> 00:33:57,620
+they're not people right that went over everyone's head of course because it's not taught how do
+
+353
+00:33:57,620 --> 00:34:03,860
+you people are not taught how to think that way about reality so when you hear about man advancing man
+
+354
+00:34:03,860 --> 00:34:11,060
+even in in ancient Greece 99% of the population were slave so yeah I don't know about the number but
+
+355
+00:34:11,060 --> 00:34:18,580
+yes there was a significant slave population given that there isn't to my knowledge as a singular
+
+356
+00:34:18,580 --> 00:34:24,100
+corpus of records about ancient inventions or scientific developments what would you say are
+
+357
+00:34:24,100 --> 00:34:30,100
+some of the individual feats that can be singled out as extraordinary from ancient times oh well
+
+358
+00:34:30,100 --> 00:34:34,900
+it's the same knowledge we have today they they understood hydraulics they understood electricity
+
+359
+00:34:34,900 --> 00:34:42,900
+not in the way that we have popularized the understanding now but they everything that we
+
+360
+00:34:42,900 --> 00:34:52,340
+have access to scientifically is is also was accessed by them based on the their ability to travel
+
+361
+00:34:52,340 --> 00:34:57,540
+on what they had access to from my understanding of what I've seen it was very rare to be able to
+
+362
+00:34:57,540 --> 00:35:02,180
+access immediate communication like you know you and I are in different parts of the world right now
+
+363
+00:35:02,180 --> 00:35:07,860
+we're having a conversation back then to cover a thousand miles you needed four or five hours
+
+364
+00:35:07,860 --> 00:35:14,500
+you know by either you used signaling all right visual signaling to relay messages across the planet
+
+365
+00:35:14,500 --> 00:35:21,460
+so you could probably get a message across the planet within a day or two but now it's instant
+
+366
+00:35:21,460 --> 00:35:28,740
+so within that you creates a lot of inconvenience when you don't have that rapid ability to go from
+
+367
+00:35:28,740 --> 00:35:33,380
+place to place or communicate from place to place so it kind of limits to what you have within
+
+368
+00:35:33,380 --> 00:35:38,580
+your own culture or within your own geography but otherwise it's pretty much the same
+
+369
+00:35:38,580 --> 00:35:45,220
+this thing about as far as the the current day existence I mean in spite of
+
+370
+00:35:45,940 --> 00:35:51,220
+whatever polemics that you can throw at the current landscape or applications of science and the
+
+371
+00:35:51,220 --> 00:35:56,180
+teachings of academia like I said before one does have to contend with the physical reality where
+
+372
+00:35:56,180 --> 00:36:00,980
+we have a fully functioning consumer society that has been erected and it stood pretty robustly
+
+373
+00:36:00,980 --> 00:36:06,420
+so for the past 70 years or so and so we can talk about fake science and the institutions that
+
+374
+00:36:06,420 --> 00:36:12,020
+pedal it and then the average person will say well the consumer existence seems to work so well
+
+375
+00:36:12,020 --> 00:36:17,700
+and yet you're saying that it's trash which implies that far beyond this consumer reality that we've
+
+376
+00:36:17,700 --> 00:36:23,940
+been put in there is a different manifestation of what things could be do we have any society
+
+377
+00:36:23,940 --> 00:36:28,260
+throughout history that has given an indication of that of what that could be if it wasn't if we
+
+378
+00:36:28,260 --> 00:36:34,340
+weren't peddling fake science no there isn't much man man is living in an age the grand age I call it
+
+379
+00:36:34,980 --> 00:36:42,900
+of a certain level of apathy we're talking about in general sense like I give you an example regarding
+
+380
+00:36:42,900 --> 00:36:48,340
+that you could speak to any older person now meaning you know white hair and what people consider
+
+381
+00:36:48,340 --> 00:36:55,300
+to be the grandma grandpa level and when you bring up anything that of concern for future generations
+
+382
+00:36:55,300 --> 00:37:00,900
+they always say there are very few exceptions I haven't seen much but they'll always say well
+
+383
+00:37:00,900 --> 00:37:06,740
+it doesn't matter because I'm not going to be alive in 10 years for that right or 10 years or I'm
+
+384
+00:37:06,740 --> 00:37:10,980
+not going to be alive then so it does I don't care and these are the people you're going to for
+
+385
+00:37:10,980 --> 00:37:17,780
+wisdom and knowledge right so they're telling you just be apathetic do you see what I mean so one
+
+386
+00:37:17,780 --> 00:37:24,100
+of the tools of the age is to instill a level of apathy and that's where the consumerism comes in
+
+387
+00:37:24,100 --> 00:37:33,620
+for example and the the aspect of when I say consumerism by the way I don't use that term independently
+
+388
+00:37:33,620 --> 00:37:41,620
+when I say consumerism I mean planned obsolescence and waste right just the sign of the age you
+
+389
+00:37:41,620 --> 00:37:46,900
+let's go back to ancient Greece you know that you could look at statistics a fairly good geological
+
+390
+00:37:46,900 --> 00:37:53,380
+and agricultural statistics and places like Greece in Italy are 90% deforested over the past 2000
+
+391
+00:37:53,380 --> 00:38:00,260
+years let me say that again a lot of these great cultural havens of society you know like well
+
+392
+00:38:00,260 --> 00:38:06,740
+Western Europe or whatever or about 90% deforested I mean don't you think it would be a concern when
+
+393
+00:38:06,740 --> 00:38:12,420
+you're at about 25% deforested meaning not that it's all forest but you've lost 25% of your forest
+
+394
+00:38:12,420 --> 00:38:17,940
+and it's not re-growing you see and I'm not talking about urban sprawl or developments for people to
+
+395
+00:38:17,940 --> 00:38:26,500
+live talking about just wanton destruction you know what point do you are you at 50% deforestation
+
+396
+00:38:26,500 --> 00:38:31,700
+where you say we have to conserve or re- you know help regrow it you know how do you let it get to 90
+
+397
+00:38:31,700 --> 00:38:38,340
+percent it just doesn't sound rational right so when you look at anything let's say a
+
+398
+00:38:38,340 --> 00:38:44,900
+analogous to today this is going off the topic of science but generally includes it as well
+
+399
+00:38:44,900 --> 00:38:49,780
+if you took the news of the world today and put it in went back a hundred years it would stop the entire
+
+400
+00:38:49,780 --> 00:38:54,500
+society and everyone would stop no matter who you were and said we have to change right now so these
+
+401
+00:38:54,500 --> 00:39:00,500
+things don't happen in the future because you have gradualism that takes over and I don't know how
+
+402
+00:39:00,500 --> 00:39:05,380
+many ways or how many times one can say that you're living if you're hearing this and you're alive
+
+403
+00:39:05,380 --> 00:39:10,340
+you're living in a society in decline and so it usually takes anywhere between 50 to 100 years
+
+404
+00:39:10,340 --> 00:39:15,700
+for society to go into decline and then another hundred or so for it to pretty much not resemble
+
+405
+00:39:15,700 --> 00:39:22,820
+what it ever did before so just to address that point real quick because I think that the layman
+
+406
+00:39:22,820 --> 00:39:29,860
+would hear what you're saying about people not reacting appropriately to the state of distress
+
+407
+00:39:29,860 --> 00:39:35,220
+of the environment or the planet and say well isn't that what people are talking about climate
+
+408
+00:39:35,220 --> 00:39:39,220
+change I mean they're perfectly happy to march in the streets and donate millions of dollars to
+
+409
+00:39:39,220 --> 00:39:43,220
+questionable charities and pontificate in the media about climate change and we need to do something
+
+410
+00:39:43,220 --> 00:39:48,180
+in blah blah blah so there is some kind of outcry against what people perceive as being a threat to
+
+411
+00:39:48,180 --> 00:39:54,260
+the planet no the outcry means nothing if you don't give a proposal of how you're going to do it
+
+412
+00:39:54,260 --> 00:40:01,460
+and just by simply saying for example eliminating gasoline cars when they say that for example
+
+413
+00:40:01,460 --> 00:40:08,500
+you know automobiles to fort climate change because the automobiles let's say is a leading cause of it
+
+414
+00:40:08,500 --> 00:40:15,140
+if you go to the manufacturers let's say and make suggestions on how to increase efficiency they
+
+415
+00:40:15,140 --> 00:40:23,540
+don't want to listen so whenever you see a problem being posed with a very desperate all or nothing
+
+416
+00:40:23,540 --> 00:40:31,620
+solution it's BS it's propaganda because nothing works that way you know it's kind of like I'm building
+
+417
+00:40:31,620 --> 00:40:36,980
+a house I call the lumber company and they're sending over 2,000 pieces of wood and I'm going to
+
+418
+00:40:36,980 --> 00:40:42,020
+push this button in the house will be erected it doesn't work that way it's a gradual process to build
+
+419
+00:40:42,020 --> 00:40:47,940
+that house based on a plan see that's what they're basically saying so you know the climate change
+
+420
+00:40:47,940 --> 00:40:54,260
+is below me or BS bullvine excrement because their solution is bullvine excrement so it's all tied in
+
+421
+00:40:54,260 --> 00:41:03,060
+it's very it's just how to read the code you see I think I heard you also once say that you made
+
+422
+00:41:03,060 --> 00:41:07,780
+mention in the past of the role of Walt Disney in spreading certain misinformation about scientific
+
+423
+00:41:07,780 --> 00:41:12,580
+concepts because he entrenched those things into the popular imagination through his animations and
+
+424
+00:41:12,580 --> 00:41:17,700
+other media can you talk about that a little bit well it wasn't just Walt Disney there were several film
+
+425
+00:41:17,700 --> 00:41:24,740
+companies from the 30s all the way through the 1970s there's a whole slew of them actually it's a
+
+426
+00:41:24,740 --> 00:41:30,340
+short of 50 maybe film companies and production companies to promote everything from you know
+
+427
+00:41:31,380 --> 00:41:39,140
+how people should get along and to smoking is bad for you to what education what means to be a
+
+428
+00:41:39,140 --> 00:41:48,100
+patriot or you know yeah it's the propaganda machine you know in place again just to keep things in
+
+429
+00:41:48,100 --> 00:41:55,940
+place the there hasn't been any real engineering in the scientific field since the 1920s Eric
+
+430
+00:41:55,940 --> 00:42:04,100
+dollars says that as well and I would find that to be pretty true and the evidence of that is all
+
+431
+00:42:04,100 --> 00:42:08,740
+all around you just because something is a different color and you're told that it's new and it has
+
+432
+00:42:08,740 --> 00:42:18,500
+a new shape it's the same um a flescious theory behind that that this is the state of the art
+
+433
+00:42:18,500 --> 00:42:22,820
+you know and it is the state of the art from an industrial perspective based on the you know
+
+434
+00:42:22,820 --> 00:42:28,900
+worldview that you know most people have but from from a what's called science and knowledge
+
+435
+00:42:28,900 --> 00:42:34,820
+no it's rubbish and just to clarify for people Eric dollars is sort of independent and venture type
+
+436
+00:42:34,820 --> 00:42:42,020
+that is popular for recreating Tesla experiments um what is this where's the evidence for the
+
+437
+00:42:42,020 --> 00:42:47,300
+Disney thing like where do you just just just go online go to youtube put in Walt Disney in the
+
+438
+00:42:47,300 --> 00:42:53,780
+atomic model big time lot of videos on him showing you oh this is the atom scientists today use the
+
+439
+00:42:53,780 --> 00:43:01,620
+atom like this oh yeah that's I mean that's how it was brought I read about it as as a critique on
+
+440
+00:43:01,620 --> 00:43:06,740
+maybe about 30 years ago and then with the advent of youtube I looked it up and yep there it is
+
+441
+00:43:06,740 --> 00:43:11,940
+I haven't looked at it in maybe a decade but I'm sure there's something up there about the Walt Disney
+
+442
+00:43:11,940 --> 00:43:17,300
+promoting it just like you know the big bank theory was promoted and started by a Catholic priest
+
+443
+00:43:17,300 --> 00:43:27,060
+right not some quote unquote physicist scientist you know the photon was uh coined by a an occult
+
+444
+00:43:27,060 --> 00:43:34,820
+psychiatrist psychologist not a scientist these people are desperate meaning okay the people
+
+445
+00:43:34,820 --> 00:43:41,220
+that own the planet are quite happy with the way it is and they're quite happy with with the cycle
+
+446
+00:43:41,220 --> 00:43:47,060
+of destruction and you know uh some some it's a creek why would they be doesn't it hurt them too well
+
+447
+00:43:47,060 --> 00:43:52,020
+you ever heard of a crazy person who cuts on themselves right you ever heard of anything like that
+
+448
+00:43:52,020 --> 00:43:59,700
+it's the same thing so uh the the the interesting aspect here is like I've always said set yourself
+
+449
+00:43:59,700 --> 00:44:05,140
+apart from it minimize your interaction with the society as much as possible and provide yourself
+
+450
+00:44:05,140 --> 00:44:08,900
+good food clothing and shelter and then you will really learn what real science is about
+
+451
+00:44:10,180 --> 00:44:14,820
+yeah I don't think most people are cut out for that but there might be a handful that will take that to heart
+
+452
+00:44:14,820 --> 00:44:21,860
+but let's move on to the second part of of the podcast um which is that um in order to better
+
+453
+00:44:21,860 --> 00:44:26,340
+crystallize how certain concepts within the various scientific fields have been ignored I think
+
+454
+00:44:26,340 --> 00:44:31,140
+we should look at various fields of biology chemistry and physics and pick out some concepts that
+
+455
+00:44:31,140 --> 00:44:35,540
+if the ruling powers were more honorable and less depraved we'd have been introduced to those
+
+456
+00:44:35,540 --> 00:44:41,220
+perhaps a bit earlier so let's start with you let me yeah I want to interject uh the reason why they
+
+457
+00:44:41,220 --> 00:44:45,940
+seem less honorable is because they're accommodating the people who were no longer honorable
+
+458
+00:44:45,940 --> 00:44:51,940
+they can be honorable even though they're sick and whatever you want to call it you know mentally
+
+459
+00:44:51,940 --> 00:44:58,020
+deranged from any lawful standard uh you you could say that they do understand the concept of honor
+
+460
+00:44:58,020 --> 00:45:04,100
+but it's not promoted within the society because society of human livestock which is property or
+
+461
+00:45:04,100 --> 00:45:10,660
+slave whatever you want to call them chattel livestock citizen whatever you know whatever pick a term
+
+462
+00:45:10,660 --> 00:45:16,420
+you know their property and can people be property don't be shocked you know the answer is yes
+
+463
+00:45:16,420 --> 00:45:22,420
+no they they they do know and and they see here's the interest you know the concept of a test right
+
+464
+00:45:22,420 --> 00:45:31,460
+the test the concept of a test is you pose an individual or someone a problem a question a statement
+
+465
+00:45:32,020 --> 00:45:39,540
+and um you are requiring them or they agreed to require an answer which is either something they come
+
+466
+00:45:39,540 --> 00:45:45,860
+up with themselves or a choice of multiple uh other things to to complete what's called the test
+
+467
+00:45:45,860 --> 00:45:52,900
+you see I just laid out what a test is right and uh the the answer in the reply that's given by the
+
+468
+00:45:52,900 --> 00:45:58,420
+person who's being tested is then measured against a certain references or proofs or facts to show
+
+469
+00:45:58,420 --> 00:46:05,140
+how well they did on the test everything I just said is exactly how society's been run by those who own it
+
+470
+00:46:05,140 --> 00:46:10,340
+they always have given the people you know the livestock that are currently that status of slave or
+
+471
+00:46:10,340 --> 00:46:15,380
+livestock or citizen or subject or resident or whatever they've always been given multiple tests
+
+472
+00:46:15,380 --> 00:46:22,100
+over a long period of time and have failed every time miserably not just a little bit
+
+473
+00:46:23,220 --> 00:46:30,020
+so the state of the condition you have to realize right now might appear dishonorable which it is
+
+474
+00:46:30,020 --> 00:46:36,980
+it's only because the level of failure sustained by those who are being observed and accommodated has
+
+475
+00:46:36,980 --> 00:46:42,660
+been so high that you know how many times have you heard me say they're unrealitatable it's not like
+
+476
+00:46:42,660 --> 00:46:47,780
+someone didn't pass the test go and teach them again so they can pass right or have more favorable
+
+477
+00:46:47,780 --> 00:46:56,340
+results it's just not possible anymore so and yes there are absolutes in the world and that is one of them
+
+478
+00:46:56,340 --> 00:47:04,660
+so um continue I mean yeah my attitude to that has always been like which one is the heart and which
+
+479
+00:47:04,660 --> 00:47:10,180
+one is the horse as far as the people degenerating to a point of not being able to be repaired or the
+
+480
+00:47:10,180 --> 00:47:15,060
+leaders that are supposed to be stewarding the situation like one of them has to go first as far as
+
+481
+00:47:15,060 --> 00:47:20,180
+being depraved and it's hard to see how the people millions of people become depraved whilst the
+
+482
+00:47:20,180 --> 00:47:24,180
+leadership remains honorable and then suddenly the leadership realizes well they're not honorable
+
+483
+00:47:24,180 --> 00:47:28,900
+anymore so we're not going to either there wouldn't be any leadership if it wasn't accommodating
+
+484
+00:47:28,900 --> 00:47:38,420
+the mindset that demanded one uh the ultimate society in any any society is one of law where everyone
+
+485
+00:47:38,420 --> 00:47:46,180
+is well versed in it well known and uh and uh is is uh carries on their their business and their lives
+
+486
+00:47:46,180 --> 00:47:51,140
+accordingly and of course you're going to have glitches and shortcomings and then there have to be
+
+487
+00:47:51,140 --> 00:47:56,980
+systems in there to to write the wrongs and all that but the people don't you know throughout history
+
+488
+00:47:56,980 --> 00:48:04,980
+don't want that right it's very simple you know if you have a thousand page book if you just read
+
+489
+00:48:05,700 --> 00:48:12,020
+three pages a day which is not much to ask for and if you skip a day it six pages the next day okay
+
+490
+00:48:12,020 --> 00:48:17,700
+but just read three pages a day consistently you'll go through it in a year right so if you read 10 pages
+
+491
+00:48:17,700 --> 00:48:22,740
+a day you could do three one thousand page books roughly right so when we're alluding to our various
+
+492
+00:48:22,740 --> 00:48:27,700
+laws of countries and if this is i'm actually pointing this towards doctors and especially attorneys
+
+493
+00:48:27,700 --> 00:48:33,780
+shame on the attorneys all of them not some of them they don't know any law at all they know some
+
+494
+00:48:33,780 --> 00:48:39,700
+some s o m e a little bit of some court procedure but they don't know any law at all other than what
+
+495
+00:48:39,700 --> 00:48:44,580
+they consider as knowing as law what they see on tv there's university doesn't teach any law never
+
+496
+00:48:44,580 --> 00:48:50,980
+did never will and shame on them for not knowing the laws right of their of the agent of the particular
+
+497
+00:48:50,980 --> 00:48:55,780
+corporate body or sovereign state that they supposedly have allegiance to right if you look at the
+
+498
+00:48:55,780 --> 00:48:59,700
+American codes the French codes of British because none of the attorneys know any of them at all
+
+499
+00:49:00,500 --> 00:49:05,860
+and they they have the appearance that they do which is another thing the same thing with the scientists
+
+500
+00:49:05,860 --> 00:49:09,380
+the same thing with the priest to ask them anything out of the bible who'll give you one or two
+
+501
+00:49:09,380 --> 00:49:16,660
+verses out of context doesn't matter if they're a Jewish rabbi a Catholic priest or a Baptist minister
+
+502
+00:49:16,660 --> 00:49:24,820
+or an imam or whatever out of islam this is phenomenon that the lead the people demand an ignorant
+
+503
+00:49:24,820 --> 00:49:28,900
+leadership because if the leadership was an ignorant they wouldn't be their leaders because they
+
+504
+00:49:28,900 --> 00:49:33,380
+would look at the people and say these people are repugnant why would i want to lead them
+
+505
+00:49:33,380 --> 00:49:41,220
+so it's a very very interesting situation again from the beginning i said you cannot discern the
+
+506
+00:49:41,220 --> 00:49:46,100
+difference between the current state of the topic with the political or power nature of so you know
+
+507
+00:49:46,100 --> 00:49:52,260
+the nature of a culture in the society they go hand in hand i think it's probably going to be
+
+508
+00:49:52,260 --> 00:49:57,380
+worth dedicating one episode to sort of looking at that dynamic um perhaps the failure of society in
+
+509
+00:49:57,380 --> 00:50:02,980
+that way um but just so that we don't run out of time let's let's start with the looking at biology um
+
+510
+00:50:02,980 --> 00:50:08,500
+i think the most talked about biological concept that the greek has elaborated on in the past is
+
+511
+00:50:08,500 --> 00:50:13,060
+that of the biological vacuum you've talked about before how blood wouldn't be able to flow the way
+
+512
+00:50:13,060 --> 00:50:18,660
+it does it in the circulatory system without um that vacuum in that conventional physics doesn't
+
+513
+00:50:18,660 --> 00:50:22,980
+provide an explanation for how 40 liters of bodily fluid doesn't accumulate in the lower extremities
+
+514
+00:50:22,980 --> 00:50:29,060
+of the body which is what should happen um in a flusky container with liquids um how is it that
+
+515
+00:50:29,060 --> 00:50:33,060
+a hundred years plus of medical practice doesn't address that and can you break it down a bit more
+
+516
+00:50:33,060 --> 00:50:40,580
+oh it's the same year same as if any subject how can a hundred years of of political practice religious
+
+517
+00:50:40,580 --> 00:50:49,940
+practice legal practice uh any practice not show show that it's deficient right uh good religious
+
+518
+00:50:49,940 --> 00:50:54,740
+practice for example the Christians have been around for over a thousand years and uh not one of
+
+519
+00:50:54,740 --> 00:51:01,220
+them's uh bothers to check and say uh let's see what the bible says about it right same thing with the
+
+520
+00:51:01,220 --> 00:51:07,060
+human body right uh go ahead and mimic a model of the human body and put a you're going to need about
+
+521
+00:51:07,060 --> 00:51:13,620
+1200 horsepower pump to move the body to move uh that amount of fluid uh at that temperature with
+
+522
+00:51:13,620 --> 00:51:18,900
+dissolved solids and semi dissolved solids through twenty five hundred miles or four thousand
+
+523
+00:51:18,900 --> 00:51:25,540
+kilometers of blood vessels average millimeter uh millimeter in diameter it is ridiculous uh and
+
+524
+00:51:25,540 --> 00:51:30,180
+I found out you know the was that the national socialist party gurbals or Hitler the gurbals said
+
+525
+00:51:30,180 --> 00:51:35,060
+if you make a lie it has to be a big lie because if it's such a big lie no one will question it you see
+
+526
+00:51:35,060 --> 00:51:41,380
+so they have blood pressure you know I always ask doctors I even have uh private calls with
+
+527
+00:51:41,380 --> 00:51:45,620
+people that are surgeons with thirty years experience and they ask me the funniest question like
+
+528
+00:51:45,620 --> 00:51:50,260
+well come on greek I heard you say there's no blood pressure uh you know I can't get that around my
+
+529
+00:51:50,260 --> 00:51:55,060
+head I said you better not you better not get that around your head you'll be thrown out on your
+
+530
+00:51:55,060 --> 00:52:03,060
+ass of course there isn't right so well let's let's break that down then so blood pressure is this
+
+531
+00:52:03,060 --> 00:52:08,180
+positive pressure allegedly that exists with the impossible moves the blood right it's physically
+
+532
+00:52:08,180 --> 00:52:12,660
+impossible it's right and the more physically impossible and the bigger the lie the more people will
+
+533
+00:52:12,660 --> 00:52:22,580
+believe it okay so humor me greek why is it impossible because uh you can't move uh the blood at that
+
+534
+00:52:22,580 --> 00:52:29,620
+temperature with almost 40 percent dissolved solids and semi dissolved solids through um the average
+
+535
+00:52:29,620 --> 00:52:34,820
+blood vessel at one and a half millimeters in the body of four thousand kilometers long you cannot
+
+536
+00:52:34,820 --> 00:52:40,420
+move it it's just impossible will not happen ever and any and any experiment whether it's
+
+537
+00:52:41,700 --> 00:52:47,540
+and here's the interesting thing when they try to view uh how do they view biological uh functioning
+
+538
+00:52:47,540 --> 00:52:55,380
+through things that are dead that's kind of like having a institute to study uh the development
+
+539
+00:52:55,380 --> 00:53:03,140
+of automobiles and you only go to scrapyards where they've compacted damaged cars do you see what I mean
+
+540
+00:53:03,140 --> 00:53:09,300
+yeah in the sense that they they cut open dead bodies and mostly do experimentation yeah
+
+541
+00:53:09,300 --> 00:53:14,180
+there uh one when the body dies it collapses and it goes into chemical decomposition immediately
+
+542
+00:53:14,180 --> 00:53:21,380
+immediately once uh the there's the onset of of not clinical death but real death where you don't come
+
+543
+00:53:21,380 --> 00:53:30,980
+back right so the the everything is a fiction right and it's a fiction overlap just like when you
+
+544
+00:53:30,980 --> 00:53:38,100
+lay down in bed uh to sleep you you put your put over your body right even in hot weather it you
+
+545
+00:53:38,100 --> 00:53:43,060
+feel you still want to cover yourself with something right and just because you covered yourself it
+
+546
+00:53:43,060 --> 00:53:47,460
+doesn't mean you're not there you're still there it's just that you rest a little more comfortably
+
+547
+00:53:47,460 --> 00:53:53,060
+so what they've done and what is the people of accommodated have been accommodated by is that
+
+548
+00:53:53,060 --> 00:53:57,940
+everything and anything that they think about is has a layer of fiction over it and that's what they
+
+549
+00:53:57,940 --> 00:54:04,500
+look at an example someone laying down uh in their sleeping quarters when you walk in you usually
+
+550
+00:54:04,500 --> 00:54:08,500
+uh look inside the room and you come back out and you say there is sleep well you don't really see
+
+551
+00:54:08,500 --> 00:54:14,740
+them sleeping you usually see a lump on the bed with a sheet over it typically right you don't go
+
+552
+00:54:14,740 --> 00:54:20,900
+examined in the person too much that's the most typical viewpoint of someone sleeping and when you
+
+553
+00:54:20,900 --> 00:54:26,260
+look at people in the society whether it's the scientific field or any field the what you will see
+
+554
+00:54:26,260 --> 00:54:32,580
+is a layer of fiction covering them and uh in big letters it says whatever that fiction happens to be
+
+555
+00:54:32,580 --> 00:54:38,900
+science religion politics whatever it's just a layer of fiction covering the reality now here's
+
+556
+00:54:38,900 --> 00:54:42,820
+the interesting thing just like when you see someone covered in their sleeping quarters on the bed
+
+557
+00:54:42,820 --> 00:54:50,420
+you don't see them you just see the covering uh what happens is um uh you can you you you don't
+
+558
+00:54:50,420 --> 00:54:57,860
+define the person by the covering but you sure act and change your behavior because of it
+
+559
+00:54:58,500 --> 00:55:03,140
+you might be a little quieter right just like for example if you discover that everything in the
+
+560
+00:55:03,140 --> 00:55:07,940
+medical field is a fiction just like everything in the political or legal or religious field is a
+
+561
+00:55:07,940 --> 00:55:14,100
+fiction it might be best not to make a lot of noise and wake up the slumber slumbering masses and
+
+562
+00:55:14,100 --> 00:55:18,580
+because the slumbering masses don't act on themselves they act through third party they're
+
+563
+00:55:18,580 --> 00:55:23,060
+going to call what they consider an authority figure and complain about you do you see my point
+
+564
+00:55:24,020 --> 00:55:32,180
+yes so so that layer of that blanket of fiction should not be disturbed um until you understand to
+
+565
+00:55:32,180 --> 00:55:39,060
+read the signs of a society and even if you did it's not until after they are gone meaning they
+
+566
+00:55:39,060 --> 00:55:45,700
+are no longer in existence their structures their society their culture then you can come out
+
+567
+00:55:45,700 --> 00:55:52,900
+and restructure and rebuild there is no such thing as revolution or change that is effective
+
+568
+00:55:52,900 --> 00:55:58,820
+in this type of society that you're existing in now you know if you said Greek we're going to reduce
+
+569
+00:55:58,820 --> 00:56:06,020
+the population of the planet down to 10 people or 100 people or 10,000 people and there are no attorneys
+
+570
+00:56:06,020 --> 00:56:12,980
+no doctors no priests no rabbis no you're right no scientists you might have a chance
+
+571
+00:56:12,980 --> 00:56:20,020
+right but if you reduce the population down to less than a hundred people and you had an attorney
+
+572
+00:56:20,020 --> 00:56:25,860
+in there a priest a rabbi your screwed you're gonna be in 200 years you'll be back to a population
+
+573
+00:56:25,860 --> 00:56:31,540
+of a billion morons or seven billion morons like you have today you cannot bring anything forward
+
+574
+00:56:31,540 --> 00:56:40,020
+it's called contamination there's a an old book that says you know a small amount of east you know
+
+575
+00:56:40,020 --> 00:56:46,580
+levens the entire lump right you're not we're talking about all of it being yeast right now
+
+576
+00:56:47,220 --> 00:56:53,060
+but what we're trying to do or at least what i'm trying to do is to sort of relieve some of the
+
+577
+00:56:53,060 --> 00:56:58,900
+stink of this bad science by looking at certain particular aspects and if we could accomplish
+
+578
+00:56:58,900 --> 00:57:02,980
+nothing else but sheds a little bit more light on the biological vacuum that'd be great
+
+579
+00:57:02,980 --> 00:57:09,220
+it just happens to be that living things are in a container we typically don't we typically
+
+580
+00:57:09,220 --> 00:57:15,380
+define living things you know insect animal fauna you know plant fauna flora right human you know mammal
+
+581
+00:57:15,380 --> 00:57:19,860
+reptile you know all the various things that we consider alive down a bacteria they happen to be in
+
+582
+00:57:19,860 --> 00:57:26,500
+a container of some sort an outer skin of sorts and sometimes that skin acts as a skeleton
+
+583
+00:57:26,500 --> 00:57:35,860
+structural as well the internal is always slightly internal volume of the container is always in
+
+584
+00:57:35,860 --> 00:57:44,180
+a slightly less pressure than the environment always so questioning that is not the point
+
+585
+00:57:45,220 --> 00:57:50,900
+saying why does it have to be the way that way might be a better question why do we have to have an
+
+586
+00:57:50,900 --> 00:57:57,140
+internal vacuum and that is quickly alluded to once you have the rational several rational answers
+
+587
+00:57:57,140 --> 00:58:00,980
+to that well because everything else does right so let's just not let's just bypass that
+
+588
+00:58:00,980 --> 00:58:06,420
+because everything that's something that's common in all things that are alive if everything
+
+589
+00:58:06,420 --> 00:58:11,780
+that we perceive as being living it has a slightly less pressure internally than externally
+
+590
+00:58:12,740 --> 00:58:20,100
+and then if you ask why it that is so that that's not necessarily as important as how it's performed
+
+591
+00:58:20,100 --> 00:58:25,300
+because bypass because they all do anyway you see so now how is the biological vacuum maintained
+
+592
+00:58:25,300 --> 00:58:31,940
+now there's where your your research starts not that there is a biological vacuum and why it's
+
+593
+00:58:31,940 --> 00:58:37,700
+there no no it's like how is it maintained because now when you start to look in that from that
+
+594
+00:58:37,700 --> 00:58:45,380
+posture and you lean on how to create the biological vacuum now you start to get into invariably
+
+595
+00:58:45,380 --> 00:58:51,940
+directly and positively or negatively affecting all living things regardless right and you will find
+
+596
+00:58:51,940 --> 00:58:57,620
+that that negative if you continue on this thought that internal vacuum that is maintained by all
+
+597
+00:58:57,620 --> 00:59:06,020
+things that are living is not a physical there is no physical component to it it is a field manifestation
+
+598
+00:59:06,020 --> 00:59:12,580
+it is a certain signature that you find in all yes and all living things but it is not a material
+
+599
+00:59:12,580 --> 00:59:19,940
+component itself yes all the material components experience is let's say that effect but that effect
+
+600
+00:59:19,940 --> 00:59:25,540
+is not a material is it byproduct of other things so let's just stop the thought right there because
+
+601
+00:59:25,540 --> 00:59:32,660
+very often people will say well question well prove to me that water you know is wet well then you
+
+602
+00:59:32,660 --> 00:59:39,140
+might say well you know why is it wet that's not important either is how do things become wet
+
+603
+00:59:39,140 --> 00:59:45,940
+that you can use you see yes I follow you who I'll just wrap up the vacuum thing who is the most
+
+604
+00:59:45,940 --> 00:59:50,260
+responsible for furthering research and publications about the biological vacuum for people that
+
+605
+00:59:50,260 --> 00:59:55,380
+want to look it up no one there hasn't been anything done since victor char burger in the 1930s
+
+606
+00:59:55,380 --> 01:00:01,220
+because it's too obvious how many books are there about the sky being blue and actually that no
+
+607
+01:00:01,220 --> 01:00:05,780
+one knows they say they actually had spoken to a graduate student in someone of the scientific
+
+608
+01:00:05,780 --> 01:00:09,780
+fields that why is this guy blue is well they told me because it's a reflection of the oceans
+
+609
+01:00:09,780 --> 01:00:16,340
+my professor said right yeah they told me that too yeah it's just the stupidest you know
+
+610
+01:00:16,340 --> 01:00:22,260
+that you're being pranked as a race as as humans on the point you're being I don't know if people
+
+611
+01:00:22,260 --> 01:00:29,620
+really understand the gravity or the gravity of what I just said it's all a prank it's all a prank
+
+612
+01:00:29,620 --> 01:00:33,700
+all the professors are only there because they get a paycheck and they don't even know that there's no
+
+613
+01:00:33,700 --> 01:00:39,060
+money it's it's it's most ridiculous thing now that it doesn't mean that there isn't any real
+
+614
+01:00:39,060 --> 01:00:45,220
+research going on in someone's kitchen or backyard or closet or garage or you know a small
+
+615
+01:00:45,220 --> 01:00:51,540
+a group of people that are you know small meaning less than three that's going on but it doesn't
+
+616
+01:00:51,540 --> 01:00:55,860
+advance and most people don't know about it even with the internet is because it's quickly nipped at the
+
+617
+01:00:55,860 --> 01:01:03,140
+bud you you will get if you put a YouTube up of a machine running on its own in a in a way that it
+
+618
+01:01:03,140 --> 01:01:08,020
+hasn't been already you will have a knock on the door from the FBI and Homeland Security in America
+
+619
+01:01:08,020 --> 01:01:14,660
+no matter where you are within 24 to 72 hours and they'll send a bunch of guys there with an IQ
+
+620
+01:01:14,660 --> 01:01:18,820
+of like a door knob and they'll just tell you well you shouldn't be doing this because it's bad for
+
+621
+01:01:18,820 --> 01:01:25,380
+the financial system of the United States that's what they always say this is detrimental to the
+
+622
+01:01:25,380 --> 01:01:34,260
+financial system of the United States that's the the pat line hmm well sounds like somebody
+
+623
+01:01:34,260 --> 01:01:39,060
+knows that for a fact yeah there are plenty of people that know that for a fact but you know it's
+
+624
+01:01:39,060 --> 01:01:48,180
+not a very well-known fact let's also touch on chemistry so the apex of myth of what's possible
+
+625
+01:01:48,180 --> 01:01:53,300
+within chemistry broaches on the work of alchemists where transmutation is the most prominent
+
+626
+01:01:53,300 --> 01:01:58,500
+practice and I think at the lower end of the scale of that lore you have changing metal to gold which
+
+627
+01:01:58,500 --> 01:02:03,300
+the Greek has said before isn't even that extraordinary and then at the higher level of that scale
+
+628
+01:02:03,300 --> 01:02:07,940
+I guess might be the ability to make a substance cycle through various elements within the periodic
+
+629
+01:02:07,940 --> 01:02:13,460
+table can you talk about how transmutation actually works and how it's been sort of ignored sure
+
+630
+01:02:13,460 --> 01:02:18,020
+just for the sake of time and just familiarity I had a conversation a short conversation with someone
+
+631
+01:02:18,020 --> 01:02:22,980
+less than an hour ago actually yes I had turned on the television it was a show it was a
+
+632
+01:02:22,980 --> 01:02:28,260
+recording of something from 40 years ago and there's a discussion of your bones getting calcium
+
+633
+01:02:28,260 --> 01:02:32,820
+and I just laughed and looked at the other person said well you you taking calcium doesn't does not
+
+634
+01:02:32,820 --> 01:02:39,060
+mean that you're going to get calcium because you need magnesium for the body to create calcium you
+
+635
+01:02:39,060 --> 01:02:45,940
+know if you if you are you're told by one of these medical quacks uh that you you're low in potassium
+
+636
+01:02:45,940 --> 01:02:52,900
+you don't take potassium for the body to be enriched in potassium you take um sodium
+
+637
+01:02:52,900 --> 01:03:00,500
+based minerals right so if you need iron in your body you don't if you have an iron deficiency you
+
+638
+01:03:00,500 --> 01:03:06,980
+don't take iron supplements you take calcium supplements because the body transmutes these other
+
+639
+01:03:06,980 --> 01:03:15,620
+elements into the element that you need and this was the Lewis Kevron kev r a n was left off the
+
+640
+01:03:15,620 --> 01:03:23,780
+planet when he had proven this so there's your simple chemistry how did he prove that these things
+
+641
+01:03:23,780 --> 01:03:29,460
+cognitively very simple you know they took you know chickens are known for producing robust
+
+642
+01:03:29,460 --> 01:03:35,940
+calcium calcium calcium based egg shells you know eggs with that are hard robust calcium high calcium
+
+643
+01:03:35,940 --> 01:03:42,340
+content is what if we stopped feeding the chickens anything that had calcium in it would they
+
+644
+01:03:42,340 --> 01:03:48,740
+still produce eggs and yes they did plenty of calcium and they had no bone loss or anything like that
+
+645
+01:03:48,740 --> 01:03:52,340
+he also did an experiment i had happened to met one of the people that participated in the
+
+646
+01:03:52,340 --> 01:04:00,420
+experiment from maro uh that the body produces potassium from salt there was a french military was
+
+647
+01:04:00,420 --> 01:04:06,420
+in maro uh building ref oil wells and refineries and uh the person that i had met that done that he
+
+648
+01:04:06,420 --> 01:04:10,740
+developed a four-way screw but that's another situation he remembered of the french being there
+
+649
+01:04:10,740 --> 01:04:16,900
+did an experimentation they had the people eat very little food and uh take no sodium in their
+
+650
+01:04:16,900 --> 01:04:22,580
+diet and work in the hot desert sweating a lot and they all had potassium deficiencies and once they
+
+651
+01:04:22,580 --> 01:04:28,660
+started receiving uh uh uh sodium supplements they have potassium went sky high in their body but the
+
+652
+01:04:28,660 --> 01:04:38,100
+sodium didn't so the body produces potassium when you're working and taking sodium but as many more
+
+653
+01:04:38,100 --> 01:04:42,820
+experiments you did with plants and animals and people and he was left when he had brought all of his
+
+654
+01:04:42,820 --> 01:04:47,460
+studies life worked the university they they laughed at him and they gave him a biology 101 textbook
+
+655
+01:04:47,460 --> 01:04:55,220
+and it's all in the go read that these people uh you cannot in other words there will be no change
+
+656
+01:04:55,220 --> 01:05:02,500
+as long as you go outside your door and you see people right this is an anomaly all of greek
+
+657
+01:05:02,500 --> 01:05:08,900
+speak is anomalous to this society it is it is not for this society it is to them but it's not for them
+
+658
+01:05:08,900 --> 01:05:15,140
+towards them hmm yes i feel like that's probably been the most recurring point of the
+
+659
+01:05:15,140 --> 01:05:23,140
+stream um just uh to touch lastly on the transmutation thing so you're saying it's something that
+
+660
+01:05:23,140 --> 01:05:28,100
+actually occurs in the human body but the scientific establishment would profess otherwise and say
+
+661
+01:05:28,100 --> 01:05:34,100
+that while you get nutrition by digestion and uh absorption there's no such thing either you
+
+662
+01:05:34,100 --> 01:05:40,500
+get anyone could go look up on the what they call the in-net look up a profile section of the intestine
+
+663
+01:05:40,500 --> 01:05:45,140
+you have an animal or human don't look gory stuff but the stuff they show in anatomy which is pretty
+
+664
+01:05:45,140 --> 01:05:49,380
+accurate actually and you'll see there you have the luminal you know the opening in the middle
+
+665
+01:05:49,380 --> 01:05:54,580
+intestine and the and the hydrophobic completely sealed in or wall how does anything go through that
+
+666
+01:05:55,460 --> 01:06:03,300
+there's no absorption it's all done by induction you know and this is not the misdirection is so
+
+667
+01:06:03,300 --> 01:06:08,660
+pathetically obvious again make the lie so big that no one will question it because if you tell a
+
+668
+01:06:08,660 --> 01:06:13,780
+little lie people will question it you know and if you go to a scientist again these people are
+
+669
+01:06:13,780 --> 01:06:21,700
+pathetic and the doctors all of them now there there's always i always give uh the the reality of it
+
+670
+01:06:21,700 --> 01:06:26,420
+because these statements sound absolute which are true but the footnote here is whether you're
+
+671
+01:06:26,420 --> 01:06:32,340
+talking about a priest an attorney a doctor or a politician they're all ignorant or evil every single
+
+672
+01:06:32,340 --> 01:06:41,220
+one of them you you what you do is you um you give a leeway of two weeks to six months right that's
+
+673
+01:06:41,220 --> 01:06:46,180
+your only exception and what i mean by that is let's say you want to be a scientist politician
+
+674
+01:06:46,180 --> 01:06:51,300
+attorney or priest you altruistic yeah i want to do this field because it helps mankind right
+
+675
+01:06:51,300 --> 01:06:56,180
+you they don't even know what that means so they go into the field and they see that's all corruption
+
+676
+01:06:56,180 --> 01:07:03,060
+it's so they're like holy crap what the hell did i get myself into uh i made i wanted to make this
+
+677
+01:07:03,060 --> 01:07:09,620
+my life's work i just screwed myself so they have two weeks to six months to find something else to do
+
+678
+01:07:09,620 --> 01:07:16,660
+and they get out of the field whenever you run into someone says i used to be an attorney or
+
+679
+01:07:16,660 --> 01:07:21,140
+used to be a doctor used to be a priest those are the most interesting people they and they usually
+
+680
+01:07:21,140 --> 01:07:25,860
+keep their mouth shut because if they ever voice to the higher authorities that they're leaving because
+
+681
+01:07:25,860 --> 01:07:31,220
+of this situation they're told not to speak about it or else like you know they have a long arm and
+
+682
+01:07:31,220 --> 01:07:38,420
+they could get to them if they make a fuss about it you see my point yeah so the ones that we that stay in
+
+683
+01:07:38,420 --> 01:07:45,220
+the legal field the religious fields the scientific fields the medical fields are pretty evil
+
+684
+01:07:45,780 --> 01:07:50,100
+they know it it's all corruption and they're doing it because they like the control or they're pretty
+
+685
+01:07:50,100 --> 01:07:57,540
+ignorant they're dumb as a bell or dumb as a doorknob and they don't care right so when we say something
+
+686
+01:07:57,540 --> 01:08:03,860
+like scientists or lawyer or doctor or priest or whatever you should be thinking of yourself in
+
+687
+01:08:03,860 --> 01:08:08,420
+that position because those that occupy those positions today are pretty worthless
+
+688
+01:08:10,020 --> 01:08:17,860
+at least the ones that are stand-ins or have deeply entrenched in other words the the social meaning
+
+689
+01:08:17,860 --> 01:08:23,620
+to these things that i just mentioned is very high but the actual reality of them is they're doing
+
+690
+01:08:23,620 --> 01:08:30,340
+the opposite of what they should be doing because of a not it's not only because it's a society that's
+
+691
+01:08:30,340 --> 01:08:36,420
+controlled by industry or industry controls society but it's because this is a society in decline
+
+692
+01:08:37,140 --> 01:08:44,260
+severe decline but because of gradualism the existing denizens inhabitants or slaves or cattle however
+
+693
+01:08:44,260 --> 01:08:52,260
+you want to put it they don't realize it no I understand what you mean all right um so I think
+
+694
+01:08:52,260 --> 01:08:56,580
+we've talked for quite a bit and it's about time to wrap things up i'm just going to end off with
+
+695
+01:08:56,580 --> 01:09:02,820
+sort of one last uh thing that i think is good to conclude with perhaps a more metaphysical nature
+
+696
+01:09:03,540 --> 01:09:08,580
+uh it's a central one to the nature of human existence if you subscribe to the idea that it's all not
+
+697
+01:09:08,580 --> 01:09:13,620
+just material what can be said about the question of human consciousness and where it originates
+
+698
+01:09:13,620 --> 01:09:17,860
+because on one hand you have the convention that claims it is generated in the brain but i'm seeing
+
+699
+01:09:17,860 --> 01:09:22,980
+more and more talk online that that's not the case but no concrete all explanations are being given
+
+700
+01:09:22,980 --> 01:09:30,260
+well it's it's a field this is there there it's a perturbation in the field a perturbation would be
+
+701
+01:09:30,260 --> 01:09:35,700
+just like when a drummer hits the skin of the drum with this with his hand or a stick we're dropping
+
+702
+01:09:35,700 --> 01:09:43,460
+a stone in a still pond these are very fine perturbations and it's just like there there's a
+
+703
+01:09:43,460 --> 01:09:48,820
+light spectrum the human visible light spectrum is very very small compared to what can be measured
+
+704
+01:09:48,820 --> 01:09:55,460
+right i mean it goes all the way from infrared to gamma i oath to ultraviolet all the way up to gamma
+
+705
+01:09:55,460 --> 01:10:00,820
+and x-ray right and there's even beyond that in the in the rays these are waves again the
+
+706
+01:10:00,820 --> 01:10:08,340
+trapertabations the the the perturbations in let's say the ether or uh that happened that are
+
+707
+01:10:08,340 --> 01:10:14,980
+is human consciousness have not been uh at least popularly uh known to be measured and uh used
+
+708
+01:10:14,980 --> 01:10:20,260
+there is plenty of information about how it could be manipulated chemically and a like you know
+
+709
+01:10:20,260 --> 01:10:28,900
+electromagnetically and other ways but the exactness of it has not been made public and uh you know
+
+710
+01:10:28,900 --> 01:10:34,020
+anytime there's a thought there's a perturbation in the ether let's say your thoughts are perturbations
+
+711
+01:10:34,020 --> 01:10:39,860
+of the ether and it's two way three way four way you know there's group you know the perturbations
+
+712
+01:10:39,860 --> 01:10:45,460
+singular perturbations there's frequencies right you know how each device has its own frequency let's
+
+713
+01:10:45,460 --> 01:10:54,500
+say you know here's a way to think about consciousness on how it's being minute what what consciousness is
+
+714
+01:10:54,500 --> 01:11:00,260
+is important but it's even more important than that for anyone hearing this in contemporary times
+
+715
+01:11:00,260 --> 01:11:09,620
+is how it's being manipulated right so like if someone comes in to your house where you are to threaten
+
+716
+01:11:09,620 --> 01:11:16,580
+your life and presents a weapon to do so do you say well how did he get here or do you say to yourself
+
+717
+01:11:16,580 --> 01:11:21,780
+you know i i don't want to be subject to this because you know it doesn't matter how we got
+
+718
+01:11:21,780 --> 01:11:25,860
+into your house to threaten you let's say with a knife or a gun it's what are you going to do now
+
+719
+01:11:25,860 --> 01:11:32,260
+that he's here threatening you with the knife and a gun you see so the the real aspect of consciousness
+
+720
+01:11:32,260 --> 01:11:36,580
+is that's being manipulated and since we spoke about science and before we sign off
+
+721
+01:11:38,660 --> 01:11:44,980
+you and i perhaps had a conversation about you know how they used to well popular culture shows
+
+722
+01:11:44,980 --> 01:11:49,540
+that ancients were ignorant right that they were stupid and we're not now but you know they
+
+723
+01:11:49,540 --> 01:11:54,980
+popular culture is also shown futurism especially more in the past they don't show futurism anymore
+
+724
+01:11:54,980 --> 01:12:02,340
+for for many reasons which we've gone into but when they did show futurism how society would be in
+
+725
+01:12:02,340 --> 01:12:05,540
+the future you notice they never said that the people of the future will be more intelligent
+
+726
+01:12:06,260 --> 01:12:14,420
+that's right never said that is never said because it's all control of your consciousness propaganda
+
+727
+01:12:14,420 --> 01:12:20,420
+again it's not what something is or where it comes from but what is it doing to you right now
+
+728
+01:12:20,420 --> 01:12:29,140
+okay um i think that we've given um a good effort to the podcast and um that will conclude our
+
+729
+01:12:29,140 --> 01:12:34,900
+talks about science and um unless there's any final concluding thoughts then i think we're good
+
+730
+01:12:36,100 --> 01:12:41,540
+well i think that conclusion can conclude itself thanks all right well um thank you to everybody
+
+731
+01:12:41,540 --> 01:12:47,220
+for tuning into this episode and we will be back with another one hopefully within a week or two
+
+732
+01:12:47,220 --> 01:12:54,900
+and uh thanks again for listening
+
+733
+01:12:54,900 --> 01:13:05,680
+[Music]
+

@@ -1,0 +1,3727 @@
+1
+00:00:00,000 --> 00:00:05,720
+The Sonic entity known as S.H.O.N.I.C.K. is here to bring you the news.
+
+2
+00:00:29,620 --> 00:00:32,120
+over here and continue the conversation.
+
+3
+00:00:32,900 --> 00:00:35,100
+But yeah, that's a good thing to do over there.
+
+4
+00:00:35,360 --> 00:00:37,360
+And just want to get that piece of housekeeping
+
+5
+00:00:37,360 --> 00:00:40,400
+out of the way before we get to the main thing.
+
+6
+00:00:40,660 --> 00:00:42,660
+So, Greek, you want to talk to me
+
+7
+00:00:42,660 --> 00:00:44,580
+about a prototype you're working on?
+
+8
+00:00:45,160 --> 00:00:47,300
+There's so many things that were changed on it
+
+9
+00:00:47,820 --> 00:00:49,980
+that now I'm making a production on,
+
+10
+00:00:50,040 --> 00:00:54,540
+like I'm measuring the prototype and building one,
+
+11
+00:00:54,760 --> 00:00:56,460
+you know, I'm trying to make a blueprint
+
+12
+00:00:56,460 --> 00:00:58,820
+so I can build many of them like that, right?
+
+13
+00:00:59,220 --> 00:01:02,460
+And it's very critical because just when you think
+
+14
+00:01:02,460 --> 00:01:04,360
+what happens when you get used to things,
+
+15
+00:01:04,820 --> 00:01:08,480
+you allow changes, you give it loose tolerances,
+
+16
+00:01:08,800 --> 00:01:10,400
+and you drift.
+
+17
+00:01:10,540 --> 00:01:12,940
+So what I'm saying is I'm trying to do
+
+18
+00:01:12,940 --> 00:01:15,620
+a standardized version of something that's been prototyped.
+
+19
+00:01:15,940 --> 00:01:19,100
+And it's so critical because you catch yourself saying,
+
+20
+00:01:22,160 --> 00:01:24,960
+well, I know I want to copy this, right?
+
+21
+00:01:24,960 --> 00:01:27,520
+So how about, but this time, you know,
+
+22
+00:01:27,600 --> 00:01:29,120
+instead of this being in this position,
+
+23
+00:01:29,240 --> 00:01:31,500
+maybe we'll move it over a little bit over here.
+
+24
+00:01:31,560 --> 00:01:32,460
+Maybe it's a little better.
+
+25
+00:01:32,600 --> 00:01:34,380
+Ah, ah, ah, don't do that, don't do that
+
+26
+00:01:34,380 --> 00:01:36,420
+because now you're not making a copy of the prototype.
+
+27
+00:01:36,600 --> 00:01:37,880
+Now you're still prototyping, right?
+
+28
+00:01:38,120 --> 00:01:40,500
+You're still evolving the design.
+
+29
+00:01:41,060 --> 00:01:43,600
+Yeah, so it's not going to be a standardized version
+
+30
+00:01:43,600 --> 00:01:44,440
+of the prototype.
+
+31
+00:01:44,660 --> 00:01:47,940
+So it's really difficult to do that.
+
+32
+00:01:48,060 --> 00:01:50,800
+It's very, it's almost easier to have someone else do it
+
+33
+00:01:50,800 --> 00:01:52,200
+where you give them the prototype and say,
+
+34
+00:01:52,300 --> 00:01:54,140
+all you need is a caliper, you know, to measure.
+
+35
+00:01:54,140 --> 00:01:57,280
+And just build, just copy this, make a print.
+
+36
+00:01:57,980 --> 00:02:00,240
+So if someone wants to build it, you give them the print.
+
+37
+00:02:00,980 --> 00:02:03,940
+But it's so difficult because I keep catching myself
+
+38
+00:02:04,640 --> 00:02:06,180
+measuring and transferring measurements
+
+39
+00:02:06,180 --> 00:02:08,300
+because I'm doing it on paper and in real,
+
+40
+00:02:08,840 --> 00:02:10,400
+you know, on real material, right?
+
+41
+00:02:10,520 --> 00:02:12,260
+That's ready to be cut and formed.
+
+42
+00:02:12,960 --> 00:02:15,460
+And I'm like, oh man, you know, so what am I,
+
+43
+00:02:15,460 --> 00:02:17,480
+I spent two hours like, oh yeah, I'm going to go,
+
+44
+00:02:17,560 --> 00:02:19,020
+I'm going to make it look a little different.
+
+45
+00:02:19,120 --> 00:02:21,260
+Like, no, no, no, because if I make it look
+
+46
+00:02:21,260 --> 00:02:23,780
+a little different and it doesn't sound
+
+47
+00:02:23,780 --> 00:02:27,400
+like the prototype, I'm going to blame the prototype, right?
+
+48
+00:02:27,460 --> 00:02:29,160
+Because I didn't make an exact copy.
+
+49
+00:02:29,280 --> 00:02:31,580
+You see, this is very difficult to do.
+
+50
+00:02:32,020 --> 00:02:35,620
+What I'm trying to say is I have too much instilled bias
+
+51
+00:02:35,620 --> 00:02:39,160
+in me still that I can't just separate myself
+
+52
+00:02:39,160 --> 00:02:42,980
+from some things and say, well, what's the scope?
+
+53
+00:02:43,180 --> 00:02:45,040
+Just make a copy and do the copy.
+
+54
+00:02:45,160 --> 00:02:45,620
+I don't know.
+
+55
+00:02:45,700 --> 00:02:50,160
+It's very, I found it more difficult to make the copy
+
+56
+00:02:50,160 --> 00:02:52,500
+of the prototype, in other words, duplicate it.
+
+57
+00:02:53,140 --> 00:02:55,900
+And why I'm doing the duplication is because the prototype,
+
+58
+00:02:56,400 --> 00:02:59,300
+as I moved things around, I had to cut a new hole
+
+59
+00:02:59,300 --> 00:03:01,260
+and fill the old hole, so it's all patches.
+
+60
+00:03:01,940 --> 00:03:04,940
+Like, you ever see a piece of, or an old jeans
+
+61
+00:03:04,940 --> 00:03:06,000
+where there's more patches
+
+62
+00:03:06,000 --> 00:03:07,660
+than there are original jeans, right?
+
+63
+00:03:08,220 --> 00:03:09,740
+Or, you know, clothing like back,
+
+64
+00:03:09,820 --> 00:03:10,980
+it actually became fashionable.
+
+65
+00:03:11,500 --> 00:03:13,820
+We have so many patches and repairs on it
+
+66
+00:03:13,820 --> 00:03:15,980
+that there's more repair than there is of the original.
+
+67
+00:03:16,600 --> 00:03:18,140
+And that's what the prototype is.
+
+68
+00:03:18,140 --> 00:03:21,740
+And now I'm thinking, why is it so difficult
+
+69
+00:03:22,340 --> 00:03:25,200
+to just make a copy of it and stop just, you know,
+
+70
+00:03:25,440 --> 00:03:28,060
+trying to move things and thinking of making them better?
+
+71
+00:03:28,400 --> 00:03:30,660
+So what I'm trying to say is there's an instilled bias
+
+72
+00:03:30,660 --> 00:03:36,300
+that I feel like another person or another me
+
+73
+00:03:36,300 --> 00:03:39,760
+would go ahead and make these slight changes again, right?
+
+74
+00:03:39,780 --> 00:03:41,560
+And now you're not doing what you set out
+
+75
+00:03:41,560 --> 00:03:43,420
+to do yesterday, let's say, right?
+
+76
+00:03:43,620 --> 00:03:44,640
+So it's important.
+
+77
+00:03:44,640 --> 00:03:48,040
+But maybe you're working toward the proper prototype
+
+78
+00:03:48,040 --> 00:03:49,680
+because some part of you is telling you
+
+79
+00:03:49,680 --> 00:03:51,000
+this is not perfect yet.
+
+80
+00:03:51,100 --> 00:03:51,860
+Is that a possibility?
+
+81
+00:03:52,280 --> 00:03:53,600
+It's not perfect, but look, perfect is,
+
+82
+00:03:53,700 --> 00:03:54,320
+well, here's the thing.
+
+83
+00:03:54,360 --> 00:03:55,860
+They are very, very, very good.
+
+84
+00:03:56,300 --> 00:03:57,560
+As a matter of fact, I had someone
+
+85
+00:03:57,560 --> 00:04:01,340
+who is a trained pianist listen to these.
+
+86
+00:04:01,640 --> 00:04:02,940
+And he was like, are you kidding?
+
+87
+00:04:03,040 --> 00:04:05,360
+These little speakers here sound like that?
+
+88
+00:04:05,600 --> 00:04:08,700
+This is just YouTube with a laptop, no special processing.
+
+89
+00:04:08,900 --> 00:04:13,040
+No, no, it's got a Yima A07 max amp.
+
+90
+00:04:13,040 --> 00:04:14,640
+Get it on Amazon for 70 bucks.
+
+91
+00:04:14,740 --> 00:04:17,560
+Sounds like a class A amp and just a Lenovo laptop,
+
+92
+00:04:18,079 --> 00:04:18,940
+nothing special.
+
+93
+00:04:19,680 --> 00:04:21,600
+And he's like, I can't believe the sound
+
+94
+00:04:21,600 --> 00:04:22,640
+that's coming out of this.
+
+95
+00:04:22,760 --> 00:04:24,120
+I'm like, I know, it's credible, isn't it?
+
+96
+00:04:24,240 --> 00:04:26,020
+And it's got a standard sound card on it.
+
+97
+00:04:26,100 --> 00:04:27,720
+I mean, there's nothing enhanced about it.
+
+98
+00:04:27,840 --> 00:04:29,200
+No, there's nothing, there's nothing audio,
+
+99
+00:04:29,380 --> 00:04:30,380
+tweak, nothing at all.
+
+100
+00:04:30,440 --> 00:04:33,340
+So when you hook these up to something that is special,
+
+101
+00:04:33,500 --> 00:04:36,240
+which I have, they sound even better.
+
+102
+00:04:36,560 --> 00:04:39,020
+So, and it just behooves, like if you turn off the lights,
+
+103
+00:04:39,040 --> 00:04:40,700
+you don't know where the sound is coming from.
+
+104
+00:04:40,700 --> 00:04:43,260
+And it sounds, it doesn't quite have the weight
+
+105
+00:04:43,260 --> 00:04:44,200
+of a full piano.
+
+106
+00:04:44,440 --> 00:04:46,400
+It's very hard to do that, which I'm going to be doing
+
+107
+00:04:46,400 --> 00:04:48,680
+the next prototype to a small that does,
+
+108
+00:04:48,780 --> 00:04:50,520
+but it does have the full weight of a snare
+
+109
+00:04:50,520 --> 00:04:53,360
+as the full weight of chorus singers.
+
+110
+00:04:53,700 --> 00:04:57,680
+Anyway, very small and they sound just outstanding realism,
+
+111
+00:04:58,340 --> 00:04:59,220
+transient response.
+
+112
+00:04:59,220 --> 00:05:02,000
+Like when you're listening to Orange Colored Sky,
+
+113
+00:05:02,140 --> 00:05:05,580
+Nat King Cole is singing in the chorus of five people jumps,
+
+114
+00:05:05,980 --> 00:05:08,020
+you know, in at the chorus time,
+
+115
+00:05:08,020 --> 00:05:11,040
+it sounds like five people yelling in your ear, right?
+
+116
+00:05:11,120 --> 00:05:12,460
+And it's like, whoa, where'd that come from?
+
+117
+00:05:12,740 --> 00:05:15,960
+Right, so anyway, I'm trying to make a copy of this.
+
+118
+00:05:16,100 --> 00:05:17,780
+And why is it so freaking hard?
+
+119
+00:05:18,280 --> 00:05:21,040
+Because I've already invested myself emotionally
+
+120
+00:05:21,040 --> 00:05:22,620
+and all these other things in making the prototype.
+
+121
+00:05:22,620 --> 00:05:25,760
+So now I have to divest myself and act like a robot
+
+122
+00:05:26,260 --> 00:05:28,420
+because you could actually, there are computers now
+
+123
+00:05:28,420 --> 00:05:31,120
+with scanners that you could, they could scan something,
+
+124
+00:05:31,400 --> 00:05:33,820
+make a blueprint and actually send it over
+
+125
+00:05:33,820 --> 00:05:37,040
+to the 3D printer and make it exactly like what they scanned.
+
+126
+00:05:37,040 --> 00:05:39,680
+And that's what I'm set out to do, right?
+
+127
+00:05:39,900 --> 00:05:40,860
+But I can't do it.
+
+128
+00:05:40,920 --> 00:05:41,800
+It's so difficult.
+
+129
+00:05:41,940 --> 00:05:44,400
+It's really, really difficult to do.
+
+130
+00:05:45,080 --> 00:05:46,940
+And it's even more difficult
+
+131
+00:05:46,940 --> 00:05:49,440
+than actually making something from scratch.
+
+132
+00:05:49,800 --> 00:05:52,020
+Well, it's surprising the hell out of me.
+
+133
+00:05:52,260 --> 00:05:53,760
+Well, you're seeing it as a difficulty,
+
+134
+00:05:53,880 --> 00:05:56,700
+but I'm thinking to myself, it's just your natural urge
+
+135
+00:05:56,700 --> 00:06:00,300
+that you just have to improve it, you know?
+
+136
+00:06:00,300 --> 00:06:01,840
+Because I've so invested in it
+
+137
+00:06:01,840 --> 00:06:04,760
+and I'm thinking what I'm doing now is a carry over.
+
+138
+00:06:04,860 --> 00:06:06,100
+It's not, I have to cut it off.
+
+139
+00:06:06,100 --> 00:06:08,020
+It's kind of like, you know what this is like?
+
+140
+00:06:09,780 --> 00:06:13,340
+The young boy who gets hit by a car on his bicycle
+
+141
+00:06:13,940 --> 00:06:15,840
+and they bring him to the, he's in critical condition
+
+142
+00:06:15,840 --> 00:06:16,900
+in the emergency room.
+
+143
+00:06:18,880 --> 00:06:25,040
+And the ER trauma surgeon is his mother, right?
+
+144
+00:06:25,260 --> 00:06:28,320
+Should she operate or should she have it, right?
+
+145
+00:06:28,440 --> 00:06:28,980
+You see what I mean?
+
+146
+00:06:29,040 --> 00:06:30,460
+This is a common story, right?
+
+147
+00:06:30,460 --> 00:06:31,340
+They're better, yeah.
+
+148
+00:06:31,460 --> 00:06:33,100
+And it's almost always like, look,
+
+149
+00:06:33,140 --> 00:06:34,960
+you're better off handing that to somebody else
+
+150
+00:06:34,960 --> 00:06:37,700
+because they will dispassionately pay attention to things.
+
+151
+00:06:37,880 --> 00:06:39,280
+They won't get swayed by their emotion
+
+152
+00:06:39,280 --> 00:06:40,360
+and they'll just do the job.
+
+153
+00:06:40,540 --> 00:06:40,820
+That's right.
+
+154
+00:06:40,920 --> 00:06:42,700
+So that's what I'm going through right now.
+
+155
+00:06:42,860 --> 00:06:45,720
+And it's very, and you can, it's easy to, here's the thing.
+
+156
+00:06:45,740 --> 00:06:48,880
+A lot of the things that I've spoken of, I've gone through.
+
+157
+00:06:49,160 --> 00:06:51,420
+And this is a new thing because I, from what,
+
+158
+00:06:51,620 --> 00:06:53,820
+well, the sclerator is like that also,
+
+159
+00:06:53,940 --> 00:06:56,660
+but the sclerator is very, it's a different animal
+
+160
+00:06:58,040 --> 00:06:59,060
+because it's so simple.
+
+161
+00:06:59,160 --> 00:07:02,260
+But this is really hard to do, to actually make it.
+
+162
+00:07:02,260 --> 00:07:05,660
+The best analogy would be the surgeon mom
+
+163
+00:07:05,660 --> 00:07:07,020
+operating on her son.
+
+164
+00:07:07,240 --> 00:07:08,760
+It's really difficult to do.
+
+165
+00:07:08,920 --> 00:07:10,360
+So I had to bring that up.
+
+166
+00:07:10,460 --> 00:07:12,200
+But anyway, I just wanted to throw that in there
+
+167
+00:07:12,200 --> 00:07:15,200
+because I'm kind of wrecked mentally and emotionally
+
+168
+00:07:15,720 --> 00:07:18,160
+and because I'm trying to make a copy
+
+169
+00:07:18,160 --> 00:07:20,420
+and I can't find myself to just make a freaking copy.
+
+170
+00:07:21,500 --> 00:07:22,240
+So anyway.
+
+171
+00:07:22,560 --> 00:07:24,520
+Maybe it's good you're taking the breather to record this.
+
+172
+00:07:25,160 --> 00:07:26,560
+Because you get away from it for a minute.
+
+173
+00:07:26,580 --> 00:07:27,100
+Yeah, what I'm saying, it's just like
+
+174
+00:07:27,100 --> 00:07:28,860
+the woman operating on her son.
+
+175
+00:07:28,960 --> 00:07:30,200
+Maybe she shouldn't be doing it.
+
+176
+00:07:30,280 --> 00:07:30,600
+Right.
+
+177
+00:07:31,060 --> 00:07:33,180
+Oh, and look, what do they always tell you though?
+
+178
+00:07:33,220 --> 00:07:35,400
+Take a step back and think for a moment, you know?
+
+179
+00:07:35,700 --> 00:07:39,020
+No, no, no, because that's what I was doing.
+
+180
+00:07:39,640 --> 00:07:42,280
+Remember, thinking requires all the other functions
+
+181
+00:07:42,280 --> 00:07:44,800
+that we've spoken about on Greek speak stuff.
+
+182
+00:07:45,020 --> 00:07:46,180
+All right, let's go back to the question.
+
+183
+00:07:46,240 --> 00:07:47,220
+I just wanted to throw that in.
+
+184
+00:07:47,400 --> 00:07:48,500
+No, no problem at all.
+
+185
+00:07:49,020 --> 00:07:52,820
+Okay, so we got either a really ugly question in my mind
+
+186
+00:07:52,820 --> 00:07:56,180
+or we got the question that I know we've covered before.
+
+187
+00:07:57,020 --> 00:07:58,160
+That's fine, either one.
+
+188
+00:07:58,160 --> 00:07:59,420
+Okay, well, we'll bring out the one
+
+189
+00:07:59,420 --> 00:08:00,240
+that we've covered before.
+
+190
+00:08:00,440 --> 00:08:02,200
+They were asking about inspiration.
+
+191
+00:08:02,340 --> 00:08:04,420
+What inspires somebody to do something?
+
+192
+00:08:05,260 --> 00:08:07,100
+And where does that come from
+
+193
+00:08:07,100 --> 00:08:08,400
+and how does that tie to this thing
+
+194
+00:08:08,400 --> 00:08:09,720
+they call your will, right?
+
+195
+00:08:10,460 --> 00:08:13,260
+You know, like how are you inspired to do things
+
+196
+00:08:13,260 --> 00:08:17,200
+that are not necessarily immediately adjacent
+
+197
+00:08:17,200 --> 00:08:18,340
+to what it is you're doing?
+
+198
+00:08:19,080 --> 00:08:20,360
+Because I passed the question.
+
+199
+00:08:20,620 --> 00:08:22,600
+It's beyond, that's beyond it.
+
+200
+00:08:23,200 --> 00:08:26,080
+That's like what they usually call first principle stuff.
+
+201
+00:08:26,160 --> 00:08:27,340
+Where do ideas come from?
+
+202
+00:08:28,320 --> 00:08:30,240
+That's trying to objectify the ether.
+
+203
+00:08:30,380 --> 00:08:32,299
+We're trying to objectify something
+
+204
+00:08:32,299 --> 00:08:34,620
+that is in the substrate of this reality.
+
+205
+00:08:34,760 --> 00:08:37,140
+Once you do that, by the way,
+
+206
+00:08:37,240 --> 00:08:39,860
+that has been done with what's called nuclear technology.
+
+207
+00:08:39,980 --> 00:08:41,360
+It has nothing to do with splitting atoms.
+
+208
+00:08:42,140 --> 00:08:44,460
+It's shorting out the ether, shorting out the substrate.
+
+209
+00:08:44,820 --> 00:08:46,240
+Like just like the old,
+
+210
+00:08:46,360 --> 00:08:47,740
+I don't know if you remember the TV screens,
+
+211
+00:08:47,800 --> 00:08:49,180
+they had these metal grids in them,
+
+212
+00:08:49,240 --> 00:08:51,200
+the ones that they made early computers with
+
+213
+00:08:51,200 --> 00:08:52,780
+because they thought the little metal grid
+
+214
+00:08:52,780 --> 00:08:54,020
+would help with the radiations.
+
+215
+00:08:54,720 --> 00:08:56,340
+If you short out that grid
+
+216
+00:08:56,340 --> 00:08:58,240
+or let's say you short out the board
+
+217
+00:08:58,240 --> 00:08:59,360
+that carries the pixels,
+
+218
+00:08:59,500 --> 00:09:00,760
+you short out all the other pixels.
+
+219
+00:09:00,920 --> 00:09:01,800
+That's what nuclear is.
+
+220
+00:09:02,000 --> 00:09:04,620
+So to find out where it comes from and all that
+
+221
+00:09:04,620 --> 00:09:07,920
+is gonna be shorting out, not the purpose of being,
+
+222
+00:09:07,980 --> 00:09:09,000
+because there is no purpose here.
+
+223
+00:09:09,080 --> 00:09:09,960
+It's just passing time.
+
+224
+00:09:11,860 --> 00:09:13,000
+Well, according to you,
+
+225
+00:09:13,160 --> 00:09:15,420
+the purpose here is to waste other people's time.
+
+226
+00:09:15,800 --> 00:09:16,960
+Well, I'll tell you why.
+
+227
+00:09:17,120 --> 00:09:18,760
+Because if you, well, here's the thing.
+
+228
+00:09:19,020 --> 00:09:21,580
+Everyone's wasting each other's time and things do also.
+
+229
+00:09:21,960 --> 00:09:23,880
+And that doesn't have to be people that waste your time.
+
+230
+00:09:25,680 --> 00:09:27,520
+What I mean by that is, you know,
+
+231
+00:09:27,640 --> 00:09:29,180
+the reincarnation cycle,
+
+232
+00:09:29,300 --> 00:09:31,140
+you know, everyone's got their own soul trap
+
+233
+00:09:31,140 --> 00:09:33,960
+or it gets worse or it gets better or it's non-linear.
+
+234
+00:09:33,980 --> 00:09:35,220
+Like if you die, you know,
+
+235
+00:09:35,300 --> 00:09:37,200
+I'm one of the few people that said this.
+
+236
+00:09:37,700 --> 00:09:39,000
+If there is reincarnation,
+
+237
+00:09:39,080 --> 00:09:40,200
+you could actually die now
+
+238
+00:09:40,200 --> 00:09:41,840
+and be reincarnated in ancient Rome.
+
+239
+00:09:41,920 --> 00:09:42,500
+It's not linear.
+
+240
+00:09:42,600 --> 00:09:44,800
+You're not always reincarnated in the future, right?
+
+241
+00:09:44,940 --> 00:09:46,020
+Well, and I've always tried to say
+
+242
+00:09:46,020 --> 00:09:47,360
+that the other side of that
+
+243
+00:09:47,360 --> 00:09:49,620
+is you could already be reincarnated right now
+
+244
+00:09:49,620 --> 00:09:50,720
+as a five-year-old somewhere
+
+245
+00:09:50,720 --> 00:09:52,160
+and you don't know it just yet.
+
+246
+00:09:52,760 --> 00:09:53,960
+Well, part of it is, yeah,
+
+247
+00:09:53,980 --> 00:09:54,780
+and there's certain cultures
+
+248
+00:09:54,780 --> 00:09:56,820
+that don't consider you being a spirit.
+
+249
+00:09:56,920 --> 00:09:58,460
+We know that you don't have the spirit
+
+250
+00:09:58,460 --> 00:09:59,900
+you're supposed to have until you're 12.
+
+251
+00:10:00,840 --> 00:10:01,960
+But here's the thing.
+
+252
+00:10:02,440 --> 00:10:06,100
+If the reincarnation cycle does go a certain way,
+
+253
+00:10:06,160 --> 00:10:07,960
+we are in an afterlife right now
+
+254
+00:10:07,960 --> 00:10:09,880
+because right, you were alive before.
+
+255
+00:10:10,000 --> 00:10:12,440
+Now you're in a different reincarnation
+
+256
+00:10:12,860 --> 00:10:14,040
+and you're in a different incarnation.
+
+257
+00:10:14,120 --> 00:10:16,180
+So that means you're actually in an afterlife right now.
+
+258
+00:10:16,240 --> 00:10:18,640
+So that kind of kills the whole afterlife thing too.
+
+259
+00:10:19,160 --> 00:10:20,140
+But it goes either way.
+
+260
+00:10:20,140 --> 00:10:23,140
+So these are like primary things
+
+261
+00:10:23,140 --> 00:10:27,120
+that we're not supposed to get an answer to right now
+
+262
+00:10:27,120 --> 00:10:28,660
+because we're, it doesn't,
+
+263
+00:10:28,760 --> 00:10:29,980
+I shouldn't say help us right now
+
+264
+00:10:29,980 --> 00:10:33,640
+because how do you help someone waste your time, right?
+
+265
+00:10:33,800 --> 00:10:36,420
+Because whatever you do to help someone waste someone's time
+
+266
+00:10:36,420 --> 00:10:38,600
+is gonna be another waste of time.
+
+267
+00:10:38,660 --> 00:10:40,900
+It's not really helping the waste of time directly.
+
+268
+00:10:41,260 --> 00:10:42,800
+Right, and that's the other counter question
+
+269
+00:10:42,800 --> 00:10:44,700
+I've always got for people on stuff like this
+
+270
+00:10:44,700 --> 00:10:46,920
+where it's like, what good will this do you?
+
+271
+00:10:47,100 --> 00:10:48,660
+Let's just imagine for a moment
+
+272
+00:10:48,660 --> 00:10:49,820
+that I have the absolute answer.
+
+273
+00:10:50,660 --> 00:10:52,220
+What good is that gonna do you?
+
+274
+00:10:52,660 --> 00:10:55,160
+Is it going to help you in some way to know
+
+275
+00:10:55,160 --> 00:10:56,700
+if I know exactly where?
+
+276
+00:10:57,000 --> 00:10:57,920
+No, no, no, it does.
+
+277
+00:10:58,080 --> 00:10:58,700
+No, it does.
+
+278
+00:10:58,900 --> 00:10:59,320
+It does, okay.
+
+279
+00:10:59,540 --> 00:11:01,020
+Yeah, of course, of course it does.
+
+280
+00:11:01,200 --> 00:11:01,420
+Okay.
+
+281
+00:11:01,500 --> 00:11:02,240
+All that stuff does,
+
+282
+00:11:02,340 --> 00:11:04,360
+but then you won't be wasting time anymore
+
+283
+00:11:04,360 --> 00:11:05,420
+and you don't have to be here.
+
+284
+00:11:06,580 --> 00:11:06,800
+Ah.
+
+285
+00:11:06,940 --> 00:11:08,120
+Right, there's certain things
+
+286
+00:11:08,120 --> 00:11:10,000
+that if you really knew the truth,
+
+287
+00:11:10,000 --> 00:11:11,660
+you would just go poof and you disappear.
+
+288
+00:11:12,420 --> 00:11:14,500
+Have you ever, there was something Rick and Morty,
+
+289
+00:11:14,580 --> 00:11:15,460
+the Meseeks, right?
+
+290
+00:11:15,700 --> 00:11:16,380
+Oh yeah, right.
+
+291
+00:11:17,020 --> 00:11:17,780
+The Meseeks.
+
+292
+00:11:17,780 --> 00:11:19,180
+People think it's ridiculously stupid,
+
+293
+00:11:19,180 --> 00:11:20,400
+but I kind of enjoy it.
+
+294
+00:11:20,940 --> 00:11:22,540
+The Meseeks, yeah, I need something to do,
+
+295
+00:11:22,680 --> 00:11:23,700
+you know, and right, I'll get it done.
+
+296
+00:11:23,740 --> 00:11:24,940
+Don't give me something I can't be done.
+
+297
+00:11:24,940 --> 00:11:27,100
+You know, it's like a day is an eternity for a Meseeks,
+
+298
+00:11:27,240 --> 00:11:27,400
+right?
+
+299
+00:11:27,580 --> 00:11:27,720
+Right.
+
+300
+00:11:28,020 --> 00:11:29,280
+So it's like we're Meseeks, yeah.
+
+301
+00:11:29,740 --> 00:11:32,880
+Now, once you find out certain primary things,
+
+302
+00:11:32,980 --> 00:11:34,640
+the formative things like that,
+
+303
+00:11:34,660 --> 00:11:37,920
+you just disappear, just like a delete, you know, right?
+
+304
+00:11:38,000 --> 00:11:39,040
+But then what happens?
+
+305
+00:11:39,140 --> 00:11:40,120
+Then what happens?
+
+306
+00:11:40,420 --> 00:11:41,540
+Is it another, you see?
+
+307
+00:11:41,620 --> 00:11:43,320
+So all these things tie in together,
+
+308
+00:11:43,560 --> 00:11:45,840
+but I know that inspiration comes first,
+
+309
+00:11:45,840 --> 00:11:48,580
+then ideas, then thought, right?
+
+310
+00:11:48,640 --> 00:11:50,620
+And then the rest is, you know, physical, right?
+
+311
+00:11:51,580 --> 00:11:53,300
+Then you take action or you don't, right?
+
+312
+00:11:53,400 --> 00:11:54,280
+Yeah, right.
+
+313
+00:11:54,300 --> 00:11:55,760
+So the thing is there,
+
+314
+00:11:56,260 --> 00:11:57,780
+I've pondered these things
+
+315
+00:11:57,780 --> 00:11:59,300
+and there's two answers I could give.
+
+316
+00:11:59,360 --> 00:12:01,600
+It's not time to know yet personally for me,
+
+317
+00:12:01,660 --> 00:12:03,420
+or maybe someone else does
+
+318
+00:12:03,420 --> 00:12:06,880
+and they poofed out of here, right?
+
+319
+00:12:07,500 --> 00:12:10,140
+And, but what I do know for sure
+
+320
+00:12:10,140 --> 00:12:11,560
+is we're here to waste time
+
+321
+00:12:11,560 --> 00:12:13,340
+and waste other people's time
+
+322
+00:12:13,340 --> 00:12:15,260
+and have other people waste your time.
+
+323
+00:12:15,260 --> 00:12:17,320
+It's all a waste of time.
+
+324
+00:12:17,660 --> 00:12:19,580
+It's sort of like being at a threshold.
+
+325
+00:12:19,580 --> 00:12:21,640
+You're neither inside nor you're outside, right?
+
+326
+00:12:21,720 --> 00:12:22,520
+Standing at the threshold.
+
+327
+00:12:22,520 --> 00:12:23,880
+Are you in the house or out of the house?
+
+328
+00:12:24,520 --> 00:12:26,960
+It's a very, very strange thing.
+
+329
+00:12:27,000 --> 00:12:30,300
+And boy, I hope the rest of the reality is not like this.
+
+330
+00:12:31,640 --> 00:12:32,720
+So, yeah.
+
+331
+00:12:32,820 --> 00:12:36,760
+But I can't invest any more into thinking about that
+
+332
+00:12:36,760 --> 00:12:39,800
+because I've benefited so much from inspiration.
+
+333
+00:12:40,040 --> 00:12:43,520
+I'll just, some people call them downloads or ideas,
+
+334
+00:12:44,160 --> 00:12:45,200
+whatever, you know,
+
+335
+00:12:45,220 --> 00:12:47,000
+but the inspiration is the core thing.
+
+336
+00:12:47,060 --> 00:12:48,600
+You know, the inspiration is pure emo.
+
+337
+00:12:49,120 --> 00:12:51,440
+Like if you get inspiration to do something,
+
+338
+00:12:52,280 --> 00:12:55,800
+when you have enough formulated to do that thing,
+
+339
+00:12:55,800 --> 00:12:56,940
+it's no longer inspiration.
+
+340
+00:12:56,940 --> 00:12:58,720
+It's an idea and a thought now, right?
+
+341
+00:12:58,720 --> 00:13:00,820
+So the inspiration is a flicker.
+
+342
+00:13:01,040 --> 00:13:02,760
+It's so undefinable.
+
+343
+00:13:03,280 --> 00:13:05,640
+And yeah, it's from that primary.
+
+344
+00:13:05,740 --> 00:13:06,420
+It's like the ether.
+
+345
+00:13:06,560 --> 00:13:07,820
+It's like, yeah,
+
+346
+00:13:07,840 --> 00:13:10,080
+something that if you start understanding that
+
+347
+00:13:10,080 --> 00:13:11,860
+and can dabble with that source,
+
+348
+00:13:11,860 --> 00:13:12,500
+you're out of here.
+
+349
+00:13:12,500 --> 00:13:13,040
+You're done.
+
+350
+00:13:13,520 --> 00:13:14,820
+You're a big threat, you know?
+
+351
+00:13:15,060 --> 00:13:15,160
+Right.
+
+352
+00:13:15,200 --> 00:13:16,400
+I mean, the only thing I can think of
+
+353
+00:13:16,400 --> 00:13:18,620
+is that it must be a very natural process
+
+354
+00:13:18,620 --> 00:13:20,660
+because anything that is natural like that
+
+355
+00:13:20,660 --> 00:13:22,260
+does evolve and grow, right?
+
+356
+00:13:22,620 --> 00:13:24,600
+I don't think anything is natural.
+
+357
+00:13:25,220 --> 00:13:26,520
+But you don't think anything is natural?
+
+358
+00:13:26,760 --> 00:13:26,940
+Okay.
+
+359
+00:13:27,100 --> 00:13:28,680
+No, because if there's a creator,
+
+360
+00:13:29,320 --> 00:13:31,400
+he's an artificer and everything's artificial.
+
+361
+00:13:33,380 --> 00:13:33,780
+Really?
+
+362
+00:13:33,940 --> 00:13:35,440
+If there's a creator, he's an artificer.
+
+363
+00:13:35,540 --> 00:13:36,040
+Yeah, there's no such,
+
+364
+00:13:36,380 --> 00:13:38,360
+nature is a machine, there's archetypes.
+
+365
+00:13:38,500 --> 00:13:40,220
+Yeah, nothing is, okay, natural,
+
+366
+00:13:40,220 --> 00:13:42,100
+okay, when you say natural,
+
+367
+00:13:42,600 --> 00:13:45,920
+it's attributed to not man-made, usually.
+
+368
+00:13:46,360 --> 00:13:48,040
+It's like when you say anarchy,
+
+369
+00:13:48,740 --> 00:13:49,780
+that attributes to, oh,
+
+370
+00:13:49,880 --> 00:13:52,140
+there's gonna be a big mess and chaos, right?
+
+371
+00:13:52,180 --> 00:13:53,500
+No, actually, it doesn't mean that at all.
+
+372
+00:13:53,640 --> 00:13:55,540
+No, it just means I'm without a leader, but.
+
+373
+00:13:56,180 --> 00:13:56,860
+Yeah, you're right.
+
+374
+00:13:56,960 --> 00:13:58,960
+And it's castle doctrine, each man, right?
+
+375
+00:13:59,840 --> 00:14:01,960
+So when you say natural,
+
+376
+00:14:02,160 --> 00:14:04,240
+I think of, you know, there's random,
+
+377
+00:14:04,500 --> 00:14:05,340
+there's a time,
+
+378
+00:14:05,600 --> 00:14:07,760
+there's things that have been put in order.
+
+379
+00:14:07,900 --> 00:14:09,120
+Yes, those things exist, you know,
+
+380
+00:14:09,120 --> 00:14:09,900
+things are put in order
+
+381
+00:14:09,900 --> 00:14:12,060
+that keep cycling and processing,
+
+382
+00:14:12,760 --> 00:14:14,940
+but if there's a creator behind it,
+
+383
+00:14:15,280 --> 00:14:16,760
+he's an artificer, an artist,
+
+384
+00:14:16,880 --> 00:14:19,200
+and everything is artificial, right,
+
+385
+00:14:19,280 --> 00:14:22,360
+of his creation or her creation, their creation.
+
+386
+00:14:22,600 --> 00:14:23,080
+Even when some.
+
+387
+00:14:23,200 --> 00:14:24,060
+It's never a single person,
+
+388
+00:14:24,300 --> 00:14:25,100
+or a single entity.
+
+389
+00:14:25,460 --> 00:14:26,880
+Right, but even when there is a creator,
+
+390
+00:14:27,400 --> 00:14:30,100
+there are other things that occur along with the creation
+
+391
+00:14:30,100 --> 00:14:32,780
+that are not necessarily part of the creator's plan, right,
+
+392
+00:14:32,800 --> 00:14:35,520
+but just sort of occur, right?
+
+393
+00:14:35,520 --> 00:14:36,640
+If he's bound or she,
+
+394
+00:14:36,640 --> 00:14:39,280
+if the creator's bound to that as an environmental,
+
+395
+00:14:39,840 --> 00:14:41,880
+quote, unquote, steady state,
+
+396
+00:14:41,980 --> 00:14:43,780
+then that would be the real nature,
+
+397
+00:14:43,920 --> 00:14:47,100
+and that platonic philosophy discussed that, right?
+
+398
+00:14:47,680 --> 00:14:47,780
+Okay.
+
+399
+00:14:48,000 --> 00:14:48,980
+Platonists discussed that.
+
+400
+00:14:49,220 --> 00:14:50,580
+Okay, well, I'm just thinking to myself,
+
+401
+00:14:50,700 --> 00:14:52,760
+look, you know, the creator could create all the vegetables,
+
+402
+00:14:52,900 --> 00:14:55,500
+but not necessarily create every vegetable ever grown.
+
+403
+00:14:55,760 --> 00:14:56,400
+You know what I'm saying?
+
+404
+00:14:57,040 --> 00:14:59,380
+The order of things is put into place.
+
+405
+00:14:59,960 --> 00:15:02,420
+Because we're too confined to understand, you see?
+
+406
+00:15:02,580 --> 00:15:02,820
+Okay.
+
+407
+00:15:02,860 --> 00:15:05,220
+It's too confined of a, yeah.
+
+408
+00:15:05,220 --> 00:15:07,400
+There are things that pop in and out of this reality,
+
+409
+00:15:07,680 --> 00:15:09,060
+you know, that you could,
+
+410
+00:15:09,520 --> 00:15:12,880
+has anyone found a fossil or a really old giraffe skeleton?
+
+411
+00:15:13,740 --> 00:15:14,060
+Never.
+
+412
+00:15:14,380 --> 00:15:17,400
+Those are like, those things appeared recently, right?
+
+413
+00:15:17,920 --> 00:15:18,720
+Giraffes, you know what?
+
+414
+00:15:18,780 --> 00:15:20,280
+I cannot think of an old giraffe.
+
+415
+00:15:20,360 --> 00:15:22,500
+There are certain things that just did not exist
+
+416
+00:15:22,860 --> 00:15:25,400
+a short while ago that just keep popping in and out.
+
+417
+00:15:25,860 --> 00:15:29,700
+Yeah, so anyway, all right, what I can't,
+
+418
+00:15:29,740 --> 00:15:31,560
+that's something like the book of Daniel.
+
+419
+00:15:31,700 --> 00:15:34,540
+It's so weird to wrap your mind around it, you know?
+
+420
+00:15:35,220 --> 00:15:36,420
+You ever read the book of Daniel?
+
+421
+00:15:36,600 --> 00:15:38,420
+Like everyone says these things happen here,
+
+422
+00:15:38,420 --> 00:15:39,500
+and then you read it, and it's like,
+
+423
+00:15:39,540 --> 00:15:40,740
+no, it's not gonna happen that way.
+
+424
+00:15:40,940 --> 00:15:43,220
+But then if you try to find an explanation,
+
+425
+00:15:43,380 --> 00:15:45,240
+you're like, wait a second, this thing is so convoluted,
+
+426
+00:15:45,260 --> 00:15:46,680
+it takes you right back to where you started.
+
+427
+00:15:47,460 --> 00:15:48,780
+And you're like, oh boy,
+
+428
+00:15:48,860 --> 00:15:50,780
+maybe I'll just put this down till the time is right.
+
+429
+00:15:52,100 --> 00:15:55,380
+Inspiration, if you have it, and you do,
+
+430
+00:15:55,480 --> 00:15:56,860
+if you're a doer, like Greek speak
+
+431
+00:15:56,860 --> 00:15:59,180
+is for people that are doers, right?
+
+432
+00:15:59,860 --> 00:16:01,280
+And let me just put it this way.
+
+433
+00:16:01,280 --> 00:16:03,420
+If you're a keyboard, whatever, you're not a doer.
+
+434
+00:16:03,420 --> 00:16:06,220
+But I know some keyboard people that code
+
+435
+00:16:06,220 --> 00:16:08,100
+and work with all this other stuff,
+
+436
+00:16:08,240 --> 00:16:09,920
+and they build stuff, they make stuff,
+
+437
+00:16:10,020 --> 00:16:10,640
+they, you know, whatever.
+
+438
+00:16:10,760 --> 00:16:12,960
+Yeah, okay, good, but Greek speak is people
+
+439
+00:16:12,960 --> 00:16:15,380
+who do things, make things, right?
+
+440
+00:16:15,460 --> 00:16:17,200
+And I mean that in a simple sense, right?
+
+441
+00:16:19,780 --> 00:16:21,700
+Like third grade craft class.
+
+442
+00:16:21,780 --> 00:16:23,440
+You know, when you take craft in third grade,
+
+443
+00:16:23,520 --> 00:16:25,120
+they give you glue and popsicle sticks.
+
+444
+00:16:25,440 --> 00:16:28,080
+That kind of doing, like start from there, right?
+
+445
+00:16:28,100 --> 00:16:29,880
+You work with your hands and your mind,
+
+446
+00:16:29,900 --> 00:16:32,620
+and you build stuff, and people rely on you
+
+447
+00:16:33,140 --> 00:16:36,640
+for your expertise in doing things, right?
+
+448
+00:16:37,280 --> 00:16:40,580
+Fixing things, making things, helping out with things.
+
+449
+00:16:41,040 --> 00:16:43,360
+See, in the context of inspiration though, right?
+
+450
+00:16:43,600 --> 00:16:45,540
+If we are created by the creator
+
+451
+00:16:45,540 --> 00:16:46,920
+and then we create something,
+
+452
+00:16:47,520 --> 00:16:50,360
+is that not a secondary creation of the creator, right?
+
+453
+00:16:50,880 --> 00:16:52,940
+So, you know, like when people say,
+
+454
+00:16:52,980 --> 00:16:54,900
+oh, that was, you know, inspired, you know,
+
+455
+00:16:54,960 --> 00:16:56,940
+the old, that was inspired by God.
+
+456
+00:16:57,440 --> 00:17:00,700
+Well, isn't everything in a way, right?
+
+457
+00:17:00,700 --> 00:17:03,800
+Because if you created it and you were a creation,
+
+458
+00:17:04,800 --> 00:17:05,579
+doesn't it follow that?
+
+459
+00:17:05,579 --> 00:17:07,880
+Well, there's also cosmic censorship the other way,
+
+460
+00:17:07,980 --> 00:17:10,079
+where you, the inspirations are held back.
+
+461
+00:17:10,359 --> 00:17:10,740
+Right.
+
+462
+00:17:11,300 --> 00:17:12,819
+Right, it goes both ways.
+
+463
+00:17:13,140 --> 00:17:15,160
+I mean, it's very frustrating when you try to think
+
+464
+00:17:15,160 --> 00:17:16,900
+about these core principles.
+
+465
+00:17:17,200 --> 00:17:18,420
+You just have to go along with it.
+
+466
+00:17:18,460 --> 00:17:19,859
+It becomes difficult because, you know,
+
+467
+00:17:19,880 --> 00:17:21,260
+the absence of evidence, right?
+
+468
+00:17:21,359 --> 00:17:23,540
+Doesn't necessarily mean the thing doesn't exist.
+
+469
+00:17:23,619 --> 00:17:24,700
+You just haven't found it yet.
+
+470
+00:17:25,640 --> 00:17:27,480
+No, well, you try to define,
+
+471
+00:17:27,560 --> 00:17:28,800
+well, here's the thing, like the ether
+
+472
+00:17:28,800 --> 00:17:30,200
+is one of these primary things
+
+473
+00:17:30,200 --> 00:17:31,360
+because you cannot objectify it
+
+474
+00:17:31,360 --> 00:17:32,240
+because you're made of it.
+
+475
+00:17:32,540 --> 00:17:34,940
+Like the image on TV, if it was sentient,
+
+476
+00:17:35,040 --> 00:17:37,160
+it doesn't really know that it's made up of pixels
+
+477
+00:17:37,160 --> 00:17:38,780
+because once it starts getting into that,
+
+478
+00:17:38,860 --> 00:17:41,960
+then it could really screw up the scene, right?
+
+479
+00:17:43,080 --> 00:17:44,940
+So, well, there's an old cartoon,
+
+480
+00:17:45,080 --> 00:17:46,860
+which I really enjoyed where the cartoon characters
+
+481
+00:17:46,860 --> 00:17:47,680
+show them on the board.
+
+482
+00:17:48,120 --> 00:17:51,560
+He grabs an eraser and it's in reality, right?
+
+483
+00:17:51,780 --> 00:17:54,260
+And he starts erasing parts of the things
+
+484
+00:17:54,260 --> 00:17:55,440
+in the cartoon, right?
+
+485
+00:17:56,240 --> 00:17:56,900
+Oh yeah, I remember that.
+
+486
+00:17:56,900 --> 00:17:57,420
+We're kind of stuck.
+
+487
+00:17:57,840 --> 00:17:59,200
+It was like a Looney Tunes thing.
+
+488
+00:17:59,200 --> 00:18:01,480
+He turns around and starts erasing the other character
+
+489
+00:18:01,480 --> 00:18:03,200
+and knocks him down and just-
+
+490
+00:18:03,200 --> 00:18:04,560
+Yeah, and it's a realism.
+
+491
+00:18:04,800 --> 00:18:05,220
+It's an eraser.
+
+492
+00:18:05,420 --> 00:18:06,780
+They kind of use special effects.
+
+493
+00:18:06,940 --> 00:18:08,520
+It's a real pencil that he reaches out
+
+494
+00:18:08,520 --> 00:18:10,480
+and grabs kind of like Roger Rabbit, right?
+
+495
+00:18:10,640 --> 00:18:11,720
+Yeah, well, sort of like-
+
+496
+00:18:11,720 --> 00:18:13,840
+They mix the cartoon with the, yeah.
+
+497
+00:18:13,960 --> 00:18:15,120
+With the physical world, right.
+
+498
+00:18:15,580 --> 00:18:18,240
+And the photographic with the animated.
+
+499
+00:18:19,520 --> 00:18:22,580
+Yeah, but before the computer though, way before that,
+
+500
+00:18:23,440 --> 00:18:24,580
+which is interesting.
+
+501
+00:18:25,060 --> 00:18:27,540
+Well, yeah, when you watch stuff before this,
+
+502
+00:18:27,540 --> 00:18:29,200
+especially before the 60s,
+
+503
+00:18:29,280 --> 00:18:30,920
+and I tell people when they're watching a movie,
+
+504
+00:18:31,160 --> 00:18:33,080
+all this was done without CGI.
+
+505
+00:18:33,500 --> 00:18:34,860
+All this was painted by hand.
+
+506
+00:18:34,940 --> 00:18:37,000
+All this was made by hand, right?
+
+507
+00:18:37,420 --> 00:18:38,700
+Yeah, and then they came up with different ways
+
+508
+00:18:38,700 --> 00:18:39,800
+to photograph stuff.
+
+509
+00:18:39,840 --> 00:18:42,760
+If we cut this down and we use the light a certain way
+
+510
+00:18:42,760 --> 00:18:47,160
+or this simple idea of smudging Vaseline on a lens,
+
+511
+00:18:47,360 --> 00:18:47,920
+you know, whatever.
+
+512
+00:18:48,680 --> 00:18:49,980
+They came up with practical ways.
+
+513
+00:18:50,160 --> 00:18:51,900
+There's always a lot of fakery in the beginning.
+
+514
+00:18:52,040 --> 00:18:54,060
+If you go back to when there was medium format,
+
+515
+00:18:54,140 --> 00:18:56,840
+large format, film negative in the 19th century,
+
+516
+00:18:56,840 --> 00:19:00,700
+in the early 1800s, mid 1800s, early 1900s,
+
+517
+00:19:00,960 --> 00:19:02,160
+most of the photographs,
+
+518
+00:19:02,320 --> 00:19:04,460
+even though they're originals, they've been faked.
+
+519
+00:19:04,580 --> 00:19:06,760
+In other words, someone sat there with a razor knife,
+
+520
+00:19:07,140 --> 00:19:08,240
+started cutting negatives,
+
+521
+00:19:08,280 --> 00:19:09,240
+because they weren't small negatives.
+
+522
+00:19:09,340 --> 00:19:10,660
+Medium format's large, right?
+
+523
+00:19:10,700 --> 00:19:11,700
+Large format negatives.
+
+524
+00:19:12,100 --> 00:19:13,120
+You know, like the old cameras,
+
+525
+00:19:13,640 --> 00:19:15,220
+boom, the flashbulb goes.
+
+526
+00:19:15,620 --> 00:19:17,300
+Then you see that box camera.
+
+527
+00:19:17,400 --> 00:19:19,240
+Well, the negative's that big, right?
+
+528
+00:19:19,260 --> 00:19:19,960
+It's pretty large.
+
+529
+00:19:20,860 --> 00:19:22,720
+So it was very easy to manipulate.
+
+530
+00:19:22,860 --> 00:19:24,900
+You see a lot of these old photographs on there.
+
+531
+00:19:24,960 --> 00:19:25,700
+Like, wait a second.
+
+532
+00:19:26,160 --> 00:19:27,580
+Look at this city in the background.
+
+533
+00:19:27,760 --> 00:19:29,620
+It's kind of like the pictures they show you
+
+534
+00:19:29,620 --> 00:19:31,980
+of NASA when they were on the moon, the Apollo.
+
+535
+00:19:32,100 --> 00:19:34,200
+You could see, like, they're on this gray sand,
+
+536
+00:19:34,300 --> 00:19:35,380
+and in the background, you could see
+
+537
+00:19:35,380 --> 00:19:38,480
+it's all been cut in and put in later, right?
+
+538
+00:19:38,740 --> 00:19:41,460
+If you have a knack for how photography works.
+
+539
+00:19:42,360 --> 00:19:44,960
+But yeah, a lot of the early photographs that you see,
+
+540
+00:19:45,040 --> 00:19:46,960
+the historical reference ones, are fake.
+
+541
+00:19:47,440 --> 00:19:48,840
+So in other words, they've been doctored.
+
+542
+00:19:48,980 --> 00:19:50,040
+You know, someone sat there.
+
+543
+00:19:50,840 --> 00:19:53,340
+They're very meticulously done.
+
+544
+00:19:53,340 --> 00:19:57,280
+But yeah, it's very rare to find an actual photograph,
+
+545
+00:19:57,420 --> 00:19:59,860
+an old, old photograph that's in, you know,
+
+546
+00:19:59,880 --> 00:20:01,660
+considered part of the historical record.
+
+547
+00:20:01,800 --> 00:20:02,840
+Most of them have been faked.
+
+548
+00:20:03,800 --> 00:20:04,520
+It's interesting.
+
+549
+00:20:05,040 --> 00:20:06,700
+And that was the beginning of photography.
+
+550
+00:20:06,880 --> 00:20:07,860
+And so right now, we're in the beginning
+
+551
+00:20:07,860 --> 00:20:09,780
+of all this other technology.
+
+552
+00:20:09,780 --> 00:20:10,260
+And guess what?
+
+553
+00:20:10,300 --> 00:20:12,640
+You got deep fake, blah, blah, blah, AI fakes this,
+
+554
+00:20:12,740 --> 00:20:14,760
+they fake that, because it's a newer technology
+
+555
+00:20:14,760 --> 00:20:15,420
+for the public.
+
+556
+00:20:15,760 --> 00:20:18,380
+It seems like when a newer technology comes out,
+
+557
+00:20:18,820 --> 00:20:19,720
+there's a lot of fakery.
+
+558
+00:20:19,920 --> 00:20:21,960
+Like, you know, in China, when cell phones
+
+559
+00:20:21,960 --> 00:20:25,620
+started becoming popular in the late 90s and early 2000s,
+
+560
+00:20:25,680 --> 00:20:30,380
+they sold a billion fake vanity phones, cell phones.
+
+561
+00:20:30,940 --> 00:20:32,460
+Still, I think in the early 2000s,
+
+562
+00:20:32,460 --> 00:20:34,020
+you could find them in the dollar store.
+
+563
+00:20:34,120 --> 00:20:36,140
+It just looked like a cell phone, right,
+
+564
+00:20:36,180 --> 00:20:37,220
+with the antenna sticking out.
+
+565
+00:20:37,260 --> 00:20:38,060
+It was a vanity phone.
+
+566
+00:20:38,140 --> 00:20:39,300
+So if you couldn't afford one,
+
+567
+00:20:39,360 --> 00:20:40,980
+you just looked like you had one, right?
+
+568
+00:20:41,520 --> 00:20:43,480
+So just fakery on many, many levels.
+
+569
+00:20:44,460 --> 00:20:45,520
+But anyway, what's the other question?
+
+570
+00:20:46,180 --> 00:20:50,760
+Yeah, well, the other question was about what entity drives.
+
+571
+00:20:50,760 --> 00:20:53,340
+They started out with this by saying,
+
+572
+00:20:53,440 --> 00:20:55,360
+that seems like the Greek is a cat person
+
+573
+00:20:55,360 --> 00:20:56,420
+and you're a dog person.
+
+574
+00:20:56,880 --> 00:20:58,000
+That's what they said to me.
+
+575
+00:20:58,400 --> 00:20:59,580
+I said, yeah, that's true.
+
+576
+00:21:00,280 --> 00:21:03,500
+But the thing that they asked about is animal cruelty.
+
+577
+00:21:03,800 --> 00:21:07,160
+Is there a particular part of what's going on
+
+578
+00:21:07,160 --> 00:21:08,780
+with animal cruelty currently?
+
+579
+00:21:09,080 --> 00:21:10,200
+Is there something to that?
+
+580
+00:21:10,280 --> 00:21:12,160
+Is there an entity in charge of it?
+
+581
+00:21:12,980 --> 00:21:14,860
+They had a bunch of questions like that.
+
+582
+00:21:14,940 --> 00:21:16,240
+And I'm going, well, yeah.
+
+583
+00:21:16,280 --> 00:21:17,960
+And then they talked about how they felt
+
+584
+00:21:18,440 --> 00:21:20,060
+as though this is a lower,
+
+585
+00:21:21,000 --> 00:21:23,960
+this is definitely like a lower spiritual level.
+
+586
+00:21:24,200 --> 00:21:26,920
+Like this is even worse than people who are cruel to people.
+
+587
+00:21:27,740 --> 00:21:29,420
+And they wanted me to ask you about it.
+
+588
+00:21:29,500 --> 00:21:29,840
+So go ahead.
+
+589
+00:21:29,960 --> 00:21:30,540
+It's more helpless.
+
+590
+00:21:31,400 --> 00:21:33,920
+Well, the thing is, it's never a single thing.
+
+591
+00:21:34,500 --> 00:21:36,720
+And also the lower the entities are,
+
+592
+00:21:36,800 --> 00:21:38,860
+the more identity stricken they are,
+
+593
+00:21:38,920 --> 00:21:41,440
+the more they identify with a specific name,
+
+594
+00:21:41,760 --> 00:21:44,540
+the more they identify with a specific grimoire or whatever.
+
+595
+00:21:44,800 --> 00:21:46,380
+But by the way, all these sigils
+
+596
+00:21:46,380 --> 00:21:48,980
+and ways that you summon an entity and all that,
+
+597
+00:21:49,480 --> 00:21:51,440
+they don't need any of that.
+
+598
+00:21:51,520 --> 00:21:54,020
+They like to make humans believe that they need that, right?
+
+599
+00:21:54,100 --> 00:21:55,240
+They're always watching.
+
+600
+00:21:55,820 --> 00:21:58,240
+And the ones that do get the specific grimoires
+
+601
+00:21:58,240 --> 00:22:00,140
+and names and the way to direct, then they appear
+
+602
+00:22:00,140 --> 00:22:02,340
+because that's like a pact they have on their side.
+
+603
+00:22:03,260 --> 00:22:06,200
+But the people have to be, okay,
+
+604
+00:22:06,320 --> 00:22:09,040
+the people that do that kind of animal cruelty
+
+605
+00:22:09,040 --> 00:22:12,540
+usually have to be brought to that situation, right?
+
+606
+00:22:13,180 --> 00:22:14,860
+You know, like if you hear,
+
+607
+00:22:14,860 --> 00:22:16,640
+even though it's in popular culture,
+
+608
+00:22:16,740 --> 00:22:17,660
+a lot of these serial killers,
+
+609
+00:22:17,780 --> 00:22:19,500
+oh yeah, he killed the family dog.
+
+610
+00:22:19,720 --> 00:22:21,640
+And even before that, when he was young,
+
+611
+00:22:21,720 --> 00:22:24,140
+he was spending most of his time outside
+
+612
+00:22:24,140 --> 00:22:26,240
+in the day burning ants with a magnifying glass.
+
+613
+00:22:26,300 --> 00:22:27,480
+You know how they build that up, right?
+
+614
+00:22:27,720 --> 00:22:28,500
+Yeah, that kind of thing.
+
+615
+00:22:28,580 --> 00:22:28,960
+You've heard that.
+
+616
+00:22:29,240 --> 00:22:29,740
+Yeah, yeah.
+
+617
+00:22:29,780 --> 00:22:32,580
+So that kind of stuff is true to an extent,
+
+618
+00:22:33,000 --> 00:22:35,560
+but most of it is from that military system.
+
+619
+00:22:35,900 --> 00:22:38,840
+Because the school system from a young age
+
+620
+00:22:38,840 --> 00:22:39,820
+is military based.
+
+621
+00:22:39,980 --> 00:22:41,900
+You know, it's that Prussian kind of like,
+
+622
+00:22:41,900 --> 00:22:44,580
+you know, you're gonna be a worker or a soldier,
+
+623
+00:22:44,840 --> 00:22:45,820
+you know, kind of thing, right?
+
+624
+00:22:46,460 --> 00:22:47,860
+And there's a lot of cruelty.
+
+625
+00:22:48,480 --> 00:22:50,660
+Cruelty is allowed in school, you know,
+
+626
+00:22:51,340 --> 00:22:53,700
+because they expect you, you know,
+
+627
+00:22:53,800 --> 00:22:56,820
+to be also have that potential as you get older,
+
+628
+00:22:56,900 --> 00:22:59,620
+because it could be used by the state, right?
+
+629
+00:23:00,240 --> 00:23:02,440
+But there's a lot of sick stuff going on.
+
+630
+00:23:02,520 --> 00:23:05,400
+And it's hard to tell who is and who isn't,
+
+631
+00:23:05,480 --> 00:23:07,200
+but there are entities behind everything.
+
+632
+00:23:08,780 --> 00:23:10,020
+And it's never one.
+
+633
+00:23:11,140 --> 00:23:11,540
+Right.
+
+634
+00:23:11,840 --> 00:23:13,620
+Even for example, when you read scripture,
+
+635
+00:23:13,740 --> 00:23:15,360
+let's say you say Yahweh.
+
+636
+00:23:15,560 --> 00:23:16,500
+Well, he's part of a group.
+
+637
+00:23:17,240 --> 00:23:18,220
+It's very clear.
+
+638
+00:23:18,720 --> 00:23:19,520
+It's very clear.
+
+639
+00:23:19,740 --> 00:23:20,900
+It's an entire group.
+
+640
+00:23:21,020 --> 00:23:22,620
+And there are others that come down.
+
+641
+00:23:22,940 --> 00:23:24,020
+Let's say if you read scripture,
+
+642
+00:23:24,100 --> 00:23:26,740
+now we're not talking about the veracity of the scripture.
+
+643
+00:23:26,860 --> 00:23:28,540
+We're talking about what scripture actually says.
+
+644
+00:23:28,820 --> 00:23:28,940
+Right.
+
+645
+00:23:29,320 --> 00:23:30,460
+Right, you know?
+
+646
+00:23:31,880 --> 00:23:33,700
+So veracity in terms of is it,
+
+647
+00:23:33,880 --> 00:23:36,100
+should it be viewed as really came from God?
+
+648
+00:23:36,260 --> 00:23:37,900
+Or is it who wrote it?
+
+649
+00:23:37,960 --> 00:23:38,520
+None of that stuff.
+
+650
+00:23:38,540 --> 00:23:40,000
+That's going on with archaics right now.
+
+651
+00:23:40,000 --> 00:23:44,320
+I just don't watch it because very often
+
+652
+00:23:44,320 --> 00:23:45,480
+when you see that kind of stuff,
+
+653
+00:23:45,560 --> 00:23:47,040
+they don't even know what's in the scripture.
+
+654
+00:23:47,180 --> 00:23:48,900
+And then they talk about it in another way.
+
+655
+00:23:48,960 --> 00:23:50,640
+But if you just read the scripture,
+
+656
+00:23:51,640 --> 00:23:54,060
+there's cases where he says,
+
+657
+00:23:54,140 --> 00:23:57,100
+I'm going to send someone that's just like me, right?
+
+658
+00:23:57,420 --> 00:23:59,900
+Down into your camp, for example, in Exodus, right?
+
+659
+00:24:00,340 --> 00:24:02,260
+And the only difference between him and me
+
+660
+00:24:02,260 --> 00:24:04,200
+is he's not forgiving, right?
+
+661
+00:24:04,340 --> 00:24:05,680
+So don't, you know, whatever.
+
+662
+00:24:05,860 --> 00:24:07,680
+So you have these dupes,
+
+663
+00:24:07,680 --> 00:24:13,540
+these doppelganger spirits that occur.
+
+664
+00:24:13,880 --> 00:24:15,320
+That's very prevalent.
+
+665
+00:24:15,520 --> 00:24:18,020
+So to say that there's one, there isn't.
+
+666
+00:24:18,200 --> 00:24:21,860
+There could be an animal cruelty spirit for,
+
+667
+00:24:22,180 --> 00:24:23,460
+you know, let's say for the 5 billion
+
+668
+00:24:23,460 --> 00:24:24,780
+or actually 2 billion people,
+
+669
+00:24:24,900 --> 00:24:26,180
+let's say that they're on the earth, right?
+
+670
+00:24:26,500 --> 00:24:28,880
+There could be that many and they're just waiting there.
+
+671
+00:24:29,440 --> 00:24:31,620
+But I would say that we have enough.
+
+672
+00:24:32,400 --> 00:24:34,860
+If you take control of your thoughts
+
+673
+00:24:34,860 --> 00:24:37,740
+and you get the little voice in your head,
+
+674
+00:24:38,560 --> 00:24:41,100
+I've been doing another level of practice with that.
+
+675
+00:24:41,300 --> 00:24:44,120
+The voice in your head, I let it drift
+
+676
+00:24:44,120 --> 00:24:46,620
+and I acknowledge it and I'm like,
+
+677
+00:24:46,640 --> 00:24:47,900
+what the hell are you talking about?
+
+678
+00:24:47,920 --> 00:24:48,980
+And it stops, right?
+
+679
+00:24:49,160 --> 00:24:50,540
+And then it goes away for a while
+
+680
+00:24:50,540 --> 00:24:52,220
+and then you forget and it comes back, right?
+
+681
+00:24:52,280 --> 00:24:54,880
+So you always have to be in control of that.
+
+682
+00:24:55,260 --> 00:24:57,240
+And when you can control that voice in your head,
+
+683
+00:24:57,340 --> 00:24:59,100
+or just let, you know, you're going to hear it.
+
+684
+00:24:59,500 --> 00:25:01,960
+But when you acknowledge that it's, you know, a voice,
+
+685
+00:25:02,640 --> 00:25:05,220
+unknown like inspiration, where's it coming from, right?
+
+686
+00:25:05,760 --> 00:25:07,580
+When you acknowledge these things,
+
+687
+00:25:07,780 --> 00:25:09,480
+it becomes much more clear
+
+688
+00:25:09,480 --> 00:25:11,520
+what an influence is about to come on you.
+
+689
+00:25:11,880 --> 00:25:14,340
+Like most people think like, I've heard someone say,
+
+690
+00:25:14,640 --> 00:25:17,120
+oh yeah, most people are possessed, demonically possessed.
+
+691
+00:25:17,240 --> 00:25:18,080
+And the other person agrees.
+
+692
+00:25:18,160 --> 00:25:19,520
+I'm like, no, I wouldn't say that.
+
+693
+00:25:19,940 --> 00:25:21,400
+Because there's different levels of it.
+
+694
+00:25:21,600 --> 00:25:24,140
+Like there's the influence,
+
+695
+00:25:24,540 --> 00:25:26,220
+most people I would say are influenced.
+
+696
+00:25:26,420 --> 00:25:28,980
+And then you have the next level is oppression,
+
+697
+00:25:29,220 --> 00:25:30,140
+whether oppressed, you know,
+
+698
+00:25:30,140 --> 00:25:32,020
+where their health goes down and always whatever.
+
+699
+00:25:32,580 --> 00:25:33,740
+And then you have possession.
+
+700
+00:25:33,860 --> 00:25:35,940
+Possession is actually very, very rare.
+
+701
+00:25:36,300 --> 00:25:38,920
+That would be like in what they did to a little poor girl
+
+702
+00:25:38,920 --> 00:25:41,200
+in the movie, The Exorcist, that would be possession.
+
+703
+00:25:41,200 --> 00:25:42,360
+If you ask who you are,
+
+704
+00:25:42,380 --> 00:25:44,800
+I wouldn't say a little girl's name at all, right?
+
+705
+00:25:45,900 --> 00:25:50,920
+So the influence of people to be cruel to animals
+
+706
+00:25:50,920 --> 00:25:53,440
+is they're very broad, very broad.
+
+707
+00:25:54,240 --> 00:25:55,740
+And what I mean by that is like,
+
+708
+00:25:55,780 --> 00:25:57,040
+well, I don't know anyone who's cruel to animals.
+
+709
+00:25:57,120 --> 00:25:59,040
+Yeah, but you know, when you hear of a,
+
+710
+00:25:59,040 --> 00:26:02,940
+there's another 800 dogs were brought to the animal shelter
+
+711
+00:26:02,940 --> 00:26:05,740
+and they're gonna start euthanizing them, whatever.
+
+712
+00:26:06,000 --> 00:26:08,220
+Well, how do you, oh, that's just a news article to you,
+
+713
+00:26:08,260 --> 00:26:08,540
+isn't it?
+
+714
+00:26:08,620 --> 00:26:10,340
+Do you really feel what's happening there?
+
+715
+00:26:10,360 --> 00:26:12,720
+Are you gonna make a campaign to go save some dogs?
+
+716
+00:26:12,820 --> 00:26:14,140
+No, right?
+
+717
+00:26:14,200 --> 00:26:16,120
+Because you're influenced that that's okay, right?
+
+718
+00:26:16,160 --> 00:26:17,120
+To accept it, right?
+
+719
+00:26:18,940 --> 00:26:21,080
+And then there's, of course, the people that work there.
+
+720
+00:26:21,120 --> 00:26:24,280
+And one criticism I have on that is,
+
+721
+00:26:24,760 --> 00:26:26,400
+and I've spoken to people throughout,
+
+722
+00:26:26,580 --> 00:26:28,020
+actually since the 80s about this,
+
+723
+00:26:28,020 --> 00:26:30,380
+animal testing in the pharmaceutical industry.
+
+724
+00:26:30,940 --> 00:26:32,600
+It's completely unnecessary.
+
+725
+00:26:32,660 --> 00:26:34,840
+They have these cruel motherfuckers
+
+726
+00:26:34,840 --> 00:26:39,300
+that enjoy putting strong acid in animals' eyes.
+
+727
+00:26:39,540 --> 00:26:40,460
+You know that it's gonna,
+
+728
+00:26:40,660 --> 00:26:43,400
+look, if you drop that acid on the table
+
+729
+00:26:43,400 --> 00:26:45,900
+that has a paper on it, the paper will dissolve.
+
+730
+00:26:46,040 --> 00:26:48,740
+Why are you putting it in the rabbit's eyes, right?
+
+731
+00:26:48,740 --> 00:26:50,060
+Because they get a thrill from that.
+
+732
+00:26:50,140 --> 00:26:51,120
+They're sick fucks, you know,
+
+733
+00:26:51,140 --> 00:26:53,780
+people who do medical research, majority of them.
+
+734
+00:26:53,920 --> 00:26:55,020
+And I'm not saying this,
+
+735
+00:26:55,340 --> 00:26:57,600
+I'm saying this from people that did it in the inside.
+
+736
+00:26:57,600 --> 00:26:58,460
+I couldn't take it.
+
+737
+00:26:58,500 --> 00:26:59,220
+They're like, oh, what do you do?
+
+738
+00:26:59,240 --> 00:26:59,940
+I did medical research.
+
+739
+00:27:00,060 --> 00:27:00,900
+Not anymore, I don't do it anymore.
+
+740
+00:27:01,000 --> 00:27:01,580
+I said, what happened?
+
+741
+00:27:01,960 --> 00:27:02,840
+Oh, I was there three months.
+
+742
+00:27:02,880 --> 00:27:03,740
+These people are sick.
+
+743
+00:27:04,280 --> 00:27:05,080
+And I'm like, okay.
+
+744
+00:27:05,480 --> 00:27:06,620
+And then like a few years later,
+
+745
+00:27:06,680 --> 00:27:07,180
+I run into someone else.
+
+746
+00:27:07,220 --> 00:27:07,980
+Oh, I did medical research.
+
+747
+00:27:08,020 --> 00:27:08,920
+I couldn't do it anymore
+
+748
+00:27:08,920 --> 00:27:10,040
+because these people are crazy.
+
+749
+00:27:10,160 --> 00:27:11,080
+I'm like, so I'm starting to hear,
+
+750
+00:27:11,900 --> 00:27:13,280
+you know, the people, you know,
+
+751
+00:27:13,300 --> 00:27:14,360
+that used to work in that.
+
+752
+00:27:14,520 --> 00:27:15,920
+And I'm like, this is really fucked up.
+
+753
+00:27:16,000 --> 00:27:17,240
+Yeah, it is, big time.
+
+754
+00:27:17,640 --> 00:27:21,380
+See, so it's done on a professional level also.
+
+755
+00:27:21,780 --> 00:27:23,400
+Well, it seems like almost every profession
+
+756
+00:27:23,400 --> 00:27:25,460
+has a level where, you know what,
+
+757
+00:27:25,540 --> 00:27:26,840
+you can be on the outside,
+
+758
+00:27:26,840 --> 00:27:28,080
+but once they start bringing you
+
+759
+00:27:28,080 --> 00:27:29,740
+into how things actually work,
+
+760
+00:27:31,480 --> 00:27:32,900
+you learn that, you know,
+
+761
+00:27:33,020 --> 00:27:35,340
+the morality is shot.
+
+762
+00:27:35,640 --> 00:27:35,840
+I mean.
+
+763
+00:27:36,200 --> 00:27:36,720
+Yeah, it is.
+
+764
+00:27:36,860 --> 00:27:38,180
+Every field is like that, yeah.
+
+765
+00:27:38,480 --> 00:27:39,380
+Look at sports.
+
+766
+00:27:39,480 --> 00:27:40,680
+You can go as far as sports.
+
+767
+00:27:40,840 --> 00:27:42,320
+All the, you know, all the games are fixed, right?
+
+768
+00:27:42,340 --> 00:27:43,780
+All the major games, every sport.
+
+769
+00:27:44,000 --> 00:27:44,480
+Pretty much.
+
+770
+00:27:44,720 --> 00:27:46,040
+They're all fixed, pretty much, yeah.
+
+771
+00:27:46,440 --> 00:27:47,120
+And so, for example,
+
+772
+00:27:47,220 --> 00:27:48,720
+when you watch a baseball game
+
+773
+00:27:48,720 --> 00:27:50,180
+and you see the ball, you know,
+
+774
+00:27:50,200 --> 00:27:52,020
+a fly ball or it goes to left field
+
+775
+00:27:52,020 --> 00:27:53,320
+or right field or down the middle,
+
+776
+00:27:53,860 --> 00:27:56,100
+those guys are professional baseball players, right?
+
+777
+00:27:56,100 --> 00:27:56,780
+Yes, they are.
+
+778
+00:27:57,000 --> 00:27:58,220
+Well, they could hit that ball
+
+779
+00:27:58,220 --> 00:28:00,520
+exactly within a few yards
+
+780
+00:28:00,520 --> 00:28:02,040
+of where you want it every time.
+
+781
+00:28:03,120 --> 00:28:04,500
+Why are they hitting it here and there
+
+782
+00:28:04,500 --> 00:28:05,780
+and the game is proceeding, right?
+
+783
+00:28:06,720 --> 00:28:09,840
+How many of them retired from the sport?
+
+784
+00:28:10,040 --> 00:28:11,280
+1,000, maybe, right?
+
+785
+00:28:11,340 --> 00:28:12,080
+Since one of these,
+
+786
+00:28:12,420 --> 00:28:14,200
+let's say past 100 some odd years
+
+787
+00:28:14,200 --> 00:28:14,960
+of playing baseball,
+
+788
+00:28:15,340 --> 00:28:17,100
+how many have come forward and said this game,
+
+789
+00:28:17,220 --> 00:28:18,020
+all the games are fixed
+
+790
+00:28:18,020 --> 00:28:19,540
+or most of the major games are fixed,
+
+791
+00:28:19,680 --> 00:28:19,880
+you say?
+
+792
+00:28:20,100 --> 00:28:20,380
+None.
+
+793
+00:28:20,460 --> 00:28:21,920
+I've not seen any, yeah.
+
+794
+00:28:22,400 --> 00:28:24,140
+Pete Rose, they busted him for betting.
+
+795
+00:28:24,700 --> 00:28:26,140
+That's about it, right?
+
+796
+00:28:26,920 --> 00:28:27,680
+Judges, how many?
+
+797
+00:28:27,760 --> 00:28:29,420
+Actually, there have been a few federal judges
+
+798
+00:28:29,420 --> 00:28:29,960
+that have come forward
+
+799
+00:28:29,960 --> 00:28:31,800
+and said the whole system's fucked, right?
+
+800
+00:28:32,420 --> 00:28:35,160
+There have been maybe very few attorneys,
+
+801
+00:28:35,380 --> 00:28:36,660
+there's a bunch of doctors
+
+802
+00:28:36,660 --> 00:28:37,560
+that have come out and said
+
+803
+00:28:37,560 --> 00:28:38,880
+this whole system is screwed up,
+
+804
+00:28:38,900 --> 00:28:41,300
+but not enough when you take in consideration.
+
+805
+00:28:41,940 --> 00:28:43,820
+The same thing goes for the animal cruelty
+
+806
+00:28:44,280 --> 00:28:47,340
+and the human cruelty and whatever, you know?
+
+807
+00:28:48,480 --> 00:28:50,340
+Yeah, it's pretty, it's a pretty,
+
+808
+00:28:50,640 --> 00:28:51,780
+yeah, it's not good.
+
+809
+00:28:51,880 --> 00:28:53,800
+No, I've always found it extremely disturbing.
+
+810
+00:28:54,260 --> 00:28:56,220
+It's just, you know,
+
+811
+00:28:57,400 --> 00:29:00,760
+this weird principle that I got very young in life,
+
+812
+00:29:00,880 --> 00:29:03,200
+I think is a true and fine principle,
+
+813
+00:29:03,360 --> 00:29:05,720
+which is you don't prey upon anything
+
+814
+00:29:05,720 --> 00:29:06,660
+that's weaker than you.
+
+815
+00:29:07,360 --> 00:29:09,660
+You know, this is not something you're supposed to do.
+
+816
+00:29:09,860 --> 00:29:11,540
+That's the US military's thing.
+
+817
+00:29:12,380 --> 00:29:13,540
+They'll never fight anyone
+
+818
+00:29:13,540 --> 00:29:15,460
+that's as strong as they are stronger.
+
+819
+00:29:16,160 --> 00:29:18,080
+They only prey on civilian populations.
+
+820
+00:29:18,240 --> 00:29:19,720
+Do I sound like I'm anti-military?
+
+821
+00:29:19,900 --> 00:29:21,920
+No, but anyway.
+
+822
+00:29:22,060 --> 00:29:23,320
+Well, I'm saying the opposite thing.
+
+823
+00:29:23,320 --> 00:29:25,380
+I'm saying exactly the opposite thing,
+
+824
+00:29:25,680 --> 00:29:27,780
+which is that, you know, as an individual,
+
+825
+00:29:28,180 --> 00:29:30,360
+I don't want any part of preying upon
+
+826
+00:29:30,360 --> 00:29:32,020
+something that is weaker than me, you know?
+
+827
+00:29:32,340 --> 00:29:33,100
+It's just that-
+
+828
+00:29:33,100 --> 00:29:34,200
+Well, I mean, it happens on many levels.
+
+829
+00:29:34,360 --> 00:29:37,620
+It'll be with people, societies, animals, insects.
+
+830
+00:29:38,380 --> 00:29:40,220
+For example, okay, insects.
+
+831
+00:29:43,000 --> 00:29:45,440
+Okay, wasps, so let's just be specific.
+
+832
+00:29:45,960 --> 00:29:47,380
+Wasps are very psychic.
+
+833
+00:29:48,420 --> 00:29:50,100
+Like, there could be, bees are also.
+
+834
+00:29:50,200 --> 00:29:52,220
+If you go there with the intent of like,
+
+835
+00:29:52,220 --> 00:29:54,400
+you know, you're fine with them, just don't bite me.
+
+836
+00:29:54,480 --> 00:29:56,120
+They're okay, cool, right?
+
+837
+00:29:56,820 --> 00:29:58,240
+Kind of like dogs, you know?
+
+838
+00:29:58,560 --> 00:29:59,760
+Someone who's afraid of dogs.
+
+839
+00:29:59,820 --> 00:30:01,560
+Yeah, I've given the analogy many times, right?
+
+840
+00:30:02,040 --> 00:30:04,160
+Someone's a dog lover and someone's afraid of dogs.
+
+841
+00:30:04,580 --> 00:30:06,440
+Walk up to a dog they've never seen before,
+
+842
+00:30:06,560 --> 00:30:09,460
+the dog suddenly gets barking
+
+843
+00:30:09,460 --> 00:30:11,080
+at the person who's afraid of dogs, right?
+
+844
+00:30:11,260 --> 00:30:13,500
+In their mind, they pick up on that.
+
+845
+00:30:14,020 --> 00:30:16,540
+Well, with wasps, Linda said,
+
+846
+00:30:16,620 --> 00:30:17,900
+well, you know, there's some wasps for that.
+
+847
+00:30:17,960 --> 00:30:18,580
+Somebody asked, fine.
+
+848
+00:30:19,140 --> 00:30:21,000
+Well, I went into the shed and it's ventilated.
+
+849
+00:30:21,000 --> 00:30:23,860
+And I said, ooh, that's one hell of a wasp's nest.
+
+850
+00:30:24,360 --> 00:30:25,340
+It's a big one.
+
+851
+00:30:25,580 --> 00:30:26,320
+I let them go.
+
+852
+00:30:26,680 --> 00:30:28,820
+And I'm like, okay, guys, I think you're,
+
+853
+00:30:29,060 --> 00:30:30,940
+to the point where you smell the muskiness,
+
+854
+00:30:31,140 --> 00:30:32,700
+because if you have a lot of insects in the area,
+
+855
+00:30:32,720 --> 00:30:34,240
+they give off a smell like a pheromone.
+
+856
+00:30:34,360 --> 00:30:35,320
+It's very strong, actually.
+
+857
+00:30:36,140 --> 00:30:37,380
+You kind of smell that
+
+858
+00:30:37,380 --> 00:30:39,220
+when you go to a roach-infested apartment.
+
+859
+00:30:39,360 --> 00:30:40,940
+You can tell the roach is in there, right?
+
+860
+00:30:41,200 --> 00:30:41,860
+Oh, yeah, yeah.
+
+861
+00:30:42,740 --> 00:30:46,500
+Typical smell, it's like a metallic kind of wet smell.
+
+862
+00:30:47,020 --> 00:30:48,880
+But so I go up in the shed.
+
+863
+00:30:48,940 --> 00:30:50,460
+I'm like, oh, it's really musky in here.
+
+864
+00:30:50,460 --> 00:30:52,600
+Oh, wow, look at that wasp's nest, right?
+
+865
+00:30:52,640 --> 00:30:54,000
+It's a lot of wasps in there.
+
+866
+00:30:54,240 --> 00:30:55,300
+And I'm like, listen, guys,
+
+867
+00:30:55,780 --> 00:30:57,840
+you're kind of like over when you're welcome.
+
+868
+00:30:58,420 --> 00:31:00,440
+I could usually burn you out of here.
+
+869
+00:31:01,100 --> 00:31:04,160
+It would be actually quite a technical thing to stop them,
+
+870
+00:31:04,220 --> 00:31:05,000
+but I don't wanna do that.
+
+871
+00:31:05,060 --> 00:31:06,200
+So go ahead and make your wasps,
+
+872
+00:31:06,300 --> 00:31:07,780
+go out into the desert and have fun,
+
+873
+00:31:09,180 --> 00:31:10,780
+and deal with it that way.
+
+874
+00:31:10,860 --> 00:31:12,640
+Because I personally have an affinity
+
+875
+00:31:12,640 --> 00:31:15,560
+for certain bugs that are psychic like that, right?
+
+876
+00:31:15,660 --> 00:31:17,140
+You know about the little,
+
+877
+00:31:17,480 --> 00:31:19,220
+the young girl always happens,
+
+878
+00:31:19,220 --> 00:31:21,680
+she's walking around like there's butterflies
+
+879
+00:31:21,680 --> 00:31:24,260
+and they land on the one particular person, right?
+
+880
+00:31:24,500 --> 00:31:26,260
+And they don't land on everyone.
+
+881
+00:31:27,300 --> 00:31:30,620
+Now, animals like insects, but they're not insect spiders,
+
+882
+00:31:31,140 --> 00:31:34,340
+they have no psychic quality about them at all.
+
+883
+00:31:34,400 --> 00:31:35,860
+They are like psychically invisible.
+
+884
+00:31:36,340 --> 00:31:37,660
+In other words, you could be somewhere
+
+885
+00:31:38,620 --> 00:31:41,340
+and you have no sense that there's a spider around.
+
+886
+00:31:41,520 --> 00:31:42,820
+And even if it's crawling on you,
+
+887
+00:31:42,920 --> 00:31:45,460
+they don't give off any kind of a psychic vibe,
+
+888
+00:31:46,260 --> 00:31:49,020
+which makes them a very pretty good predator, right?
+
+889
+00:31:49,380 --> 00:31:49,620
+Right.
+
+890
+00:31:49,780 --> 00:31:51,160
+In that reality.
+
+891
+00:31:51,340 --> 00:31:54,280
+So there's that reality of it,
+
+892
+00:31:54,320 --> 00:31:55,840
+what kind of connection people have.
+
+893
+00:31:56,080 --> 00:31:59,000
+The people that I've even depicted in film,
+
+894
+00:31:59,440 --> 00:32:02,720
+let's just say that they're cruel to animals, right?
+
+895
+00:32:02,740 --> 00:32:04,620
+They get a high off of that, they get a thrill.
+
+896
+00:32:04,700 --> 00:32:05,680
+It's a very short thrill,
+
+897
+00:32:05,780 --> 00:32:07,180
+kind of like smoking crack, right?
+
+898
+00:32:07,400 --> 00:32:07,640
+Right.
+
+899
+00:32:08,340 --> 00:32:10,780
+And they keep doing it until, you know,
+
+900
+00:32:10,800 --> 00:32:13,380
+what was really heinous in the beginning isn't so bad now,
+
+901
+00:32:13,400 --> 00:32:14,900
+and they go to bigger and bigger things.
+
+902
+00:32:14,900 --> 00:32:18,360
+Ultimately, the people, you know.
+
+903
+00:32:19,000 --> 00:32:22,060
+And the U.S. military is an analogy of that, by the way.
+
+904
+00:32:23,100 --> 00:32:24,900
+So, because it's designed,
+
+905
+00:32:25,160 --> 00:32:28,120
+the U.S. military is designed to be a world, a police force.
+
+906
+00:32:28,920 --> 00:32:31,420
+And it's been dubbed that for many years now,
+
+907
+00:32:31,440 --> 00:32:32,440
+since the Vietnam War.
+
+908
+00:32:33,560 --> 00:32:35,100
+Yeah, they did talk about that,
+
+909
+00:32:35,160 --> 00:32:38,200
+the global police force or whatever they were calling it.
+
+910
+00:32:39,320 --> 00:32:41,920
+And what they do is they always go after the weak
+
+911
+00:32:41,920 --> 00:32:45,020
+or they never confront something like head on,
+
+912
+00:32:45,160 --> 00:32:49,080
+like you would see in a dualistic sense,
+
+913
+00:32:49,180 --> 00:32:51,140
+you know, like bad guy versus good guy,
+
+914
+00:32:51,320 --> 00:32:54,600
+or this guy, you know, black and white, orange and green.
+
+915
+00:32:54,720 --> 00:32:56,580
+It's always, let's prey on the weak.
+
+916
+00:32:57,580 --> 00:33:01,280
+So that seems to be a shitty thing about humans,
+
+917
+00:33:01,480 --> 00:33:03,100
+and they put up with it.
+
+918
+00:33:03,380 --> 00:33:06,740
+But, you know, we'll see how much time is left
+
+919
+00:33:06,740 --> 00:33:08,300
+to put up with that kind of stuff.
+
+920
+00:33:08,940 --> 00:33:09,040
+Right.
+
+921
+00:33:09,160 --> 00:33:10,480
+So ultimately, what are you gonna do
+
+922
+00:33:10,480 --> 00:33:12,620
+about this prototype issue that you started out
+
+923
+00:33:12,620 --> 00:33:13,840
+talking about at the beginning?
+
+924
+00:33:14,900 --> 00:33:17,140
+Oh, it's very, I'm actually challenging myself
+
+925
+00:33:17,140 --> 00:33:19,140
+to discipline and go ahead and measure off
+
+926
+00:33:19,140 --> 00:33:20,860
+what I wanna build and just ignore
+
+927
+00:33:20,860 --> 00:33:23,580
+how I would wanna move this over a quarter of an inch.
+
+928
+00:33:24,100 --> 00:33:25,480
+Right, and just go ahead and build it
+
+929
+00:33:25,480 --> 00:33:26,640
+and see if it could be replicated.
+
+930
+00:33:26,700 --> 00:33:29,460
+That's the purpose, because it's worth replicating.
+
+931
+00:33:29,660 --> 00:33:31,000
+I mean, to quite a degree.
+
+932
+00:33:32,220 --> 00:33:32,580
+So.

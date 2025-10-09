@@ -1,0 +1,4531 @@
+1
+00:00:08,000 --> 00:00:13,600
+Rated Y number 63 this time, and really quickly, before I even ask the Greek how he's doing,
+
+2
+00:00:13,940 --> 00:00:16,940
+I'm going to let you guys know something, just in case you can't figure it out.
+
+3
+00:00:17,440 --> 00:00:20,400
+We do have a chat room, which you can join.
+
+4
+00:00:20,560 --> 00:00:26,000
+It has nothing to do with anything, okay, anybody could find it, but generally speaking, you
+
+5
+00:00:26,000 --> 00:00:31,520
+guys who are subscribing to this should find it first, and you can easily give feedback
+
+6
+00:00:31,520 --> 00:00:31,940
+there.
+
+7
+00:00:32,080 --> 00:00:32,800
+We do read it.
+
+8
+00:00:33,200 --> 00:00:34,060
+We do check on it.
+
+9
+00:00:34,120 --> 00:00:38,340
+The Greek interacts in there a bit more than I do, but I check it out as well, okay?
+
+10
+00:00:38,780 --> 00:00:39,520
+Yeah, hold on.
+
+11
+00:00:39,640 --> 00:00:43,940
+It's ocelliandthegreek.chatango.com is what you're talking about.
+
+12
+00:00:44,020 --> 00:00:45,040
+That's what I'm talking about.
+
+13
+00:00:45,040 --> 00:00:46,680
+It's a completely separate entity.
+
+14
+00:00:46,860 --> 00:00:50,340
+It's just like YouTube would be separate and anything else.
+
+15
+00:00:50,580 --> 00:00:54,240
+It's ocelliandthegreek.chatango.com.
+
+16
+00:00:54,240 --> 00:00:58,480
+Right, but for you as a subscriber, you could go there and give us some feedback.
+
+17
+00:00:58,720 --> 00:01:02,420
+If there's something that you want heard on here, you want mentioned, you want discussed,
+
+18
+00:01:03,019 --> 00:01:07,560
+we do read it, and reasonable requests and things that are being discussed in there do
+
+19
+00:01:07,560 --> 00:01:08,800
+get discussed on Rated Y.
+
+20
+00:01:08,960 --> 00:01:10,520
+Just wanted to let you know.
+
+21
+00:01:10,680 --> 00:01:19,960
+One more time, ocelliandthegreek, all spelled out, one word, .chatango, C-H-A-T-A-N-G-O.com.
+
+22
+00:01:19,960 --> 00:01:23,360
+That is where you can go and interact in there.
+
+23
+00:01:24,580 --> 00:01:26,460
+It's its own entity, yeah.
+
+24
+00:01:26,960 --> 00:01:27,980
+Someone else runs it.
+
+25
+00:01:28,900 --> 00:01:31,060
+I think I have admin privileges there.
+
+26
+00:01:31,140 --> 00:01:33,140
+You might too, but we don't actually own it or anything.
+
+27
+00:01:33,300 --> 00:01:34,040
+It's just there.
+
+28
+00:01:34,160 --> 00:01:36,320
+It's a free, open source kind of thing.
+
+29
+00:01:37,860 --> 00:01:42,720
+Just all of that out there, that's what it is, and obviously, you would have already
+
+30
+00:01:42,720 --> 00:01:46,900
+gone to the Patreon by now and signed up because that's the only way you got this one, okay?
+
+31
+00:01:46,900 --> 00:01:54,960
+So anyway, back to it, Greek, often people do give us some interesting hints about things
+
+32
+00:01:54,960 --> 00:01:59,580
+that do need to be revealed because although they seem to be commonplace in the world,
+
+33
+00:02:00,180 --> 00:02:07,180
+and people get awfully emotionally attached to things, they are wildly misunderstood.
+
+34
+00:02:08,380 --> 00:02:09,419
+Yeah, the bread.
+
+35
+00:02:09,699 --> 00:02:11,220
+Bread, we were talking about.
+
+36
+00:02:11,240 --> 00:02:15,840
+Yeah, money used to be ... Yeah, what I mentioned we'll get into tonight.
+
+37
+00:02:15,840 --> 00:02:19,260
+I had a Skype with someone who's a sub.
+
+38
+00:02:19,420 --> 00:02:25,240
+He's got an academic background in physics, engineering, so forth, and I brought up some
+
+39
+00:02:25,240 --> 00:02:30,640
+terms that I thought people kind of know, and he says, why don't you do a Sonic on finance?
+
+40
+00:02:31,760 --> 00:02:35,720
+By the way, it's called ... Most people call it finance, but when you have a lot of it,
+
+41
+00:02:35,900 --> 00:02:36,780
+you call it finance.
+
+42
+00:02:37,300 --> 00:02:37,980
+Oh, okay.
+
+43
+00:02:38,100 --> 00:02:38,620
+Excuse me.
+
+44
+00:02:38,900 --> 00:02:40,000
+Yeah, right.
+
+45
+00:02:40,260 --> 00:02:42,640
+I never have a lot of it, so I don't know.
+
+46
+00:02:42,720 --> 00:02:43,420
+I'll tell you something else.
+
+47
+00:02:43,460 --> 00:02:44,280
+I was thinking bread.
+
+48
+00:02:44,380 --> 00:02:44,980
+It's kind of funny.
+
+49
+00:02:44,980 --> 00:02:48,140
+You and I are old enough to remember when that was very commonplace.
+
+50
+00:02:48,580 --> 00:02:50,260
+You go to get your bread.
+
+51
+00:02:50,980 --> 00:02:56,040
+Later on, it might have been knots, or stacks, or paper, or whatever, a lot of street parlance
+
+52
+00:02:56,040 --> 00:02:57,560
+for what is it?
+
+53
+00:02:57,720 --> 00:03:00,240
+Money, supposedly, right?
+
+54
+00:03:01,600 --> 00:03:06,100
+But you're talking about finance, and to me, money and finance are different things, although
+
+55
+00:03:06,100 --> 00:03:11,040
+they are involved with one another, but then again, I'm not saying I fully understand it.
+
+56
+00:03:11,300 --> 00:03:13,720
+Well, everyone thinks we're in capitalism.
+
+57
+00:03:13,720 --> 00:03:18,680
+You could go back and forth with various systems, but the Soviet Union and most communist countries
+
+58
+00:03:18,680 --> 00:03:26,760
+as known historically never really used Marx's principles as he suggested they should be,
+
+59
+00:03:26,840 --> 00:03:28,240
+or Engel, right?
+
+60
+00:03:28,620 --> 00:03:35,320
+Because those principles are actually not even anti ... Actually, they're very capitalistic
+
+61
+00:03:35,320 --> 00:03:36,080
+to a degree.
+
+62
+00:03:37,240 --> 00:03:38,560
+Well, that's the weird thing.
+
+63
+00:03:38,560 --> 00:03:38,940
+The history ...
+
+64
+00:03:38,940 --> 00:03:39,040
+Yeah.
+
+65
+00:03:39,040 --> 00:03:41,040
+That's the weird thing, like China right now, right?
+
+66
+00:03:41,040 --> 00:03:43,880
+Everybody goes, well, it's the communist, and yes, indeed it is.
+
+67
+00:03:44,240 --> 00:03:45,520
+The communist party, right?
+
+68
+00:03:45,740 --> 00:03:47,740
+The CCP, or whatever.
+
+69
+00:03:48,200 --> 00:03:49,020
+In name only.
+
+70
+00:03:49,300 --> 00:03:55,000
+They only use what they think people think communism is against, as a ... Right.
+
+71
+00:03:55,380 --> 00:03:59,800
+Yeah, but oddly enough, they do behave quite a bit like capitalists do.
+
+72
+00:04:00,200 --> 00:04:02,000
+They do have private entities.
+
+73
+00:04:02,240 --> 00:04:04,800
+They have a middle class that's actually rising a lot quicker than the rest.
+
+74
+00:04:04,800 --> 00:04:05,000
+Yeah.
+
+75
+00:04:05,320 --> 00:04:08,520
+Statistically, which country has the most billionaires?
+
+76
+00:04:09,380 --> 00:04:09,900
+China.
+
+77
+00:04:09,900 --> 00:04:10,540
+China.
+
+78
+00:04:10,540 --> 00:04:10,640
+China.
+
+79
+00:04:10,640 --> 00:04:11,140
+Do they?
+
+80
+00:04:11,800 --> 00:04:12,000
+Yeah.
+
+81
+00:04:12,360 --> 00:04:13,900
+Which country has the most millionaires?
+
+82
+00:04:14,580 --> 00:04:14,900
+China.
+
+83
+00:04:14,900 --> 00:04:17,360
+Oh, I thought we had the most millionaires.
+
+84
+00:04:17,519 --> 00:04:17,620
+No?
+
+85
+00:04:17,860 --> 00:04:19,060
+Well, 30 years ago.
+
+86
+00:04:19,200 --> 00:04:19,300
+Yeah.
+
+87
+00:04:19,380 --> 00:04:20,500
+In the we, of course, we.
+
+88
+00:04:20,779 --> 00:04:21,000
+Yeah, right.
+
+89
+00:04:21,079 --> 00:04:23,880
+Anyway, the United States, I thought had the most, but ...
+
+90
+00:04:23,880 --> 00:04:24,300
+All right.
+
+91
+00:04:24,420 --> 00:04:25,860
+Let me just give you a quick example.
+
+92
+00:04:26,020 --> 00:04:30,920
+Here we have the University of Arizona in Tucson, and the better Chinese restaurants,
+
+93
+00:04:31,520 --> 00:04:36,100
+the students that are over here from China go and eat there, right?
+
+94
+00:04:36,100 --> 00:04:38,880
+Because it reminds them of home.
+
+95
+00:04:39,400 --> 00:04:42,420
+Well, they have quarter of a million dollar cars.
+
+96
+00:04:42,640 --> 00:04:47,880
+They're 18 year old students, 19 year old, right?
+
+97
+00:04:48,040 --> 00:04:51,480
+And they're driving $150,000, $200,000 cars.
+
+98
+00:04:52,240 --> 00:04:52,460
+Talking about-
+
+99
+00:04:52,460 --> 00:04:53,620
+So, do the math, you know?
+
+100
+00:04:53,780 --> 00:04:55,760
+I mean, their pops is a millionaire, right?
+
+101
+00:04:55,780 --> 00:04:56,300
+Or their moms?
+
+102
+00:04:56,420 --> 00:04:57,120
+Has to be.
+
+103
+00:04:58,700 --> 00:05:02,840
+You're not driving a $250,000 ... You're not driving a car which is worth more than some
+
+104
+00:05:02,840 --> 00:05:03,620
+people's houses.
+
+105
+00:05:04,080 --> 00:05:05,060
+Yeah, it's the first.
+
+106
+00:05:05,240 --> 00:05:09,420
+Well, the average house price in Arizona used to be around $250,000, now it's $450,000.
+
+107
+00:05:09,780 --> 00:05:10,280
+Same house.
+
+108
+00:05:11,460 --> 00:05:13,900
+Over a period of two years, so it's kind of artificial.
+
+109
+00:05:14,140 --> 00:05:15,520
+We'll get into why these things happen.
+
+110
+00:05:15,760 --> 00:05:16,120
+No problem.
+
+111
+00:05:16,580 --> 00:05:17,180
+It's the same.
+
+112
+00:05:17,500 --> 00:05:18,760
+They're driving half a house then.
+
+113
+00:05:19,380 --> 00:05:21,580
+Even so, it's still pretty hefty.
+
+114
+00:05:21,880 --> 00:05:21,980
+Yeah.
+
+115
+00:05:22,140 --> 00:05:24,820
+Without sounding pedantic, you know, like, what does this have to do?
+
+116
+00:05:24,880 --> 00:05:26,800
+Like, so, oh, we just set everybody up.
+
+117
+00:05:26,840 --> 00:05:28,460
+Oh, I don't want to really hear this, you know?
+
+118
+00:05:28,460 --> 00:05:32,640
+He's gone over this so many times before in piecemeal and something.
+
+119
+00:05:33,560 --> 00:05:37,240
+We've done it back in O and G, sort of in piecemeal.
+
+120
+00:05:37,760 --> 00:05:44,500
+What I want to do is first just put out something that is currently affecting anyone and everyone,
+
+121
+00:05:44,660 --> 00:05:45,880
+and this is commonly done.
+
+122
+00:05:46,440 --> 00:05:52,420
+When it comes to, let's just say, power utilities, utility bills, you know, electric, gas, water,
+
+123
+00:05:52,560 --> 00:05:56,820
+whatever, most people are complaining that the bills are going up.
+
+124
+00:05:56,820 --> 00:06:00,040
+Like, here in Tucson, they just came out and said, okay, from now on, your bill's going
+
+125
+00:06:00,040 --> 00:06:01,120
+to be 30% more.
+
+126
+00:06:02,020 --> 00:06:02,360
+All right.
+
+127
+00:06:02,400 --> 00:06:02,640
+Why?
+
+128
+00:06:03,060 --> 00:06:03,900
+Why are they doing that?
+
+129
+00:06:03,980 --> 00:06:10,880
+Because the cost of the production of the utility, all the cost doesn't call for such
+
+130
+00:06:10,880 --> 00:06:11,320
+an increase.
+
+131
+00:06:11,440 --> 00:06:12,320
+So, what are they doing?
+
+132
+00:06:12,500 --> 00:06:13,540
+Why is this happening?
+
+133
+00:06:14,100 --> 00:06:19,160
+You know, like, with the COVID, it's like all the municipalities, all the state governments,
+
+134
+00:06:19,280 --> 00:06:22,580
+all the federal governments in lockstep did it all together, right?
+
+135
+00:06:22,580 --> 00:06:29,420
+No opposition, like, you know, exposed that everyone, right, is in step with each other.
+
+136
+00:06:29,500 --> 00:06:30,660
+There's no opposition, right?
+
+137
+00:06:31,140 --> 00:06:31,380
+Okay.
+
+138
+00:06:32,140 --> 00:06:34,040
+Why are all the utility companies doing it?
+
+139
+00:06:34,060 --> 00:06:41,660
+Because they were lobbied for a while now to pledge the next 10 or 20 years of all their
+
+140
+00:06:41,660 --> 00:06:46,040
+billings into a private derivatives funds and hedge funds, right?
+
+141
+00:06:46,080 --> 00:06:48,200
+They're called CTOs, right?
+
+142
+00:06:48,280 --> 00:06:49,740
+And it's managed by them.
+
+143
+00:06:50,500 --> 00:06:55,320
+And they sell derivatives and shares in that and for a return.
+
+144
+00:06:56,260 --> 00:07:02,060
+So, using financial algorithms, you know, every year, you should get more, a small percentage.
+
+145
+00:07:02,720 --> 00:07:05,220
+So, they want to cover everything.
+
+146
+00:07:05,600 --> 00:07:09,340
+So the utility company comes back and says, your utilities are going up.
+
+147
+00:07:09,480 --> 00:07:11,840
+It has nothing to do with the production of utilities.
+
+148
+00:07:12,400 --> 00:07:15,080
+Now, what the hell is the Greek talking about?
+
+149
+00:07:15,080 --> 00:07:21,520
+Yes, what they're doing is selling the future billings, 5, 10, 20 years.
+
+150
+00:07:22,000 --> 00:07:27,000
+Usually, it doesn't go more than 10 years, but up to 20 years for a big stable city.
+
+151
+00:07:27,580 --> 00:07:30,760
+Like, if you pick a city that's not going to experience a lot of growth, you know, like
+
+152
+00:07:30,760 --> 00:07:33,880
+it's already built up, they can do 20 years, right?
+
+153
+00:07:34,380 --> 00:07:34,480
+Okay.
+
+154
+00:07:34,580 --> 00:07:36,060
+Because you have a pretty good idea.
+
+155
+00:07:36,220 --> 00:07:40,240
+It's not like you go to a small town or a growing city, right?
+
+156
+00:07:40,260 --> 00:07:44,140
+Like, let's say Las Vegas 20 years ago, you couldn't really estimate what it's going
+
+157
+00:07:44,140 --> 00:07:47,660
+to be like in 20 years because you could just keep expanding and expanding and expanding,
+
+158
+00:07:47,880 --> 00:07:47,980
+right?
+
+159
+00:07:48,020 --> 00:07:49,380
+Phoenix and places like that, right?
+
+160
+00:07:49,540 --> 00:07:49,720
+Oh, yes.
+
+161
+00:07:49,800 --> 00:07:51,980
+Because you could continuously build on pieces of land.
+
+162
+00:07:52,080 --> 00:07:56,280
+However, if you go to, like, say Manhattan, you got an island there, it's pretty much
+
+163
+00:07:56,280 --> 00:07:59,760
+Yeah, you could sell 50 years ahead because there ain't nobody building anything.
+
+164
+00:07:59,920 --> 00:08:00,200
+You know what I mean?
+
+165
+00:08:00,280 --> 00:08:05,300
+Yeah, they might build a tower and add another 500, but out of the million, 500 is not a
+
+166
+00:08:05,300 --> 00:08:05,940
+big jump, right?
+
+167
+00:08:06,120 --> 00:08:06,300
+Right.
+
+168
+00:08:06,460 --> 00:08:10,340
+Where something like Las Vegas can go from 1 million to 2 million people in 5 years,
+
+169
+00:08:10,440 --> 00:08:10,580
+right?
+
+170
+00:08:10,880 --> 00:08:11,060
+Right.
+
+171
+00:08:11,160 --> 00:08:12,160
+It's a double, yeah, yeah.
+
+172
+00:08:12,160 --> 00:08:12,480
+Right.
+
+173
+00:08:12,560 --> 00:08:14,180
+So this is I'm giving a little detail on this.
+
+174
+00:08:14,240 --> 00:08:17,060
+This is important because you can do something about this, right?
+
+175
+00:08:17,060 --> 00:08:18,100
+But it has to be organized.
+
+176
+00:08:18,500 --> 00:08:24,060
+So what they do is they say this is what we're going to be billing here for the next 5, 10,
+
+177
+00:08:24,140 --> 00:08:24,640
+20 years.
+
+178
+00:08:25,380 --> 00:08:26,980
+And this is the money we have coming in.
+
+179
+00:08:27,020 --> 00:08:29,380
+We want to put it in a fund, a derivative fund.
+
+180
+00:08:29,880 --> 00:08:36,500
+And you guys have people invest in it to get interest and play around, see what happens,
+
+181
+00:08:36,580 --> 00:08:36,680
+right?
+
+182
+00:08:36,700 --> 00:08:39,539
+Kind of like, you know, someone gives you money to go to Las Vegas, right?
+
+183
+00:08:39,720 --> 00:08:39,980
+Okay.
+
+184
+00:08:39,980 --> 00:08:43,400
+So it's a futures market, kind of like what they do with commodities, right?
+
+185
+00:08:43,520 --> 00:08:43,640
+Okay.
+
+186
+00:08:43,860 --> 00:08:44,140
+Yeah.
+
+187
+00:08:44,260 --> 00:08:45,900
+And they're called CTOs.
+
+188
+00:08:46,400 --> 00:08:48,440
+Birth certificates are also CTOs.
+
+189
+00:08:49,360 --> 00:08:53,280
+And, you know, like it's really hard to find out what's going on with the birth certificate,
+
+190
+00:08:53,400 --> 00:08:53,540
+right?
+
+191
+00:08:53,580 --> 00:08:53,860
+Why?
+
+192
+00:08:53,960 --> 00:08:54,920
+Because it's a CTO.
+
+193
+00:08:55,200 --> 00:08:56,480
+All right, what is a CTO?
+
+194
+00:08:57,180 --> 00:08:59,080
+It's a confidential treatment order.
+
+195
+00:08:59,800 --> 00:09:03,520
+In other words, it's a deal that's done in secret, right?
+
+196
+00:09:03,920 --> 00:09:09,460
+And they didn't really have a name for it until the SEC a while back decided to classify
+
+197
+00:09:09,460 --> 00:09:11,680
+a series of investments under CTOs.
+
+198
+00:09:11,800 --> 00:09:12,760
+And they're totally illegal.
+
+199
+00:09:13,320 --> 00:09:15,740
+Well, first of all, the whole system is unlawful.
+
+200
+00:09:16,020 --> 00:09:17,360
+But these are really illegal.
+
+201
+00:09:17,620 --> 00:09:19,060
+But they still keep doing it, right?
+
+202
+00:09:19,560 --> 00:09:22,660
+So, I mean, just like, you know, anything else.
+
+203
+00:09:22,920 --> 00:09:28,600
+So what you do, really, if the bills go up, you get enough people organized on the Internet
+
+204
+00:09:28,600 --> 00:09:33,240
+because you can also organize physically, you know, in meetings and places, pubs, whatever.
+
+205
+00:09:33,420 --> 00:09:34,640
+I don't recommend you do that.
+
+206
+00:09:34,880 --> 00:09:36,380
+But you can do it on the Internet.
+
+207
+00:09:36,540 --> 00:09:38,200
+Even then you'll be surveyed.
+
+208
+00:09:38,800 --> 00:09:44,040
+And you just find out which, when they're flipping these securities, you know, whether
+
+209
+00:09:44,040 --> 00:09:50,480
+they're flipping them on an 80, I mean, a 90 or 180 day cycle or even a 30 day cycle.
+
+210
+00:09:51,180 --> 00:09:55,580
+And right when they're ready to flip it, you have a majority of people in that city not
+
+211
+00:09:55,580 --> 00:09:56,100
+pay the bill.
+
+212
+00:09:57,320 --> 00:09:59,840
+So the earnings go to zero and then they're ready to flip it.
+
+213
+00:09:59,880 --> 00:10:00,620
+They're like, oh, shit.
+
+214
+00:10:02,200 --> 00:10:04,380
+You know, flip it means you're going to sell it to someone else.
+
+215
+00:10:04,440 --> 00:10:05,360
+You're like, oh, I don't want to buy that.
+
+216
+00:10:05,440 --> 00:10:06,320
+Nobody's paying the bills.
+
+217
+00:10:06,780 --> 00:10:09,140
+And then then when they can't sell it, they go bankrupt.
+
+218
+00:10:09,660 --> 00:10:09,860
+Right.
+
+219
+00:10:11,540 --> 00:10:12,760
+Because why do they go bankrupt?
+
+220
+00:10:12,780 --> 00:10:15,660
+Because they have nothing in the till, but they have to pay out to the dividends that
+
+221
+00:10:15,660 --> 00:10:16,180
+they promised.
+
+222
+00:10:16,740 --> 00:10:18,560
+So all you got to do is not pay your bill for one month.
+
+223
+00:10:18,780 --> 00:10:19,100
+Everybody.
+
+224
+00:10:20,620 --> 00:10:23,860
+But see, if one person does it, they usually defer it because you go a couple of months
+
+225
+00:10:23,860 --> 00:10:24,540
+and not pay the bill.
+
+226
+00:10:24,580 --> 00:10:25,860
+They just keep adding it up.
+
+227
+00:10:25,940 --> 00:10:26,260
+Right.
+
+228
+00:10:26,400 --> 00:10:28,460
+And then everybody has to do it in mass.
+
+229
+00:10:28,500 --> 00:10:30,940
+So the so the grand total goes down way low.
+
+230
+00:10:31,340 --> 00:10:34,340
+Well, what percentage would be like the tipping point on that?
+
+231
+00:10:34,340 --> 00:10:36,440
+Because, I mean, look, you're never going to get 100 percent.
+
+232
+00:10:36,760 --> 00:10:37,600
+Twenty percent.
+
+233
+00:10:38,060 --> 00:10:39,500
+Twenty percent is all you would need.
+
+234
+00:10:39,760 --> 00:10:39,900
+OK.
+
+235
+00:10:40,060 --> 00:10:40,320
+Yeah.
+
+236
+00:10:40,320 --> 00:10:40,620
+Yeah.
+
+237
+00:10:40,620 --> 00:10:43,980
+Because you think they're they're only giving when they promise points on these things on
+
+238
+00:10:43,980 --> 00:10:45,380
+a 30 or 90 day basis.
+
+239
+00:10:46,140 --> 00:10:48,040
+It's just like one points, two points.
+
+240
+00:10:48,340 --> 00:10:52,360
+So if you drop it 20 percent, that one or two percent that they're promising gets really
+
+241
+00:10:52,360 --> 00:10:52,860
+small.
+
+242
+00:10:53,100 --> 00:10:53,900
+They can't fast.
+
+243
+00:10:54,120 --> 00:10:54,340
+OK.
+
+244
+00:10:54,500 --> 00:10:54,740
+I know.
+
+245
+00:10:54,920 --> 00:10:55,140
+I guess.
+
+246
+00:10:55,300 --> 00:10:55,560
+Yeah.
+
+247
+00:10:55,640 --> 00:10:56,020
+All right.
+
+248
+00:10:56,180 --> 00:10:56,460
+All right.
+
+249
+00:10:56,520 --> 00:10:56,780
+No, no.
+
+250
+00:10:56,900 --> 00:10:59,120
+So they're promising half and it drops 20 percent.
+
+251
+00:10:59,200 --> 00:11:02,220
+You still got a lot of, you know, a big, big deal.
+
+252
+00:11:02,220 --> 00:11:02,460
+Right.
+
+253
+00:11:02,680 --> 00:11:02,880
+OK.
+
+254
+00:11:03,420 --> 00:11:04,120
+So coming.
+
+255
+00:11:04,260 --> 00:11:04,400
+So.
+
+256
+00:11:04,860 --> 00:11:04,980
+Yeah.
+
+257
+00:11:05,100 --> 00:11:06,520
+So go three months.
+
+258
+00:11:07,080 --> 00:11:08,200
+But everyone has to do it.
+
+259
+00:11:08,280 --> 00:11:08,500
+Right.
+
+260
+00:11:09,340 --> 00:11:09,880
+It's not.
+
+261
+00:11:10,000 --> 00:11:10,280
+It's not.
+
+262
+00:11:10,380 --> 00:11:11,020
+It's not a matter.
+
+263
+00:11:11,200 --> 00:11:15,160
+See, right away, the rational mind goes, hey, if I don't pay the bill, they're going to
+
+264
+00:11:15,160 --> 00:11:15,940
+shut off my utilities.
+
+265
+00:11:15,980 --> 00:11:16,340
+Right.
+
+266
+00:11:16,640 --> 00:11:17,160
+No, no, no.
+
+267
+00:11:17,320 --> 00:11:17,880
+They don't.
+
+268
+00:11:17,960 --> 00:11:19,720
+They usually defer it for a while.
+
+269
+00:11:20,460 --> 00:11:22,900
+But the point is, it has nothing to do with shutting utilities off.
+
+270
+00:11:23,220 --> 00:11:28,180
+The whole thing is to bankrupt that particular derivative, the financial house that's doing
+
+271
+00:11:28,180 --> 00:11:28,340
+it.
+
+272
+00:11:28,340 --> 00:11:31,400
+So it's usually a bunch of scumbags, retired attorneys or attorneys or whatever.
+
+273
+00:11:33,160 --> 00:11:33,560
+Yes.
+
+274
+00:11:33,720 --> 00:11:36,040
+Attorney equals scumbag, by the way, equal sign.
+
+275
+00:11:36,240 --> 00:11:36,620
+But anyway.
+
+276
+00:11:37,800 --> 00:11:38,080
+Right.
+
+277
+00:11:38,220 --> 00:11:38,360
+So.
+
+278
+00:11:38,640 --> 00:11:44,540
+So you go down the whole thing and you figure out a way to organize as many people as possible.
+
+279
+00:11:44,660 --> 00:11:45,260
+You pull the switch.
+
+280
+00:11:45,360 --> 00:11:46,000
+Watch what happens.
+
+281
+00:11:46,720 --> 00:11:46,960
+Right.
+
+282
+00:11:46,980 --> 00:11:48,180
+But you've got to do it in mass.
+
+283
+00:11:48,240 --> 00:11:53,460
+So it's it'd be harder to do in a really big city, but a medium city, even even Tucson might
+
+284
+00:11:53,460 --> 00:11:54,080
+be too big.
+
+285
+00:11:54,480 --> 00:11:54,880
+Right.
+
+286
+00:11:54,880 --> 00:11:58,280
+Because there's almost a million people here now, three quarter of a million on average.
+
+287
+00:11:59,200 --> 00:12:06,220
+A city that's a quarter of a million, if you can organize 50,000, 60,000 people, you could
+
+288
+00:12:06,220 --> 00:12:09,140
+really start taking control of the, quote unquote, billing.
+
+289
+00:12:09,800 --> 00:12:11,900
+And by the way, all that stuff is bullshit anyway.
+
+290
+00:12:12,100 --> 00:12:13,320
+It's all public utilities.
+
+291
+00:12:13,540 --> 00:12:19,420
+They're already paid for by another CTO, which is known as the bonds people in prison, babies
+
+292
+00:12:19,420 --> 00:12:20,020
+being born.
+
+293
+00:12:21,360 --> 00:12:21,700
+Wow.
+
+294
+00:12:21,740 --> 00:12:22,940
+What is he talking about?
+
+295
+00:12:23,080 --> 00:12:23,260
+Right.
+
+296
+00:12:23,260 --> 00:12:26,740
+Well, I was asked to talk about this a little more because I brought up some terms like this
+
+297
+00:12:26,740 --> 00:12:28,660
+and the person was like, do a sonic on it, because I don't know.
+
+298
+00:12:28,800 --> 00:12:30,500
+I haven't heard you talk about that.
+
+299
+00:12:30,880 --> 00:12:31,200
+Right.
+
+300
+00:12:31,540 --> 00:12:31,860
+So.
+
+301
+00:12:32,260 --> 00:12:37,940
+So maybe the easiest way to do it is to go back, let's say, using the U.S. because everything's
+
+302
+00:12:37,940 --> 00:12:39,000
+kind of pinned to the U.S.
+
+303
+00:12:39,020 --> 00:12:42,760
+The bankers are using the U.S. as the policemen of the world, the military, which, by the
+
+304
+00:12:42,760 --> 00:12:46,980
+way, the military here sucks or it's a pretty crappy military, military everywhere does.
+
+305
+00:12:47,020 --> 00:12:48,520
+But it's pretty shitty in the U.S.
+
+306
+00:12:48,520 --> 00:12:50,760
+It's one of the worst militaries, believe it or not.
+
+307
+00:12:50,760 --> 00:12:56,060
+But it's because they're so mechanized equipment, you know, they've got more bullets than anyone
+
+308
+00:12:56,060 --> 00:12:56,320
+else.
+
+309
+00:12:56,400 --> 00:12:57,760
+They've got more tanks than anyone else.
+
+310
+00:12:57,760 --> 00:12:58,020
+Right.
+
+311
+00:12:58,280 --> 00:13:00,100
+They have more planes than anyone else.
+
+312
+00:13:00,180 --> 00:13:00,960
+They're so powerful.
+
+313
+00:13:01,200 --> 00:13:05,820
+But the actual training and the staff, you know, the ethics and morality is very low.
+
+314
+00:13:05,920 --> 00:13:07,900
+It's like one of the worst in the world rated.
+
+315
+00:13:08,040 --> 00:13:08,240
+Right.
+
+316
+00:13:09,100 --> 00:13:13,600
+What people say, well, it goes against the prop what we've been practically propagandized
+
+317
+00:13:13,600 --> 00:13:14,060
+to believe.
+
+318
+00:13:14,080 --> 00:13:18,180
+Just ask anybody who knows anyone that's in the military or someone that, you know, that's
+
+319
+00:13:18,180 --> 00:13:19,980
+rational that came out of the military.
+
+320
+00:13:19,980 --> 00:13:21,940
+What they have to say about it.
+
+321
+00:13:22,020 --> 00:13:22,340
+Right.
+
+322
+00:13:22,660 --> 00:13:23,580
+It's a shithole.
+
+323
+00:13:24,020 --> 00:13:28,460
+So because they're very heavily mechanized, it's a mechanized right.
+
+324
+00:13:28,620 --> 00:13:31,160
+A hundred years ago, they knew warfare would be mechanized.
+
+325
+00:13:31,240 --> 00:13:31,360
+Right.
+
+326
+00:13:31,440 --> 00:13:35,860
+It's not going to be like everybody stands in a row and someone says fire and then they
+
+327
+00:13:35,860 --> 00:13:37,640
+fire those mechanized warfare.
+
+328
+00:13:37,840 --> 00:13:39,420
+It started World War One.
+
+329
+00:13:39,520 --> 00:13:39,740
+Right.
+
+330
+00:13:41,300 --> 00:13:44,580
+So you have the military is also part of this.
+
+331
+00:13:44,700 --> 00:13:46,140
+All of this is attached.
+
+332
+00:13:47,580 --> 00:13:50,180
+I think I just derailed my thought here.
+
+333
+00:13:50,340 --> 00:13:56,760
+But going back to the history of the finance is really the U.S. because everything's pinned
+
+334
+00:13:56,760 --> 00:13:57,380
+to the U.S.
+
+335
+00:13:57,420 --> 00:13:59,180
+You know, a lot of currencies pinned to the dollar.
+
+336
+00:13:59,360 --> 00:13:59,780
+You hear that.
+
+337
+00:13:59,840 --> 00:13:59,980
+Right.
+
+338
+00:14:00,000 --> 00:14:00,640
+What does that mean?
+
+339
+00:14:00,900 --> 00:14:01,260
+Right.
+
+340
+00:14:01,280 --> 00:14:04,000
+They talk about the petro dollar like you're only supposed to buy.
+
+341
+00:14:04,380 --> 00:14:05,200
+Well, that's that's fake.
+
+342
+00:14:05,280 --> 00:14:09,440
+The petro dollar is just that's like saying Muslim terrorists.
+
+343
+00:14:09,700 --> 00:14:10,280
+It's fake.
+
+344
+00:14:10,380 --> 00:14:10,700
+It's not.
+
+345
+00:14:10,820 --> 00:14:11,640
+There is no petro dollar.
+
+346
+00:14:11,660 --> 00:14:12,120
+It doesn't work.
+
+347
+00:14:12,240 --> 00:14:12,580
+That's it.
+
+348
+00:14:12,600 --> 00:14:13,300
+It's a distraction.
+
+349
+00:14:13,300 --> 00:14:17,660
+It's a distraction or a petro dollar is like saying, oh, yeah, the World Trade Center was
+
+350
+00:14:17,660 --> 00:14:18,360
+an inside job.
+
+351
+00:14:18,500 --> 00:14:19,480
+They use space weapons.
+
+352
+00:14:20,440 --> 00:14:23,240
+You know, they'll put that out themselves because they don't want you digging in the
+
+353
+00:14:23,240 --> 00:14:23,620
+direction.
+
+354
+00:14:23,820 --> 00:14:23,960
+Right.
+
+355
+00:14:24,180 --> 00:14:26,020
+That you might find some real stuff.
+
+356
+00:14:26,080 --> 00:14:26,260
+Right.
+
+357
+00:14:26,840 --> 00:14:27,280
+So.
+
+358
+00:14:27,580 --> 00:14:28,020
+Yeah.
+
+359
+00:14:28,180 --> 00:14:29,280
+No, there's no petro dollar.
+
+360
+00:14:29,420 --> 00:14:30,140
+That's that's no.
+
+361
+00:14:30,300 --> 00:14:30,420
+No.
+
+362
+00:14:30,960 --> 00:14:31,400
+Yeah.
+
+363
+00:14:31,720 --> 00:14:33,180
+The petro dollar is this.
+
+364
+00:14:33,420 --> 00:14:37,520
+If you say a petro dollar and you got to say the grain wheat dollar, then you got to say
+
+365
+00:14:37,520 --> 00:14:39,180
+your derivatives trading dollar.
+
+366
+00:14:39,300 --> 00:14:40,500
+Everything is great.
+
+367
+00:14:40,860 --> 00:14:45,260
+Well, the idea there that they that they push is that you can only make oil purchases with
+
+368
+00:14:45,260 --> 00:14:45,980
+U.S. dollars.
+
+369
+00:14:46,140 --> 00:14:50,720
+But to me, it's silly because it is silly because you can only make 90 percent of the
+
+370
+00:14:50,720 --> 00:14:53,460
+purchases that they do international with the dollar anyway.
+
+371
+00:14:53,560 --> 00:14:55,400
+So it's kind of redundant to say petro dollar.
+
+372
+00:14:55,580 --> 00:15:00,460
+Well, and the other thing is that with the computers, the way it is, it doesn't matter
+
+373
+00:15:00,460 --> 00:15:02,180
+what the name of the currency is.
+
+374
+00:15:02,540 --> 00:15:03,100
+Well, it works.
+
+375
+00:15:03,260 --> 00:15:07,280
+You know what it means that it's going to go through Goldman Sachs, JP Morgan.
+
+376
+00:15:07,560 --> 00:15:08,040
+And right.
+
+377
+00:15:08,160 --> 00:15:08,860
+That's all it means.
+
+378
+00:15:08,860 --> 00:15:10,260
+It's got to go through those banks first.
+
+379
+00:15:10,380 --> 00:15:10,980
+They get a cut.
+
+380
+00:15:11,200 --> 00:15:11,300
+Yeah.
+
+381
+00:15:11,380 --> 00:15:11,840
+It's Rico.
+
+382
+00:15:12,060 --> 00:15:12,620
+It's Rico's.
+
+383
+00:15:12,700 --> 00:15:13,120
+What it is.
+
+384
+00:15:13,220 --> 00:15:17,320
+You know, Rico is racketeering influence, corrupt organization.
+
+385
+00:15:17,600 --> 00:15:18,000
+Right.
+
+386
+00:15:18,060 --> 00:15:20,120
+And that just means Rico's real simple.
+
+387
+00:15:20,340 --> 00:15:21,380
+Anybody can use it all.
+
+388
+00:15:21,540 --> 00:15:24,420
+You know, if you don't like what someone's doing, just send them.
+
+389
+00:15:24,520 --> 00:15:26,180
+I'm going to do a Rico charge against you.
+
+390
+00:15:26,220 --> 00:15:27,080
+And they flip out.
+
+391
+00:15:27,080 --> 00:15:27,340
+Why?
+
+392
+00:15:27,480 --> 00:15:29,260
+Because Rico's really simple.
+
+393
+00:15:29,540 --> 00:15:33,980
+It's like if you want to do business with me, you have to do business with him first.
+
+394
+00:15:34,360 --> 00:15:35,080
+That's Rico.
+
+395
+00:15:35,420 --> 00:15:35,700
+OK.
+
+396
+00:15:35,880 --> 00:15:36,660
+Very simple.
+
+397
+00:15:37,100 --> 00:15:37,320
+Right.
+
+398
+00:15:37,320 --> 00:15:38,620
+I mean, most banks do Rico.
+
+399
+00:15:38,920 --> 00:15:44,400
+The most municipal, most governments do Rico telling you you have to have an attorney is
+
+400
+00:15:44,400 --> 00:15:49,720
+Rico is a Rico action, right, telling you you have to have insurance to drive is a Rico
+
+401
+00:15:49,720 --> 00:15:50,120
+action.
+
+402
+00:15:50,240 --> 00:15:52,980
+I mean, anything is applicable to this.
+
+403
+00:15:53,040 --> 00:15:53,540
+That's what's great.
+
+404
+00:15:53,620 --> 00:15:55,620
+If you know how to use it, you can really use it to your advantage.
+
+405
+00:15:56,280 --> 00:15:59,460
+Demanding a Social Security number is Rico action.
+
+406
+00:15:59,720 --> 00:15:59,900
+Right.
+
+407
+00:15:59,940 --> 00:16:04,160
+Because you're I'm coming to you to work at the place and you're asking me to get a number
+
+408
+00:16:04,160 --> 00:16:06,660
+from someone, another place to work with this place.
+
+409
+00:16:06,660 --> 00:16:07,820
+That's Rico, dude.
+
+410
+00:16:08,520 --> 00:16:08,640
+Yeah.
+
+411
+00:16:08,800 --> 00:16:12,240
+That's why any place you go that requires a Social Security number, it's give it to me
+
+412
+00:16:12,240 --> 00:16:16,780
+in writing and they never will because they have evidence of a Rico lawsuit.
+
+413
+00:16:17,020 --> 00:16:17,120
+Right.
+
+414
+00:16:17,360 --> 00:16:19,180
+And Rico's always trouble damages.
+
+415
+00:16:19,180 --> 00:16:19,520
+Right.
+
+416
+00:16:19,800 --> 00:16:20,700
+Means three times.
+
+417
+00:16:21,440 --> 00:16:23,900
+So like in the octave trouble, you know, just the trouble.
+
+418
+00:16:24,000 --> 00:16:25,180
+That's the third octave and up.
+
+419
+00:16:25,920 --> 00:16:26,500
+All right.
+
+420
+00:16:26,900 --> 00:16:31,540
+So let's just do the basic history and without even getting, you know, you know, people that
+
+421
+00:16:31,540 --> 00:16:36,400
+have listened to various sundry discussions of money that I've done basically define it
+
+422
+00:16:36,400 --> 00:16:37,420
+as portable land.
+
+423
+00:16:37,960 --> 00:16:38,340
+Right.
+
+424
+00:16:38,640 --> 00:16:41,460
+Because if you look at things that are precious, they come from the land.
+
+425
+00:16:41,580 --> 00:16:46,780
+You know, gold, silver, all the basic monetary materials or were extracted from the land.
+
+426
+00:16:46,780 --> 00:16:47,080
+Right.
+
+427
+00:16:47,240 --> 00:16:47,420
+Yeah.
+
+428
+00:16:47,440 --> 00:16:48,860
+So it's portable land.
+
+429
+00:16:49,000 --> 00:16:52,140
+And it doesn't have to be that it could be other things that haven't been discovered,
+
+430
+00:16:52,300 --> 00:16:55,940
+like the osmium, platinum, where they come from the land.
+
+431
+00:16:55,940 --> 00:16:56,160
+Right.
+
+432
+00:16:56,180 --> 00:16:56,860
+So, OK.
+
+433
+00:16:58,040 --> 00:16:59,120
+Really, really simple.
+
+434
+00:16:59,880 --> 00:17:07,720
+When when the people were accumulating precious metals and jewels and out of convenience or
+
+435
+00:17:07,720 --> 00:17:11,920
+out of security, they went to a place called a bank and they gave them the valuables.
+
+436
+00:17:12,819 --> 00:17:18,339
+And then the bank either took interest or gave interest for holding it, whatever.
+
+437
+00:17:18,660 --> 00:17:26,200
+They found out that when people went and gave deposited things into the bank, only one out
+
+438
+00:17:26,200 --> 00:17:32,580
+of 10 would come and frequently do a transaction to withdraw some.
+
+439
+00:17:33,940 --> 00:17:35,720
+So they said, hmm.
+
+440
+00:17:35,980 --> 00:17:42,740
+So basically everything that we're basically hoarding here in our vaults, only 10 percent
+
+441
+00:17:42,740 --> 00:17:43,940
+is called on.
+
+442
+00:17:44,300 --> 00:17:56,040
+So they developed this 10 to 1 ratio, which was basically we can lend out nine times more
+
+443
+00:17:56,040 --> 00:18:01,180
+than we have because if people come and call it, call us on it, they won't.
+
+444
+00:18:01,360 --> 00:18:03,660
+We're only going to only want to write only 10 percent.
+
+445
+00:18:03,760 --> 00:18:05,360
+So we're never going to say we don't have it.
+
+446
+00:18:05,460 --> 00:18:05,600
+Right.
+
+447
+00:18:05,700 --> 00:18:05,960
+So.
+
+448
+00:18:06,220 --> 00:18:07,600
+So they did a 10 to 1.
+
+449
+00:18:07,680 --> 00:18:08,860
+It's called fractional banking.
+
+450
+00:18:08,860 --> 00:18:10,220
+So if the bank had.
+
+451
+00:18:10,420 --> 00:18:10,680
+Yeah.
+
+452
+00:18:10,920 --> 00:18:11,160
+OK.
+
+453
+00:18:11,380 --> 00:18:15,620
+So if the bank had a million dollars in its vaults, they said they had nine million.
+
+454
+00:18:16,780 --> 00:18:17,080
+Right.
+
+455
+00:18:17,240 --> 00:18:20,580
+Because only 10 percent of the people come and take the money in and out.
+
+456
+00:18:20,660 --> 00:18:22,020
+So it fluctuates a little still.
+
+457
+00:18:22,480 --> 00:18:22,660
+Right.
+
+458
+00:18:22,880 --> 00:18:24,900
+So it's still unlawful to do this.
+
+459
+00:18:24,900 --> 00:18:26,200
+But the people allowed it.
+
+460
+00:18:26,460 --> 00:18:30,960
+By the way, it also coincided with the coincidence that most of the bankers were Jewish.
+
+461
+00:18:32,020 --> 00:18:37,420
+And in the Torah, there is a 10 percent, the tie that keeps coming up.
+
+462
+00:18:37,520 --> 00:18:39,160
+You know, you get 10 percent to the temple.
+
+463
+00:18:39,480 --> 00:18:39,580
+Right.
+
+464
+00:18:40,060 --> 00:18:41,200
+And and that.
+
+465
+00:18:41,360 --> 00:18:41,520
+Right.
+
+466
+00:18:41,600 --> 00:18:41,920
+So.
+
+467
+00:18:42,220 --> 00:18:51,600
+But and by the way, the Jews religiously and collectively and communities in countries
+
+468
+00:18:51,600 --> 00:18:57,320
+were usually chosen or rose into the position of becoming the local and almost national
+
+469
+00:18:57,320 --> 00:18:58,140
+bankers as well.
+
+470
+00:18:58,280 --> 00:18:58,480
+Why?
+
+471
+00:18:58,880 --> 00:18:59,480
+Two reasons.
+
+472
+00:19:00,000 --> 00:19:03,520
+One is because it's in their culture to be educated.
+
+473
+00:19:04,200 --> 00:19:04,600
+Right.
+
+474
+00:19:05,000 --> 00:19:09,260
+Second of all, they didn't really have racial admonishments.
+
+475
+00:19:09,980 --> 00:19:14,460
+So when you had a country, let's say, like Italy, which wasn't a country is a bunch of
+
+476
+00:19:14,460 --> 00:19:15,320
+states back then.
+
+477
+00:19:15,360 --> 00:19:15,800
+Right.
+
+478
+00:19:16,060 --> 00:19:16,520
+City states.
+
+479
+00:19:16,680 --> 00:19:18,100
+You had a lot of feuding.
+
+480
+00:19:18,820 --> 00:19:24,020
+So when people moved around and you went through this part of what's known as modern Italy,
+
+481
+00:19:24,180 --> 00:19:28,580
+you couldn't do any banking because they found out what your name was like, oh, we're not
+
+482
+00:19:28,580 --> 00:19:30,300
+going to give you any money, right.
+
+483
+00:19:30,540 --> 00:19:31,700
+Or deal with your money.
+
+484
+00:19:31,780 --> 00:19:32,220
+You're no good.
+
+485
+00:19:32,420 --> 00:19:32,540
+Right.
+
+486
+00:19:32,800 --> 00:19:34,780
+So there was a lot of this either.
+
+487
+00:19:34,820 --> 00:19:37,880
+It was based on either your family name, where you were from.
+
+488
+00:19:38,260 --> 00:19:43,100
+You know, there were very there's a lot of animosity between the Jews didn't care.
+
+489
+00:19:43,300 --> 00:19:45,640
+They were like, doesn't matter who you are, whatever.
+
+490
+00:19:45,640 --> 00:19:47,080
+And it, you know, whatever.
+
+491
+00:19:47,320 --> 00:19:53,240
+And even that the national banks or the people that were the national bankers, meaning the
+
+492
+00:19:53,240 --> 00:19:58,140
+people of the same ethnicity, didn't like lending money to people who were poor.
+
+493
+00:19:59,380 --> 00:19:59,880
+Right.
+
+494
+00:20:00,200 --> 00:20:00,440
+Right.
+
+495
+00:20:00,620 --> 00:20:01,640
+But the Jews did.
+
+496
+00:20:02,820 --> 00:20:10,020
+And and that allowed people who were poor to actually if they had a sound opportunity that
+
+497
+00:20:10,020 --> 00:20:14,440
+if they got a loan, let's say they can use it and get out of that poverty.
+
+498
+00:20:15,120 --> 00:20:17,240
+But the Jews weren't stupid on this.
+
+499
+00:20:17,360 --> 00:20:18,120
+They said figure.
+
+500
+00:20:18,220 --> 00:20:19,560
+They figured, well, this guy's poor.
+
+501
+00:20:20,100 --> 00:20:24,820
+He has a sound opportunity, but because no one else is going to lend it to him, we're
+
+502
+00:20:24,820 --> 00:20:29,520
+going to lend it to him at a much higher interest rate, kind of like these no credit, bad credit
+
+503
+00:20:29,520 --> 00:20:30,100
+doesn't matter.
+
+504
+00:20:30,260 --> 00:20:30,540
+A car.
+
+505
+00:20:30,660 --> 00:20:30,840
+Right.
+
+506
+00:20:30,900 --> 00:20:32,440
+And it's 32 percent interest.
+
+507
+00:20:32,520 --> 00:20:32,700
+Right.
+
+508
+00:20:32,920 --> 00:20:33,940
+Drive it off the lot.
+
+509
+00:20:34,020 --> 00:20:35,080
+No money down.
+
+510
+00:20:35,320 --> 00:20:35,640
+Right.
+
+511
+00:20:36,060 --> 00:20:36,320
+Right.
+
+512
+00:20:36,420 --> 00:20:37,280
+But at least you get a car.
+
+513
+00:20:37,340 --> 00:20:39,660
+So now you get a better job, let's say, and you pay it back.
+
+514
+00:20:39,680 --> 00:20:40,660
+And then everybody's happy.
+
+515
+00:20:40,720 --> 00:20:41,040
+Right.
+
+516
+00:20:41,240 --> 00:20:41,520
+Right.
+
+517
+00:20:41,520 --> 00:20:41,700
+Right.
+
+518
+00:20:41,700 --> 00:20:46,240
+But if they lose, if they lose on you, they got so many of these out, they're going to
+
+519
+00:20:46,240 --> 00:20:48,940
+get so much return anyway that it's it's it's almost covered.
+
+520
+00:20:48,980 --> 00:20:49,200
+Right.
+
+521
+00:20:49,240 --> 00:20:49,940
+It's like hedged.
+
+522
+00:20:50,400 --> 00:20:50,560
+Right.
+
+523
+00:20:50,660 --> 00:20:53,320
+So if you've got if you've got 32 percent, it's really simple.
+
+524
+00:20:53,740 --> 00:20:56,120
+You get three people out of four to cover it.
+
+525
+00:20:56,200 --> 00:21:01,040
+You can lose every fourth one and you're fine because that one is covered by the other three.
+
+526
+00:21:01,100 --> 00:21:01,380
+Oh, yeah.
+
+527
+00:21:01,460 --> 00:21:01,860
+Quite a bit.
+
+528
+00:21:02,020 --> 00:21:02,240
+Yeah.
+
+529
+00:21:02,360 --> 00:21:03,800
+Especially with compound interest.
+
+530
+00:21:03,880 --> 00:21:04,080
+Yeah.
+
+531
+00:21:04,180 --> 00:21:04,320
+Yeah.
+
+532
+00:21:05,300 --> 00:21:08,640
+So so I just want to give a little bit of that because, you know, the Jewish banker,
+
+533
+00:21:08,880 --> 00:21:10,820
+you know, is a big deal.
+
+534
+00:21:10,820 --> 00:21:14,480
+I just wanted to throw that out there because it's never really discussed.
+
+535
+00:21:15,240 --> 00:21:15,640
+Right.
+
+536
+00:21:15,960 --> 00:21:21,900
+So what they did was the Jewish banker ethic helped a lot of people get out of poverty
+
+537
+00:21:21,900 --> 00:21:26,080
+because of the higher interest rates, because they were at the point where and I'll talk
+
+538
+00:21:26,080 --> 00:21:30,360
+about what the unions are, they went after the unions, very similar to Jews, but would
+
+539
+00:21:30,360 --> 00:21:32,520
+crash the the power of the unions very similar.
+
+540
+00:21:33,440 --> 00:21:37,700
+The people that were really desperate and wanted to stay out of desperation actually
+
+541
+00:21:37,700 --> 00:21:41,720
+paid the interest and were quite thankful and happy because that opportunity would have
+
+542
+00:21:41,720 --> 00:21:43,100
+been gone if they didn't get that loan.
+
+543
+00:21:43,220 --> 00:21:43,460
+So anyway.
+
+544
+00:21:43,800 --> 00:21:47,800
+Well, they wouldn't have the ability to capitalize on anything because they'd never assemble
+
+545
+00:21:47,800 --> 00:21:48,200
+the money.
+
+546
+00:21:48,600 --> 00:21:49,640
+So here's the thing.
+
+547
+00:21:49,680 --> 00:21:53,640
+They're just grateful, even though it's a harsh, you know, again, it's it's got they
+
+548
+00:21:53,640 --> 00:21:57,640
+got out of poverty, which was a chronic condition for them.
+
+549
+00:21:57,660 --> 00:21:58,020
+It could have.
+
+550
+00:21:58,080 --> 00:22:02,980
+In other words, if they didn't if they didn't pay the 32 interest points and didn't get
+
+551
+00:22:02,980 --> 00:22:06,140
+the loan, that means maybe another two generations before an opportunity.
+
+552
+00:22:06,320 --> 00:22:06,500
+Right.
+
+553
+00:22:06,500 --> 00:22:08,740
+Well, a lot of people, they could never even build their credit.
+
+554
+00:22:08,900 --> 00:22:12,740
+They go and they get one of these crappy credit cards and they sit there and, you know, charge
+
+555
+00:22:12,740 --> 00:22:13,380
+this is different.
+
+556
+00:22:13,620 --> 00:22:14,120
+This is different.
+
+557
+00:22:14,220 --> 00:22:15,760
+Don't the credit card is completely different.
+
+558
+00:22:15,840 --> 00:22:16,520
+That's the exemption.
+
+559
+00:22:16,680 --> 00:22:17,340
+I'll get into that.
+
+560
+00:22:17,460 --> 00:22:21,800
+OK, but it's the same principle is all I'm saying is that they turn similar, but it's
+
+561
+00:22:21,800 --> 00:22:22,060
+really.
+
+562
+00:22:22,680 --> 00:22:23,160
+But hold on.
+
+563
+00:22:23,180 --> 00:22:26,560
+Once you find out how the credit card works, it's no, it's not the same principle.
+
+564
+00:22:26,560 --> 00:22:27,000
+It's complete.
+
+565
+00:22:27,080 --> 00:22:28,160
+It's similar in principle.
+
+566
+00:22:28,280 --> 00:22:28,600
+Similar.
+
+567
+00:22:28,740 --> 00:22:29,360
+Not the same.
+
+568
+00:22:29,440 --> 00:22:29,600
+OK.
+
+569
+00:22:29,860 --> 00:22:30,120
+Sorry.
+
+570
+00:22:30,400 --> 00:22:30,600
+Yeah.
+
+571
+00:22:30,640 --> 00:22:33,280
+It's because the conditions have changed so much.
+
+572
+00:22:34,040 --> 00:22:34,340
+Right.
+
+573
+00:22:34,340 --> 00:22:35,240
+It's conditions.
+
+574
+00:22:35,420 --> 00:22:38,560
+It's kind of like saying a sinking ship or a sinking airplane.
+
+575
+00:22:39,100 --> 00:22:40,120
+Two different things.
+
+576
+00:22:40,220 --> 00:22:41,160
+One is, can you swim?
+
+577
+00:22:41,220 --> 00:22:44,800
+The other one is, can you survive a fall of 30,000 feet?
+
+578
+00:22:45,420 --> 00:22:45,520
+Right.
+
+579
+00:22:45,640 --> 00:22:46,280
+Big difference.
+
+580
+00:22:46,420 --> 00:22:48,000
+They're both you know, you're both traveling.
+
+581
+00:22:48,140 --> 00:22:48,240
+Right.
+
+582
+00:22:48,300 --> 00:22:48,520
+OK.
+
+583
+00:22:48,640 --> 00:22:51,300
+And then you have to swim afterwards if you survive the fall.
+
+584
+00:22:51,540 --> 00:22:51,680
+Survive.
+
+585
+00:22:51,880 --> 00:22:52,120
+Yeah.
+
+586
+00:22:52,160 --> 00:22:52,460
+Chances.
+
+587
+00:22:52,560 --> 00:22:52,720
+Yeah.
+
+588
+00:22:52,820 --> 00:22:54,080
+So that's what I'm saying.
+
+589
+00:22:54,120 --> 00:22:55,080
+So they're they're similar.
+
+590
+00:22:55,280 --> 00:22:56,500
+You're in a vessel traveling.
+
+591
+00:22:56,520 --> 00:22:56,860
+Right.
+
+592
+00:22:56,980 --> 00:22:57,800
+Both vessels.
+
+593
+00:22:57,920 --> 00:22:58,080
+Right.
+
+594
+00:22:58,500 --> 00:22:58,720
+Yeah.
+
+595
+00:22:58,720 --> 00:23:01,420
+But very different because the conditions have changed so much.
+
+596
+00:23:01,420 --> 00:23:01,700
+OK.
+
+597
+00:23:01,900 --> 00:23:02,080
+So.
+
+598
+00:23:02,300 --> 00:23:02,600
+Got you.
+
+599
+00:23:04,380 --> 00:23:06,780
+This banking thing, fractional 10 to 1.
+
+600
+00:23:07,060 --> 00:23:07,280
+All right.
+
+601
+00:23:07,300 --> 00:23:09,500
+So basically the bank has a million in the vaults.
+
+602
+00:23:09,520 --> 00:23:13,880
+They lend out nine million and because they know only one out of 10 people are going to
+
+603
+00:23:13,880 --> 00:23:14,560
+come and withdraw.
+
+604
+00:23:14,740 --> 00:23:15,060
+Right.
+
+605
+00:23:15,240 --> 00:23:15,840
+So they could still.
+
+606
+00:23:15,960 --> 00:23:16,100
+Right.
+
+607
+00:23:16,140 --> 00:23:16,400
+OK.
+
+608
+00:23:16,460 --> 00:23:18,840
+So you get into what fractionalization is.
+
+609
+00:23:18,880 --> 00:23:19,760
+I just need to bring that up.
+
+610
+00:23:19,800 --> 00:23:26,420
+It's a main point here to show you really what's going on and how crazy finances or finance
+
+611
+00:23:26,420 --> 00:23:26,960
+either one.
+
+612
+00:23:27,440 --> 00:23:28,800
+And it's all scumbaggery.
+
+613
+00:23:28,860 --> 00:23:30,700
+It's all unlawful and illegal.
+
+614
+00:23:30,700 --> 00:23:32,600
+But because the people want it.
+
+615
+00:23:32,760 --> 00:23:32,860
+Right.
+
+616
+00:23:33,600 --> 00:23:37,920
+You see, just like earlier, I mentioned, if you do a big strike and everyone doesn't pay
+
+617
+00:23:37,920 --> 00:23:39,840
+their bill, what are they going to turn everyone's water off?
+
+618
+00:23:39,880 --> 00:23:40,040
+Good.
+
+619
+00:23:40,320 --> 00:23:41,520
+Let's see you try to do that.
+
+620
+00:23:41,520 --> 00:23:41,820
+Right.
+
+621
+00:23:42,420 --> 00:23:43,840
+That'll lead to the next thing.
+
+622
+00:23:43,880 --> 00:23:47,460
+You know, you have a small thing that leads to another thing, leads to another that, you
+
+623
+00:23:47,460 --> 00:23:48,140
+know, they're going to.
+
+624
+00:23:48,280 --> 00:23:48,500
+OK.
+
+625
+00:23:49,080 --> 00:23:49,380
+All right.
+
+626
+00:23:49,380 --> 00:23:52,040
+So you have this fractional banking system goes on.
+
+627
+00:23:52,100 --> 00:23:57,660
+So then you have all the machinations from the 19th century about privatizing the central
+
+628
+00:23:57,660 --> 00:23:58,680
+bank or the bank.
+
+629
+00:23:58,680 --> 00:24:02,700
+Instead of the national bank making it a private bank, they don't call it private.
+
+630
+00:24:02,820 --> 00:24:03,900
+They call it central bank.
+
+631
+00:24:03,980 --> 00:24:05,720
+When you hear the word central, it means private.
+
+632
+00:24:06,100 --> 00:24:06,240
+Right.
+
+633
+00:24:06,800 --> 00:24:08,720
+Just like the word nice means dumb.
+
+634
+00:24:09,120 --> 00:24:09,460
+Right.
+
+635
+00:24:09,800 --> 00:24:12,660
+It doesn't matter how you think what you think it means.
+
+636
+00:24:12,700 --> 00:24:15,840
+It's what it usually is, how it's being really used.
+
+637
+00:24:16,700 --> 00:24:20,040
+So they wanted the national bank to go private, turn it into a central bank.
+
+638
+00:24:20,080 --> 00:24:22,200
+And you hear of all the machinations back and forth.
+
+639
+00:24:22,280 --> 00:24:26,500
+And finally, you know, they did the Titanic, which was not sunk by an iceberg, which is
+
+640
+00:24:26,500 --> 00:24:32,260
+funny because I keep explaining to people a ship can hit a thousand icebergs and maybe
+
+641
+00:24:32,260 --> 00:24:38,100
+it'll scratch a little bit of the paint, maybe, maybe, you know, like you could take a two
+
+642
+00:24:38,100 --> 00:24:43,280
+foot by two foot block of an iceberg and I could hit you over the head with a chuck and
+
+643
+00:24:43,280 --> 00:24:47,060
+you'll laugh because it's like lighter than snow, lighter than styrofoam.
+
+644
+00:24:47,400 --> 00:24:51,920
+You could see there was a fail video I saw recently, two people trying to grapple up
+
+645
+00:24:51,920 --> 00:24:54,500
+on a big iceberg and they flipped the thing upside down.
+
+646
+00:24:55,340 --> 00:24:56,720
+That's how lightweight it is.
+
+647
+00:24:56,860 --> 00:25:00,160
+The iceberg was like 500 feet long and there's two people on one end and they flipped the
+
+648
+00:25:00,160 --> 00:25:00,600
+whole thing.
+
+649
+00:25:01,180 --> 00:25:02,340
+It's like one of the light.
+
+650
+00:25:02,600 --> 00:25:04,940
+It's almost on the category of aerogel.
+
+651
+00:25:05,040 --> 00:25:09,500
+If you don't know what that is, look up aerogel, A-E-R-O-G-E-L.
+
+652
+00:25:09,980 --> 00:25:13,700
+So the lightest substances in the world, it's the lightest natural substance.
+
+653
+00:25:14,020 --> 00:25:16,880
+Well, I like the idea of styrofoam because that's real relatable.
+
+654
+00:25:17,120 --> 00:25:20,180
+People can, you know, it's lighter than styrofoam, way lighter than styrofoam.
+
+655
+00:25:20,240 --> 00:25:23,760
+You know, I could pick up a big old thing of styrofoam that's probably, you know, half
+
+656
+00:25:23,760 --> 00:25:26,960
+the size of my house, not a problem, and just toss it if I wanted to.
+
+657
+00:25:27,160 --> 00:25:27,440
+Sure.
+
+658
+00:25:27,860 --> 00:25:28,340
+The size is irrelevant.
+
+659
+00:25:28,800 --> 00:25:30,320
+It's actually even lighter than that.
+
+660
+00:25:30,420 --> 00:25:30,520
+Yeah.
+
+661
+00:25:30,600 --> 00:25:31,340
+So that's a joke.
+
+662
+00:25:31,440 --> 00:25:36,180
+It's kind of like, you know, the 19 Arabs with hijackers, with box cutters vaporized
+
+663
+00:25:36,180 --> 00:25:36,940
+the World Trade Center.
+
+664
+00:25:37,080 --> 00:25:37,440
+It's the same.
+
+665
+00:25:38,080 --> 00:25:38,360
+All right.
+
+666
+00:25:38,380 --> 00:25:40,540
+So what that did, it got rid of opposition, but anyway.
+
+667
+00:25:42,020 --> 00:25:46,140
+So from one thing led to another, you know how governments pass stupid laws.
+
+668
+00:25:46,640 --> 00:25:52,180
+They passed the Federal Reserve Act and the Federal Reserve Act basically for all practical
+
+669
+00:25:52,180 --> 00:25:59,720
+purposes for the people was that now a private company is handling the money system.
+
+670
+00:26:00,380 --> 00:26:01,520
+So this is how it went.
+
+671
+00:26:02,160 --> 00:26:05,840
+The U.S. monetary system was substance backed gold.
+
+672
+00:26:06,620 --> 00:26:11,360
+So basically the Federal Reserve said, I'm really oversimplifying it here, but it's still
+
+673
+00:26:11,360 --> 00:26:11,660
+true.
+
+674
+00:26:14,200 --> 00:26:17,920
+Federal Reserve said, OK, you give us your gold and we'll print notes for it.
+
+675
+00:26:17,920 --> 00:26:18,880
+Gold and silver.
+
+676
+00:26:19,040 --> 00:26:19,640
+And we'll print notes.
+
+677
+00:26:19,940 --> 00:26:23,040
+And the cost for us to do it is six percent.
+
+678
+00:26:24,460 --> 00:26:24,820
+All right.
+
+679
+00:26:25,040 --> 00:26:27,420
+So they kept giving them all the gold, giving them all the gold.
+
+680
+00:26:27,500 --> 00:26:32,280
+There's lots of newspaper articles you can see between 1914 all the way to the 1920s
+
+681
+00:26:32,280 --> 00:26:36,200
+on how they just shipped out 70 million dollars worth of gold to France.
+
+682
+00:26:36,600 --> 00:26:38,520
+Oh, another 50 million dollars worth.
+
+683
+00:26:38,640 --> 00:26:39,380
+This is back then.
+
+684
+00:26:39,680 --> 00:26:39,860
+Right.
+
+685
+00:26:39,960 --> 00:26:45,080
+So that's like saying a billion now actually could be more accurate, 500 million now, maybe
+
+686
+00:26:45,080 --> 00:26:46,980
+more, more like 900 million.
+
+687
+00:26:46,980 --> 00:26:54,360
+So you see these, they had to take control of the newspapers because the newspapers were
+
+688
+00:26:54,360 --> 00:26:56,360
+printing every so often.
+
+689
+00:26:57,160 --> 00:27:02,300
+Federal Reserve just shipped another 60 million of gold to France, another 60 million to Germany.
+
+690
+00:27:02,480 --> 00:27:06,080
+And so people are like, wait a second, why am I reading that they're shipping all this
+
+691
+00:27:06,080 --> 00:27:06,700
+gold out?
+
+692
+00:27:07,180 --> 00:27:07,300
+Right.
+
+693
+00:27:07,360 --> 00:27:10,920
+So the Federal Reserve is like, we don't want to have that kind of rap.
+
+694
+00:27:11,060 --> 00:27:11,840
+You know, people hate us.
+
+695
+00:27:11,860 --> 00:27:15,580
+So let's just buy the newspapers to get them as they stop printing that stuff.
+
+696
+00:27:15,620 --> 00:27:15,820
+Right.
+
+697
+00:27:15,820 --> 00:27:16,120
+Right.
+
+698
+00:27:16,540 --> 00:27:16,740
+OK.
+
+699
+00:27:17,280 --> 00:27:25,660
+What happened was the gold being limited in stock by the late 1920s, they had the U.S.
+
+700
+00:27:25,680 --> 00:27:29,520
+had given all of the Treasury had given all of the gold to the Federal Reserve.
+
+701
+00:27:30,400 --> 00:27:30,800
+Right.
+
+702
+00:27:31,440 --> 00:27:37,660
+So they wanted to print more money and there's all you need more gold like we gave you all
+
+703
+00:27:37,660 --> 00:27:38,020
+the gold.
+
+704
+00:27:39,240 --> 00:27:42,420
+And they're like, by the way, you gave us all the gold for money, but you still owe us
+
+705
+00:27:42,420 --> 00:27:43,160
+six percent.
+
+706
+00:27:43,800 --> 00:27:44,320
+Yeah, of course.
+
+707
+00:27:45,180 --> 00:27:47,140
+So but we gave you everything we have.
+
+708
+00:27:47,360 --> 00:27:47,520
+Yeah.
+
+709
+00:27:47,580 --> 00:27:49,780
+But you still owe us six percent of the past 20 years.
+
+710
+00:27:50,220 --> 00:27:50,520
+All right.
+
+711
+00:27:50,580 --> 00:27:51,300
+And here's the problem.
+
+712
+00:27:51,340 --> 00:27:55,260
+If you try and get back all the paper that they printed and say, OK, now I want my gold
+
+713
+00:27:55,260 --> 00:27:55,520
+back.
+
+714
+00:27:55,520 --> 00:27:56,140
+It's not worth anything.
+
+715
+00:27:56,380 --> 00:27:56,820
+It's well.
+
+716
+00:27:57,100 --> 00:27:57,440
+Yeah.
+
+717
+00:27:57,680 --> 00:27:57,780
+Yeah.
+
+718
+00:27:57,780 --> 00:28:00,480
+So you couldn't do that anyway, because then you say the society is start.
+
+719
+00:28:00,540 --> 00:28:01,480
+Then you go into Star Trek.
+
+720
+00:28:01,880 --> 00:28:02,220
+Yeah.
+
+721
+00:28:02,220 --> 00:28:02,400
+Right.
+
+722
+00:28:02,560 --> 00:28:03,640
+There's no money in Star Trek.
+
+723
+00:28:03,780 --> 00:28:03,880
+Right.
+
+724
+00:28:03,880 --> 00:28:04,000
+Yeah.
+
+725
+00:28:04,000 --> 00:28:04,620
+You could do that.
+
+726
+00:28:04,660 --> 00:28:05,020
+That's fine.
+
+727
+00:28:05,040 --> 00:28:05,920
+That's how you get rid of them.
+
+728
+00:28:06,520 --> 00:28:06,860
+OK.
+
+729
+00:28:08,260 --> 00:28:09,260
+So what happened?
+
+730
+00:28:09,260 --> 00:28:12,240
+Well, here's the thing, because the U.S. was turned into a corporation in 1871.
+
+731
+00:28:12,440 --> 00:28:17,880
+Between 1871 and 1889, it was various stages of corporatizing it.
+
+732
+00:28:17,900 --> 00:28:19,380
+It was handled like a corporation.
+
+733
+00:28:19,560 --> 00:28:22,600
+It went into bankruptcy March the 9th, 1933.
+
+734
+00:28:23,040 --> 00:28:26,240
+There's a document on that doesn't use the word bankruptcy.
+
+735
+00:28:26,420 --> 00:28:30,500
+But if you understand what they're saying, it's pretty much what it is.
+
+736
+00:28:31,500 --> 00:28:33,120
+I went into receivership.
+
+737
+00:28:33,280 --> 00:28:37,580
+Now, the difference when you have a bankruptcy, usually there's a trustee of the creditor,
+
+738
+00:28:37,580 --> 00:28:42,040
+the person you owe the money to, send someone over to liquidate, and so they can get paid
+
+739
+00:28:42,040 --> 00:28:43,160
+back what is owed.
+
+740
+00:28:43,700 --> 00:28:48,440
+Or the other option is to put the business into what's called receivership, meaning it's
+
+741
+00:28:48,440 --> 00:28:51,700
+like it's not good to liquidate it because the community needs that business.
+
+742
+00:28:52,760 --> 00:28:53,920
+So we leave it be.
+
+743
+00:28:54,040 --> 00:28:56,080
+We put new management and we take over.
+
+744
+00:28:56,720 --> 00:28:58,760
+That's basically what happened to the whole U.S.
+
+745
+00:28:58,760 --> 00:29:04,400
+That's why whenever there's an election, there is no change in, quote unquote, monetary policy.
+
+746
+00:29:04,540 --> 00:29:05,380
+Same thing continues.
+
+747
+00:29:05,380 --> 00:29:09,640
+So it's all the only reason you have elections is it's a formality.
+
+748
+00:29:09,760 --> 00:29:12,640
+It's just like the 4th of July or Halloween or New Year's.
+
+749
+00:29:12,800 --> 00:29:14,600
+There's no effect at all, right?
+
+750
+00:29:15,120 --> 00:29:16,200
+This is this should be known.
+
+751
+00:29:16,360 --> 00:29:16,860
+This is right.
+
+752
+00:29:16,960 --> 00:29:17,200
+OK.
+
+753
+00:29:17,680 --> 00:29:22,360
+So and they're trying to tell you by when they when election is stolen, right?
+
+754
+00:29:22,520 --> 00:29:26,060
+It's like they've tried to make it more in your face how obvious it was because it's
+
+755
+00:29:26,060 --> 00:29:28,400
+like, come on, people, you know, anyway.
+
+756
+00:29:29,600 --> 00:29:33,220
+So what happened then was, well, what are we going to print money on?
+
+757
+00:29:33,260 --> 00:29:34,500
+Well, we need something of value.
+
+758
+00:29:34,500 --> 00:29:37,020
+So FDR made a couple of speeches.
+
+759
+00:29:37,180 --> 00:29:40,400
+They called him fireside chats back in the 30s on the radio.
+
+760
+00:29:40,500 --> 00:29:45,040
+Very important for people to look those up and listen to him, because if you translate
+
+761
+00:29:45,040 --> 00:29:50,440
+what he's saying, he basically says, well, we're in a banking situation, financial situation,
+
+762
+00:29:50,480 --> 00:29:51,520
+but we're a strong country.
+
+763
+00:29:51,660 --> 00:29:52,960
+We need everybody to pitch in.
+
+764
+00:29:53,600 --> 00:29:55,760
+Everybody has to volunteer what they have.
+
+765
+00:29:56,860 --> 00:29:57,460
+Get it?
+
+766
+00:29:57,760 --> 00:30:04,000
+Just like the speech that Wendell was a house made.
+
+767
+00:30:04,900 --> 00:30:05,160
+H.O.
+
+768
+00:30:05,220 --> 00:30:06,540
+U.S.C. is the guy's name.
+
+769
+00:30:07,120 --> 00:30:13,480
+Anyway, Mendel House, he said that soon everyone will be registering their biological property.
+
+770
+00:30:13,980 --> 00:30:14,080
+Right.
+
+771
+00:30:15,020 --> 00:30:15,660
+OK.
+
+772
+00:30:15,880 --> 00:30:23,080
+So what they had is basically new agreements in a CTO kind of form, confidential, but you
+
+773
+00:30:23,080 --> 00:30:28,900
+can find them, by the way, that all mortgages, the Federal Reserve notes that will be printed
+
+774
+00:30:29,660 --> 00:30:35,600
+will represent a lien, a presumptive lien on all property in the U.S., including people,
+
+775
+00:30:36,660 --> 00:30:37,100
+basically.
+
+776
+00:30:37,320 --> 00:30:41,620
+So birth certificates were already they knew they were going to go into this, just like
+
+777
+00:30:41,620 --> 00:30:46,640
+a lot of the stuff that you see that was put in place after 9-11 was not immediately put.
+
+778
+00:30:46,720 --> 00:30:50,780
+If you look at the history of it, it was started way before, like Homeland Security, most people
+
+779
+00:30:50,780 --> 00:30:55,260
+think, came into fruition in 2002 or late 2001.
+
+780
+00:30:55,380 --> 00:30:58,100
+That was already set up in the 90s, right?
+
+781
+00:30:58,680 --> 00:30:59,540
+And all that.
+
+782
+00:31:00,080 --> 00:31:05,660
+So that was under Continuity of Government because, yeah, what's weird is they came out
+
+783
+00:31:05,660 --> 00:31:10,720
+with the public cabinet post and all that for Homeland Security after September 11th.
+
+784
+00:31:10,800 --> 00:31:15,060
+But they didn't call it Homeland Security back then, but it's the same, it's the same
+
+785
+00:31:15,060 --> 00:31:15,420
+charter.
+
+786
+00:31:15,640 --> 00:31:18,740
+No, it was again, it was part of the Continuity of Government program.
+
+787
+00:31:19,000 --> 00:31:20,020
+That's really what it was.
+
+788
+00:31:20,020 --> 00:31:20,560
+The COG.
+
+789
+00:31:20,700 --> 00:31:20,800
+Yeah.
+
+790
+00:31:21,640 --> 00:31:27,820
+And it was actually written by someone who was in the 90s, who was actually behind all
+
+791
+00:31:27,820 --> 00:31:31,520
+of the, what were the terrorist acts in Italy?
+
+792
+00:31:31,760 --> 00:31:33,100
+The P2 Lodge.
+
+793
+00:31:33,740 --> 00:31:34,000
+Oh, yeah.
+
+794
+00:31:34,040 --> 00:31:34,720
+The P2 Lodge.
+
+795
+00:31:34,900 --> 00:31:35,200
+Yeah.
+
+796
+00:31:35,420 --> 00:31:36,760
+It was written by a P2 Lodge member.
+
+797
+00:31:36,860 --> 00:31:40,580
+And after they made it, they arrested the guy who wrote it and threw him away.
+
+798
+00:31:41,700 --> 00:31:42,200
+Yeah.
+
+799
+00:31:42,640 --> 00:31:44,280
+Giorgio Hugo Ballestieri.
+
+800
+00:31:44,480 --> 00:31:44,640
+Yeah.
+
+801
+00:31:44,680 --> 00:31:46,780
+The ones that didn't magically hang themselves under bridges.
+
+802
+00:31:47,080 --> 00:31:47,180
+Yeah.
+
+803
+00:31:47,180 --> 00:31:47,600
+Yeah.
+
+804
+00:31:47,600 --> 00:31:47,820
+Yeah.
+
+805
+00:31:47,900 --> 00:31:48,040
+Yeah.
+
+806
+00:31:48,040 --> 00:31:48,140
+Yeah.
+
+807
+00:31:48,140 --> 00:31:48,500
+That's funny.
+
+808
+00:31:48,660 --> 00:31:51,340
+And it's a little long, but you know, anyway, it goes on and on and on.
+
+809
+00:31:51,400 --> 00:31:54,760
+This is, this is the same stuff you, this is treachery that you read about.
+
+810
+00:31:54,760 --> 00:32:00,400
+If you study ancient Rome, the same treachery, if you studied ancient Babylon, same treachery,
+
+811
+00:32:00,420 --> 00:32:05,140
+if you study the Mayans, the same treachery, if you study the ancient Greeks or the Chinese,
+
+812
+00:32:05,280 --> 00:32:07,760
+you know, when a new Chinese emperor comes in, what does he do?
+
+813
+00:32:07,920 --> 00:32:11,500
+Not usually, but if he wants to be a strong armor, what does he do?
+
+814
+00:32:11,540 --> 00:32:14,400
+He goes and burns all the records and all the history, right?
+
+815
+00:32:14,440 --> 00:32:16,880
+That's typical for them, right?
+
+816
+00:32:16,880 --> 00:32:23,880
+So, okay, so now we're in that situation where, remember the 10 to 1, if they have a million
+
+817
+00:32:23,880 --> 00:32:26,620
+in the bank, they could lend out 9 million, 10 to 1, right?
+
+818
+00:32:26,800 --> 00:32:27,760
+Fractional reserve banking.
+
+819
+00:32:27,920 --> 00:32:30,700
+Anything above that is considered excessive, but go ahead, right?
+
+820
+00:32:31,140 --> 00:32:36,240
+If you look in the social security 1935 in the act, now someone says they found it.
+
+821
+00:32:36,260 --> 00:32:38,220
+Other people years ago said they can't find it.
+
+822
+00:32:38,260 --> 00:32:42,800
+And it's just true because they're changing things online, what you can access and what's
+
+823
+00:32:42,800 --> 00:32:43,580
+there and what's not.
+
+824
+00:32:43,640 --> 00:32:44,800
+And sometimes you might find it.
+
+825
+00:32:44,880 --> 00:32:45,760
+Sometimes you may not.
+
+826
+00:32:45,760 --> 00:32:46,040
+Right?
+
+827
+00:32:47,120 --> 00:32:51,500
+So one of the things that's mentioned in the social security act, 1935, because there's
+
+828
+00:32:51,500 --> 00:32:52,140
+several of them.
+
+829
+00:32:52,200 --> 00:32:57,920
+There was one in 1932 also that didn't call it social security, but anyway, you'll see
+
+830
+00:32:57,920 --> 00:33:03,860
+there that the births that are done in each state get a price of 6 million bucks, right?
+
+831
+00:33:03,920 --> 00:33:07,760
+This is back in the thirties, which in today's money would be a hundred million roughly with
+
+832
+00:33:07,760 --> 00:33:08,440
+inflation, right?
+
+833
+00:33:08,460 --> 00:33:08,900
+Maybe more.
+
+834
+00:33:09,500 --> 00:33:09,720
+Okay.
+
+835
+00:33:09,780 --> 00:33:10,980
+So what does that mean?
+
+836
+00:33:11,040 --> 00:33:11,900
+Now let's go back.
+
+837
+00:33:12,480 --> 00:33:16,780
+All these machinations with, you know, the U S going bankrupt and this and that, and the
+
+838
+00:33:16,780 --> 00:33:21,540
+birth certificates, you know, being secretly traded or used as an asset, all the land is
+
+839
+00:33:21,540 --> 00:33:25,120
+used as an asset for printing money and all that, that was done without the people's
+
+840
+00:33:25,120 --> 00:33:27,040
+consent and without any notice.
+
+841
+00:33:27,320 --> 00:33:31,620
+In other words, there are plenty of documentation to show that all this is in place.
+
+842
+00:33:32,240 --> 00:33:35,380
+Start at March the 9th, 1933, even Google brags about it.
+
+843
+00:33:35,400 --> 00:33:37,000
+They give you the document right there.
+
+844
+00:33:37,120 --> 00:33:37,520
+It's short.
+
+845
+00:33:37,600 --> 00:33:39,180
+It's just two paragraphs, three paragraphs.
+
+846
+00:33:39,660 --> 00:33:45,300
+They do mention, uh, you know, basically the same verbiage that you see in title 12, four,
+
+847
+00:33:45,400 --> 00:33:50,660
+11 U S code title, 12, four, 11, each country, every country in the world has a, something
+
+848
+00:33:50,660 --> 00:33:51,280
+like that.
+
+849
+00:33:51,280 --> 00:33:54,060
+It's called a rigid restrictor or conditional endorsement.
+
+850
+00:33:54,140 --> 00:33:54,540
+Right?
+
+851
+00:33:54,640 --> 00:33:55,160
+What does he tell?
+
+852
+00:33:55,200 --> 00:33:56,480
+What the hell is a Greek talking about?
+
+853
+00:33:56,520 --> 00:33:56,760
+Okay.
+
+854
+00:33:56,980 --> 00:33:57,860
+Let's go back.
+
+855
+00:33:58,420 --> 00:34:04,340
+So the, did the government give you prior notice and get your consent to go through
+
+856
+00:34:04,340 --> 00:34:06,620
+all these machinations with these private scumbags?
+
+857
+00:34:06,880 --> 00:34:07,800
+Answer is no.
+
+858
+00:34:07,800 --> 00:34:08,139
+No.
+
+859
+00:34:08,980 --> 00:34:12,159
+So because you weren't, you have to get some kind of a waiver, right?
+
+860
+00:34:12,540 --> 00:34:14,480
+Some kind of a waiver, right?
+
+861
+00:34:14,699 --> 00:34:18,860
+And what that was was what everyone calls their social security number.
+
+862
+00:34:19,060 --> 00:34:20,780
+What it was really called back then.
+
+863
+00:34:21,280 --> 00:34:24,620
+Sometimes when I tell people to read the old access, it doesn't say social security number,
+
+864
+00:34:24,679 --> 00:34:26,020
+I know, but you'll see the word exemption.
+
+865
+00:34:27,380 --> 00:34:28,400
+That's what it is.
+
+866
+00:34:28,460 --> 00:34:30,040
+So you get an exemption number.
+
+867
+00:34:30,080 --> 00:34:30,400
+Why?
+
+868
+00:34:30,820 --> 00:34:35,340
+Because if the shit got started getting worse and worse and worse, everyone signs up and
+
+869
+00:34:35,340 --> 00:34:37,880
+gets an exemption number, quote unquote, social security number.
+
+870
+00:34:38,420 --> 00:34:42,760
+So what you do is when you want to get some milk or some bread or pay a bill or whatever,
+
+871
+00:34:42,880 --> 00:34:44,239
+you use that number and it's good.
+
+872
+00:34:45,120 --> 00:34:45,520
+Why?
+
+873
+00:34:46,420 --> 00:34:46,940
+It's good.
+
+874
+00:34:47,000 --> 00:34:48,480
+It's a form of credit, like a credit card.
+
+875
+00:34:48,560 --> 00:34:49,280
+Why is it good?
+
+876
+00:34:49,780 --> 00:34:53,739
+Well, because the government got into a deal that screwed everything up and it really messed
+
+877
+00:34:53,739 --> 00:34:54,520
+up your life.
+
+878
+00:34:54,600 --> 00:34:59,420
+Cause now, you know, you live in a society, it's not Star Trek that you need some kind
+
+879
+00:34:59,420 --> 00:35:00,360
+of means of exchange.
+
+880
+00:35:00,460 --> 00:35:03,660
+So we'll use this number and that's what the credit card basically is doing.
+
+881
+00:35:03,660 --> 00:35:04,280
+Okay.
+
+882
+00:35:04,420 --> 00:35:04,520
+Right.
+
+883
+00:35:05,240 --> 00:35:05,700
+Okay.
+
+884
+00:35:06,000 --> 00:35:09,020
+Um, so essentially that's where you are with the money.
+
+885
+00:35:09,120 --> 00:35:14,020
+It's very, very simple, but you remember the gold 10 to one, when someone made a deposit
+
+886
+00:35:14,020 --> 00:35:19,740
+for let's say a hundred dollars, the bank counted it as 900 on their own private books that
+
+887
+00:35:19,740 --> 00:35:20,440
+they could write.
+
+888
+00:35:20,680 --> 00:35:26,120
+And in other words, if someone brings in a hundred dollars, they say they have $900 as
+
+889
+00:35:26,120 --> 00:35:27,140
+in, in right.
+
+890
+00:35:27,580 --> 00:35:31,380
+Actually 800 because you can come and pull that hundred, right?
+
+891
+00:35:31,380 --> 00:35:34,720
+So anyway, that's going on right now.
+
+892
+00:35:34,840 --> 00:35:39,540
+So when you sign a credit card statement, right, it doesn't say anything about, it says
+
+893
+00:35:39,540 --> 00:35:43,440
+you agree to, if you read the little verbiage, every time you sign it on the electronic thing
+
+894
+00:35:43,440 --> 00:35:44,300
+now, right.
+
+895
+00:35:44,560 --> 00:35:48,020
+It says you agree to perform according to the original agreement, it's always agreements
+
+896
+00:35:48,020 --> 00:35:48,680
+and contracts.
+
+897
+00:35:48,800 --> 00:35:49,680
+Well, your prior agreement.
+
+898
+00:35:50,600 --> 00:35:51,040
+Okay.
+
+899
+00:35:51,320 --> 00:35:52,900
+Well, let's say it's a hundred dollar thing.
+
+900
+00:35:52,960 --> 00:35:53,640
+It's Sears, right?
+
+901
+00:35:53,640 --> 00:35:54,880
+Or which no longer exists.
+
+902
+00:35:54,880 --> 00:36:00,520
+I think, or whatever, Ace Hardware moment you sign that, that credit card company sends
+
+903
+00:36:00,520 --> 00:36:03,900
+all the information to the banker that's carrying that credit card.
+
+904
+00:36:04,160 --> 00:36:07,540
+So in many, many of these credit card bank, you never even heard of the usually insurance
+
+905
+00:36:07,540 --> 00:36:12,220
+companies, not always, but anyway, you know, there's the American express and all the ones
+
+906
+00:36:12,220 --> 00:36:12,680
+you heard of.
+
+907
+00:36:12,740 --> 00:36:12,840
+Right.
+
+908
+00:36:12,900 --> 00:36:18,920
+So anyway, when you sign that purchase for a hundred dollars, you just created 900, right?
+
+909
+00:36:19,100 --> 00:36:20,360
+They give a hundred to the merchant.
+
+910
+00:36:20,500 --> 00:36:21,480
+The bank now is 800.
+
+911
+00:36:21,640 --> 00:36:25,940
+I mean, that sounds, it's like, that's why for how long they've been saying, Oh, use
+
+912
+00:36:25,940 --> 00:36:27,860
+your credit card or debit card and you get what?
+
+913
+00:36:27,860 --> 00:36:30,320
+Cash back up to 5%.
+
+914
+00:36:30,320 --> 00:36:30,680
+Yeah.
+
+915
+00:36:30,700 --> 00:36:32,720
+They give you one, two, five percent.
+
+916
+00:36:32,720 --> 00:36:32,820
+Oh my gosh.
+
+917
+00:36:32,840 --> 00:36:35,780
+You're doing 800% and you're giving me 5% pittance.
+
+918
+00:36:36,600 --> 00:36:40,480
+That's why when you buy something on a credit card and you have a hard time with the merchant,
+
+919
+00:36:41,440 --> 00:36:42,600
+call the credit card company.
+
+920
+00:36:42,960 --> 00:36:44,720
+Well, and it's not a real 5% anyway.
+
+921
+00:36:44,840 --> 00:36:45,940
+They give you 5%.
+
+922
+00:36:45,940 --> 00:36:46,480
+Oh yeah.
+
+923
+00:36:46,500 --> 00:36:47,100
+It's irrelevant.
+
+924
+00:36:47,220 --> 00:36:49,640
+Even if they gave you a hundred percent, you're still being shorted.
+
+925
+00:36:49,820 --> 00:36:50,040
+Yeah.
+
+926
+00:36:50,140 --> 00:36:51,540
+You'd be shorted because-
+
+927
+00:36:51,540 --> 00:36:52,440
+You're still being shorted.
+
+928
+00:36:52,440 --> 00:36:52,540
+Yeah.
+
+929
+00:36:52,540 --> 00:36:55,660
+So let's say it was a hundred dollars and they gave you a hundred percent cash back.
+
+930
+00:36:55,780 --> 00:36:57,500
+That means that they give you a hundred.
+
+931
+00:36:57,500 --> 00:37:00,180
+They've still got, as you said, they created-
+
+932
+00:37:00,180 --> 00:37:00,620
+600 now.
+
+933
+00:37:00,760 --> 00:37:01,800
+They've got 600 now.
+
+934
+00:37:02,300 --> 00:37:02,460
+Yeah.
+
+935
+00:37:02,740 --> 00:37:05,680
+So, so the bills at the end of the month go somewhere else.
+
+936
+00:37:05,800 --> 00:37:06,560
+They're usually attorneys.
+
+937
+00:37:06,680 --> 00:37:10,220
+They go by zip code, but, okay, so this is what's going on.
+
+938
+00:37:10,280 --> 00:37:14,080
+So the thing is you start using this system and you're destroying the economy because
+
+939
+00:37:14,080 --> 00:37:20,940
+every time they create more money, the value, the value on paper, paper on paper, on a ledger
+
+940
+00:37:20,940 --> 00:37:22,320
+says, we've got so much of that.
+
+941
+00:37:22,320 --> 00:37:27,760
+That's why you start hearing about Congress got together and just gave $400 million to
+
+942
+00:37:27,760 --> 00:37:33,220
+Nigeria and also they gave a billion dollars to Ukraine and they're giving 800 million
+
+943
+00:37:33,220 --> 00:37:33,940
+a year to Israel.
+
+944
+00:37:34,080 --> 00:37:34,180
+Why?
+
+945
+00:37:34,260 --> 00:37:34,980
+Because they have this surplus.
+
+946
+00:37:35,140 --> 00:37:36,400
+They have to get rid of surplus.
+
+947
+00:37:37,240 --> 00:37:39,940
+You know, surplus is a bad thing in finance, by the way.
+
+948
+00:37:39,940 --> 00:37:41,600
+Well, it's actually a bad thing.
+
+949
+00:37:41,860 --> 00:37:45,020
+If you were running a 7-Eleven, a surplus would be a bad thing.
+
+950
+00:37:45,320 --> 00:37:47,780
+Hey, Chuck, I got 10,000 hot dog buns.
+
+951
+00:37:47,860 --> 00:37:49,640
+Well, how long are hot dog buns good for?
+
+952
+00:37:49,820 --> 00:37:49,940
+Yeah.
+
+953
+00:37:50,020 --> 00:37:50,760
+You're not supposed to.
+
+954
+00:37:50,760 --> 00:37:51,660
+You gotta, you gotta keep.
+
+955
+00:37:52,000 --> 00:37:52,200
+That's really bad.
+
+956
+00:37:52,420 --> 00:37:53,160
+That's really bad.
+
+957
+00:37:53,260 --> 00:37:54,600
+Look, and here's, here's the thing.
+
+958
+00:37:54,780 --> 00:38:00,280
+Just, I need to slow you down just for a second because everybody else in the world has basically
+
+959
+00:38:00,280 --> 00:38:07,460
+been given to understand that if you're doing banking, uh, you can only write a check for
+
+960
+00:38:07,460 --> 00:38:09,620
+the amount that you have in your account, right?
+
+961
+00:38:09,760 --> 00:38:10,080
+So you
+
+962
+00:38:10,080 --> 00:38:11,000
+hold on a second.
+
+963
+00:38:11,100 --> 00:38:14,120
+Do you remember, do you recall loosely my whole check scenario?
+
+964
+00:38:14,200 --> 00:38:15,420
+What happens when you write a check?
+
+965
+00:38:15,820 --> 00:38:16,700
+Yes, I do.
+
+966
+00:38:16,900 --> 00:38:17,440
+Okay, good.
+
+967
+00:38:17,480 --> 00:38:20,120
+I hope others do as well because we might want to cover that again.
+
+968
+00:38:20,120 --> 00:38:20,420
+Yeah.
+
+969
+00:38:20,480 --> 00:38:22,480
+No, I think we're going to have to because here's the thing.
+
+970
+00:38:22,580 --> 00:38:25,940
+Everybody else would be listening to this if they didn't hear that would be saying, well,
+
+971
+00:38:26,000 --> 00:38:26,600
+here's the thing.
+
+972
+00:38:27,100 --> 00:38:28,400
+And it never makes sense.
+
+973
+00:38:28,800 --> 00:38:33,340
+They say, oh no, we're just adding to the debt and we have this massive debt and we're
+
+974
+00:38:33,340 --> 00:38:34,420
+worried about this debt.
+
+975
+00:38:35,080 --> 00:38:37,400
+Now it's strange that they keep calling it a debt.
+
+976
+00:38:37,740 --> 00:38:38,380
+It's not.
+
+977
+00:38:38,520 --> 00:38:39,660
+Let's stop right there.
+
+978
+00:38:39,900 --> 00:38:44,760
+When was the last time you've ever heard a politician in any parlance in any condition
+
+979
+00:38:44,760 --> 00:38:47,380
+in any place talk about the national debt?
+
+980
+00:38:47,620 --> 00:38:48,020
+Never.
+
+981
+00:38:48,360 --> 00:38:48,700
+Ever.
+
+982
+00:38:48,700 --> 00:38:49,080
+Ever.
+
+983
+00:38:49,340 --> 00:38:49,520
+Ever.
+
+984
+00:38:50,200 --> 00:38:51,480
+They never talk about it.
+
+985
+00:38:51,520 --> 00:38:51,840
+No, no.
+
+986
+00:38:52,120 --> 00:38:56,460
+But they are talking about the debt and the deficit now in Congress actually.
+
+987
+00:38:57,140 --> 00:38:58,600
+And the reason for this.
+
+988
+00:38:58,680 --> 00:39:00,080
+Well, no, not to the public though.
+
+989
+00:39:00,340 --> 00:39:00,980
+Not to the public.
+
+990
+00:39:01,120 --> 00:39:02,620
+Well, yeah, they have been recently.
+
+991
+00:39:03,140 --> 00:39:04,020
+They only really.
+
+992
+00:39:04,200 --> 00:39:04,320
+Okay.
+
+993
+00:39:04,400 --> 00:39:05,140
+So it's a new dish.
+
+994
+00:39:05,400 --> 00:39:05,720
+All right.
+
+995
+00:39:05,740 --> 00:39:08,120
+So they'll distract him again with this for a little bit, but never.
+
+996
+00:39:08,480 --> 00:39:09,900
+In other words, you'll never see it.
+
+997
+00:39:10,260 --> 00:39:16,360
+But here's what makes no real sense is that, okay, I can keep writing checks on an account
+
+998
+00:39:16,360 --> 00:39:18,780
+that, you know, they basically say is in debt.
+
+999
+00:39:18,980 --> 00:39:21,460
+You try that with your own bank account, right?
+
+1000
+00:39:21,560 --> 00:39:24,680
+You know, the little one you have there with your little name on it, you go to whatever,
+
+1001
+00:39:25,120 --> 00:39:26,960
+your credit union and so on and so forth.
+
+1002
+00:39:27,100 --> 00:39:27,420
+Okay.
+
+1003
+00:39:27,680 --> 00:39:28,200
+Hold on.
+
+1004
+00:39:28,300 --> 00:39:28,980
+Hold on before you get it.
+
+1005
+00:39:29,240 --> 00:39:30,740
+Let me give you something juicy.
+
+1006
+00:39:31,100 --> 00:39:31,200
+Sure.
+
+1007
+00:39:31,380 --> 00:39:34,860
+You know how, what happens if you write it, you have zero in the bank and you write a
+
+1008
+00:39:34,860 --> 00:39:36,500
+check at a chase hour of 50 bucks.
+
+1009
+00:39:36,600 --> 00:39:37,720
+Let's say you just wrote a bad check.
+
+1010
+00:39:37,820 --> 00:39:39,260
+The attorney general comes after you.
+
+1011
+00:39:39,320 --> 00:39:40,220
+This is no bad check.
+
+1012
+00:39:40,280 --> 00:39:42,720
+Writers will be prosecuted by the attorney general.
+
+1013
+00:39:42,940 --> 00:39:43,040
+Right.
+
+1014
+00:39:43,120 --> 00:39:43,360
+Okay.
+
+1015
+00:39:43,360 --> 00:39:48,980
+Well, it, if you look at title 1295 a 95 B it says there's nothing you can, anyone can
+
+1016
+00:39:48,980 --> 00:39:54,220
+write basically one of the citizens or people that could, they could be held against them.
+
+1017
+00:39:54,360 --> 00:39:57,720
+So you can get a napkin and write a hundred dollars on it and they could cash it and then
+
+1018
+00:39:57,720 --> 00:39:58,640
+they'll say, Oh, that's no good.
+
+1019
+00:39:58,900 --> 00:39:59,680
+But yes, it is.
+
+1020
+00:39:59,720 --> 00:40:05,640
+So you see the bar association now steps in and says, we can't let the people know about
+
+1021
+00:40:05,640 --> 00:40:06,900
+this because no one's going to go to work.
+
+1022
+00:40:06,960 --> 00:40:07,800
+They're going to say, Hey, fuck you.
+
+1023
+00:40:07,840 --> 00:40:09,200
+I got an exemption number.
+
+1024
+00:40:09,240 --> 00:40:10,120
+I get whatever I want.
+
+1025
+00:40:10,160 --> 00:40:11,780
+I'll leave the lights on door open.
+
+1026
+00:40:11,780 --> 00:40:14,060
+The heat are going in the water running all day long.
+
+1027
+00:40:14,100 --> 00:40:14,320
+Right.
+
+1028
+00:40:14,380 --> 00:40:15,320
+Cause here's my signature.
+
+1029
+00:40:15,620 --> 00:40:16,100
+And that's it.
+
+1030
+00:40:16,240 --> 00:40:17,080
+Now you have the money.
+
+1031
+00:40:17,320 --> 00:40:17,860
+They go away.
+
+1032
+00:40:18,400 --> 00:40:18,800
+Yep.
+
+1033
+00:40:18,820 --> 00:40:20,520
+They're like, because they're too savage.
+
+1034
+00:40:20,700 --> 00:40:21,440
+John, they see it.
+
+1035
+00:40:21,500 --> 00:40:26,000
+Would you say the start of the Federation in Star Trek, by the way, Federation and federal
+
+1036
+00:40:26,000 --> 00:40:30,920
+are completely different, by the way, but anyway, in the Federation, let's say the communities
+
+1037
+00:40:30,920 --> 00:40:34,000
+with under the Federation and Star Trek, would you call them savage?
+
+1038
+00:40:34,520 --> 00:40:35,160
+I doubt it.
+
+1039
+00:40:35,220 --> 00:40:39,700
+Maybe some of the planets that they go to are, but the Federation itself is highly organized.
+
+1040
+00:40:39,700 --> 00:40:44,500
+You don't see any, anybody, you don't see anyone wearing work boots with no shoelaces
+
+1041
+00:40:44,500 --> 00:40:47,700
+and their pants dropping down below their butt.
+
+1042
+00:40:47,820 --> 00:40:48,020
+Right.
+
+1043
+00:40:48,180 --> 00:40:49,780
+You know, I'm talking about the hip hop culture.
+
+1044
+00:40:49,880 --> 00:40:50,540
+You don't see that.
+
+1045
+00:40:50,780 --> 00:40:51,320
+Absolutely not.
+
+1046
+00:40:51,400 --> 00:40:54,580
+Here's the thing about that is that basically it's the replicator, right?
+
+1047
+00:40:54,700 --> 00:40:55,800
+Because here's the deal.
+
+1048
+00:40:55,940 --> 00:40:57,300
+You can get anything you need.
+
+1049
+00:40:57,320 --> 00:40:57,680
+That's all.
+
+1050
+00:40:57,820 --> 00:40:58,700
+Everything's in place.
+
+1051
+00:40:58,820 --> 00:40:58,960
+Yeah.
+
+1052
+00:40:59,020 --> 00:41:00,260
+You can get everything you need.
+
+1053
+00:41:00,280 --> 00:41:00,860
+It's there.
+
+1054
+00:41:01,000 --> 00:41:02,560
+There's no need for any exchange.
+
+1055
+00:41:02,840 --> 00:41:05,220
+You don't need to bother with it because of the replicator.
+
+1056
+00:41:05,300 --> 00:41:05,780
+And that's true.
+
+1057
+00:41:05,900 --> 00:41:07,080
+They have greenhouses too.
+
+1058
+00:41:07,080 --> 00:41:10,420
+But what I mean is we already have the replicator going in our bodies.
+
+1059
+00:41:10,520 --> 00:41:11,680
+All we have to do is mimic that.
+
+1060
+00:41:11,800 --> 00:41:11,900
+Right.
+
+1061
+00:41:11,900 --> 00:41:17,440
+But we can't just like the medical community cannot let the people know that how the body
+
+1062
+00:41:17,440 --> 00:41:21,380
+really works because then you could replicate it and have anything you want whenever you
+
+1063
+00:41:21,380 --> 00:41:21,820
+want it.
+
+1064
+00:41:22,160 --> 00:41:27,400
+The same reason the financial community or finance and the Bar Association, the attorneys
+
+1065
+00:41:27,400 --> 00:41:31,800
+do not want the people to know that that what that is social security, that exemption number
+
+1066
+00:41:31,800 --> 00:41:33,300
+really can do and does.
+
+1067
+00:41:33,720 --> 00:41:34,040
+Right.
+
+1068
+00:41:34,520 --> 00:41:35,680
+Because now we will.
+
+1069
+00:41:35,760 --> 00:41:35,900
+Right.
+
+1070
+00:41:36,080 --> 00:41:37,820
+It'll just put them into irrelevance.
+
+1071
+00:41:38,320 --> 00:41:39,760
+That's the biggest problem right now.
+
+1072
+00:41:39,840 --> 00:41:45,420
+These techno companies like Amazon, Facebook, Twitter, Elon Musk and all that stuff poses
+
+1073
+00:41:45,420 --> 00:41:50,440
+a big problem to finance because people are ready to use those platforms, those digital
+
+1074
+00:41:50,440 --> 00:41:53,340
+cloud platforms to do finance.
+
+1075
+00:41:53,520 --> 00:41:53,740
+Right.
+
+1076
+00:41:53,920 --> 00:41:54,640
+And they do.
+
+1077
+00:41:54,940 --> 00:41:56,300
+But they're not the be all end all.
+
+1078
+00:41:56,420 --> 00:41:59,840
+The financial community, the bank, central bank does not want to give that up.
+
+1079
+00:41:59,840 --> 00:42:02,580
+And they're fighting with a digital currency of their own.
+
+1080
+00:42:03,120 --> 00:42:07,260
+You see, because once they give up power, it'll be like when the original power was
+
+1081
+00:42:07,260 --> 00:42:12,180
+given up around the time of the Renaissance from the kings and the monarchs to the financiers
+
+1082
+00:42:12,180 --> 00:42:13,800
+because the financiers were the merchants.
+
+1083
+00:42:13,980 --> 00:42:14,460
+They were dirty.
+
+1084
+00:42:14,600 --> 00:42:15,920
+They weren't even allowed in the palace.
+
+1085
+00:42:17,440 --> 00:42:19,280
+So but now it's the opposite.
+
+1086
+00:42:19,420 --> 00:42:21,700
+Now the financiers can put any king they want in.
+
+1087
+00:42:21,740 --> 00:42:21,900
+Right.
+
+1088
+00:42:21,920 --> 00:42:25,940
+So they don't the financiers know what they did and they don't want the tech giants to
+
+1089
+00:42:25,940 --> 00:42:26,620
+do it to them.
+
+1090
+00:42:26,740 --> 00:42:29,600
+So that's why you're having all these machinations going on.
+
+1091
+00:42:29,600 --> 00:42:34,560
+And that's when when they pulled the covid stuff, they said, look, you people think you
+
+1092
+00:42:34,560 --> 00:42:38,960
+control everything, but we're going to show you what we can do by sending everyone checks
+
+1093
+00:42:38,960 --> 00:42:39,500
+and flooding.
+
+1094
+00:42:40,140 --> 00:42:40,240
+Right.
+
+1095
+00:42:40,760 --> 00:42:44,980
+OK, so that's why I told people if you get a stimulus check for a thousand dollars, you're
+
+1096
+00:42:44,980 --> 00:42:45,380
+going to pay.
+
+1097
+00:42:45,480 --> 00:42:49,940
+That's going to cost you over ten thousand in the next five years because of inflation.
+
+1098
+00:42:51,620 --> 00:42:55,300
+Well, the second you sign that thing, you just created.
+
+1099
+00:42:55,740 --> 00:42:56,420
+That's right.
+
+1100
+00:42:56,680 --> 00:42:57,580
+Ten thousand anyway.
+
+1101
+00:42:58,040 --> 00:42:58,260
+Right.
+
+1102
+00:42:58,260 --> 00:42:58,520
+Yeah.
+
+1103
+00:42:58,660 --> 00:43:00,220
+When you sign it, you create ten thousand.
+
+1104
+00:43:00,440 --> 00:43:00,540
+Right.
+
+1105
+00:43:00,600 --> 00:43:01,600
+They give you a thousand.
+
+1106
+00:43:01,900 --> 00:43:02,080
+Right.
+
+1107
+00:43:02,260 --> 00:43:04,000
+Then they divide the rest into three.
+
+1108
+00:43:04,120 --> 00:43:05,280
+The bank gets one third.
+
+1109
+00:43:05,380 --> 00:43:08,780
+The central bank gets another third and the feds get another third.
+
+1110
+00:43:08,920 --> 00:43:11,140
+That's why the feds are swimming in money right now.
+
+1111
+00:43:11,200 --> 00:43:12,100
+Don't believe all that.
+
+1112
+00:43:12,760 --> 00:43:18,280
+The what they call the national debt is just the national ledger, because people are so
+
+1113
+00:43:18,280 --> 00:43:22,780
+irrational that if you are minus 30 trillion in a bank account, can you write a check for
+
+1114
+00:43:22,780 --> 00:43:23,140
+a dollar?
+
+1115
+00:43:23,300 --> 00:43:24,100
+No, no.
+
+1116
+00:43:24,160 --> 00:43:27,260
+And if someone gave you 30 trillion, can you write a check for a dollar?
+
+1117
+00:43:27,260 --> 00:43:30,720
+Still no, because now you're at zero and people say, oh, this government check is good.
+
+1118
+00:43:30,780 --> 00:43:31,260
+No, it's not.
+
+1119
+00:43:31,360 --> 00:43:34,180
+It's only good because they have the guns to enforce it.
+
+1120
+00:43:34,460 --> 00:43:34,560
+Right.
+
+1121
+00:43:35,220 --> 00:43:36,640
+So let's call it quits right here.
+
+1122
+00:43:36,800 --> 00:43:38,980
+I just had a cup of coffee and all that.
+
+1123
+00:43:39,060 --> 00:43:42,740
+I said, let's make it just one coffee long, because this kind of conversation has a lot
+
+1124
+00:43:42,740 --> 00:43:46,640
+of gravity to it and gravitas and it could drive people downward.
+
+1125
+00:43:47,060 --> 00:43:50,000
+So let's keep it upbeat and continue maybe on the next one.
+
+1126
+00:43:50,200 --> 00:43:51,000
+Yeah, no, definitely.
+
+1127
+00:43:51,160 --> 00:43:56,580
+The mind blower to me, though, and the thing that I take away from this is, again, if people
+
+1128
+00:43:56,580 --> 00:44:00,840
+understood this, it would make so many things irrelevant, because if all you had to do
+
+1129
+00:44:00,840 --> 00:44:04,440
+was give your signature and therefore you had everything replicated for you.
+
+1130
+00:44:05,320 --> 00:44:05,460
+Yeah.
+
+1131
+00:44:05,540 --> 00:44:12,080
+But you can still, by the way, if you make a restricted endorsement, they are not supposed
+
+1132
+00:44:12,080 --> 00:44:12,980
+to fractionalize it.
+
+1133
+00:44:13,040 --> 00:44:15,900
+And we'll get into restrictive endorsements in the future.

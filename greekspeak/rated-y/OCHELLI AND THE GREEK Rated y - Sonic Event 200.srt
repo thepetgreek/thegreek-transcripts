@@ -1,0 +1,6343 @@
+1
+00:00:07,760 --> 00:00:11,120
+Hey, it's Sonic Event 200, first time on
+
+2
+00:00:11,120 --> 00:00:13,720
+Jitsi, so hopefully the sound quality is good.
+
+3
+00:00:14,420 --> 00:00:16,060
+Anyways, how are you doing tonight, Greek?
+
+4
+00:00:16,640 --> 00:00:17,080
+Good.
+
+5
+00:00:17,260 --> 00:00:18,540
+It's more about getting the message.
+
+6
+00:00:18,560 --> 00:00:20,320
+Is the quality good enough to get the
+
+7
+00:00:20,320 --> 00:00:21,080
+message across?
+
+8
+00:00:21,160 --> 00:00:22,380
+It's all about the message, right?
+
+9
+00:00:22,580 --> 00:00:23,300
+Oh, absolutely.
+
+10
+00:00:23,600 --> 00:00:24,260
+Absolutely true.
+
+11
+00:00:24,260 --> 00:00:26,620
+But actually, you sound a little better on
+
+12
+00:00:26,620 --> 00:00:28,940
+this now than I had you sounding on
+
+13
+00:00:28,940 --> 00:00:29,260
+Skype.
+
+14
+00:00:29,940 --> 00:00:32,120
+Yeah, it's different processing.
+
+15
+00:00:32,340 --> 00:00:33,100
+It's all numerics.
+
+16
+00:00:33,220 --> 00:00:35,980
+You know, with these stupid rectangles, when people
+
+17
+00:00:35,980 --> 00:00:37,480
+take pictures, I can tell.
+
+18
+00:00:38,880 --> 00:00:40,340
+It's numeric photography.
+
+19
+00:00:40,580 --> 00:00:42,940
+It's not real light that you're seeing.
+
+20
+00:00:44,360 --> 00:00:47,320
+All cell phone cameras have a fisheye effect
+
+21
+00:00:47,320 --> 00:00:48,300
+because they're so small.
+
+22
+00:00:48,600 --> 00:00:50,280
+You know, if anyone knows about photography, I
+
+23
+00:00:50,280 --> 00:00:51,860
+don't need to get into the technical aspects
+
+24
+00:00:51,860 --> 00:00:52,240
+of it.
+
+25
+00:00:52,240 --> 00:00:56,880
+And because it's been calibrated at the engineering
+
+26
+00:00:56,880 --> 00:01:01,460
+level, they numerically even everything out.
+
+27
+00:01:01,540 --> 00:01:04,420
+That's why when I'm taking pictures of food
+
+28
+00:01:04,420 --> 00:01:08,320
+on a stupid rectangle, the proportions are totally
+
+29
+00:01:08,320 --> 00:01:09,940
+out because it doesn't know what to do
+
+30
+00:01:09,940 --> 00:01:10,880
+with a lot of...
+
+31
+00:01:10,880 --> 00:01:12,940
+when an object like a plate is taken
+
+32
+00:01:12,940 --> 00:01:15,300
+on an angle, it's elliptical, right?
+
+33
+00:01:15,340 --> 00:01:17,400
+And it makes the small plate look really
+
+34
+00:01:17,400 --> 00:01:20,280
+big, you know, and you can see it's
+
+35
+00:01:20,280 --> 00:01:21,000
+all distorted.
+
+36
+00:01:21,000 --> 00:01:23,540
+Things that, you know, it has to decide
+
+37
+00:01:23,540 --> 00:01:25,780
+what scale to give certain things.
+
+38
+00:01:25,900 --> 00:01:29,520
+And you could always tell with the numeric.
+
+39
+00:01:29,800 --> 00:01:32,060
+It's very rare that you see a non
+
+40
+00:01:32,060 --> 00:01:33,100
+-numeric photography.
+
+41
+00:01:33,260 --> 00:01:36,040
+And when you do, what's non-numeric photography
+
+42
+00:01:36,040 --> 00:01:38,940
+is photo negatives that have to be developed
+
+43
+00:01:38,940 --> 00:01:39,840
+and prints chemical.
+
+44
+00:01:40,100 --> 00:01:40,200
+Yeah.
+
+45
+00:01:40,320 --> 00:01:40,840
+Chemical print.
+
+46
+00:01:40,960 --> 00:01:43,960
+Because everything else, basically, when you get down
+
+47
+00:01:43,960 --> 00:01:45,640
+small enough, it's little squares.
+
+48
+00:01:45,640 --> 00:01:49,200
+And quite frankly, if there's no information in
+
+49
+00:01:49,200 --> 00:01:51,500
+the square, the computer fills it out.
+
+50
+00:01:51,880 --> 00:01:52,320
+Yeah.
+
+51
+00:01:52,400 --> 00:01:54,660
+But what I'm saying is that lens can
+
+52
+00:01:54,660 --> 00:01:56,460
+only show you what looks like a fisheye
+
+53
+00:01:56,460 --> 00:01:58,680
+view, cannot show you what you're seeing.
+
+54
+00:01:58,860 --> 00:02:00,140
+So it has to do it numerically.
+
+55
+00:02:00,360 --> 00:02:00,600
+Right.
+
+56
+00:02:00,740 --> 00:02:02,200
+It has an aftertaste.
+
+57
+00:02:02,300 --> 00:02:03,840
+I call it the AI aftertaste.
+
+58
+00:02:04,000 --> 00:02:04,340
+Oh, yeah.
+
+59
+00:02:04,340 --> 00:02:04,800
+There's that.
+
+60
+00:02:04,920 --> 00:02:07,440
+But there's also the after process, right, where
+
+61
+00:02:07,440 --> 00:02:08,919
+you end up with these squares, like I
+
+62
+00:02:08,919 --> 00:02:09,139
+said.
+
+63
+00:02:09,220 --> 00:02:12,520
+And if there's no information, the computer does
+
+64
+00:02:12,520 --> 00:02:14,540
+the fielding.
+
+65
+00:02:14,540 --> 00:02:15,060
+It fields.
+
+66
+00:02:15,340 --> 00:02:15,500
+Yeah.
+
+67
+00:02:15,700 --> 00:02:15,900
+Yeah.
+
+68
+00:02:15,920 --> 00:02:16,940
+So I call it digital.
+
+69
+00:02:17,140 --> 00:02:19,020
+We could coin a phrase, the AI aftertaste,
+
+70
+00:02:19,100 --> 00:02:19,760
+the digital aftertaste.
+
+71
+00:02:20,580 --> 00:02:21,240
+Digital aftertaste.
+
+72
+00:02:21,980 --> 00:02:23,420
+Just call it an aftertaste.
+
+73
+00:02:23,480 --> 00:02:25,180
+Because that was really big in the 80s
+
+74
+00:02:25,180 --> 00:02:25,640
+and 90s.
+
+75
+00:02:25,660 --> 00:02:27,160
+Remember, with certain no aftertaste.
+
+76
+00:02:27,320 --> 00:02:28,560
+Remember, who was doing that?
+
+77
+00:02:28,660 --> 00:02:30,760
+It was one of the beer companies.
+
+78
+00:02:30,880 --> 00:02:32,120
+Remember, it said no aftertaste.
+
+79
+00:02:32,220 --> 00:02:33,180
+No aftertaste.
+
+80
+00:02:33,300 --> 00:02:33,620
+It's light.
+
+81
+00:02:33,740 --> 00:02:34,540
+No aftertaste.
+
+82
+00:02:34,740 --> 00:02:35,100
+Anyway.
+
+83
+00:02:35,420 --> 00:02:36,600
+See how the programming works?
+
+84
+00:02:37,020 --> 00:02:37,220
+Yeah.
+
+85
+00:02:37,280 --> 00:02:38,760
+Well, I think it was a soda company
+
+86
+00:02:38,760 --> 00:02:40,740
+that did the no aftertaste because you're getting
+
+87
+00:02:40,740 --> 00:02:42,120
+it mixed up with the beer company where
+
+88
+00:02:42,120 --> 00:02:43,680
+it was less filling, tastes great.
+
+89
+00:02:44,200 --> 00:02:46,780
+And then they added in no aftertaste.
+
+90
+00:02:46,940 --> 00:02:47,040
+Right.
+
+91
+00:02:47,160 --> 00:02:49,040
+But the soda companies did it first because.
+
+92
+00:02:49,180 --> 00:02:49,460
+Yeah.
+
+93
+00:02:49,580 --> 00:02:50,240
+So in this case.
+
+94
+00:02:50,460 --> 00:02:50,720
+Yeah.
+
+95
+00:02:51,040 --> 00:02:52,500
+Let's bring it up for this.
+
+96
+00:02:52,580 --> 00:02:53,320
+All this crap.
+
+97
+00:02:55,280 --> 00:02:56,920
+I keep telling you, I'm working with an
+
+98
+00:02:56,920 --> 00:02:58,280
+engineering group and said, there is no.
+
+99
+00:02:58,500 --> 00:03:00,400
+You keep saying technology, technology.
+
+100
+00:03:00,500 --> 00:03:01,360
+What about innovation?
+
+101
+00:03:01,900 --> 00:03:03,640
+Technology is not innovation.
+
+102
+00:03:04,020 --> 00:03:04,340
+No.
+
+103
+00:03:04,500 --> 00:03:05,420
+It's not the same word.
+
+104
+00:03:05,540 --> 00:03:08,440
+It's using the same technology from the 1930s.
+
+105
+00:03:08,440 --> 00:03:10,880
+All the sensors that are used in all
+
+106
+00:03:10,880 --> 00:03:12,660
+the smart devices have been around since the
+
+107
+00:03:12,660 --> 00:03:13,680
+1930s.
+
+108
+00:03:13,940 --> 00:03:16,000
+Here's the spiel on it because I've gone
+
+109
+00:03:16,000 --> 00:03:18,020
+over this a lot of times the past
+
+110
+00:03:18,020 --> 00:03:18,360
+month.
+
+111
+00:03:19,140 --> 00:03:21,200
+All the sensors that are what you're calling
+
+112
+00:03:21,200 --> 00:03:24,100
+technology is nothing but a grouping of sensors
+
+113
+00:03:24,100 --> 00:03:28,600
+and processing the information numerically and then presenting
+
+114
+00:03:28,600 --> 00:03:31,300
+it in analog form to the user.
+
+115
+00:03:31,600 --> 00:03:32,900
+So yeah.
+
+116
+00:03:32,960 --> 00:03:34,880
+So what they're doing is all the sensors
+
+117
+00:03:34,880 --> 00:03:37,100
+in your smartphones and all these AI things
+
+118
+00:03:37,100 --> 00:03:39,540
+have been around since the 1920s, 1930s.
+
+119
+00:03:39,960 --> 00:03:43,700
+By the 1950s, they went away from vacuum
+
+120
+00:03:43,700 --> 00:03:46,160
+tubes, made everything a semiconductor, which by the
+
+121
+00:03:46,160 --> 00:03:49,400
+1970s, a lot for miniaturization all the way
+
+122
+00:03:49,400 --> 00:03:51,020
+to the 2000s.
+
+123
+00:03:51,200 --> 00:03:55,540
+And then it became mass produced, mass produced
+
+124
+00:03:55,540 --> 00:03:58,860
+and further miniaturized and then thrust into the
+
+125
+00:03:58,860 --> 00:04:00,940
+public, right?
+
+126
+00:04:01,140 --> 00:04:02,140
+Thrust into the public.
+
+127
+00:04:02,260 --> 00:04:03,180
+In other words, you don't have a choice.
+
+128
+00:04:03,260 --> 00:04:05,920
+Like Ferrari hasn't thrust themselves into the public,
+
+129
+00:04:06,020 --> 00:04:06,320
+right?
+
+130
+00:04:06,320 --> 00:04:09,740
+You can't go get a Ferrari for 10
+
+131
+00:04:09,740 --> 00:04:10,660
+grand or 20 grand.
+
+132
+00:04:10,760 --> 00:04:10,940
+Never.
+
+133
+00:04:11,040 --> 00:04:13,180
+They didn't ever had the Econo version, right?
+
+134
+00:04:13,360 --> 00:04:13,600
+Never.
+
+135
+00:04:14,560 --> 00:04:14,660
+Right?
+
+136
+00:04:14,660 --> 00:04:16,500
+Or the gas, right?
+
+137
+00:04:16,660 --> 00:04:16,959
+You see?
+
+138
+00:04:17,339 --> 00:04:17,640
+So...
+
+139
+00:04:17,640 --> 00:04:19,600
+All they've done is speed things up, really.
+
+140
+00:04:19,899 --> 00:04:23,100
+They've sped up the delivery system and they've
+
+141
+00:04:23,100 --> 00:04:25,000
+sped up processing so that things don't...
+
+142
+00:04:25,000 --> 00:04:25,340
+Yeah.
+
+143
+00:04:25,380 --> 00:04:26,860
+That's part of the miniaturization.
+
+144
+00:04:27,440 --> 00:04:27,560
+Yeah.
+
+145
+00:04:27,680 --> 00:04:28,000
+That's right.
+
+146
+00:04:28,060 --> 00:04:31,420
+Now there's a hundred billion switches in a
+
+147
+00:04:31,420 --> 00:04:35,360
+regular latest, let's say, regular smartphone.
+
+148
+00:04:35,360 --> 00:04:37,920
+I was impressed with the 16 billion.
+
+149
+00:04:38,480 --> 00:04:41,400
+All of that in principle, if you were
+
+150
+00:04:41,400 --> 00:04:43,140
+to teach how it works in principle on
+
+151
+00:04:43,140 --> 00:04:45,520
+a chalkboard or a whiteboard, it would be
+
+152
+00:04:45,520 --> 00:04:47,160
+the same stuff that was taught in principle
+
+153
+00:04:47,160 --> 00:04:48,180
+in the 1930s.
+
+154
+00:04:48,400 --> 00:04:50,000
+So there's no innovation.
+
+155
+00:04:50,420 --> 00:04:50,920
+No innovation.
+
+156
+00:04:51,300 --> 00:04:53,280
+No innovation would be to create an entirely
+
+157
+00:04:53,280 --> 00:04:54,180
+different process.
+
+158
+00:04:54,520 --> 00:04:55,300
+See, that's the thing.
+
+159
+00:04:55,460 --> 00:04:56,400
+The process would be...
+
+160
+00:04:56,400 --> 00:04:58,100
+And the approach and the outcome would also
+
+161
+00:04:58,100 --> 00:04:58,520
+be different.
+
+162
+00:04:58,540 --> 00:05:00,040
+Like if you figure out a different way
+
+163
+00:05:00,040 --> 00:05:02,520
+to capture light being reflected off of objects
+
+164
+00:05:02,520 --> 00:05:04,320
+and you come up with a different capturing
+
+165
+00:05:04,320 --> 00:05:05,960
+system, that would be innovation.
+
+166
+00:05:06,640 --> 00:05:08,460
+But no, that's not what they've done.
+
+167
+00:05:08,580 --> 00:05:11,120
+They've taken the same process and they've kind
+
+168
+00:05:11,120 --> 00:05:13,180
+of sped it up, like I said, and
+
+169
+00:05:13,180 --> 00:05:16,040
+miniaturized Well, they miniaturized it and then they
+
+170
+00:05:16,040 --> 00:05:17,760
+thrust it in front of you because you
+
+171
+00:05:17,760 --> 00:05:18,800
+won't find...
+
+172
+00:05:18,800 --> 00:05:20,740
+You see, these cell phones and tablets, they're
+
+173
+00:05:20,740 --> 00:05:23,480
+really cameras that happen to be computing also.
+
+174
+00:05:23,660 --> 00:05:25,620
+They're focusing on that for some reason.
+
+175
+00:05:25,720 --> 00:05:27,760
+You know, by the way, when Apple says
+
+176
+00:05:27,760 --> 00:05:30,220
+they're doing a battery upgrade, what they're really
+
+177
+00:05:30,680 --> 00:05:31,040
+doing...
+
+178
+00:05:31,040 --> 00:05:32,040
+It's not hard to find.
+
+179
+00:05:32,040 --> 00:05:33,320
+This is not conspiratorial.
+
+180
+00:05:33,380 --> 00:05:35,080
+If you look hard enough, you'll find this.
+
+181
+00:05:35,540 --> 00:05:38,260
+They're searching your files and all of your
+
+182
+00:05:38,260 --> 00:05:40,400
+photos have GPS location and time.
+
+183
+00:05:40,540 --> 00:05:42,340
+And they're looking at your photos for people
+
+184
+00:05:42,340 --> 00:05:45,340
+in the background that the authorities asked them
+
+185
+00:05:45,340 --> 00:05:47,760
+to look for, for a fee, and they're
+
+186
+00:05:47,760 --> 00:05:49,060
+looking at everybody's phone.
+
+187
+00:05:49,560 --> 00:05:51,740
+Let's say, you know, you're out at Pizza
+
+188
+00:05:51,740 --> 00:05:53,580
+Hut and you're leaving Pizza Hut and you
+
+189
+00:05:53,580 --> 00:05:55,320
+do a selfie and the guy all the
+
+190
+00:05:55,320 --> 00:05:56,660
+way in the back of the frame is
+
+191
+00:05:56,660 --> 00:05:57,740
+the guy they're looking for.
+
+192
+00:05:57,980 --> 00:05:59,740
+They know what time he was there and
+
+193
+00:05:59,740 --> 00:06:01,020
+also the coordinates, right?
+
+194
+00:06:01,020 --> 00:06:02,620
+The GPS coordinates are in there.
+
+195
+00:06:03,020 --> 00:06:03,360
+Yeah.
+
+196
+00:06:03,380 --> 00:06:04,740
+And they start putting information.
+
+197
+00:06:04,880 --> 00:06:04,980
+Yeah.
+
+198
+00:06:04,980 --> 00:06:05,520
+It's all for hire.
+
+199
+00:06:05,560 --> 00:06:07,880
+Like, I knew someone who worked at the
+
+200
+00:06:07,880 --> 00:06:08,500
+DEA.
+
+201
+00:06:08,660 --> 00:06:09,160
+He was...
+
+202
+00:06:09,160 --> 00:06:09,740
+He still does.
+
+203
+00:06:11,040 --> 00:06:11,440
+He's...
+
+204
+00:06:12,640 --> 00:06:13,460
+What do you call it?
+
+205
+00:06:13,480 --> 00:06:16,200
+Witness Protection Program official and a bunch of
+
+206
+00:06:16,200 --> 00:06:16,760
+other stuff.
+
+207
+00:06:17,200 --> 00:06:17,960
+And we were...
+
+208
+00:06:17,960 --> 00:06:18,580
+He was...
+
+209
+00:06:18,580 --> 00:06:19,100
+We were looking...
+
+210
+00:06:19,100 --> 00:06:19,520
+Well, I wasn't.
+
+211
+00:06:19,580 --> 00:06:21,680
+We were interested in something and he says,
+
+212
+00:06:21,740 --> 00:06:22,900
+you know, it's too bad.
+
+213
+00:06:23,000 --> 00:06:25,260
+It's, you know, this time of year because
+
+214
+00:06:25,260 --> 00:06:27,500
+the satellite that would do it for us
+
+215
+00:06:27,500 --> 00:06:29,380
+is not in plane.
+
+216
+00:06:29,380 --> 00:06:31,500
+You know, it's not, you know, in position.
+
+217
+00:06:32,120 --> 00:06:33,080
+And I said, really?
+
+218
+00:06:33,240 --> 00:06:34,020
+Yeah, we can.
+
+219
+00:06:34,160 --> 00:06:36,360
+They're allowed to share because government agency, right?
+
+220
+00:06:37,000 --> 00:06:38,960
+They could share their files, but you have
+
+221
+00:06:38,960 --> 00:06:39,640
+to pay them.
+
+222
+00:06:39,940 --> 00:06:41,920
+So when you hear about government agencies like
+
+223
+00:06:41,920 --> 00:06:44,920
+the FBI doing this with this company, they
+
+224
+00:06:44,920 --> 00:06:45,800
+don't do it for free.
+
+225
+00:06:46,100 --> 00:06:46,380
+No.
+
+226
+00:06:47,260 --> 00:06:47,980
+They have to...
+
+227
+00:06:47,980 --> 00:06:49,440
+The FBI has to pay a fee and
+
+228
+00:06:49,440 --> 00:06:50,440
+who or vice versa.
+
+229
+00:06:50,620 --> 00:06:52,200
+So you can go, for example, here's an
+
+230
+00:06:52,200 --> 00:06:52,780
+extreme case.
+
+231
+00:06:53,420 --> 00:06:55,460
+You can go to the provost marshal of
+
+232
+00:06:55,460 --> 00:06:57,120
+an Air Force base and give them enough
+
+233
+00:06:57,120 --> 00:06:59,600
+money and make a small private contract to
+
+234
+00:06:59,600 --> 00:07:01,480
+drop, have an F-16 or whatever, drop
+
+235
+00:07:01,480 --> 00:07:03,220
+a bomb on someone's house and they will
+
+236
+00:07:03,220 --> 00:07:03,520
+do it.
+
+237
+00:07:04,720 --> 00:07:06,880
+And that's been done before during the Obama.
+
+238
+00:07:07,740 --> 00:07:10,180
+I busted them pretty good when there's this
+
+239
+00:07:10,180 --> 00:07:14,540
+lady in San Francisco, very, very outspoken, right?
+
+240
+00:07:14,860 --> 00:07:15,560
+Let's say.
+
+241
+00:07:15,800 --> 00:07:17,780
+And they said the block blew up.
+
+242
+00:07:17,860 --> 00:07:19,440
+Everyone said they heard a low flying jet
+
+243
+00:07:19,440 --> 00:07:20,780
+and there was a big explosion and they
+
+244
+00:07:20,780 --> 00:07:22,700
+said it was a gas line explosion.
+
+245
+00:07:23,760 --> 00:07:24,640
+And the...
+
+246
+00:07:24,640 --> 00:07:25,780
+What do you call it?
+
+247
+00:07:25,780 --> 00:07:27,400
+The media got there too soon and you
+
+248
+00:07:27,400 --> 00:07:31,800
+see this long flatbed truck dumping old gas
+
+249
+00:07:31,800 --> 00:07:33,080
+pipes into the street.
+
+250
+00:07:33,640 --> 00:07:33,740
+Right.
+
+251
+00:07:33,820 --> 00:07:35,220
+First of all, if it was a gas
+
+252
+00:07:35,220 --> 00:07:36,680
+line explosion, there would be nothing of the
+
+253
+00:07:36,680 --> 00:07:37,400
+pipe left.
+
+254
+00:07:37,860 --> 00:07:41,040
+And it was basically that typical conical crater
+
+255
+00:07:41,040 --> 00:07:41,700
+that you see.
+
+256
+00:07:41,820 --> 00:07:43,720
+Just go look at, you know, any DMZ
+
+257
+00:07:43,720 --> 00:07:47,900
+zone when they drop an aerial thing.
+
+258
+00:07:48,120 --> 00:07:50,080
+It looked to me from what I know
+
+259
+00:07:50,080 --> 00:07:53,240
+about high speed explosives, it was 120 pounds
+
+260
+00:07:53,240 --> 00:07:55,100
+and that's all I'm going to say.
+
+261
+00:07:55,920 --> 00:07:56,560
+Fair enough.
+
+262
+00:07:56,680 --> 00:07:56,780
+Yeah.
+
+263
+00:07:56,780 --> 00:07:59,940
+And all the witnesses were planted and the
+
+264
+00:07:59,940 --> 00:08:02,200
+real ones in some other parts of media
+
+265
+00:08:02,200 --> 00:08:03,360
+said, yeah, it was a low flying jet.
+
+266
+00:08:03,400 --> 00:08:04,040
+We heard an explosion.
+
+267
+00:08:05,340 --> 00:08:05,740
+Okay.
+
+268
+00:08:06,200 --> 00:08:08,760
+It's pretty obvious, especially, you know, when the
+
+269
+00:08:08,760 --> 00:08:10,800
+gas company shows up and starts...
+
+270
+00:08:10,800 --> 00:08:12,940
+Why would the gas company be the first
+
+271
+00:08:12,940 --> 00:08:14,800
+to show up to drop old pipes on
+
+272
+00:08:14,800 --> 00:08:15,120
+the street?
+
+273
+00:08:15,280 --> 00:08:16,980
+Literally, you see the guys pushing the pipes
+
+274
+00:08:16,980 --> 00:08:17,680
+off the truck.
+
+275
+00:08:18,300 --> 00:08:18,700
+Yeah.
+
+276
+00:08:18,960 --> 00:08:20,680
+To make the scene look realistic.
+
+277
+00:08:20,740 --> 00:08:21,960
+But the people are so stupid.
+
+278
+00:08:22,360 --> 00:08:23,120
+It's like 9-11.
+
+279
+00:08:23,300 --> 00:08:25,160
+They would never understand, you know.
+
+280
+00:08:25,700 --> 00:08:26,320
+Hey, fair enough.
+
+281
+00:08:26,520 --> 00:08:28,460
+Before you get into a thing that you
+
+282
+00:08:28,460 --> 00:08:30,260
+saw in chat, because I know you want
+
+283
+00:08:30,260 --> 00:08:31,500
+to talk about that, but I got a
+
+284
+00:08:31,500 --> 00:08:34,120
+couple of questions, just a few real quick
+
+285
+00:08:34,120 --> 00:08:34,460
+ones.
+
+286
+00:08:34,900 --> 00:08:37,539
+And so this one says, a question for
+
+287
+00:08:37,539 --> 00:08:37,740
+the group.
+
+288
+00:08:37,900 --> 00:08:38,000
+Okay.
+
+289
+00:08:38,000 --> 00:08:40,000
+What are his thoughts on shungite?
+
+290
+00:08:40,799 --> 00:08:41,020
+Okay.
+
+291
+00:08:41,200 --> 00:08:43,220
+S-H-U-N-G-I-T-E.
+
+292
+00:08:43,300 --> 00:08:44,460
+I'm not sure if that's spelled correctly.
+
+293
+00:08:44,620 --> 00:08:45,140
+I got it.
+
+294
+00:08:45,540 --> 00:08:45,700
+Yeah.
+
+295
+00:08:45,920 --> 00:08:48,560
+Particularly when it is used in or around
+
+296
+00:08:48,560 --> 00:08:49,600
+water.
+
+297
+00:08:49,780 --> 00:08:51,300
+That's the hoopla about it.
+
+298
+00:08:51,300 --> 00:08:52,540
+I've worked with it a little bit.
+
+299
+00:08:52,620 --> 00:08:55,180
+I have not noticed anything marketable, like they
+
+300
+00:08:55,180 --> 00:08:55,420
+say.
+
+301
+00:08:55,840 --> 00:08:58,900
+So in other words, if you start getting
+
+302
+00:08:58,900 --> 00:09:03,520
+the notion via the web or people saying
+
+303
+00:09:03,520 --> 00:09:06,400
+it and try it out yourself, you're going
+
+304
+00:09:06,400 --> 00:09:07,000
+to say, oh, great.
+
+305
+00:09:07,100 --> 00:09:08,480
+You know, before you even try it, you're
+
+306
+00:09:08,480 --> 00:09:09,240
+like, I got shungite.
+
+307
+00:09:09,340 --> 00:09:11,040
+This is like the touted to really help
+
+308
+00:09:11,040 --> 00:09:11,280
+water.
+
+309
+00:09:11,360 --> 00:09:12,440
+And you're like, I don't see it doing
+
+310
+00:09:12,440 --> 00:09:12,860
+anything.
+
+311
+00:09:14,620 --> 00:09:15,780
+That's all I'm going to say.
+
+312
+00:09:15,940 --> 00:09:16,240
+No, no.
+
+313
+00:09:16,260 --> 00:09:17,240
+You won't see it do anything.
+
+314
+00:09:17,240 --> 00:09:19,920
+Now, I have a five inch by five
+
+315
+00:09:19,920 --> 00:09:22,160
+inch by five inch tall shungite pyramid.
+
+316
+00:09:22,620 --> 00:09:22,720
+Okay.
+
+317
+00:09:24,060 --> 00:09:24,460
+Okay.
+
+318
+00:09:24,740 --> 00:09:25,300
+What does that mean?
+
+319
+00:09:25,700 --> 00:09:27,040
+You can go out and buy a little
+
+320
+00:09:27,040 --> 00:09:29,760
+shungite rock that's like 30 bucks, a little
+
+321
+00:09:29,760 --> 00:09:31,380
+thing holding you the size of a gumball.
+
+322
+00:09:31,920 --> 00:09:33,480
+This is a five inch by five inch
+
+323
+00:09:33,480 --> 00:09:35,040
+by five inch piece of shungite.
+
+324
+00:09:35,180 --> 00:09:36,700
+There's different types of shungite.
+
+325
+00:09:37,880 --> 00:09:40,100
+And that doesn't do anything for me.
+
+326
+00:09:40,280 --> 00:09:42,240
+Now, there's a lot of people that believe
+
+327
+00:09:42,240 --> 00:09:42,920
+that it does.
+
+328
+00:09:43,100 --> 00:09:44,420
+You know, we got things like the mood
+
+329
+00:09:44,420 --> 00:09:46,420
+ring, the pet rock, all that stuff.
+
+330
+00:09:46,420 --> 00:09:49,600
+I got one of those shungite pyramids somewhere
+
+331
+00:09:49,600 --> 00:09:50,120
+around here.
+
+332
+00:09:51,640 --> 00:09:54,700
+Everything does something, but it's not quite doing
+
+333
+00:09:54,700 --> 00:09:56,500
+it the way that led you to get
+
+334
+00:09:56,500 --> 00:09:56,640
+it.
+
+335
+00:09:56,800 --> 00:09:57,280
+You know what I mean?
+
+336
+00:09:57,640 --> 00:09:57,960
+I know.
+
+337
+00:09:58,200 --> 00:10:00,600
+These guys were going to clear all kinds
+
+338
+00:10:00,600 --> 00:10:02,260
+of things for me and it didn't do
+
+339
+00:10:02,260 --> 00:10:02,560
+it.
+
+340
+00:10:03,320 --> 00:10:05,700
+Like, for example, it's really, I haven't experimented,
+
+341
+00:10:05,720 --> 00:10:06,300
+but it's really good.
+
+342
+00:10:06,880 --> 00:10:09,180
+You know, the mirror trick, putting it behind
+
+343
+00:10:09,180 --> 00:10:10,900
+a smart mirror, a smart meter.
+
+344
+00:10:11,180 --> 00:10:13,160
+So it sends the, you know, the mirror
+
+345
+00:10:13,160 --> 00:10:14,060
+has to face the meter.
+
+346
+00:10:14,400 --> 00:10:16,960
+So it sends it, yeah, it has very
+
+347
+00:10:16,960 --> 00:10:20,020
+good reflective properties and absorptive properties in the
+
+348
+00:10:20,020 --> 00:10:23,780
+absorptive properties, supposedly process the energy.
+
+349
+00:10:23,980 --> 00:10:25,900
+So it doesn't stay in the room, whatever.
+
+350
+00:10:26,480 --> 00:10:28,480
+Since I've been working with the devices that
+
+351
+00:10:28,480 --> 00:10:30,160
+I, so the devices that I do are
+
+352
+00:10:30,160 --> 00:10:33,620
+in your face, you know, it's, it's, it's
+
+353
+00:10:33,620 --> 00:10:35,780
+like, boom, it's like, even it's like, wow,
+
+354
+00:10:35,860 --> 00:10:38,180
+this thing is really, you know, really notice
+
+355
+00:10:38,180 --> 00:10:38,980
+a difference, right?
+
+356
+00:10:39,360 --> 00:10:41,360
+So that's what I'm interested in.
+
+357
+00:10:41,360 --> 00:10:44,240
+The subtle stuff I'm interested in also, but
+
+358
+00:10:44,240 --> 00:10:46,240
+that's not going to really fix a lot
+
+359
+00:10:46,240 --> 00:10:47,480
+of the issues people have.
+
+360
+00:10:48,100 --> 00:10:50,100
+But, you know, I'd say experiment with it.
+
+361
+00:10:50,320 --> 00:10:52,040
+You know, I think it's mass dependent.
+
+362
+00:10:52,700 --> 00:10:54,320
+In other words, Shungud, you need a lot
+
+363
+00:10:54,320 --> 00:10:56,640
+of it, not a little bit of it.
+
+364
+00:10:57,000 --> 00:10:59,760
+So well, and as you've said, often all
+
+365
+00:10:59,760 --> 00:11:00,540
+fields are open.
+
+366
+00:11:00,640 --> 00:11:02,720
+So I imagine there's plenty to be discovered
+
+367
+00:11:02,720 --> 00:11:05,160
+because, you know, people haven't discovered very much
+
+368
+00:11:05,160 --> 00:11:05,860
+in a long time.
+
+369
+00:11:06,180 --> 00:11:06,740
+All right.
+
+370
+00:11:06,740 --> 00:11:08,900
+So I'm curious, please ask the Greek about
+
+371
+00:11:08,900 --> 00:11:11,880
+the entities that are inner voices and dreams.
+
+372
+00:11:12,280 --> 00:11:14,940
+Are they part of the A.I. running
+
+373
+00:11:14,940 --> 00:11:16,920
+this joint or are they separate?
+
+374
+00:11:20,280 --> 00:11:22,160
+Both think of the A.I. as a
+
+375
+00:11:22,160 --> 00:11:22,540
+tool.
+
+376
+00:11:23,320 --> 00:11:24,900
+So let's say think of it.
+
+377
+00:11:24,940 --> 00:11:26,980
+Think of that question this way regarding the
+
+378
+00:11:26,980 --> 00:11:28,780
+A.I. you go to a real primitive
+
+379
+00:11:28,780 --> 00:11:32,040
+society and when they do agriculture, what do
+
+380
+00:11:32,040 --> 00:11:32,380
+you see?
+
+381
+00:11:32,380 --> 00:11:35,980
+A lot of people with metal strapped to
+
+382
+00:11:35,980 --> 00:11:37,940
+a wooden stick and they're poking at the
+
+383
+00:11:37,940 --> 00:11:38,240
+ground.
+
+384
+00:11:38,380 --> 00:11:40,100
+They might have a plow or not with
+
+385
+00:11:40,100 --> 00:11:40,980
+an ox pulling it.
+
+386
+00:11:41,080 --> 00:11:41,260
+Right.
+
+387
+00:11:41,920 --> 00:11:42,780
+Manual labor.
+
+388
+00:11:42,880 --> 00:11:43,060
+Right.
+
+389
+00:11:43,080 --> 00:11:44,960
+But you go to a more developed society.
+
+390
+00:11:45,360 --> 00:11:47,880
+You got four or five people, you know,
+
+391
+00:11:47,920 --> 00:11:50,520
+doing thousands of acres with these big machines.
+
+392
+00:11:50,620 --> 00:11:50,860
+Right.
+
+393
+00:11:51,820 --> 00:11:53,720
+Then you go to a more evolved society.
+
+394
+00:11:53,820 --> 00:11:54,760
+No one's on the farm.
+
+395
+00:11:54,880 --> 00:11:57,080
+Everything is being metered and completely automated.
+
+396
+00:11:57,420 --> 00:11:57,640
+Yep.
+
+397
+00:11:58,460 --> 00:12:01,420
+OK, so when you bring in A.I.
+
+398
+00:12:01,420 --> 00:12:02,940
+So let's say A.I. is running this
+
+399
+00:12:02,940 --> 00:12:06,380
+place that was developed by extremely evolved.
+
+400
+00:12:06,480 --> 00:12:07,620
+So they don't have to be there.
+
+401
+00:12:07,720 --> 00:12:09,000
+They have the A.I. and it is.
+
+402
+00:12:09,160 --> 00:12:09,900
+That's how it is.
+
+403
+00:12:11,140 --> 00:12:14,320
+And the voices is is a catch up
+
+404
+00:12:14,320 --> 00:12:14,740
+in the air.
+
+405
+00:12:14,960 --> 00:12:17,460
+You get to run a logic train on
+
+406
+00:12:17,460 --> 00:12:17,560
+it.
+
+407
+00:12:17,640 --> 00:12:19,420
+It's one of two things of both of
+
+408
+00:12:19,420 --> 00:12:19,780
+these things.
+
+409
+00:12:19,900 --> 00:12:21,560
+It's the A.I. that's actually doing it
+
+410
+00:12:21,560 --> 00:12:24,920
+or it's a leftover or let's say semi
+
+411
+00:12:24,920 --> 00:12:28,340
+-prominent species that is non-physical that is
+
+412
+00:12:28,340 --> 00:12:30,800
+still here and views us as being evasive
+
+413
+00:12:30,800 --> 00:12:33,160
+or they view us as being a host.
+
+414
+00:12:34,000 --> 00:12:36,200
+They're getting some energy from us by doing
+
+415
+00:12:36,200 --> 00:12:36,460
+that.
+
+416
+00:12:36,620 --> 00:12:39,020
+Well, lastly, I wonder this, you know, often
+
+417
+00:12:39,020 --> 00:12:41,500
+when people look for an either or answer
+
+418
+00:12:41,500 --> 00:12:42,880
+on this, it could be both.
+
+419
+00:12:42,980 --> 00:12:43,340
+Could it not?
+
+420
+00:12:43,540 --> 00:12:44,260
+That's what I'm saying.
+
+421
+00:12:44,340 --> 00:12:45,100
+I think it's both.
+
+422
+00:12:45,540 --> 00:12:47,040
+Now, I don't think it's all it could
+
+423
+00:12:47,040 --> 00:12:47,260
+be.
+
+424
+00:12:47,340 --> 00:12:50,060
+It could be all exclusively the A.I.
+
+425
+00:12:50,660 --> 00:12:53,160
+And there is no such species was replaced.
+
+426
+00:12:53,160 --> 00:12:55,780
+But is it possible to have a fully
+
+427
+00:12:55,780 --> 00:12:58,760
+automated farm or self-driving tractors and meters
+
+428
+00:12:58,760 --> 00:13:01,080
+for the water and self-harvesting and self
+
+429
+00:13:01,080 --> 00:13:03,800
+-planting and then have a primitive group living
+
+430
+00:13:03,800 --> 00:13:05,700
+on the sideline doing what they're doing to?
+
+431
+00:13:06,840 --> 00:13:07,280
+Yeah.
+
+432
+00:13:07,280 --> 00:13:09,300
+And in Star Wars, they had that.
+
+433
+00:13:09,440 --> 00:13:10,260
+Then what's that planet?
+
+434
+00:13:10,420 --> 00:13:11,660
+You know, they're the drone.
+
+435
+00:13:11,740 --> 00:13:13,440
+They would go around picking up drones and
+
+436
+00:13:13,440 --> 00:13:13,720
+stuff.
+
+437
+00:13:13,800 --> 00:13:15,480
+Those little sand people are not sand people.
+
+438
+00:13:15,580 --> 00:13:16,080
+The other ones.
+
+439
+00:13:16,160 --> 00:13:16,280
+Yeah.
+
+440
+00:13:16,540 --> 00:13:16,720
+Yeah.
+
+441
+00:13:16,800 --> 00:13:18,400
+The the Jawas would run around.
+
+442
+00:13:18,900 --> 00:13:21,360
+So I believe it's a combination of both.
+
+443
+00:13:21,420 --> 00:13:22,520
+But I would say the A.I. is
+
+444
+00:13:22,520 --> 00:13:23,120
+predominant.
+
+445
+00:13:23,340 --> 00:13:23,880
+There you go.
+
+446
+00:13:24,440 --> 00:13:26,620
+OK, so I have a question about nine
+
+447
+00:13:26,620 --> 00:13:27,480
+star key.
+
+448
+00:13:27,480 --> 00:13:31,580
+And more specifically, the magic square used for
+
+449
+00:13:31,580 --> 00:13:34,280
+prediction and how the numbers shift within the
+
+450
+00:13:34,280 --> 00:13:35,360
+square on a day.
+
+451
+00:13:36,100 --> 00:13:37,200
+Mostly, I don't know.
+
+452
+00:13:37,360 --> 00:13:39,300
+I don't know about the magic square enough
+
+453
+00:13:39,300 --> 00:13:40,140
+to talk about it.
+
+454
+00:13:40,340 --> 00:13:42,860
+OK, I would like to ask Greek if
+
+455
+00:13:42,860 --> 00:13:44,420
+he uses the magic square.
+
+456
+00:13:44,600 --> 00:13:46,540
+OK, you already know that in his life
+
+457
+00:13:46,540 --> 00:13:47,760
+for timing things, but OK.
+
+458
+00:13:47,820 --> 00:13:49,820
+The idea of going along or against the
+
+459
+00:13:49,820 --> 00:13:50,180
+current.
+
+460
+00:13:50,460 --> 00:13:53,920
+OK, but what about going along with or
+
+461
+00:13:53,920 --> 00:13:57,040
+against the current of atmospheric flow?
+
+462
+00:13:58,020 --> 00:14:00,200
+Yeah, that's whether that's a weather question.
+
+463
+00:14:00,460 --> 00:14:01,360
+OK, so that's a weather.
+
+464
+00:14:01,480 --> 00:14:02,360
+It's kind of a combination.
+
+465
+00:14:02,700 --> 00:14:02,920
+That's fine.
+
+466
+00:14:03,220 --> 00:14:03,760
+That's fine.
+
+467
+00:14:04,660 --> 00:14:06,100
+If you go with the flow, you're going
+
+468
+00:14:06,100 --> 00:14:08,500
+to get cooling and blocking.
+
+469
+00:14:08,840 --> 00:14:10,680
+If you go against the flow, you're going
+
+470
+00:14:10,680 --> 00:14:12,500
+to get warming and discharge.
+
+471
+00:14:12,980 --> 00:14:13,280
+OK.
+
+472
+00:14:14,640 --> 00:14:16,500
+Anyone who is at the weather seminar, I
+
+473
+00:14:16,500 --> 00:14:18,440
+might want to do another weather seminar just
+
+474
+00:14:18,440 --> 00:14:21,340
+to interject, I'm still getting people emailing about
+
+475
+00:14:21,340 --> 00:14:23,700
+joining free classes and paid classes, no matter
+
+476
+00:14:23,700 --> 00:14:24,020
+what.
+
+477
+00:14:24,020 --> 00:14:26,220
+I mean, I'm in a transition right now,
+
+478
+00:14:26,340 --> 00:14:28,740
+setting up a lab, a water lab specifically
+
+479
+00:14:28,740 --> 00:14:29,860
+around the scale of radar.
+
+480
+00:14:30,180 --> 00:14:31,800
+And that's why I said I wanted to
+
+481
+00:14:31,800 --> 00:14:33,660
+do it pretty much in the springtime before
+
+482
+00:14:33,660 --> 00:14:35,080
+spring is over is a good time.
+
+483
+00:14:35,160 --> 00:14:36,320
+And also I wanted to do the food
+
+484
+00:14:36,320 --> 00:14:38,260
+seminar before anything else because you got to
+
+485
+00:14:38,260 --> 00:14:39,420
+eat, right?
+
+486
+00:14:39,860 --> 00:14:41,720
+You want to know this stuff before your
+
+487
+00:14:41,720 --> 00:14:42,220
+next meal.
+
+488
+00:14:42,340 --> 00:14:43,560
+So your next meal will be delicious.
+
+489
+00:14:44,620 --> 00:14:45,640
+So I don't know.
+
+490
+00:14:45,680 --> 00:14:48,340
+I might do a short free food seminar.
+
+491
+00:14:48,920 --> 00:14:50,380
+But you know how I am.
+
+492
+00:14:50,400 --> 00:14:51,520
+It's nothing short.
+
+493
+00:14:52,040 --> 00:14:53,780
+And I think, you know, so and I
+
+494
+00:14:53,780 --> 00:14:55,920
+deserve to see the information is free, but
+
+495
+00:14:55,920 --> 00:14:57,600
+my time isn't right now and it really
+
+496
+00:14:57,600 --> 00:14:58,540
+isn't available.
+
+497
+00:14:59,420 --> 00:15:00,920
+So I don't know how we're going to
+
+498
+00:15:00,920 --> 00:15:02,160
+work that out yet.
+
+499
+00:15:02,260 --> 00:15:05,500
+I still haven't announced it, but everyone beware
+
+500
+00:15:05,500 --> 00:15:07,320
+that I would give a minimum of 10
+
+501
+00:15:07,320 --> 00:15:08,660
+days to two weeks notice.
+
+502
+00:15:08,800 --> 00:15:10,000
+So it's not like I'm going to say
+
+503
+00:15:10,000 --> 00:15:12,820
+I'm doing the fee based seminar in three
+
+504
+00:15:12,820 --> 00:15:14,380
+days and no one you know, people don't
+
+505
+00:15:14,380 --> 00:15:15,760
+find out you'll have plenty of time.
+
+506
+00:15:15,960 --> 00:15:19,140
+I'll do an email blast, you know, Skype
+
+507
+00:15:19,140 --> 00:15:20,400
+blast, whatever.
+
+508
+00:15:20,400 --> 00:15:23,580
+If I've got you in ever communicated with
+
+509
+00:15:23,580 --> 00:15:25,980
+you ever, I will communicate that there's a
+
+510
+00:15:25,980 --> 00:15:26,680
+class going.
+
+511
+00:15:26,900 --> 00:15:27,060
+Yeah.
+
+512
+00:15:27,100 --> 00:15:28,780
+So I'll try and let people know on
+
+513
+00:15:28,780 --> 00:15:31,280
+my list that are, you know, associated with
+
+514
+00:15:31,280 --> 00:15:31,840
+you as well.
+
+515
+00:15:31,940 --> 00:15:32,960
+You know when.
+
+516
+00:15:33,140 --> 00:15:33,460
+Yeah.
+
+517
+00:15:33,540 --> 00:15:34,880
+And it's not like you're going to miss
+
+518
+00:15:34,880 --> 00:15:35,140
+it.
+
+519
+00:15:35,460 --> 00:15:37,340
+It'll be recorded and it's going to be
+
+520
+00:15:37,340 --> 00:15:38,840
+three three hour sessions.
+
+521
+00:15:39,080 --> 00:15:40,160
+Not this stuff.
+
+522
+00:15:40,240 --> 00:15:42,540
+You know, the real look when when I
+
+523
+00:15:42,540 --> 00:15:45,240
+when when I was exposed to classes that
+
+524
+00:15:45,240 --> 00:15:47,640
+were the real deal, they were eight hour
+
+525
+00:15:47,640 --> 00:15:49,220
+long and 10 hours long.
+
+526
+00:15:49,220 --> 00:15:52,020
+They were, you know, if anyone, heaven forbid
+
+527
+00:15:52,020 --> 00:15:53,960
+you work in the medical or legal profession
+
+528
+00:15:53,960 --> 00:15:55,820
+when they do their class seminars, it's the
+
+529
+00:15:55,820 --> 00:15:56,400
+entire day.
+
+530
+00:15:56,480 --> 00:15:57,780
+Seven in the morning to seven o'clock
+
+531
+00:15:57,780 --> 00:15:58,220
+at night.
+
+532
+00:15:58,280 --> 00:15:58,520
+Right.
+
+533
+00:15:59,040 --> 00:16:01,740
+And that's just even just just to cover
+
+534
+00:16:01,740 --> 00:16:03,440
+the news to not really full.
+
+535
+00:16:03,780 --> 00:16:04,140
+Yeah.
+
+536
+00:16:04,400 --> 00:16:07,520
+But the way I'm going to present it,
+
+537
+00:16:07,560 --> 00:16:08,460
+it'll be recorded.
+
+538
+00:16:08,920 --> 00:16:11,760
+I'm thinking of doing some bullet point stuff
+
+539
+00:16:11,760 --> 00:16:12,800
+so you don't have to go through a
+
+540
+00:16:12,800 --> 00:16:13,140
+recording.
+
+541
+00:16:13,240 --> 00:16:13,700
+I don't know.
+
+542
+00:16:14,080 --> 00:16:15,760
+I would like to partner up with someone
+
+543
+00:16:15,760 --> 00:16:16,220
+on it.
+
+544
+00:16:16,680 --> 00:16:19,520
+And if I hint, hint, someone wants to
+
+545
+00:16:19,520 --> 00:16:21,440
+partner up with me on on setting it
+
+546
+00:16:21,440 --> 00:16:22,680
+up and all that, that'd be great.
+
+547
+00:16:22,900 --> 00:16:24,440
+So far, no one's come forward.
+
+548
+00:16:24,720 --> 00:16:25,980
+I've got a way of setting up chapters
+
+549
+00:16:25,980 --> 00:16:28,280
+and stuff on an audio recording, which we
+
+550
+00:16:28,280 --> 00:16:30,220
+could do without too much of a problem.
+
+551
+00:16:30,260 --> 00:16:31,980
+It's almost as good as an audio book,
+
+552
+00:16:32,200 --> 00:16:32,980
+basically.
+
+553
+00:16:33,960 --> 00:16:34,320
+Yeah.
+
+554
+00:16:34,360 --> 00:16:35,620
+So let's just see if we run out
+
+555
+00:16:35,620 --> 00:16:36,040
+of time.
+
+556
+00:16:36,080 --> 00:16:37,960
+Maybe we'll do it, you know, via this.
+
+557
+00:16:38,000 --> 00:16:41,480
+It'll be a fee based, though, because this
+
+558
+00:16:41,480 --> 00:16:42,300
+way it's separate.
+
+559
+00:16:42,500 --> 00:16:43,640
+We can put it in a separate part
+
+560
+00:16:43,640 --> 00:16:44,040
+of the page.
+
+561
+00:16:44,040 --> 00:16:45,960
+Look, I'll definitely announce it on the page
+
+562
+00:16:45,960 --> 00:16:47,080
+when you announce it.
+
+563
+00:16:47,180 --> 00:16:50,120
+But if you want, we could possibly put
+
+564
+00:16:50,120 --> 00:16:51,460
+it in the page out in a special
+
+565
+00:16:51,460 --> 00:16:53,960
+section that it's like, you know, you can
+
+566
+00:16:53,960 --> 00:16:55,740
+come and get it here and then that's
+
+567
+00:16:55,740 --> 00:16:56,800
+a separate fee or whatever.
+
+568
+00:16:56,820 --> 00:16:57,540
+That's up to you.
+
+569
+00:16:57,560 --> 00:16:59,740
+But but I'm just saying that's one of
+
+570
+00:16:59,740 --> 00:17:00,940
+the things that could happen or we could
+
+571
+00:17:00,940 --> 00:17:02,660
+put it there afterwards up to you also.
+
+572
+00:17:03,079 --> 00:17:04,079
+So, you know.
+
+573
+00:17:04,180 --> 00:17:04,400
+Yeah.
+
+574
+00:17:04,579 --> 00:17:06,359
+But I do really have to focus.
+
+575
+00:17:06,500 --> 00:17:08,700
+We'll see, because three I mean, I'll commit
+
+576
+00:17:08,700 --> 00:17:09,960
+to it if I commit to it.
+
+577
+00:17:09,960 --> 00:17:12,579
+But it's I'm getting like almost every minute
+
+578
+00:17:12,579 --> 00:17:15,040
+of my day squeezed out of me, not
+
+579
+00:17:15,040 --> 00:17:16,240
+because anyone's doing it.
+
+580
+00:17:16,280 --> 00:17:17,500
+I know how to tell people to back
+
+581
+00:17:17,500 --> 00:17:20,240
+off and give good time limits for myself.
+
+582
+00:17:20,240 --> 00:17:21,819
+I always you know, if I know something
+
+583
+00:17:21,819 --> 00:17:23,180
+takes a week, I'm going to tell you
+
+584
+00:17:23,180 --> 00:17:23,619
+a month.
+
+585
+00:17:23,619 --> 00:17:24,800
+So you'll get it in two weeks and
+
+586
+00:17:24,800 --> 00:17:26,300
+be like, wow, he really delivered.
+
+587
+00:17:26,380 --> 00:17:26,560
+Right.
+
+588
+00:17:27,099 --> 00:17:29,980
+So, yeah, the only thing on my personal
+
+589
+00:17:29,980 --> 00:17:32,180
+side is I'm getting a reputation I'm meeting
+
+590
+00:17:32,180 --> 00:17:34,100
+with these so-called water experts.
+
+591
+00:17:34,640 --> 00:17:37,400
+And they pretty much get destroyed after having
+
+592
+00:17:37,400 --> 00:17:38,420
+me on for three hours.
+
+593
+00:17:38,440 --> 00:17:39,600
+And they're like, oh, my God, this guy
+
+594
+00:17:39,600 --> 00:17:41,160
+is like the world water expert.
+
+595
+00:17:41,240 --> 00:17:41,720
+And I'm not.
+
+596
+00:17:41,840 --> 00:17:42,920
+But I just happen to be.
+
+597
+00:17:42,920 --> 00:17:44,040
+If that makes any sense.
+
+598
+00:17:44,500 --> 00:17:46,540
+It's kind of like that movie Idiocracy.
+
+599
+00:17:47,060 --> 00:17:49,840
+You know, he's the smartest guy in the
+
+600
+00:17:49,840 --> 00:17:50,100
+world.
+
+601
+00:17:50,260 --> 00:17:51,740
+And I'm like, oh, my God, this guy.
+
+602
+00:17:51,800 --> 00:17:53,460
+Not sure is the smartest guy in the
+
+603
+00:17:53,460 --> 00:17:53,760
+world.
+
+604
+00:17:53,940 --> 00:17:55,600
+He's got like an average going to fix
+
+605
+00:17:55,600 --> 00:17:57,560
+all our problems, fix everything.
+
+606
+00:17:58,260 --> 00:17:59,140
+That's what's happening.
+
+607
+00:17:59,260 --> 00:18:00,460
+And I'm like, no, no, no, no, no.
+
+608
+00:18:00,620 --> 00:18:01,540
+And they're like, yes, yes, yes.
+
+609
+00:18:01,540 --> 00:18:03,420
+I'm like, OK, then.
+
+610
+00:18:03,520 --> 00:18:03,980
+All right.
+
+611
+00:18:04,680 --> 00:18:06,340
+What was telling you to put water on
+
+612
+00:18:06,340 --> 00:18:06,700
+the crop?
+
+613
+00:18:06,780 --> 00:18:09,420
+Yeah, I look outside and everything's Carl's Jr.
+
+614
+00:18:09,420 --> 00:18:12,920
+And Brando, stop using Brando on everything.
+
+615
+00:18:13,120 --> 00:18:14,980
+I know you're getting paid, but stop using.
+
+616
+00:18:15,180 --> 00:18:16,740
+Yeah, but but here's the thing.
+
+617
+00:18:16,800 --> 00:18:19,740
+It's it's that's why I have more juice
+
+618
+00:18:19,740 --> 00:18:21,380
+and more rights and more.
+
+619
+00:18:21,560 --> 00:18:21,920
+What do you say?
+
+620
+00:18:22,240 --> 00:18:24,040
+Confirmation on me saying where everyone is here
+
+621
+00:18:24,040 --> 00:18:25,680
+to waste their time, boy, and I will
+
+622
+00:18:25,680 --> 00:18:26,880
+talk about it a little bit tonight.
+
+623
+00:18:26,920 --> 00:18:29,260
+I'm telling you, I'll give you reasons that
+
+624
+00:18:29,260 --> 00:18:29,740
+are solid.
+
+625
+00:18:29,820 --> 00:18:32,180
+And I love that people it gets when
+
+626
+00:18:32,180 --> 00:18:34,280
+people hear that you're here to waste your
+
+627
+00:18:34,280 --> 00:18:36,260
+time, not you specifically, but everyone.
+
+628
+00:18:36,380 --> 00:18:38,300
+It gets under some people's skin.
+
+629
+00:18:38,300 --> 00:18:40,300
+And that it's called triggering, right?
+
+630
+00:18:40,360 --> 00:18:40,720
+It does.
+
+631
+00:18:40,920 --> 00:18:42,880
+And you and you look at the reasons
+
+632
+00:18:42,880 --> 00:18:44,220
+why they're not wasting their time.
+
+633
+00:18:44,240 --> 00:18:45,180
+And you look at the reasons you're like,
+
+634
+00:18:45,240 --> 00:18:47,220
+oh, you really are wasting your time.
+
+635
+00:18:47,300 --> 00:18:50,420
+You know, so that's like so obvious.
+
+636
+00:18:50,620 --> 00:18:52,480
+So anyway, what else you got?
+
+637
+00:18:52,580 --> 00:18:53,700
+I'm going to ask you, I got one
+
+638
+00:18:53,700 --> 00:18:55,520
+last question here, and then we'll move on
+
+639
+00:18:55,520 --> 00:18:57,020
+to to that thing that you want to
+
+640
+00:18:57,020 --> 00:18:57,380
+discuss.
+
+641
+00:18:57,840 --> 00:18:59,800
+What are the Greeks thoughts on suicide?
+
+642
+00:19:00,580 --> 00:19:02,800
+OK, my cousin committed suicide a year ago,
+
+643
+00:19:02,800 --> 00:19:05,780
+and I wondered what effect would have such
+
+644
+00:19:05,780 --> 00:19:07,660
+an act on the spirit of the individual.
+
+645
+00:19:08,300 --> 00:19:11,240
+I know mainstream religious mostly condemned such an
+
+646
+00:19:11,240 --> 00:19:11,480
+act.
+
+647
+00:19:11,620 --> 00:19:14,160
+But what would be a more realistic assessment
+
+648
+00:19:14,160 --> 00:19:18,000
+is the more realistic assessment would be it's
+
+649
+00:19:18,000 --> 00:19:20,680
+the easy way out, no matter how painful
+
+650
+00:19:20,680 --> 00:19:21,120
+it is.
+
+651
+00:19:21,180 --> 00:19:23,260
+It's a lot less painful for, you know,
+
+652
+00:19:23,320 --> 00:19:24,980
+usually if you don't if you're going to
+
+653
+00:19:24,980 --> 00:19:27,500
+commit suicide and you don't do it within
+
+654
+00:19:27,500 --> 00:19:28,760
+three days of trying.
+
+655
+00:19:29,020 --> 00:19:29,500
+Right.
+
+656
+00:19:29,760 --> 00:19:31,960
+You're probably not going to do it.
+
+657
+00:19:31,980 --> 00:19:32,760
+You know, whatever.
+
+658
+00:19:33,180 --> 00:19:35,380
+It's it's a lot easier and quicker than
+
+659
+00:19:35,380 --> 00:19:36,900
+putting through a lifetime here.
+
+660
+00:19:37,120 --> 00:19:40,000
+Now, depends on what you consider, like most
+
+661
+00:19:40,000 --> 00:19:41,960
+people are completely oblivious and clueless.
+
+662
+00:19:42,560 --> 00:19:44,180
+So for them, it would be a terrible
+
+663
+00:19:44,180 --> 00:19:44,600
+thing.
+
+664
+00:19:44,660 --> 00:19:46,600
+For someone like myself, it would be a
+
+665
+00:19:46,600 --> 00:19:47,120
+godsend.
+
+666
+00:19:47,460 --> 00:19:52,020
+But I figured I would rather put up
+
+667
+00:19:54,460 --> 00:19:57,180
+in the if there's a zone between the
+
+668
+00:19:57,180 --> 00:19:59,360
+afterlife, because if we're reincarnated, we are in
+
+669
+00:19:59,360 --> 00:20:00,460
+the afterlife right now.
+
+670
+00:20:00,500 --> 00:20:00,780
+Right.
+
+671
+00:20:01,240 --> 00:20:04,740
+So it would be like, look at this
+
+672
+00:20:04,740 --> 00:20:07,960
+coward, you know, and I'm, you know, condolences
+
+673
+00:20:07,960 --> 00:20:10,460
+to anyone who knows who cared about someone
+
+674
+00:20:10,460 --> 00:20:11,200
+who killed themselves.
+
+675
+00:20:11,320 --> 00:20:11,420
+Yeah.
+
+676
+00:20:11,480 --> 00:20:13,520
+But you might be called a coward, this,
+
+677
+00:20:13,640 --> 00:20:14,100
+that or the other.
+
+678
+00:20:14,200 --> 00:20:16,540
+It's not condemned in the scriptures.
+
+679
+00:20:16,600 --> 00:20:18,400
+Let's say the Old Testament or the New
+
+680
+00:20:18,400 --> 00:20:20,140
+Testament even brought up.
+
+681
+00:20:20,280 --> 00:20:22,160
+There's no there's no it's not mentioned.
+
+682
+00:20:22,500 --> 00:20:22,720
+Right.
+
+683
+00:20:22,920 --> 00:20:25,060
+So it's not not even what is mentioned
+
+684
+00:20:25,060 --> 00:20:27,300
+as someone falling on their sword.
+
+685
+00:20:27,400 --> 00:20:27,680
+Yeah.
+
+686
+00:20:27,800 --> 00:20:29,260
+Oh, well, someone falling on their sword.
+
+687
+00:20:29,440 --> 00:20:31,020
+But it was not it was not viewed
+
+688
+00:20:31,020 --> 00:20:34,340
+as derogatory or demeaning or cowardly.
+
+689
+00:20:34,340 --> 00:20:35,740
+Just something that happens.
+
+690
+00:20:35,940 --> 00:20:36,160
+Right.
+
+691
+00:20:36,640 --> 00:20:38,280
+Because of the because they didn't want to
+
+692
+00:20:38,280 --> 00:20:40,440
+suffer the alternative, which is being captured by
+
+693
+00:20:40,440 --> 00:20:40,800
+an enemy.
+
+694
+00:20:41,280 --> 00:20:41,680
+Yeah.
+
+695
+00:20:41,680 --> 00:20:42,640
+But but OK.
+
+696
+00:20:42,800 --> 00:20:44,400
+So you don't want to suffer the alternative.
+
+697
+00:20:44,620 --> 00:20:45,840
+Let's expand that concept.
+
+698
+00:20:46,000 --> 00:20:47,240
+You don't want to suffer the alternative.
+
+699
+00:20:47,840 --> 00:20:50,520
+What is the difference, especially if reincarnation is
+
+700
+00:20:50,520 --> 00:20:50,740
+real?
+
+701
+00:20:51,160 --> 00:20:52,120
+It would be OK.
+
+702
+00:20:52,240 --> 00:20:53,160
+This is the alternative.
+
+703
+00:20:53,340 --> 00:20:55,020
+In this case, to be more specific, would
+
+704
+00:20:55,020 --> 00:20:57,140
+be taken prisoner by an enemy and then
+
+705
+00:20:57,140 --> 00:20:58,660
+degraded and then killed.
+
+706
+00:20:59,020 --> 00:20:59,180
+Yeah.
+
+707
+00:20:59,420 --> 00:21:00,920
+But that would be the fast way to
+
+708
+00:21:00,920 --> 00:21:02,520
+say, now, I think living here a normal
+
+709
+00:21:02,520 --> 00:21:03,820
+life is very degrading.
+
+710
+00:21:05,020 --> 00:21:05,900
+Unless you can.
+
+711
+00:21:06,100 --> 00:21:06,240
+Yeah.
+
+712
+00:21:06,340 --> 00:21:08,280
+Depends on what level you're at, you know,
+
+713
+00:21:08,760 --> 00:21:11,620
+and there are levels, but they're not vertical.
+
+714
+00:21:11,620 --> 00:21:12,880
+Like one is higher than the other.
+
+715
+00:21:13,000 --> 00:21:15,300
+They're all lateral, like inner circle, outer circle.
+
+716
+00:21:15,520 --> 00:21:17,360
+And the more you go towards the inner
+
+717
+00:21:17,360 --> 00:21:19,880
+circles, the more you see what's going on
+
+718
+00:21:19,880 --> 00:21:20,740
+in the outer circle.
+
+719
+00:21:20,740 --> 00:21:20,960
+Right.
+
+720
+00:21:20,960 --> 00:21:22,400
+Like you don't see the center of the
+
+721
+00:21:22,400 --> 00:21:23,460
+onion from the outside.
+
+722
+00:21:23,940 --> 00:21:25,800
+You have to get closer to the middle
+
+723
+00:21:25,800 --> 00:21:26,880
+that you look out.
+
+724
+00:21:27,480 --> 00:21:27,880
+Right.
+
+725
+00:21:27,880 --> 00:21:31,780
+And all this stuff about getting outside the
+
+726
+00:21:31,780 --> 00:21:32,020
+box.
+
+727
+00:21:32,080 --> 00:21:33,620
+No, you want to be in the box.
+
+728
+00:21:34,020 --> 00:21:35,560
+You want to be in the box, in
+
+729
+00:21:35,560 --> 00:21:37,020
+the very center of the box.
+
+730
+00:21:37,120 --> 00:21:39,240
+So you get the full vantage of the
+
+731
+00:21:39,240 --> 00:21:40,920
+box and everything through it, because the box
+
+732
+00:21:40,920 --> 00:21:42,860
+is translucent, transparent.
+
+733
+00:21:43,040 --> 00:21:44,820
+So, you know, I'm going to come up
+
+734
+00:21:44,820 --> 00:21:45,840
+with stuff that's contrary.
+
+735
+00:21:46,040 --> 00:21:47,640
+But no, I have no real thoughts on
+
+736
+00:21:47,640 --> 00:21:51,480
+it other than if you're given, let's say,
+
+737
+00:21:51,540 --> 00:21:53,980
+you know, the lot or the fate to
+
+738
+00:21:53,980 --> 00:21:54,960
+live through.
+
+739
+00:21:55,660 --> 00:21:56,240
+Do it.
+
+740
+00:21:56,740 --> 00:22:00,440
+Now, I do understand, like some people in
+
+741
+00:22:00,440 --> 00:22:02,740
+the early days of chemistry, they experimented with
+
+742
+00:22:02,740 --> 00:22:04,920
+chemistry so much that they ruined their fitness
+
+743
+00:22:04,920 --> 00:22:06,680
+level, their health so much that they had
+
+744
+00:22:06,680 --> 00:22:08,420
+to commit suicide because they're in such pain.
+
+745
+00:22:08,520 --> 00:22:08,660
+Right.
+
+746
+00:22:08,720 --> 00:22:10,140
+So there's levels like that.
+
+747
+00:22:10,740 --> 00:22:12,820
+But if there is a conscious level in
+
+748
+00:22:12,820 --> 00:22:15,120
+between, you're going to say, well, you know,
+
+749
+00:22:15,120 --> 00:22:16,420
+let's say there is reincarnation.
+
+750
+00:22:16,540 --> 00:22:17,460
+That means we're in an afterlife.
+
+751
+00:22:17,680 --> 00:22:20,340
+Now, let's say you kill yourself today.
+
+752
+00:22:20,400 --> 00:22:23,560
+In 40 days, you're born again, 40 or
+
+753
+00:22:23,560 --> 00:22:25,500
+let's say 55 days.
+
+754
+00:22:25,980 --> 00:22:27,280
+You'd be born into another.
+
+755
+00:22:27,480 --> 00:22:28,160
+But you want to.
+
+756
+00:22:28,320 --> 00:22:29,540
+Ooh, that's spooky.
+
+757
+00:22:29,540 --> 00:22:32,460
+It doesn't matter what level, you know, whether
+
+758
+00:22:32,460 --> 00:22:35,040
+you're born in the ghettos and in the
+
+759
+00:22:35,040 --> 00:22:38,300
+ditches of Calcutta and India as an untouchable
+
+760
+00:22:38,300 --> 00:22:41,660
+or a wealthy whatever in some court.
+
+761
+00:22:41,660 --> 00:22:42,680
+I think it's shit.
+
+762
+00:22:43,240 --> 00:22:44,340
+And I'll get into it.
+
+763
+00:22:44,400 --> 00:22:44,600
+Why?
+
+764
+00:22:45,080 --> 00:22:46,540
+It's the entire general thing.
+
+765
+00:22:46,620 --> 00:22:48,460
+But no, I have no real view on
+
+766
+00:22:48,460 --> 00:22:51,160
+it other than I think you should fight
+
+767
+00:22:51,160 --> 00:22:51,600
+it through.
+
+768
+00:22:52,180 --> 00:22:53,900
+In other words, go through your life.
+
+769
+00:22:53,960 --> 00:22:55,100
+And it is a fight, whether you know
+
+770
+00:22:55,100 --> 00:22:55,560
+it or not.
+
+771
+00:22:55,560 --> 00:22:57,460
+So I just see it as a drastic
+
+772
+00:22:57,460 --> 00:23:00,140
+overreaction, because the truth is, look, we're here
+
+773
+00:23:00,140 --> 00:23:00,580
+for sure.
+
+774
+00:23:00,620 --> 00:23:01,740
+Yeah, unless it's necessary.
+
+775
+00:23:01,940 --> 00:23:02,080
+Yeah.
+
+776
+00:23:02,360 --> 00:23:05,120
+You know, so to me, it's like but
+
+777
+00:23:05,120 --> 00:23:06,280
+it's a drastic overreaction.
+
+778
+00:23:06,400 --> 00:23:08,160
+People have to it when it happens also,
+
+779
+00:23:08,380 --> 00:23:10,040
+you know, and that's the thing.
+
+780
+00:23:10,100 --> 00:23:11,180
+That's all about the program.
+
+781
+00:23:11,440 --> 00:23:12,480
+Well, it's the program.
+
+782
+00:23:12,560 --> 00:23:13,300
+It's your culture.
+
+783
+00:23:13,380 --> 00:23:14,860
+The culture is your programming.
+
+784
+00:23:14,880 --> 00:23:18,380
+And the culture also dictates the family life.
+
+785
+00:23:18,380 --> 00:23:18,620
+Right.
+
+786
+00:23:19,080 --> 00:23:19,480
+Right.
+
+787
+00:23:20,020 --> 00:23:22,500
+You know, so because if you look at
+
+788
+00:23:22,500 --> 00:23:24,780
+what family life based on culture, they're all
+
+789
+00:23:24,780 --> 00:23:27,500
+pretty much the same, you know, so it
+
+790
+00:23:27,500 --> 00:23:28,740
+goes culture by culture.
+
+791
+00:23:28,900 --> 00:23:30,180
+And, you know, like, for example, if you
+
+792
+00:23:30,180 --> 00:23:33,360
+say, you know, the culture in Afghanistan, the
+
+793
+00:23:33,360 --> 00:23:36,520
+Pashtun people, well, if you when they move
+
+794
+00:23:36,520 --> 00:23:38,600
+over here and have a neighborhood here, let's
+
+795
+00:23:38,600 --> 00:23:41,220
+say in Chicago or New York or Tucson
+
+796
+00:23:41,220 --> 00:23:43,560
+or whatever, it's all it's they're going to
+
+797
+00:23:43,560 --> 00:23:45,860
+bring that same culture within their household here.
+
+798
+00:23:46,040 --> 00:23:46,160
+Right.
+
+799
+00:23:46,420 --> 00:23:48,480
+So it's not so the geography as much
+
+800
+00:23:48,480 --> 00:23:49,380
+as it is the culture.
+
+801
+00:23:49,380 --> 00:23:50,580
+So fair enough.
+
+802
+00:23:50,680 --> 00:23:51,880
+So I guess this is a good segue
+
+803
+00:23:51,880 --> 00:23:54,780
+to go into the constant battles you were
+
+804
+00:23:54,780 --> 00:23:56,480
+asked about or you were starting to discuss
+
+805
+00:23:56,480 --> 00:23:57,580
+in chat.
+
+806
+00:23:57,760 --> 00:23:57,940
+Yeah.
+
+807
+00:23:57,940 --> 00:23:58,380
+Yeah.
+
+808
+00:23:58,440 --> 00:24:00,840
+What brings this brings this up is I
+
+809
+00:24:00,840 --> 00:24:03,580
+really like Lookout for Charlie.
+
+810
+00:24:03,640 --> 00:24:05,780
+It's Lookout F.A. and then Charlie.
+
+811
+00:24:06,380 --> 00:24:08,640
+He just put up a video recently about
+
+812
+00:24:08,640 --> 00:24:09,700
+what are the Bolsheviks?
+
+813
+00:24:09,760 --> 00:24:11,020
+I recommend viewing it.
+
+814
+00:24:11,200 --> 00:24:12,120
+He put a pretty good.
+
+815
+00:24:12,180 --> 00:24:13,240
+It's not a political thing.
+
+816
+00:24:13,260 --> 00:24:15,620
+It's just to bring chaos, the antagonistic group
+
+817
+00:24:15,620 --> 00:24:17,160
+to bring chaos, mayhem and death.
+
+818
+00:24:17,180 --> 00:24:17,880
+That's what they do.
+
+819
+00:24:17,880 --> 00:24:20,260
+It's not just the Russians, the Bolshevik, by
+
+820
+00:24:20,260 --> 00:24:23,840
+the way, in Russian means majority, but it's
+
+821
+00:24:23,840 --> 00:24:25,660
+Bolshevism or something.
+
+822
+00:24:25,800 --> 00:24:27,040
+And that's where it came from.
+
+823
+00:24:27,100 --> 00:24:27,880
+It's not political.
+
+824
+00:24:28,200 --> 00:24:29,900
+So what you do is you figure out
+
+825
+00:24:29,900 --> 00:24:31,180
+what a counterculture would be.
+
+826
+00:24:31,320 --> 00:24:32,640
+So if you want to do the Bolshevik
+
+827
+00:24:32,640 --> 00:24:38,940
+maneuver in a Christian, let's say whatever mindset,
+
+828
+00:24:39,200 --> 00:24:41,360
+Western, you get the people that want to
+
+829
+00:24:41,360 --> 00:24:45,240
+be transvestites, drug users or whatever, pay it,
+
+830
+00:24:45,260 --> 00:24:46,840
+you know, whatever, whatever counterculture.
+
+831
+00:24:46,840 --> 00:24:49,200
+And you give them power to to fight
+
+832
+00:24:49,200 --> 00:24:51,820
+the culture, to bring it and get people
+
+833
+00:24:51,820 --> 00:24:52,620
+to subdue.
+
+834
+00:24:53,060 --> 00:24:53,420
+Right.
+
+835
+00:24:53,640 --> 00:24:54,820
+Because if you put all that, he made
+
+836
+00:24:54,820 --> 00:24:56,220
+a good point, like, you know, with the
+
+837
+00:24:56,220 --> 00:24:59,100
+trannies in sports, if you took all the
+
+838
+00:24:59,100 --> 00:25:01,140
+trannies that get into, let's say it's mostly
+
+839
+00:25:01,140 --> 00:25:02,440
+men going to women's sports.
+
+840
+00:25:02,460 --> 00:25:03,640
+If you took all the men that want
+
+841
+00:25:03,640 --> 00:25:05,080
+to be women and made their own team,
+
+842
+00:25:05,120 --> 00:25:06,040
+they wouldn't want to do it.
+
+843
+00:25:06,480 --> 00:25:09,120
+They only do it to inject themselves one
+
+844
+00:25:09,120 --> 00:25:11,520
+or two in the women's sports to ruin
+
+845
+00:25:11,520 --> 00:25:12,320
+women's sports.
+
+846
+00:25:12,320 --> 00:25:12,660
+Right.
+
+847
+00:25:12,820 --> 00:25:14,040
+Well, there is a way for them to
+
+848
+00:25:14,040 --> 00:25:15,040
+form a team anyway.
+
+849
+00:25:15,040 --> 00:25:15,700
+There's, you know.
+
+850
+00:25:15,800 --> 00:25:16,360
+Oh, sure.
+
+851
+00:25:16,440 --> 00:25:17,560
+Well, they make them there.
+
+852
+00:25:17,680 --> 00:25:18,900
+No one wants to be like that.
+
+853
+00:25:18,960 --> 00:25:20,540
+They're made that way, by the way.
+
+854
+00:25:20,680 --> 00:25:22,560
+You know, I made I find it really
+
+855
+00:25:22,560 --> 00:25:24,920
+fascinating how much time people spend on that,
+
+856
+00:25:25,060 --> 00:25:27,360
+considering how few people there are that this
+
+857
+00:25:27,360 --> 00:25:28,960
+is, you know, it's like talking about it.
+
+858
+00:25:28,980 --> 00:25:30,740
+Well, it's the media control the media.
+
+859
+00:25:30,900 --> 00:25:32,500
+All the media has always have been.
+
+860
+00:25:32,640 --> 00:25:35,380
+So, OK, for example, the National Socialist Movement
+
+861
+00:25:35,380 --> 00:25:38,800
+in Germany, which are called the Nazis, which
+
+862
+00:25:38,800 --> 00:25:41,540
+is a derogatory term, by the way, was
+
+863
+00:25:41,540 --> 00:25:44,340
+if they didn't develop the that they would
+
+864
+00:25:44,340 --> 00:25:46,400
+have gone just like the Soviet Union was
+
+865
+00:25:46,400 --> 00:25:48,300
+stuck in the book because Bolsheviks.
+
+866
+00:25:48,440 --> 00:25:49,700
+So anyone can go research.
+
+867
+00:25:49,800 --> 00:25:50,440
+There was a video.
+
+868
+00:25:50,560 --> 00:25:51,600
+I think it was taken down.
+
+869
+00:25:51,960 --> 00:25:52,860
+Guy did his research.
+
+870
+00:25:52,980 --> 00:25:55,420
+And after World War one, all the way
+
+871
+00:25:55,420 --> 00:25:59,160
+to the 30s, Berlin was the heroin capital
+
+872
+00:25:59,160 --> 00:26:01,740
+capital heroin usage capital of the world.
+
+873
+00:26:03,180 --> 00:26:04,980
+It was like 60 percent of the women
+
+874
+00:26:04,980 --> 00:26:06,260
+were prostitutes.
+
+875
+00:26:06,760 --> 00:26:09,280
+30 percent of the 60 percent women were
+
+876
+00:26:09,280 --> 00:26:10,640
+pregnant prostitutes.
+
+877
+00:26:11,360 --> 00:26:13,840
+10 percent of the men were transvestite.
+
+878
+00:26:14,480 --> 00:26:16,600
+Every form, everything that you saw going on
+
+879
+00:26:16,600 --> 00:26:18,520
+with the woke movement was going on in
+
+880
+00:26:18,520 --> 00:26:18,800
+Germany.
+
+881
+00:26:18,920 --> 00:26:21,800
+And the people were silent because the media
+
+882
+00:26:21,800 --> 00:26:25,060
+and the universities started publishing books to say
+
+883
+00:26:25,060 --> 00:26:27,520
+how great it was, just like now.
+
+884
+00:26:27,740 --> 00:26:27,880
+Right.
+
+885
+00:26:28,560 --> 00:26:29,280
+The same thing.
+
+886
+00:26:29,360 --> 00:26:32,340
+Everything that's been going on since the 2020
+
+887
+00:26:32,340 --> 00:26:36,180
+with the Bidens and all that was going
+
+888
+00:26:36,180 --> 00:26:38,420
+on identical in Berlin.
+
+889
+00:26:38,540 --> 00:26:40,640
+And then the National Socialist Party stepped in
+
+890
+00:26:40,640 --> 00:26:41,700
+and said no more.
+
+891
+00:26:41,700 --> 00:26:42,560
+That's what that was.
+
+892
+00:26:42,660 --> 00:26:45,840
+The anti-Jewish movement really was against this
+
+893
+00:26:45,840 --> 00:26:46,440
+academia.
+
+894
+00:26:46,880 --> 00:26:48,400
+And then it just spread because, you know,
+
+895
+00:26:48,460 --> 00:26:51,560
+people always just like look after 9-11,
+
+896
+00:26:51,560 --> 00:26:54,080
+because there were supposedly Muslims involved.
+
+897
+00:26:54,360 --> 00:26:56,320
+There were there were people that were from
+
+898
+00:26:56,320 --> 00:26:56,680
+India.
+
+899
+00:26:56,900 --> 00:26:57,500
+What were they called?
+
+900
+00:26:57,560 --> 00:27:00,360
+There were turbans, Sikhs.
+
+901
+00:27:00,560 --> 00:27:03,240
+There were Sikhs that were gunned down and
+
+902
+00:27:03,240 --> 00:27:04,740
+beaten up at gas stations.
+
+903
+00:27:04,740 --> 00:27:05,140
+Right.
+
+904
+00:27:05,540 --> 00:27:05,680
+Yeah.
+
+905
+00:27:05,760 --> 00:27:06,340
+For 9-11.
+
+906
+00:27:06,640 --> 00:27:08,000
+S.I.K.H. I worked at a
+
+907
+00:27:08,000 --> 00:27:09,600
+gas station around 9-11.
+
+908
+00:27:09,600 --> 00:27:11,700
+And, yeah, I actually they don't cut their
+
+909
+00:27:11,700 --> 00:27:11,960
+hair.
+
+910
+00:27:12,100 --> 00:27:13,500
+They wrap their beard because hair is cutting
+
+911
+00:27:13,500 --> 00:27:14,420
+your hair is mutilation.
+
+912
+00:27:14,600 --> 00:27:14,900
+Right.
+
+913
+00:27:15,240 --> 00:27:15,640
+Yeah.
+
+914
+00:27:15,760 --> 00:27:18,020
+I had a Sikh, someone that when we
+
+915
+00:27:18,020 --> 00:27:20,160
+had the restoration business, he was a Sikh.
+
+916
+00:27:20,600 --> 00:27:21,700
+Golu was his name.
+
+917
+00:27:22,880 --> 00:27:27,480
+And yeah, and people said, well, because they
+
+918
+00:27:27,480 --> 00:27:29,020
+look that way, we have to beat them
+
+919
+00:27:29,020 --> 00:27:29,360
+up.
+
+920
+00:27:29,440 --> 00:27:30,240
+You know what I mean?
+
+921
+00:27:30,440 --> 00:27:30,660
+Yeah.
+
+922
+00:27:30,660 --> 00:27:32,720
+And that's how the anti-Semite movement started
+
+923
+00:27:32,720 --> 00:27:33,300
+in Germany.
+
+924
+00:27:34,120 --> 00:27:35,960
+And they just let it go, run away.
+
+925
+00:27:36,300 --> 00:27:39,060
+People don't know the real history of that.
+
+926
+00:27:39,060 --> 00:27:41,080
+And you know, you're not going to get
+
+927
+00:27:41,080 --> 00:27:42,780
+out of these history books because when you
+
+928
+00:27:42,780 --> 00:27:44,000
+pick up a history book, does it say
+
+929
+00:27:44,000 --> 00:27:45,720
+the true history of so-and-so or
+
+930
+00:27:45,720 --> 00:27:48,240
+just says history, just says history.
+
+931
+00:27:48,320 --> 00:27:49,020
+So it's bullshit.
+
+932
+00:27:50,620 --> 00:27:52,260
+So mixed in with it, you know.
+
+933
+00:27:52,620 --> 00:27:55,420
+But yeah, that's anyway, we went from this
+
+934
+00:27:55,420 --> 00:27:56,320
+to that, to the other.
+
+935
+00:27:56,480 --> 00:27:58,220
+But anyway, constant battles.
+
+936
+00:27:58,320 --> 00:27:59,240
+Look out for Charles.
+
+937
+00:27:59,320 --> 00:27:59,460
+Yeah.
+
+938
+00:27:59,500 --> 00:28:01,340
+Look out for Charlie's last video.
+
+939
+00:28:01,760 --> 00:28:03,480
+I looked at the video you talked about.
+
+940
+00:28:03,540 --> 00:28:05,000
+I had no problem with the audio, but
+
+941
+00:28:05,000 --> 00:28:06,880
+that's fine with a site like that.
+
+942
+00:28:07,000 --> 00:28:08,220
+You got to help them out if you
+
+943
+00:28:08,220 --> 00:28:08,500
+can.
+
+944
+00:28:09,100 --> 00:28:11,200
+If you disagree with him, put a comment
+
+945
+00:28:11,200 --> 00:28:12,140
+in there respectfully.
+
+946
+00:28:12,380 --> 00:28:14,460
+He usually gets back and he'll correct it.
+
+947
+00:28:15,120 --> 00:28:17,080
+The other thing is he I wanted.
+
+948
+00:28:17,240 --> 00:28:18,760
+I don't have the time to invite him
+
+949
+00:28:18,760 --> 00:28:21,220
+or do it, but he knows nothing about
+
+950
+00:28:21,220 --> 00:28:22,520
+the money system at all.
+
+951
+00:28:22,600 --> 00:28:23,700
+He was in a car accident.
+
+952
+00:28:23,860 --> 00:28:25,040
+The insurance money didn't help.
+
+953
+00:28:25,300 --> 00:28:28,160
+You know, if if you go to an
+
+954
+00:28:28,160 --> 00:28:30,220
+insurance company and it's a million dollars worth
+
+955
+00:28:30,220 --> 00:28:31,580
+of damages, they only want to give you
+
+956
+00:28:31,580 --> 00:28:32,180
+20 grand.
+
+957
+00:28:32,280 --> 00:28:33,500
+You know, they got the million and they're
+
+958
+00:28:33,500 --> 00:28:34,500
+keeping it themselves.
+
+959
+00:28:34,740 --> 00:28:36,060
+And they're just giving you 20 grand.
+
+960
+00:28:36,060 --> 00:28:38,580
+And this happened with North Carolina and hurricanes
+
+961
+00:28:38,580 --> 00:28:39,320
+and all that stuff.
+
+962
+00:28:39,400 --> 00:28:40,560
+All you got to do is go change
+
+963
+00:28:40,560 --> 00:28:43,300
+the terms and services and say, you know,
+
+964
+00:28:43,300 --> 00:28:45,140
+I'm taking back full security interest.
+
+965
+00:28:45,240 --> 00:28:46,800
+I need the entire amount, because when I
+
+966
+00:28:46,800 --> 00:28:48,740
+wrote on a piece of paper that it's
+
+967
+00:28:48,740 --> 00:28:50,460
+a million dollars that I need, you got
+
+968
+00:28:50,460 --> 00:28:52,120
+it and I could prove it because you
+
+969
+00:28:52,120 --> 00:28:53,660
+go to here, here, here, here.
+
+970
+00:28:54,000 --> 00:28:55,340
+And this is how you got it.
+
+971
+00:28:55,360 --> 00:28:56,860
+And they still they're not going to just
+
+972
+00:28:56,860 --> 00:28:58,780
+roll over, give it to you, but at
+
+973
+00:28:58,780 --> 00:29:00,680
+least you're working on something that will get
+
+974
+00:29:00,680 --> 00:29:01,340
+you that right.
+
+975
+00:29:02,000 --> 00:29:03,560
+So he doesn't know anything about the money
+
+976
+00:29:03,560 --> 00:29:03,960
+system.
+
+977
+00:29:03,960 --> 00:29:05,760
+And most people don't and they probably never
+
+978
+00:29:05,760 --> 00:29:06,100
+will.
+
+979
+00:29:06,840 --> 00:29:08,400
+But that's part of this thing.
+
+980
+00:29:08,580 --> 00:29:10,040
+It's all a constant fight.
+
+981
+00:29:10,140 --> 00:29:12,860
+So you're born the constant fight before.
+
+982
+00:29:13,100 --> 00:29:13,860
+This is the preface.
+
+983
+00:29:13,980 --> 00:29:16,560
+We have about 60 centuries of history.
+
+984
+00:29:16,820 --> 00:29:19,620
+OK, we're in almost none of it.
+
+985
+00:29:20,040 --> 00:29:21,300
+Almost nothing.
+
+986
+00:29:21,860 --> 00:29:24,340
+If you look at 60 centuries of history,
+
+987
+00:29:24,340 --> 00:29:29,160
+technology, innovation, development, almost none of it applies
+
+988
+00:29:29,160 --> 00:29:33,440
+today in any way where people say, I
+
+989
+00:29:33,440 --> 00:29:35,500
+can make that decision because I know 60
+
+990
+00:29:35,500 --> 00:29:37,460
+cent, you know, almost 6,000 years of
+
+991
+00:29:37,460 --> 00:29:38,720
+blah, blah, blah.
+
+992
+00:29:38,820 --> 00:29:41,280
+No one people are walking around just as
+
+993
+00:29:41,280 --> 00:29:43,860
+primitive as they would have been if you
+
+994
+00:29:43,860 --> 00:29:46,580
+only had a hundred years of human history.
+
+995
+00:29:47,180 --> 00:29:49,520
+So, so first of all, time doesn't make
+
+996
+00:29:49,520 --> 00:29:49,800
+it better.
+
+997
+00:29:49,880 --> 00:29:51,000
+By the way, I'm going to interject this
+
+998
+00:29:51,000 --> 00:29:51,960
+little character stuff.
+
+999
+00:29:52,660 --> 00:29:54,680
+Whenever you run into someone in a trade
+
+1000
+00:29:54,680 --> 00:29:57,000
+or a business and the first thing they
+
+1001
+00:29:57,000 --> 00:29:58,540
+say, I've been doing this for 20 years,
+
+1002
+00:29:58,540 --> 00:30:00,100
+I've been doing this for 35 years, I'm
+
+1003
+00:30:00,100 --> 00:30:00,760
+this for 10 years.
+
+1004
+00:30:01,160 --> 00:30:03,500
+That is the most insecure person.
+
+1005
+00:30:03,640 --> 00:30:07,180
+I would not want that person's services unless
+
+1006
+00:30:07,180 --> 00:30:07,880
+I had to.
+
+1007
+00:30:08,140 --> 00:30:09,100
+I had no choice.
+
+1008
+00:30:09,280 --> 00:30:09,520
+Why?
+
+1009
+00:30:10,160 --> 00:30:12,420
+If the first thing you have to project
+
+1010
+00:30:12,420 --> 00:30:15,920
+is how many years of experience you have
+
+1011
+00:30:15,920 --> 00:30:17,960
+and you fall for that, well, you deserve
+
+1012
+00:30:17,960 --> 00:30:18,540
+the rest.
+
+1013
+00:30:19,140 --> 00:30:20,180
+You get it?
+
+1014
+00:30:20,360 --> 00:30:24,920
+Because someone has 30 years of experience doing
+
+1015
+00:30:24,920 --> 00:30:26,460
+whatever, whatever.
+
+1016
+00:30:26,980 --> 00:30:29,120
+Now there's several ways to look at it.
+
+1017
+00:30:29,300 --> 00:30:31,220
+It's 30 years of edifying and growing and
+
+1018
+00:30:31,220 --> 00:30:31,880
+developing it.
+
+1019
+00:30:31,920 --> 00:30:34,780
+Or you really have one year experience 30
+
+1020
+00:30:34,780 --> 00:30:35,380
+times.
+
+1021
+00:30:35,800 --> 00:30:37,500
+In other words, what you're still doing, what
+
+1022
+00:30:37,500 --> 00:30:39,340
+you did when you only had one year
+
+1023
+00:30:39,340 --> 00:30:41,400
+experience because you're lazy, whatever.
+
+1024
+00:30:41,860 --> 00:30:43,720
+And most people I found out through the
+
+1025
+00:30:43,720 --> 00:30:46,280
+character, if the first thing they project is
+
+1026
+00:30:46,280 --> 00:30:49,460
+how many years experience they have, I avoid
+
+1027
+00:30:49,460 --> 00:30:49,700
+them.
+
+1028
+00:30:50,160 --> 00:30:51,160
+I'm like, you got anybody else?
+
+1029
+00:30:51,700 --> 00:30:53,620
+I would rather have someone with a month's
+
+1030
+00:30:53,620 --> 00:30:58,220
+experience that's better at that service than someone
+
+1031
+00:30:58,220 --> 00:31:00,800
+with 30 years experience that just puts it.
+
+1032
+00:31:01,100 --> 00:31:03,680
+And one of the signs that they're insecure,
+
+1033
+00:31:03,840 --> 00:31:06,620
+they're not confident is the, that's the first
+
+1034
+00:31:06,620 --> 00:31:07,480
+thing they put in front of you.
+
+1035
+00:31:07,500 --> 00:31:09,420
+So just pay attention.
+
+1036
+00:31:09,920 --> 00:31:11,860
+Whenever you do it, looking for a serve
+
+1037
+00:31:11,860 --> 00:31:12,980
+someone in the service industry.
+
+1038
+00:31:13,000 --> 00:31:14,140
+And the first thing they put in front
+
+1039
+00:31:14,140 --> 00:31:15,480
+of you in an ad, when they speak
+
+1040
+00:31:15,480 --> 00:31:18,920
+or whatever, um, they're, they're, they're giving you
+
+1041
+00:31:18,920 --> 00:31:19,780
+a facade.
+
+1042
+00:31:20,000 --> 00:31:21,880
+And when you get past that curtain, you'll
+
+1043
+00:31:21,880 --> 00:31:23,220
+notice they're not very good at what they
+
+1044
+00:31:23,220 --> 00:31:25,340
+do because people that are good at what
+
+1045
+00:31:25,340 --> 00:31:26,900
+they do, don't bring that kind of stuff
+
+1046
+00:31:26,900 --> 00:31:27,140
+up.
+
+1047
+00:31:27,780 --> 00:31:28,180
+Right.
+
+1048
+00:31:28,620 --> 00:31:28,920
+Yeah.
+
+1049
+00:31:29,020 --> 00:31:31,640
+So anyway, um, so this is where we
+
+1050
+00:31:31,640 --> 00:31:32,060
+are right now.
+
+1051
+00:31:32,100 --> 00:31:34,800
+If anyone comes here and sees humanity says,
+
+1052
+00:31:34,860 --> 00:31:36,840
+you guys have 60 centuries, almost 6,000
+
+1053
+00:31:36,840 --> 00:31:38,100
+years of history, and this is how you're
+
+1054
+00:31:38,100 --> 00:31:38,380
+living.
+
+1055
+00:31:38,460 --> 00:31:40,960
+This is what you know, what a bunch
+
+1056
+00:31:40,960 --> 00:31:43,400
+of idiots, because I've said this many times
+
+1057
+00:31:43,400 --> 00:31:46,840
+on Sonics for decades, that all of your
+
+1058
+00:31:46,840 --> 00:31:49,660
+science, all your whatever, whatever, whatever that you
+
+1059
+00:31:49,660 --> 00:31:51,820
+consider your development and your state of the
+
+1060
+00:31:51,820 --> 00:31:54,240
+art or whatever, as less than 150 years
+
+1061
+00:31:54,240 --> 00:31:55,060
+old, right?
+
+1062
+00:31:55,780 --> 00:31:59,720
+Let your medicine, everything up until the 1920s
+
+1063
+00:31:59,720 --> 00:32:00,400
+was abandoned.
+
+1064
+00:32:00,580 --> 00:32:03,320
+All of your medicine is from 1920s, 1930s,
+
+1065
+00:32:03,380 --> 00:32:05,840
+the Flexner, you know, 1912, whatever it was
+
+1066
+00:32:05,840 --> 00:32:06,420
+in after.
+
+1067
+00:32:06,820 --> 00:32:07,260
+Right.
+
+1068
+00:32:07,540 --> 00:32:08,500
+So what happened?
+
+1069
+00:32:08,740 --> 00:32:11,040
+So why are you constantly throwing stuff away?
+
+1070
+00:32:11,240 --> 00:32:14,360
+I caught one of Jason Brashear's local, uh,
+
+1071
+00:32:14,360 --> 00:32:15,600
+last, uh, videos.
+
+1072
+00:32:15,700 --> 00:32:17,080
+And I'll make a comment there also.
+
+1073
+00:32:17,280 --> 00:32:18,180
+I enjoyed it.
+
+1074
+00:32:18,180 --> 00:32:20,180
+Not the last one, several ones about what,
+
+1075
+00:32:20,460 --> 00:32:23,640
+about the, the compendium or nexus of archaics,
+
+1076
+00:32:23,760 --> 00:32:24,840
+you know, from the beginning, then it was
+
+1077
+00:32:24,840 --> 00:32:26,700
+a good thing to show a beginner.
+
+1078
+00:32:27,460 --> 00:32:30,240
+Um, and he said, basically, there's a lot
+
+1079
+00:32:30,240 --> 00:32:32,700
+of commentary by historians and philosophers that earth
+
+1080
+00:32:32,700 --> 00:32:35,280
+is a history of just catastrophe after catastrophe
+
+1081
+00:32:35,280 --> 00:32:36,080
+after catastrophe.
+
+1082
+00:32:36,080 --> 00:32:38,920
+But if you ask a typical surface dwelling
+
+1083
+00:32:38,920 --> 00:32:40,880
+earth inhabitant, he doesn't, they're not aware of
+
+1084
+00:32:40,880 --> 00:32:41,500
+that at all.
+
+1085
+00:32:41,700 --> 00:32:44,160
+So part of being human is not being
+
+1086
+00:32:44,160 --> 00:32:47,360
+aware at all about anything other than what's
+
+1087
+00:32:47,360 --> 00:32:48,020
+put in front of you.
+
+1088
+00:32:48,140 --> 00:32:49,880
+It's like the goldfish effect.
+
+1089
+00:32:50,460 --> 00:32:52,240
+How many times have you ever brought up
+
+1090
+00:32:52,240 --> 00:32:54,060
+something that happened more than two weeks ago
+
+1091
+00:32:54,060 --> 00:32:54,680
+to a normie?
+
+1092
+00:32:54,780 --> 00:32:55,720
+And they said, Oh, it was too long
+
+1093
+00:32:55,720 --> 00:32:55,940
+ago.
+
+1094
+00:32:55,940 --> 00:32:56,840
+That was two weeks ago.
+
+1095
+00:32:56,900 --> 00:32:58,060
+That doesn't matter now.
+
+1096
+00:32:58,360 --> 00:32:58,800
+Right.
+
+1097
+00:32:59,480 --> 00:33:03,680
+So you're in this stupor, this, this dull
+
+1098
+00:33:03,680 --> 00:33:06,700
+effect where no one, it's really bad.
+
+1099
+00:33:07,060 --> 00:33:09,500
+And you haven't no accumulation of anything.
+
+1100
+00:33:09,780 --> 00:33:11,020
+Now put that aside.
+
+1101
+00:33:11,020 --> 00:33:13,200
+Cause that's your wisdom and knowledge base, right?
+
+1102
+00:33:13,420 --> 00:33:14,900
+Like one thing I was doing with the
+
+1103
+00:33:14,900 --> 00:33:17,180
+financial seminar or when he, anything that I
+
+1104
+00:33:17,180 --> 00:33:20,060
+teach, whether whatever it's a get the information,
+
+1105
+00:33:20,220 --> 00:33:20,800
+but that's good.
+
+1106
+00:33:20,900 --> 00:33:22,780
+But it's not necessarily everything because do you
+
+1107
+00:33:22,780 --> 00:33:24,860
+have the wisdom to use that information?
+
+1108
+00:33:25,200 --> 00:33:25,380
+Right.
+
+1109
+00:33:25,800 --> 00:33:28,860
+So you have the wisdom when, and the
+
+1110
+00:33:28,860 --> 00:33:30,720
+wisdom is, you know, how, when, and you
+
+1111
+00:33:30,720 --> 00:33:32,220
+know, how much of it should you use
+
+1112
+00:33:32,220 --> 00:33:33,760
+or should this be considered?
+
+1113
+00:33:33,880 --> 00:33:34,760
+And that's the thing when they do you
+
+1114
+00:33:34,760 --> 00:33:36,340
+have the wisdom to see what's going on,
+
+1115
+00:33:36,360 --> 00:33:37,540
+not just information.
+
+1116
+00:33:37,600 --> 00:33:38,860
+People think it's just information.
+
+1117
+00:33:38,860 --> 00:33:41,540
+It's not to make the right decision.
+
+1118
+00:33:43,440 --> 00:33:43,840
+Okay.
+
+1119
+00:33:43,840 --> 00:33:46,420
+When you put all that aside, look at
+
+1120
+00:33:46,420 --> 00:33:48,940
+when you're born, the very few other species
+
+1121
+00:33:48,940 --> 00:33:50,240
+other than the hermit crab, right.
+
+1122
+00:33:50,300 --> 00:33:51,220
+Which is looking for a shell.
+
+1123
+00:33:51,280 --> 00:33:51,960
+You have no clothing.
+
+1124
+00:33:52,160 --> 00:33:54,360
+If you're, it's called exposure, a child will
+
+1125
+00:33:54,360 --> 00:33:54,640
+die.
+
+1126
+00:33:54,680 --> 00:33:56,300
+If it's exposed, right.
+
+1127
+00:33:56,560 --> 00:33:58,640
+You have to hunt and forage for food,
+
+1128
+00:33:58,720 --> 00:34:01,840
+mostly forage and do agriculture because you really
+
+1129
+00:34:01,840 --> 00:34:04,440
+cannot go out and eat whatever's in your
+
+1130
+00:34:04,440 --> 00:34:07,500
+environment without some level of preparation or agriculture.
+
+1131
+00:34:07,500 --> 00:34:07,940
+Yeah.
+
+1132
+00:34:07,960 --> 00:34:08,900
+You got to do something to it.
+
+1133
+00:34:08,960 --> 00:34:09,139
+Right.
+
+1134
+00:34:09,179 --> 00:34:10,980
+You either got to cut it up, split
+
+1135
+00:34:10,980 --> 00:34:11,659
+it, cook it.
+
+1136
+00:34:11,760 --> 00:34:11,900
+Yeah.
+
+1137
+00:34:11,900 --> 00:34:12,179
+Something.
+
+1138
+00:34:12,659 --> 00:34:13,100
+Yeah.
+
+1139
+00:34:13,100 --> 00:34:14,520
+And you've people have heard me in the
+
+1140
+00:34:14,520 --> 00:34:16,699
+recent say that I've always given advice to
+
+1141
+00:34:16,699 --> 00:34:17,920
+people who want to go live off the
+
+1142
+00:34:17,920 --> 00:34:18,100
+grid.
+
+1143
+00:34:18,199 --> 00:34:18,860
+Don't do it.
+
+1144
+00:34:19,260 --> 00:34:20,719
+You're going to find your energy cost is
+
+1145
+00:34:20,719 --> 00:34:22,080
+going to be five to 10 times more.
+
+1146
+00:34:22,139 --> 00:34:23,440
+And you're going to find out everything around
+
+1147
+00:34:23,440 --> 00:34:24,620
+you wants to kill you.
+
+1148
+00:34:25,080 --> 00:34:26,260
+Oh no, but we're going to be living
+
+1149
+00:34:26,260 --> 00:34:27,159
+near crater lake.
+
+1150
+00:34:27,260 --> 00:34:27,659
+It's beautiful.
+
+1151
+00:34:27,800 --> 00:34:28,420
+I said, oh, okay.
+
+1152
+00:34:28,460 --> 00:34:28,739
+All right.
+
+1153
+00:34:28,780 --> 00:34:30,179
+Talk to me about when you come back.
+
+1154
+00:34:30,440 --> 00:34:31,360
+They're like, oh, Greek.
+
+1155
+00:34:31,440 --> 00:34:31,620
+You're right.
+
+1156
+00:34:31,679 --> 00:34:32,739
+Everything wants to kill us.
+
+1157
+00:34:32,800 --> 00:34:34,860
+Doesn't matter if you're in the mountains on
+
+1158
+00:34:34,860 --> 00:34:38,400
+the Prairie in the desert, it doesn't matter
+
+1159
+00:34:38,400 --> 00:34:40,900
+what in the tropics, everything around you wants
+
+1160
+00:34:40,900 --> 00:34:41,460
+to kill you.
+
+1161
+00:34:41,460 --> 00:34:45,000
+Because the epitome of man, he always starts
+
+1162
+00:34:45,000 --> 00:34:46,280
+in a garden ends up in a city
+
+1163
+00:34:46,280 --> 00:34:50,179
+of the highest evolution, meaning unraveling or development
+
+1164
+00:34:50,179 --> 00:34:52,420
+for humans is to be in a city,
+
+1165
+00:34:52,780 --> 00:34:53,920
+an efficient city.
+
+1166
+00:34:54,139 --> 00:34:54,280
+Right.
+
+1167
+00:34:54,840 --> 00:34:56,300
+So it's like it or not.
+
+1168
+00:34:56,380 --> 00:34:57,360
+I mean, Hey, okay.
+
+1169
+00:34:57,380 --> 00:35:01,900
+Now the fight, you have the social aspect.
+
+1170
+00:35:02,260 --> 00:35:04,200
+Now that's the nature that wants to kill
+
+1171
+00:35:04,200 --> 00:35:04,420
+you.
+
+1172
+00:35:04,600 --> 00:35:06,480
+You need shelter and all this until you
+
+1173
+00:35:06,480 --> 00:35:07,600
+need to provisions.
+
+1174
+00:35:08,220 --> 00:35:10,560
+Then you have the characters within your society
+
+1175
+00:35:10,560 --> 00:35:12,360
+that want to kill you, right?
+
+1176
+00:35:12,500 --> 00:35:14,000
+Well, not necessarily want to kill you, but
+
+1177
+00:35:14,000 --> 00:35:16,220
+you could be stolen from, you can be
+
+1178
+00:35:16,220 --> 00:35:17,700
+robbed, you could be raped and murdered.
+
+1179
+00:35:17,880 --> 00:35:18,020
+Right.
+
+1180
+00:35:18,220 --> 00:35:20,860
+And in some cases it's in more places
+
+1181
+00:35:20,860 --> 00:35:23,180
+than others, especially when you have police, right
+
+1182
+00:35:23,180 --> 00:35:24,560
+around.
+
+1183
+00:35:25,000 --> 00:35:27,620
+So, uh, and or a semi militant, uh,
+
+1184
+00:35:27,620 --> 00:35:30,120
+what's called paramilitary in the society.
+
+1185
+00:35:30,700 --> 00:35:32,240
+So they, they want to kill you.
+
+1186
+00:35:32,300 --> 00:35:35,160
+You have treachery amongst people that are close
+
+1187
+00:35:35,160 --> 00:35:36,340
+to you, right.
+
+1188
+00:35:36,340 --> 00:35:37,200
+That want to fight you.
+
+1189
+00:35:37,340 --> 00:35:37,480
+Right.
+
+1190
+00:35:37,820 --> 00:35:39,780
+And then you have the big social thing
+
+1191
+00:35:39,780 --> 00:35:40,540
+with wars.
+
+1192
+00:35:40,720 --> 00:35:43,940
+One group, one collective wants to fight another
+
+1193
+00:35:43,940 --> 00:35:45,380
+collective, right?
+
+1194
+00:35:45,600 --> 00:35:46,840
+Again, the battle.
+
+1195
+00:35:47,280 --> 00:35:47,380
+Okay.
+
+1196
+00:35:47,380 --> 00:35:50,480
+Now within going back to the social, uh,
+
+1197
+00:35:50,520 --> 00:35:54,460
+you have groups of people like the Bolsheviks
+
+1198
+00:35:54,460 --> 00:35:56,020
+that are, that are put poison in your
+
+1199
+00:35:56,020 --> 00:35:57,600
+food, poison in your water.
+
+1200
+00:35:57,800 --> 00:35:58,240
+Right.
+
+1201
+00:35:58,340 --> 00:35:59,300
+It's pretty clear.
+
+1202
+00:35:59,860 --> 00:36:01,800
+Uh, like they talk about food safety.
+
+1203
+00:36:02,020 --> 00:36:03,720
+There's so many chemicals in the food, you
+
+1204
+00:36:03,720 --> 00:36:05,400
+know, they all ran do this for food.
+
+1205
+00:36:05,400 --> 00:36:06,540
+You know, make sure you wash it.
+
+1206
+00:36:06,780 --> 00:36:09,200
+There was some idiot sheriff talking about we
+
+1207
+00:36:09,200 --> 00:36:10,940
+can't eat the lettuce in the fields because
+
+1208
+00:36:10,940 --> 00:36:13,000
+the illegals come and defecate in the field
+
+1209
+00:36:13,000 --> 00:36:13,680
+food safety.
+
+1210
+00:36:13,780 --> 00:36:15,780
+I'm like, what an idiot food safety.
+
+1211
+00:36:16,100 --> 00:36:17,960
+Look at what they're putting in children's food
+
+1212
+00:36:17,960 --> 00:36:19,420
+and all this other stuff.
+
+1213
+00:36:19,500 --> 00:36:20,800
+What complete moron.
+
+1214
+00:36:21,520 --> 00:36:24,580
+Um, so you have a fight here, a
+
+1215
+00:36:24,580 --> 00:36:25,480
+fight there, a fight there.
+
+1216
+00:36:25,640 --> 00:36:29,020
+If you deal with the medical people that,
+
+1217
+00:36:29,220 --> 00:36:30,480
+first of all, they don't know anything.
+
+1218
+00:36:30,500 --> 00:36:32,320
+And that was the other thing, not to
+
+1219
+00:36:32,320 --> 00:36:34,320
+disparage, but archaics had an ad.
+
+1220
+00:36:34,320 --> 00:36:38,300
+It was a holistic alternative, uh, healer.
+
+1221
+00:36:38,360 --> 00:36:39,660
+I was just laughing my ass off.
+
+1222
+00:36:39,780 --> 00:36:42,860
+I said, Oh my gosh, just, yeah, whatever.
+
+1223
+00:36:43,320 --> 00:36:44,640
+They don't know anything there.
+
+1224
+00:36:44,700 --> 00:36:46,440
+You know why they're, uh, the, the, the
+
+1225
+00:36:46,440 --> 00:36:49,440
+alternative is worse than the mainstream because it's
+
+1226
+00:36:49,440 --> 00:36:52,180
+a false hope and they don't know, they
+
+1227
+00:36:52,180 --> 00:36:53,040
+don't know what they're doing.
+
+1228
+00:36:53,100 --> 00:36:54,160
+Ask any alternative.
+
+1229
+00:36:54,520 --> 00:36:55,540
+Is the heart a pump?
+
+1230
+00:36:56,700 --> 00:36:57,720
+What do they say?
+
+1231
+00:36:58,480 --> 00:37:00,320
+I had someone I've told you more than
+
+1232
+00:37:00,320 --> 00:37:02,780
+once say Greek, this person's a doctor, but
+
+1233
+00:37:02,780 --> 00:37:03,420
+no, no, no Greek.
+
+1234
+00:37:03,500 --> 00:37:04,160
+They're pretty cool.
+
+1235
+00:37:04,160 --> 00:37:07,080
+They have this stuff that naturally gets you
+
+1236
+00:37:07,080 --> 00:37:08,340
+your lower blood pressure.
+
+1237
+00:37:08,440 --> 00:37:09,740
+I'm like, dude, there's no such thing as
+
+1238
+00:37:09,740 --> 00:37:10,300
+blood pressure.
+
+1239
+00:37:11,060 --> 00:37:12,160
+It's total fiction.
+
+1240
+00:37:12,940 --> 00:37:13,860
+Oh my gosh.
+
+1241
+00:37:13,960 --> 00:37:14,860
+You know, put them on, put them on.
+
+1242
+00:37:14,920 --> 00:37:16,180
+And you know what the first thing they
+
+1243
+00:37:16,180 --> 00:37:17,940
+said to me when I brought up a
+
+1244
+00:37:17,940 --> 00:37:20,440
+little thing, I have 30 years experience as
+
+1245
+00:37:20,440 --> 00:37:20,940
+a medical.
+
+1246
+00:37:21,180 --> 00:37:22,240
+Oh my God.
+
+1247
+00:37:22,860 --> 00:37:23,220
+Boom.
+
+1248
+00:37:23,860 --> 00:37:25,280
+I got no time for this idiot.
+
+1249
+00:37:25,780 --> 00:37:26,140
+Right?
+
+1250
+00:37:26,240 --> 00:37:28,960
+So, and they're all like that because here's
+
+1251
+00:37:28,960 --> 00:37:29,300
+the thing.
+
+1252
+00:37:29,760 --> 00:37:32,680
+They cannot exist in the field in good
+
+1253
+00:37:32,680 --> 00:37:34,560
+conscious once they find out how the human
+
+1254
+00:37:34,560 --> 00:37:35,260
+body works.
+
+1255
+00:37:35,400 --> 00:37:38,440
+I haven't found any exceptions in any field.
+
+1256
+00:37:38,520 --> 00:37:39,160
+It doesn't matter.
+
+1257
+00:37:39,400 --> 00:37:42,500
+Dentistry, chiropractic, alternative, this, that, whatever.
+
+1258
+00:37:42,780 --> 00:37:44,180
+None of them know what's going on.
+
+1259
+00:37:44,340 --> 00:37:46,160
+You know, the blood pressure thing, the blood
+
+1260
+00:37:46,160 --> 00:37:48,460
+pressure thing brings up a question that I
+
+1261
+00:37:48,460 --> 00:37:50,060
+can't remember if I got to it a
+
+1262
+00:37:50,060 --> 00:37:52,100
+couple of Sonics ago, but it just came
+
+1263
+00:37:52,100 --> 00:37:52,840
+back to my mind.
+
+1264
+00:37:52,880 --> 00:37:54,340
+And I think I might've forgot to ask
+
+1265
+00:37:54,340 --> 00:37:56,680
+it, which is, you know, somebody said, okay,
+
+1266
+00:37:56,680 --> 00:38:00,040
+blood pressure is nonsense, but it indicates something.
+
+1267
+00:38:00,960 --> 00:38:01,060
+Yeah.
+
+1268
+00:38:01,060 --> 00:38:03,740
+It's like without getting technical, I used to
+
+1269
+00:38:03,740 --> 00:38:05,160
+be able to recite all the technical.
+
+1270
+00:38:05,420 --> 00:38:06,720
+It's the pause between beats.
+
+1271
+00:38:07,120 --> 00:38:09,060
+Within the beat, there's really like a double
+
+1272
+00:38:09,060 --> 00:38:09,360
+beat.
+
+1273
+00:38:09,480 --> 00:38:12,000
+The heart beats is a beat that's measured.
+
+1274
+00:38:12,120 --> 00:38:13,880
+Then there's another beat that's measured at the
+
+1275
+00:38:13,880 --> 00:38:15,580
+point of measurement known as the cuff.
+
+1276
+00:38:16,880 --> 00:38:19,460
+They wanted to know what could, could there
+
+1277
+00:38:19,460 --> 00:38:23,000
+be something useful in that information?
+
+1278
+00:38:23,160 --> 00:38:24,680
+That's how they wanted to know.
+
+1279
+00:38:24,680 --> 00:38:25,080
+No.
+
+1280
+00:38:25,220 --> 00:38:26,480
+And I'll prove, I'll prove it here.
+
+1281
+00:38:26,600 --> 00:38:27,740
+Well, I can't prove it, but this is
+
+1282
+00:38:27,740 --> 00:38:28,740
+how it was proved to me.
+
+1283
+00:38:29,100 --> 00:38:31,300
+Back in the eighties, there was the, the,
+
+1284
+00:38:31,500 --> 00:38:33,860
+these medical could have been a red cross
+
+1285
+00:38:33,860 --> 00:38:36,340
+or some international health group, whatever.
+
+1286
+00:38:36,760 --> 00:38:40,360
+They went over to investigate, uh, where centurions
+
+1287
+00:38:40,360 --> 00:38:40,640
+live.
+
+1288
+00:38:40,660 --> 00:38:42,620
+Like people live over a hundred places like
+
+1289
+00:38:42,620 --> 00:38:46,760
+Crete, Okinawa, uh, Valley here, you know, where
+
+1290
+00:38:46,760 --> 00:38:48,320
+it's known where a lot of people have
+
+1291
+00:38:48,320 --> 00:38:49,520
+the most people live over a hundred.
+
+1292
+00:38:49,660 --> 00:38:51,340
+So they visited, I read the long form,
+
+1293
+00:38:51,460 --> 00:38:52,780
+the long story about it.
+
+1294
+00:38:53,200 --> 00:38:54,800
+And they couldn't find them because they were
+
+1295
+00:38:54,800 --> 00:38:57,820
+out working these people over a hundred.
+
+1296
+00:38:57,980 --> 00:38:59,700
+They were out, you know, just like everybody
+
+1297
+00:38:59,700 --> 00:39:00,060
+else.
+
+1298
+00:39:00,820 --> 00:39:02,860
+And then what they did was they took
+
+1299
+00:39:02,860 --> 00:39:04,220
+blood tests and blood pressure.
+
+1300
+00:39:04,340 --> 00:39:06,100
+Their blood pressure was the highest they've ever
+
+1301
+00:39:06,100 --> 00:39:06,460
+measured.
+
+1302
+00:39:06,460 --> 00:39:08,380
+And their blood sugar was the highest they've
+
+1303
+00:39:08,380 --> 00:39:09,240
+ever measured.
+
+1304
+00:39:09,880 --> 00:39:11,840
+So if they would have lived in this
+
+1305
+00:39:11,840 --> 00:39:13,320
+society, they would have never made it that
+
+1306
+00:39:13,320 --> 00:39:15,100
+long because they would have been on the
+
+1307
+00:39:15,100 --> 00:39:17,640
+fake diabetes drugs and blood pressure drugs.
+
+1308
+00:39:17,680 --> 00:39:19,580
+They would have made it past 60 or
+
+1309
+00:39:19,580 --> 00:39:20,400
+70 never.
+
+1310
+00:39:20,620 --> 00:39:21,140
+There's no way.
+
+1311
+00:39:21,140 --> 00:39:21,500
+Right.
+
+1312
+00:39:21,920 --> 00:39:23,700
+And I do have a pretty one day
+
+1313
+00:39:23,700 --> 00:39:25,620
+we'll talk about, uh, if you do take
+
+1314
+00:39:25,620 --> 00:39:27,620
+the drugs for diabetes, which isn't, there's no
+
+1315
+00:39:27,620 --> 00:39:29,300
+way to measure blood glucose, by the way,
+
+1316
+00:39:29,300 --> 00:39:31,060
+the way they're telling you, it's, it's like
+
+1317
+00:39:31,060 --> 00:39:32,840
+the PCR test just as accurate.
+
+1318
+00:39:33,440 --> 00:39:35,240
+And I don't believe they're selling strips for
+
+1319
+00:39:35,240 --> 00:39:36,460
+people and all these devices.
+
+1320
+00:39:36,740 --> 00:39:38,920
+Um, imagine a home PCR test.
+
+1321
+00:39:38,940 --> 00:39:39,900
+I'm going to run out and get one
+
+1322
+00:39:39,900 --> 00:39:40,620
+of those for sure.
+
+1323
+00:39:40,740 --> 00:39:41,080
+Right.
+
+1324
+00:39:41,920 --> 00:39:42,320
+Right.
+
+1325
+00:39:42,780 --> 00:39:44,540
+That's where the suicide part comes in.
+
+1326
+00:39:44,640 --> 00:39:47,340
+But, and the blood pressure, uh, what are
+
+1327
+00:39:47,340 --> 00:39:49,700
+the symptoms and how many various other diseases
+
+1328
+00:39:49,700 --> 00:39:50,820
+arise from that?
+
+1329
+00:39:51,140 --> 00:39:52,460
+And what they are specifically.
+
+1330
+00:39:52,840 --> 00:39:55,640
+And you could see specifically what they're giving
+
+1331
+00:39:55,640 --> 00:39:58,060
+you to cure non-existent things like diabetes
+
+1332
+00:39:58,060 --> 00:40:01,540
+and, um, blood pressure specifically how, what it
+
+1333
+00:40:01,540 --> 00:40:01,860
+does.
+
+1334
+00:40:01,900 --> 00:40:03,160
+And you'll see like, Oh my gosh, this
+
+1335
+00:40:03,160 --> 00:40:04,440
+is all public information.
+
+1336
+00:40:04,800 --> 00:40:05,120
+Yeah.
+
+1337
+00:40:05,140 --> 00:40:07,200
+There's like, there's like what, 30 million people,
+
+1338
+00:40:07,320 --> 00:40:09,480
+40 million people on blood pressure medication, just
+
+1339
+00:40:09,480 --> 00:40:11,020
+as many on diabetic medication.
+
+1340
+00:40:11,280 --> 00:40:13,340
+So you're looking at a hundred million people,
+
+1341
+00:40:13,380 --> 00:40:16,440
+uh, a year, let's say accounted for they're
+
+1342
+00:40:16,440 --> 00:40:17,320
+on a death sentence.
+
+1343
+00:40:17,540 --> 00:40:18,840
+Uh, yeah.
+
+1344
+00:40:18,840 --> 00:40:21,780
+So anyway, like if you know, grandpa or
+
+1345
+00:40:21,780 --> 00:40:25,000
+your parents or older person, and they're sitting
+
+1346
+00:40:25,000 --> 00:40:26,520
+in a chair watching TV and suddenly they
+
+1347
+00:40:26,520 --> 00:40:28,700
+stop breathing and the ambulance doesn't get there
+
+1348
+00:40:28,700 --> 00:40:30,180
+in time and they're dead, that's blood pressure
+
+1349
+00:40:30,180 --> 00:40:30,700
+medication.
+
+1350
+00:40:30,860 --> 00:40:32,040
+We can get into all this stuff.
+
+1351
+00:40:32,240 --> 00:40:34,560
+And I could show you specifically because like
+
+1352
+00:40:34,560 --> 00:40:36,540
+we did specifically on the AIDS, we like
+
+1353
+00:40:36,540 --> 00:40:38,560
+getting into the chemistry stuff, what that is.
+
+1354
+00:40:38,620 --> 00:40:38,820
+Right.
+
+1355
+00:40:39,540 --> 00:40:41,640
+Um, so it's the treatment that's actually the
+
+1356
+00:40:41,640 --> 00:40:42,100
+disease.
+
+1357
+00:40:42,280 --> 00:40:43,620
+How about a fight there?
+
+1358
+00:40:43,680 --> 00:40:47,120
+How many people know that the med would
+
+1359
+00:40:47,120 --> 00:40:49,140
+say the medical industry is corrupt and dangerous.
+
+1360
+00:40:49,280 --> 00:40:51,740
+Just about most people, I'd say 50, 50.
+
+1361
+00:40:52,360 --> 00:40:53,620
+But where do they go?
+
+1362
+00:40:53,700 --> 00:40:54,500
+Where are they going to go to an
+
+1363
+00:40:54,500 --> 00:40:59,260
+alternative doctor for what, for what, what's the
+
+1364
+00:40:59,260 --> 00:41:00,120
+alternative going to do?
+
+1365
+00:41:00,340 --> 00:41:00,860
+Nothing.
+
+1366
+00:41:01,180 --> 00:41:03,580
+So with all the fighting and all the
+
+1367
+00:41:03,580 --> 00:41:05,400
+things against your food is totally toxic.
+
+1368
+00:41:05,400 --> 00:41:08,140
+By the way, most people have never had
+
+1369
+00:41:08,140 --> 00:41:11,460
+real food, especially Americans never in their lives.
+
+1370
+00:41:11,620 --> 00:41:14,460
+If you were born after 1930, let's just
+
+1371
+00:41:14,460 --> 00:41:17,600
+say 19, especially after world war II, when
+
+1372
+00:41:17,600 --> 00:41:18,860
+all the chemicals were put in.
+
+1373
+00:41:19,900 --> 00:41:22,180
+So what it is is I've always said
+
+1374
+00:41:22,180 --> 00:41:22,660
+this before.
+
+1375
+00:41:22,820 --> 00:41:24,940
+It's all this stuff, the fighting and the
+
+1376
+00:41:24,940 --> 00:41:28,800
+contra energy against you, the contradictions that are
+
+1377
+00:41:28,800 --> 00:41:30,660
+put on you and you're still here as
+
+1378
+00:41:30,660 --> 00:41:34,280
+a species, um, is a Testament to the
+
+1379
+00:41:34,280 --> 00:41:36,940
+robustness of the human condition, both physical and
+
+1380
+00:41:36,940 --> 00:41:37,300
+mental.
+
+1381
+00:41:37,620 --> 00:41:41,360
+Because I think the, the attack, the physical
+
+1382
+00:41:41,360 --> 00:41:44,860
+attacks, like the, the microwave attacks, the sound
+
+1383
+00:41:44,860 --> 00:41:48,080
+attacks would look out for Charlie talks about
+
+1384
+00:41:48,080 --> 00:41:49,340
+as these are audible sounds.
+
+1385
+00:41:49,480 --> 00:41:50,480
+It's not microwave stuff.
+
+1386
+00:41:50,500 --> 00:41:51,760
+So it's being on that level.
+
+1387
+00:41:52,060 --> 00:41:52,540
+Right.
+
+1388
+00:41:53,060 --> 00:41:56,040
+Um, and all these other things, I think
+
+1389
+00:41:56,040 --> 00:41:58,220
+it's better that people don't know that it's
+
+1390
+00:41:58,220 --> 00:41:58,800
+going on.
+
+1391
+00:41:58,840 --> 00:42:00,980
+It's better to not know that the doctors
+
+1392
+00:42:00,980 --> 00:42:02,400
+don't know anything and they're just playing.
+
+1393
+00:42:02,480 --> 00:42:05,520
+They're literally, the doctors are literally playing doctor
+
+1394
+00:42:05,520 --> 00:42:07,500
+if whatever that term means.
+
+1395
+00:42:08,360 --> 00:42:08,840
+Right.
+
+1396
+00:42:08,840 --> 00:42:14,020
+And the attorneys are practicing, you know, attorneys
+
+1397
+00:42:14,020 --> 00:42:15,640
+don't know anything about law.
+
+1398
+00:42:15,700 --> 00:42:17,300
+So you have all these 6 million people
+
+1399
+00:42:17,300 --> 00:42:21,360
+that are illegally and unlawfully in prison, all
+
+1400
+00:42:21,360 --> 00:42:23,800
+of them, all of them, unless you've gone
+
+1401
+00:42:23,800 --> 00:42:26,740
+through a superior court or Supreme court, uh,
+
+1402
+00:42:26,740 --> 00:42:27,420
+it's all illegal.
+
+1403
+00:42:27,540 --> 00:42:29,400
+So, and if you ask the attorney generals,
+
+1404
+00:42:29,500 --> 00:42:30,660
+why they say, well, they agreed to it.
+
+1405
+00:42:30,940 --> 00:42:32,660
+They won't even bother defending their position.
+
+1406
+00:42:33,040 --> 00:42:34,220
+So here's the thing.
+
+1407
+00:42:34,720 --> 00:42:36,760
+This is a Testament of how robust people
+
+1408
+00:42:36,760 --> 00:42:36,960
+are.
+
+1409
+00:42:37,000 --> 00:42:39,940
+And in order for this punishment or whatever
+
+1410
+00:42:39,940 --> 00:42:42,160
+condition exists to go on, they have to
+
+1411
+00:42:42,160 --> 00:42:44,420
+not be aware and they're doing a very
+
+1412
+00:42:44,420 --> 00:42:45,260
+good job at it.
+
+1413
+00:42:45,320 --> 00:42:47,260
+Like in other words, they're relying on the
+
+1414
+00:42:47,260 --> 00:42:49,320
+people being unaware and the people are very
+
+1415
+00:42:49,320 --> 00:42:49,860
+reliable.
+
+1416
+00:42:50,100 --> 00:42:53,460
+So again, it's a consciousness thing because you're
+
+1417
+00:42:53,460 --> 00:42:56,200
+being destroyed on a physical side, on every
+
+1418
+00:42:56,200 --> 00:42:57,380
+side, right?
+
+1419
+00:42:57,600 --> 00:43:02,800
+Not destroyed, but decimated decimated means one 10th.
+
+1420
+00:43:03,040 --> 00:43:03,560
+Right.
+
+1421
+00:43:04,120 --> 00:43:05,560
+Um, I've had real food.
+
+1422
+00:43:05,620 --> 00:43:07,520
+I've had real water and it is nothing,
+
+1423
+00:43:08,240 --> 00:43:10,460
+nothing like back to the food, which is
+
+1424
+00:43:10,460 --> 00:43:10,740
+a thing.
+
+1425
+00:43:10,860 --> 00:43:13,060
+I, when I was going around the Midwest
+
+1426
+00:43:13,060 --> 00:43:15,680
+central part of the country, doing plaster mining
+
+1427
+00:43:15,680 --> 00:43:19,060
+with, um, uh, people that worked for Carl
+
+1428
+00:43:19,060 --> 00:43:21,500
+Meyer, whose name was called, he was the
+
+1429
+00:43:21,500 --> 00:43:22,200
+uranium King.
+
+1430
+00:43:22,280 --> 00:43:23,680
+He was the biggest uranium mine.
+
+1431
+00:43:23,880 --> 00:43:26,780
+You'd actually look up uranium, uranium King, Carl
+
+1432
+00:43:26,780 --> 00:43:27,120
+Myers.
+
+1433
+00:43:27,220 --> 00:43:28,120
+He died in 2015.
+
+1434
+00:43:28,760 --> 00:43:31,940
+So it was around 2007, 2008, his own,
+
+1435
+00:43:31,940 --> 00:43:35,040
+the chair, chair, chair people took over the
+
+1436
+00:43:35,040 --> 00:43:35,440
+company.
+
+1437
+00:43:35,700 --> 00:43:36,180
+Yeah.
+
+1438
+00:43:36,240 --> 00:43:39,440
+Um, and then it fell apart, but I
+
+1439
+00:43:39,440 --> 00:43:41,420
+was, uh, when you're, when you're going from
+
+1440
+00:43:41,420 --> 00:43:43,940
+mine to mine, you know, mines are usually
+
+1441
+00:43:43,940 --> 00:43:46,680
+like, can be a couple of hours outside
+
+1442
+00:43:46,680 --> 00:43:47,900
+the nearest town even.
+
+1443
+00:43:47,900 --> 00:43:48,280
+Right.
+
+1444
+00:43:48,940 --> 00:43:51,340
+So when you went places you weren't put
+
+1445
+00:43:51,340 --> 00:43:53,100
+up in hotels, you just knew someone, knew
+
+1446
+00:43:53,100 --> 00:43:54,660
+someone there and you stayed over with them.
+
+1447
+00:43:54,700 --> 00:43:56,280
+So I stayed over here, stay over there,
+
+1448
+00:43:56,400 --> 00:43:57,520
+New Mexico, Colorado.
+
+1449
+00:43:57,720 --> 00:44:00,840
+I mean, uh, our places, Arizona, Texas, that
+
+1450
+00:44:00,840 --> 00:44:04,420
+whole area, your four corners area, whatever white
+
+1451
+00:44:04,420 --> 00:44:04,840
+people.
+
+1452
+00:44:04,840 --> 00:44:07,560
+And I ate what they ate, did what
+
+1453
+00:44:07,560 --> 00:44:07,920
+they did.
+
+1454
+00:44:08,000 --> 00:44:10,640
+And I felt sick, low energy, whatever.
+
+1455
+00:44:11,080 --> 00:44:13,380
+And I was like, I was asking him,
+
+1456
+00:44:13,420 --> 00:44:14,140
+how do you feel?
+
+1457
+00:44:14,240 --> 00:44:15,040
+And they're like, I feel fine.
+
+1458
+00:44:15,100 --> 00:44:16,280
+I said, no, you don't.
+
+1459
+00:44:16,400 --> 00:44:17,820
+There's no way you could feel fine and
+
+1460
+00:44:17,820 --> 00:44:19,900
+eating this was his hot pockets and whatever
+
+1461
+00:44:19,900 --> 00:44:20,960
+you're eating every day.
+
+1462
+00:44:21,420 --> 00:44:22,760
+This is family stuff.
+
+1463
+00:44:23,040 --> 00:44:25,580
+So they're already really sick.
+
+1464
+00:44:26,580 --> 00:44:29,560
+So the food thing is very, very important
+
+1465
+00:44:29,560 --> 00:44:33,100
+to get them into a more physical wellbeing.
+
+1466
+00:44:33,100 --> 00:44:35,700
+Because I remember I couldn't think straight eating
+
+1467
+00:44:35,700 --> 00:44:36,420
+what they ate.
+
+1468
+00:44:36,580 --> 00:44:36,700
+Right.
+
+1469
+00:44:37,360 --> 00:44:38,800
+Uh, you know, whatever.
+
+1470
+00:44:38,880 --> 00:44:40,180
+I still, you know, I clean it through
+
+1471
+00:44:40,180 --> 00:44:41,740
+his pork, no pork on my fork.
+
+1472
+00:44:41,740 --> 00:44:42,060
+Right.
+
+1473
+00:44:42,520 --> 00:44:44,580
+Uh, but they ate just junk.
+
+1474
+00:44:44,580 --> 00:44:46,280
+I mean, like stuff you buy, you know,
+
+1475
+00:44:46,280 --> 00:44:48,880
+ready-made at Walmart or low quality iceberg
+
+1476
+00:44:48,880 --> 00:44:51,680
+lettuce and hot house tomatoes was a salad
+
+1477
+00:44:51,680 --> 00:44:53,160
+with some kind of wishbone dressing.
+
+1478
+00:44:53,160 --> 00:44:54,080
+That's all toxic.
+
+1479
+00:44:55,080 --> 00:44:55,520
+Right.
+
+1480
+00:44:55,740 --> 00:44:57,200
+So, and this is what I saw.
+
+1481
+00:44:57,240 --> 00:44:58,840
+So it's like, if you want to know
+
+1482
+00:44:58,840 --> 00:45:00,560
+how these people feel, go live with them
+
+1483
+00:45:00,560 --> 00:45:02,020
+for a week, eat their food.
+
+1484
+00:45:02,500 --> 00:45:04,280
+And then when you're feeling like that, see
+
+1485
+00:45:04,280 --> 00:45:06,160
+what kind of new information you're going to
+
+1486
+00:45:06,160 --> 00:45:06,340
+take.
+
+1487
+00:45:06,380 --> 00:45:06,500
+Yeah.
+
+1488
+00:45:06,540 --> 00:45:08,260
+You don't want to know you, you nothing.
+
+1489
+00:45:08,660 --> 00:45:11,100
+So they're, they're locked in spiritually or mentally.
+
+1490
+00:45:11,100 --> 00:45:12,500
+They turn on the tube, they go to
+
+1491
+00:45:12,500 --> 00:45:14,920
+church, they read the paper, whatever, if there
+
+1492
+00:45:14,920 --> 00:45:15,760
+is a paper anymore.
+
+1493
+00:45:16,760 --> 00:45:19,180
+And they're locked in mentally, they're locked in
+
+1494
+00:45:19,180 --> 00:45:19,780
+spiritually.
+
+1495
+00:45:20,640 --> 00:45:23,140
+Um, new Pope, by the way, it's not
+
+1496
+00:45:23,140 --> 00:45:24,480
+such a big deal, but I guess it
+
+1497
+00:45:24,480 --> 00:45:26,520
+is in some places, Leo or something.
+
+1498
+00:45:26,640 --> 00:45:26,780
+Yeah.
+
+1499
+00:45:26,800 --> 00:45:28,100
+I was going to ask you about that
+
+1500
+00:45:28,100 --> 00:45:29,540
+because, uh, Oh, how ridiculous.
+
+1501
+00:45:30,460 --> 00:45:33,300
+That's like new Mickey mouse.
+
+1502
+00:45:33,420 --> 00:45:35,120
+There's like, that stuff has nothing to do
+
+1503
+00:45:35,120 --> 00:45:35,820
+with anything.
+
+1504
+00:45:36,220 --> 00:45:38,780
+Are you so stupid to buy?
+
+1505
+00:45:38,960 --> 00:45:41,800
+I mean, I mean, yeah, look, people are
+
+1506
+00:45:41,800 --> 00:45:42,320
+so stupid.
+
+1507
+00:45:42,420 --> 00:45:44,080
+They don't even have to sell it anymore.
+
+1508
+00:45:44,420 --> 00:45:45,660
+They look for it.
+
+1509
+00:45:46,100 --> 00:45:46,820
+Try anything.
+
+1510
+00:45:47,240 --> 00:45:49,600
+Just think about that years ago.
+
+1511
+00:45:49,640 --> 00:45:51,180
+If they had to sell that shit or
+
+1512
+00:45:51,180 --> 00:45:53,980
+intimidate you now, it's like the people, Oh
+
+1513
+00:45:53,980 --> 00:45:54,820
+my gosh.
+
+1514
+00:45:55,480 --> 00:45:57,520
+So you're in a, so this is the
+
+1515
+00:45:57,520 --> 00:45:57,960
+point.
+
+1516
+00:45:57,960 --> 00:45:58,720
+The point is here.
+
+1517
+00:45:58,780 --> 00:46:00,280
+Everyone here is wasting their time.
+
+1518
+00:46:00,360 --> 00:46:01,820
+You're in a transition threshold.
+
+1519
+00:46:01,920 --> 00:46:02,800
+It's called your life.
+
+1520
+00:46:02,900 --> 00:46:06,020
+Unfortunately, it's what 60, 70, 80 years old,
+
+1521
+00:46:06,400 --> 00:46:07,220
+90 maybe.
+
+1522
+00:46:07,840 --> 00:46:10,500
+Um, the people that are happy here about
+
+1523
+00:46:10,500 --> 00:46:13,460
+everything are clueless, which if you're listening to
+
+1524
+00:46:13,460 --> 00:46:15,920
+me and comprehend what I'm saying, you're probably
+
+1525
+00:46:15,920 --> 00:46:18,160
+not one of them, but the person next
+
+1526
+00:46:18,160 --> 00:46:19,580
+to you probably is who knows.
+
+1527
+00:46:19,660 --> 00:46:20,260
+I hope not.
+
+1528
+00:46:20,660 --> 00:46:22,600
+Um, cause it ain't gonna last.
+
+1529
+00:46:22,820 --> 00:46:25,660
+But the point is just put up with
+
+1530
+00:46:25,660 --> 00:46:25,840
+it.
+
+1531
+00:46:26,140 --> 00:46:26,860
+It's a battle.
+
+1532
+00:46:26,860 --> 00:46:28,220
+Get a good night's rest.
+
+1533
+00:46:28,400 --> 00:46:29,640
+This is the most important thing.
+
+1534
+00:46:29,740 --> 00:46:31,400
+If you can have good food that makes
+
+1535
+00:46:31,400 --> 00:46:34,600
+you feel good, good company, you know, good
+
+1536
+00:46:34,600 --> 00:46:37,900
+conversation, halfway decent communication.
+
+1537
+00:46:37,900 --> 00:46:40,700
+If you can afford it, uh, you should
+
+1538
+00:46:40,700 --> 00:46:42,440
+want to afford good communication cause it's all
+
+1539
+00:46:42,440 --> 00:46:42,980
+communication.
+
+1540
+00:46:43,540 --> 00:46:46,560
+Uh, good food, a good clean place to
+
+1541
+00:46:46,560 --> 00:46:47,220
+rest clean.
+
+1542
+00:46:47,520 --> 00:46:48,000
+Right.
+
+1543
+00:46:48,460 --> 00:46:51,140
+Um, try to avoid what you see the
+
+1544
+00:46:51,140 --> 00:46:53,300
+majority doing, which is the Bolsheviks, right?
+
+1545
+00:46:53,900 --> 00:46:54,980
+Bolshevik means majority.
+
+1546
+00:46:55,380 --> 00:46:57,300
+And you'll be fine because you need to
+
+1547
+00:46:57,300 --> 00:46:59,360
+recover for the next day, which is going
+
+1548
+00:46:59,360 --> 00:47:00,600
+to be a little worse than the day
+
+1549
+00:47:00,600 --> 00:47:01,040
+before.
+
+1550
+00:47:01,800 --> 00:47:01,960
+Right?
+
+1551
+00:47:02,020 --> 00:47:03,940
+Because that's the whole thing today is a
+
+1552
+00:47:03,940 --> 00:47:06,840
+little worse than yesterday, but it's not going
+
+1553
+00:47:06,840 --> 00:47:07,960
+to be as bad as tomorrow.
+
+1554
+00:47:08,440 --> 00:47:09,660
+And if you know how to look for
+
+1555
+00:47:09,660 --> 00:47:11,300
+that, you'll see what I'm saying is true.
+
+1556
+00:47:11,860 --> 00:47:13,760
+And I sound like the ultimate pessimist, but
+
+1557
+00:47:13,760 --> 00:47:14,480
+no, sorry.
+
+1558
+00:47:14,760 --> 00:47:17,060
+You know, there's the suicide element, right?
+
+1559
+00:47:17,080 --> 00:47:18,460
+But do you want to really risk that?
+
+1560
+00:47:18,520 --> 00:47:20,140
+I mean, that's kind of like Russian roulette.
+
+1561
+00:47:20,140 --> 00:47:22,720
+Um, I think just be a trooper like
+
+1562
+00:47:22,720 --> 00:47:24,420
+they say in a warrior and just keep
+
+1563
+00:47:24,420 --> 00:47:25,500
+fighting through.
+
+1564
+00:47:25,560 --> 00:47:27,300
+Cause it's a fight without fighting.
+
+1565
+00:47:27,380 --> 00:47:28,560
+You're not fighting anything.
+
+1566
+00:47:28,640 --> 00:47:30,940
+Now there are people that lose it and
+
+1567
+00:47:30,940 --> 00:47:32,260
+they think they have to fight, right?
+
+1568
+00:47:32,500 --> 00:47:35,460
+Typically it's a, they bought into that idea.
+
+1569
+00:47:36,140 --> 00:47:38,340
+Uh, so just it's called endurance.
+
+1570
+00:47:38,740 --> 00:47:40,340
+You just have to endure it, man.
+
+1571
+00:47:40,580 --> 00:47:42,680
+And it's much better to have good food,
+
+1572
+00:47:42,780 --> 00:47:43,280
+good rest.
+
+1573
+00:47:43,280 --> 00:47:45,140
+Like when it's, you know, good food, good
+
+1574
+00:47:45,140 --> 00:47:46,920
+clothing, shelter, right?
+
+1575
+00:47:47,120 --> 00:47:47,940
+All that stuff.
+
+1576
+00:47:48,160 --> 00:47:48,960
+What really matters.
+
+1577
+00:47:50,280 --> 00:47:52,600
+So you can recover for the next day.
+
+1578
+00:47:53,500 --> 00:47:55,760
+Uh, and that's where, that's what it's about.
+
+1579
+00:47:55,900 --> 00:47:57,040
+The world ain't going to be a better
+
+1580
+00:47:57,040 --> 00:47:57,440
+place.
+
+1581
+00:47:57,480 --> 00:47:58,440
+It's going to get worse.
+
+1582
+00:47:58,440 --> 00:48:00,460
+It's slightly incrementally every day.
+
+1583
+00:48:01,000 --> 00:48:03,080
+Uh, so you're going to have to be
+
+1584
+00:48:03,080 --> 00:48:06,300
+able to recover from today's mess to deal
+
+1585
+00:48:06,300 --> 00:48:07,260
+with tomorrow's mess.
+
+1586
+00:48:07,340 --> 00:48:08,000
+And that's just how

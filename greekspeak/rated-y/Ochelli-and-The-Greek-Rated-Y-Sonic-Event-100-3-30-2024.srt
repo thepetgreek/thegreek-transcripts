@@ -1,0 +1,1259 @@
+1
+00:00:08,140 --> 00:00:13,960
+Sonic Event 100. Didn't know that was coming. I'll tell you, sometimes I don't know a lot
+
+2
+00:00:13,960 --> 00:00:16,200
+of things are coming, but that's just me.
+
+3
+00:00:16,200 --> 00:00:23,140
+Oh, I did. I did. It's a progression, and if you don't stop it, it keeps going. It progresses
+
+4
+00:00:23,140 --> 00:00:25,800
+just like anything. That's why we're going to talk about the container tonight.
+
+5
+00:00:25,800 --> 00:00:28,360
+And yet all things are finite, though, Greek, are they not?
+
+6
+00:00:30,780 --> 00:00:39,840
+Yeah, even in an open system, it's finite. We'll get into that because we're not in a closed
+
+7
+00:00:39,840 --> 00:00:49,300
+system. But what you can extract from the open system is highly, highly variable. And yeah, just
+
+8
+00:00:49,300 --> 00:00:55,040
+like you have valving, you know, and lanes for directing traffic, you know, think of it that way.
+
+9
+00:00:55,040 --> 00:00:59,040
+In valving, you know, you have a valve on a water hose, right? How much water you let through?
+
+10
+00:00:59,200 --> 00:01:04,740
+Yeah. All right. So, yeah, let's just get right to it. One of the early things, by the way, I'm
+
+11
+00:01:04,740 --> 00:01:10,420
+still the only person on the Internet, as far as I can tell from others, that is discussing these
+
+12
+00:01:10,420 --> 00:01:17,820
+things all as one in one get go. What, you know, in terms of the body and it works and it seems to
+
+13
+00:01:17,820 --> 00:01:26,140
+be with many methodologies, whether you specialize on the part or the whole to work, you know, with
+
+14
+00:01:26,140 --> 00:01:33,380
+modern medicine, well, overall, okay, you everything that you engage in, in public is
+
+15
+00:01:33,380 --> 00:01:39,680
+political. None of it is lawful. Okay, what does that mean? You have political medicine, political
+
+16
+00:01:39,680 --> 00:01:46,680
+religion, political schooling, political science, political media, political means it's some form
+
+17
+00:01:46,680 --> 00:01:54,540
+of control, anything goes to sort of direct the mind and the behavior of the populace a certain
+
+18
+00:01:54,540 --> 00:02:01,140
+way. It's not at all objective at all. And this is how you get directions from legalistic things, but
+
+19
+00:02:01,140 --> 00:02:07,360
+not lawful things. Well, I remember 15, 20 years ago, working with someone against some attorneys,
+
+20
+00:02:08,060 --> 00:02:13,120
+we were working against them and beating their pants off. They basically threw their hands up. It
+
+21
+00:02:13,120 --> 00:02:17,660
+says, Well, you have radical political views, we weren't bringing anything, what people would talk
+
+22
+00:02:17,660 --> 00:02:23,960
+up as being political, we were just using the law, you know, the code as codified, and the position of
+
+23
+00:02:23,960 --> 00:02:30,260
+the Bar Association, which is called the company in the US code, by the way, and it's a communist
+
+24
+00:02:30,260 --> 00:02:32,600
+organ, it's registered as a communist organization.
+
+25
+00:02:34,380 --> 00:02:38,620
+England, it's a temple bar association or something like that. Yeah.
+
+26
+00:02:39,440 --> 00:02:47,660
+Oh, yeah, the crown. It's called the crown. Canada also. And yeah, but that's, look, one thing that I
+
+27
+00:02:47,660 --> 00:02:55,220
+shy away from is when people start putting the finger blaming certain groups. Unless those groups
+
+28
+00:02:55,220 --> 00:03:01,320
+are coming, going to everyone's house every day with weapons at everyone's head. Well, more than
+
+29
+00:03:01,320 --> 00:03:07,020
+just threats and intimidation. Let's say, it's the people that go for it, right? It's the fish in the
+
+30
+00:03:07,020 --> 00:03:11,900
+hook. What do you call the bait? They're just baiting the public. You know, they're like, there's the
+
+31
+00:03:11,900 --> 00:03:16,680
+there's the blame the Jews, right? They blame the communists. They blame the liberals. Yeah, but who
+
+32
+00:03:16,680 --> 00:03:22,520
+they have no power. That's just a it's advertising. The word advertising means to shift direction or
+
+33
+00:03:22,520 --> 00:03:24,320
+get someone's attention, right?
+
+34
+00:03:24,620 --> 00:03:30,820
+Are you saying at the core of the real rot and on everything is actually compliance. It's not all
+
+35
+00:03:30,820 --> 00:03:32,980
+about the dictations that are
+
+36
+00:03:33,740 --> 00:03:40,820
+compliant, but it's what people find to be a preference, irrationally. So yeah, let's anyway, so
+
+37
+00:03:40,820 --> 00:03:45,080
+it's all political, the medical system, what it does, it gives okay, medical system, let's do the
+
+38
+00:03:45,080 --> 00:03:52,940
+important part first. Sure. War is a campaign. It's a theater. It's a game. It's a rite of passage.
+
+39
+00:03:52,940 --> 00:03:59,880
+It's what people do. If you are anti war, and you like watching sports, you're a hypocrite. It's the
+
+40
+00:03:59,880 --> 00:04:04,240
+same thing. It's the same thing. Just you know, the competitive sense, the winner, the loser, right?
+
+41
+00:04:04,300 --> 00:04:13,940
+The same language. Okay. It was deemed prior to the 20th century. But they really shot their load in
+
+42
+00:04:13,940 --> 00:04:21,079
+the 20th century, that conventional warfare is not the way to go to ruin a population or control a
+
+43
+00:04:21,079 --> 00:04:27,160
+population, even though they did World War One and World War Two, and all that other stuff, all these
+
+44
+00:04:27,160 --> 00:04:34,280
+wars that you have still today, the best way to wage war, a continuous war is through psychological
+
+45
+00:04:34,280 --> 00:04:40,920
+means by controlling the education system, medicine, religion, and money, really the money
+
+46
+00:04:40,920 --> 00:04:49,200
+system. The current medical system across the entire world is a militarized system against the
+
+47
+00:04:49,200 --> 00:05:00,360
+population, not for the population. Now, why anyone would go for it in whole is insane. So most people
+
+48
+00:05:00,360 --> 00:05:02,520
+are insane. We've talked about this before.
+
+49
+00:05:03,680 --> 00:05:09,880
+Well, following the logic you use, though, here's the problem. By their culture, they're taught
+
+50
+00:05:09,880 --> 00:05:17,000
+what's acceptable and what's not acceptable. And therefore this becomes how they're conditioned. And
+
+51
+00:05:17,000 --> 00:05:21,980
+obviously, a short term trauma, like a sudden violent event is effective, but only in the short
+
+52
+00:05:21,980 --> 00:05:26,440
+term. So it's better to have a long campaign of attrition.
+
+53
+00:05:26,680 --> 00:05:34,180
+Well, depends on the age, the not the age, meaning years that the the period that you're living in. So
+
+54
+00:05:34,180 --> 00:05:40,000
+there's, you know, I've talked about the eschatology running up into the, you know, six past the sixth
+
+55
+00:05:40,000 --> 00:05:44,820
+millennium and all that. And the dwindling down of the population, all that, yeah, that's still holds
+
+56
+00:05:44,820 --> 00:05:50,980
+an effect that started a long time ago, but it's in full force now. And don't, by the way, the world's
+
+57
+00:05:50,980 --> 00:05:56,900
+population is about a third what they say it is. So when I bring up people crunching numbers on how they're
+
+58
+00:05:56,900 --> 00:06:01,660
+going to kill 8 billion people, there ain't no 8 billion people on the planet. Sorry. It's barely in the
+
+59
+00:06:01,660 --> 00:06:10,820
+billions, barely. So all of the hard math, you know, like, if you give a statistic, like 80% of the people
+
+60
+00:06:10,820 --> 00:06:15,660
+who have cell phones in a particular country is supposed to have one and a half billion people. And
+
+61
+00:06:15,660 --> 00:06:22,400
+there's only 500 million cell phone accounts. Well, that means that the entire population would not be
+
+62
+00:06:22,400 --> 00:06:24,400
+more than 700 million or so, right?
+
+63
+00:06:24,600 --> 00:06:29,640
+Well, by extrapolation, also, people say that only one third of the world apparently is on the
+
+64
+00:06:29,640 --> 00:06:36,680
+Internet. And what you're saying is maybe similar metrics. It's the metric works in reverse this way,
+
+65
+00:06:36,680 --> 00:06:41,320
+though, where they would say, Look, if there's too big of a number of people, if they've got a ghost number
+
+66
+00:06:41,320 --> 00:06:46,980
+of people, then probably the thing that it's for the bank, or the bankers keep the bankers have two sets of
+
+67
+00:06:46,980 --> 00:06:51,460
+books, and they never tell the truth. Of course, they give facts. So alright, so let's get back to the
+
+68
+00:06:51,460 --> 00:06:58,100
+container, right back to the medical system, what they're doing is highly specialized on the parts and not
+
+69
+00:06:58,100 --> 00:07:06,200
+the whole. So the parts would be the parts of the body and the whole of the body is ignored. Even when you go
+
+70
+00:07:06,200 --> 00:07:14,400
+for what's called a diagnosis, it's ignored, they basically go for a scope, they get a fictional, I
+
+71
+00:07:14,400 --> 00:07:18,840
+could do a recap, but I don't think a full recap necessary. There is no blood pressure in the body.
+
+72
+00:07:18,880 --> 00:07:24,700
+That's a fiction. There is no blood sugar in your blood, by the way. An analog is used to measure that,
+
+73
+00:07:24,760 --> 00:07:34,120
+right? There are pretty much a handful of popular diseases thrust on the American public that don't
+
+74
+00:07:34,120 --> 00:07:38,940
+exist that people are actually taking medication for, which are leading to how many times you ever
+
+75
+00:07:38,940 --> 00:07:44,520
+heard of they died with complications of diabetes. Okay, the word complications means that the medical
+
+76
+00:07:44,520 --> 00:07:51,740
+treatment they got actually caused liver failure. Okay, and kidney. Okay, bounce around a little bit.
+
+77
+00:07:51,860 --> 00:08:02,160
+If you lived in old world, China, they had a girdle type thing. It looked like half of an apron, you know, an
+
+78
+00:08:02,160 --> 00:08:08,580
+you tied it around your kidneys on a windy day to protect your kidneys didn't matter has nothing to do with how
+
+79
+00:08:08,580 --> 00:08:15,700
+many layers you're wearing, or you're wearing a windbreaker. A windy day would be accountable for blowing the
+
+80
+00:08:15,700 --> 00:08:22,300
+fire out of your kidneys. This isn't traditional Chinese medicine. So they had this wrap that you wrapped
+
+81
+00:08:22,300 --> 00:08:29,480
+around your kidneys or on the backside, right and tied it off on the front when it was windy outside. Right? So
+
+82
+00:08:29,480 --> 00:08:36,900
+the kidneys are fire connected to the liver function. pancreas are not considered a separate organ, right?
+
+83
+00:08:37,039 --> 00:08:45,960
+They're part of the liver function. Kidneys are connected to the liver function on and on adrenal, right? All
+
+84
+00:08:45,960 --> 00:08:53,860
+that stuff stress, right? Okay, so I need to throw in some it's amazing how little tradition if you look up
+
+85
+00:08:53,860 --> 00:08:58,460
+traditional Chinese medicine practices online, I did something about a week ago and we said we might be doing
+
+86
+00:08:58,460 --> 00:09:04,120
+the thing on the container again. Yes, there's nothing it's all been scrubbed. It's not like back in the early
+
+87
+00:09:04,120 --> 00:09:10,000
+it's 20 years ago when you'd look that up and there'd be some HTML basic website and it would be someone that
+
+88
+00:09:10,000 --> 00:09:14,880
+does what we call like a blog listing all these things, right? There's nothing like that anymore, right?
+
+89
+00:09:15,180 --> 00:09:22,820
+1990 site that somebody forgot to delete. Yeah. Yeah, right. It's just this stuff is Yeah, so it's amazing. I
+
+90
+00:09:22,820 --> 00:09:27,920
+have to go from memory. 99% of the stuff I talked about on the Sonics is from memory and whatever you know, I
+
+91
+00:09:27,920 --> 00:09:37,960
+have been black ink on white paper. So but anyway, the specialization and the fictionalization is part of the
+
+92
+00:09:37,960 --> 00:09:47,960
+tactic and the strategy. Also, it's part of the legal system. So when I say legal system, it has nothing to do with
+
+93
+00:09:47,960 --> 00:09:55,200
+law. It relates to law because in law, you have a provision that you can go into contract, right? So that's what
+
+94
+00:09:55,200 --> 00:10:01,060
+legal has to do with now. I'm not against legal, you absolutely need it in certain cases, but that not as a whole,
+
+95
+00:10:01,200 --> 00:10:08,540
+right? To say that you have a legal system, that's all you have is like watching idiocracy where they put Brando and
+
+96
+00:10:08,540 --> 00:10:14,840
+everything. Right? Yeah, yeah. Yeah. Well, what do you know? Why do you take Brando? Because it has electrolytes?
+
+97
+00:10:14,900 --> 00:10:20,540
+What's electrolytes? It's in Brando, right? So Brando, it's in everything helps everything. Yeah, that's what pretty
+
+98
+00:10:20,540 --> 00:10:24,460
+much you're living in right now. All right. So anyway, we I don't feel like we've gotten started, but let's get
+
+99
+00:10:24,460 --> 00:10:30,660
+started. Okay, sounds good. Your your body, we're calling it the container. So saying the body strictly we're
+
+100
+00:10:30,660 --> 00:10:38,580
+talking strictly the meat, the carne the material part this time, right? Is is part of the earth. It's just as part of
+
+101
+00:10:38,580 --> 00:10:46,840
+the earth as anything else that's extracted from the earth in simple form. If you look at all the raw materials that
+
+102
+00:10:46,840 --> 00:10:54,260
+you'd make things with, it's just as it's just as direct as that it's, you know, when you have an iron gate, that iron
+
+103
+00:10:54,260 --> 00:11:01,660
+was garnered from mining, you know, black sand or hunks of iron melted down, right? natural materials, aluminum,
+
+104
+00:11:01,840 --> 00:11:07,740
+whatever metals, non metals, minerals, or salt, you know, guess he saw you take it, okay, your body is just like that.
+
+105
+00:11:08,300 --> 00:11:14,420
+Very not very different. So when you have an iron gate, and that if you watch where it came from, someone back at the
+
+106
+00:11:14,420 --> 00:11:20,820
+beginning was gathering fragments of iron, you know, surface iron to melt down, your body is very much the same way
+
+107
+00:11:20,820 --> 00:11:31,200
+based on raw material from the earth. So if your conception point, time of conception in the mother's womb, if she
+
+108
+00:11:31,200 --> 00:11:37,680
+didn't intake earth elements, earth materials, you wouldn't be here, she would, she and the bay and the embryo and the
+
+109
+00:11:37,680 --> 00:11:44,020
+development of you in the womb would never take place, you would starve to death, right? And once you're born, if you
+
+110
+00:11:44,020 --> 00:11:52,440
+don't take in water, food, air, minerals, and all the food, you would also die. Now, what makes it full circle, we don't have to
+
+111
+00:11:52,440 --> 00:11:59,780
+get into, it's always mentioned, when you die, you also go back to right, the earth will willingly accept you, just like the
+
+112
+00:11:59,780 --> 00:12:05,700
+earth will willingly give up nutrition and food stuff for you. In other words, even if you don't know anything about
+
+113
+00:12:05,700 --> 00:12:13,740
+agriculture, let's say you're, even if you're vegetarian, you'll survive in any natural setting, you'll find stuff to eat,
+
+114
+00:12:13,740 --> 00:12:20,020
+right? In some traditions, they even state when burying a body, right? You came from the earth, now we return you to it. That's
+
+115
+00:12:20,020 --> 00:12:27,160
+right. So this is this is the main point, if you know, it's the body, not any specific aspect of the body, not the eye, not the
+
+116
+00:12:27,160 --> 00:12:35,280
+ear, not the leg, not the internal organs, but about as a whole. So when you look at what to eat, this is going to be very heavy on
+
+117
+00:12:35,280 --> 00:12:42,740
+what we eat. So you're going to say something? Yeah, I wanted to ask you something about the use of the word container, because I
+
+118
+00:12:42,740 --> 00:12:50,040
+was thinking about this, a Star Trek episode that came up, and they said, there was a computer describing people as ugly bags of
+
+119
+00:12:50,040 --> 00:12:57,480
+mostly water. And I found that interesting. But it got me to thinking that, you know, when we think about a container, a container
+
+120
+00:12:57,480 --> 00:13:04,600
+usually has a different type of material that is able to contain other materials. Sometimes there's similar materials, but the
+
+121
+00:13:04,600 --> 00:13:08,760
+nature of the material must be different. Otherwise, the container doesn't function, right?
+
+122
+00:13:08,760 --> 00:13:18,580
+So it could you could have, you could have a rock container with sand in it, which are both the same, but okay. So you know, one of the
+
+123
+00:13:18,580 --> 00:13:27,600
+jokes that I make is that the medical community basically is saying that humans or animals or mammals, or anything living is a
+
+124
+00:13:27,600 --> 00:13:36,320
+pressurized filter bag. All right, that's what you're basically being called. But what I want to just lean more heavily on, on this one
+
+125
+00:13:36,320 --> 00:13:43,720
+about the container is, is how we are attached to the earth. And you really can't separate. You know, that's why the you know, whether
+
+126
+00:13:43,720 --> 00:13:50,720
+you believe it or not, space travel will never be popular. In other words, you know, the Star Trek stuff, you know, you're living on
+
+127
+00:13:50,720 --> 00:13:57,440
+spaceships for generations and generations, right? That if you're born on Earth, you'll have severe problems.
+
+128
+00:13:57,780 --> 00:14:04,740
+Well, because if you were able to farm fruit and things, say on another planet, it would not naturally work in your system.
+
+129
+00:14:04,740 --> 00:14:12,840
+Because even in space, or whatever, it will not work. Or Yeah, the energy. And you learn this from when you do gardening, by the way,
+
+130
+00:14:13,160 --> 00:14:21,660
+certain crops, like we grow certain leafy green vegetables year after year. And when they were in a certain period, the lettuce is very
+
+131
+00:14:21,660 --> 00:14:29,160
+tough. And other periods, you know, a few years later, it's very soft, again, tender. That's because of the activities of the earth and the
+
+132
+00:14:29,160 --> 00:14:38,460
+cosmos, you know, the planets and the sun. But anyway, back to the, the body and the container and the earth. There's so much to be said
+
+133
+00:14:38,460 --> 00:14:48,840
+about it. But it's so individualistic, whenever you put something into the body, especially from a medical perspective, where they like to
+
+134
+00:14:48,840 --> 00:14:57,880
+inject people, or the more you get so far away from entering, putting things into the body normally from breathing or eating, right, or
+
+135
+00:14:57,880 --> 00:15:05,320
+putting under your, you know, under your armpit or something is another way to hear like the tobacco, the patch, right, there's no nothing
+
+136
+00:15:05,320 --> 00:15:15,600
+that right, okay, so you could apply things to the body and all that. Anything that the medical community is telling you even anything that
+
+137
+00:15:15,600 --> 00:15:26,040
+goes under the skin, subdermal, hypodermal, and all that stuff. Other than saline solution, and certain opioid opioids, blood type must be
+
+138
+00:15:26,040 --> 00:15:34,760
+taken into consideration. Race must be taken into consideration. Body weight must be taken into consideration. The same with animals. By the
+
+139
+00:15:34,760 --> 00:15:41,840
+way, I'm just bouncing around. Anybody ever go to a vet? It doesn't matter what animal what vet they ever take blood pressure of the animal? No.
+
+140
+00:15:42,400 --> 00:15:49,560
+Yeah, because it's a non existent thing. So I just got to throw these little digs in there. If you're going to leave from this conversation, kind of
+
+141
+00:15:49,560 --> 00:15:56,100
+like all over the place, but there is no blood pressure. And there is no blood sugar. And there is no right all these things that you don't absorb
+
+142
+00:15:56,100 --> 00:16:02,400
+anything, right? Well, kind of everything's by induction. Yeah. And a fascinating observation there is where you're telling me that yes, indeed, a lot of
+
+143
+00:16:02,400 --> 00:16:10,280
+people try to say that we're nothing more than mammals. Well, it's funny, because veterinary people that treat mammals constantly, you know, your dog, your
+
+144
+00:16:10,280 --> 00:16:16,820
+cat, that's a mammal, to the best of my knowledge, they don't need blood pressure. Now they are starting to do. Oh, yeah, the blood pressure thing. That's
+
+145
+00:16:16,820 --> 00:16:26,460
+total fiction. But as so as the diabetes, by the way, it's a total fiction, and AIDS and many other diseases. But you people that get diagnosed with
+
+146
+00:16:26,460 --> 00:16:34,520
+these things and follow treatment get sick and die. Many people that are diagnosed with these things and refuse treatment live a healthy, normal life
+
+147
+00:16:34,520 --> 00:16:42,840
+generally. So that's how this is the way it's kind of like, you know, my brother died, how did he die? Oh, he's on the battlefield. Oh, that makes total
+
+148
+00:16:42,840 --> 00:16:50,440
+sense. When you hear someone getting treatment for blood pressure, diabetes, whatever, they're going to die, or cancer, they're going to die. There's,
+
+149
+00:16:50,460 --> 00:16:59,680
+there's actually, there's a study done, it's kind of buried. I remember about this is back in Oh, for that, if you have cancer and get treatment, your
+
+150
+00:16:59,680 --> 00:17:08,960
+chances of dying are higher than if you don't treat it at all. And we're talking about oncological stuff, too, with tumors, right? So yeah, so this is,
+
+151
+00:17:08,960 --> 00:17:20,140
+again, very, very bad situation that people are in, but it's voluntary. In certain cases, it's not when you become a ward, you know, with someone under 18
+
+152
+00:17:20,140 --> 00:17:29,440
+award, you know, incompetent judges, judges order medical treatment, by the way, to certain people, you know, or the right. Also, the hospitals are run that
+
+153
+00:17:29,440 --> 00:17:40,400
+way, too. There is always like 100, almost 100% of a chance as soon as the custody of a child is handed over to the state. It's almost a certainty absolute that
+
+154
+00:17:40,400 --> 00:17:45,140
+there will be medical treatment involved there. They'll start to medicate them or do it's a guarantee.
+
+155
+00:17:46,080 --> 00:17:55,700
+Yeah, yeah. The same if you leave the hospital without checking out, they call the police to hunt you down. I've seen that. Anyway, police driving up and down
+
+156
+00:17:55,700 --> 00:18:01,420
+like, Hey, you guys need any help? Because I always ask them if they want any help. Yeah, we had someone check out of the hospital such and so person, you'd almost
+
+157
+00:18:01,420 --> 00:18:12,300
+know. Okay, so where did the legal authority but good. Sorry. No, they do because it's it's part of the military system. The surgeon general who's the head of
+
+158
+00:18:12,300 --> 00:18:27,640
+is always in uniform. Okay. Where were we? Okay, the the aspect of the human body that is totally negated, almost by most is what should we eat? Right? But it's not
+
+159
+00:18:27,640 --> 00:18:35,740
+negated. You know, it's being negated when there's a fashionable diet every year, right? Or every several years, right? I don't even have to get into what those
+
+160
+00:18:35,740 --> 00:18:41,940
+fashionable diets are. And most of it started in the 50s and 60s. I'd say really in the late 70s.
+
+161
+00:18:41,980 --> 00:18:47,280
+Yeah, 70s and 80s. And all that we went to Atkins and then the different what? Oh, yeah.
+
+162
+00:18:47,420 --> 00:18:55,300
+Every morning, go down the list. And when one is popular, like right now, something that is popular keto or paleo, there's like two or three other ones and lurking in the
+
+163
+00:18:55,300 --> 00:19:08,180
+background. Right? Yes, of course. So so all this. So basically, what I've discovered through all these years is primarily a veggie vegetable diet in season. That's why I feel so bad about
+
+164
+00:19:08,180 --> 00:19:19,200
+vegetarian vegan people, they have no idea of energy. And one way to do that is the fashionable shakes. They they're chemically clinically chemically correct. You know, they mix
+
+165
+00:19:19,200 --> 00:19:31,700
+like kale, avocado, banana, orange and mango. Right? Really, really bad food combining. They have no understanding. 99% of the people that do practice vegetarian and vegan have no
+
+166
+00:19:31,700 --> 00:19:46,120
+understanding of seasonality, no understanding of the energies, which vegetable does what for the body how they could be used to have the body react differently. No, no clue at all. Not even a clue. They just
+
+167
+00:19:46,120 --> 00:19:57,540
+think, well, we're really like this, because we the animal cruelty, and we don't want to eat something that has eyes, you know, that I remember, when I first read into the non
+
+168
+00:19:57,540 --> 00:20:06,160
+Krishna's, you know, that we're about being vegan. If it has eyes, you know, you shouldn't eat it, right? So that means fish, birds, right?
+
+169
+00:20:06,160 --> 00:20:09,140
+As a mother, sometimes they say such a mother or whatever.
+
+170
+00:20:09,420 --> 00:20:23,420
+Yeah, but they have nothing about that. So if you want to end the recording now, and since I've prefaced, this is really about food and giving jabs and jigs to the medical community, which is horrible, by the way, there's no
+
+171
+00:20:23,420 --> 00:20:37,540
+redeeming, even the only thing that they there, they should be there for is for trauma, like when someone's bleeding out, and their guts go to the emergency room in ICU, intensive care, they usually treat you very quickly, not always,
+
+172
+00:20:38,020 --> 00:20:51,500
+they medical again, community does not understand that you have anywhere from a few minutes to a few minutes to patch someone up, right? They don't understand that, you know, to have extremely rapid healing. So again, they're not really
+
+173
+00:20:51,500 --> 00:21:19,460
+good for much. But they do exist, just like lawyer, attorneys are not good for much bankers are not good for much. I mean, all these things, you know, this is the society living. But all of these years now that I've been looking at it, I since the early 80s, what I've come to surmise that a human but what would keep the human body in the best balance is the cabbage plant, and the thistle plant. These two
+
+174
+00:21:19,460 --> 00:21:49,300
+plants, one, the cabbage plant, believe it or not, just like you have green cabbage, red cabbage, broccoli, by the way, kale, all of those are cabbages. For example, if you let a cabbage plant go into bloom, where it bolts, and it's ready to give out a seed stock, it looks just like kale or collard, right? Okay, so when you plant kale or collards, or Swiss chard, it's just like the early the later stages of cabbage, right? Okay, it's
+
+175
+00:21:49,300 --> 00:22:19,020
+like, imagine, you know, you ever see little babies, old man disease, imagine like a three year old baby looks like a 70 year old man, right? That's basically what kale is, and collards and all these other things and lettuces. The other thing is the thistle plant, which you can go into the other aspect of the root of the thistle plant. By the way, people that are into supplements, one of the best things and most widely recommended things for liver dysfunction is milk thistle. Right? So what I mean by the thistle plant root is the bird
+
+176
+00:22:19,020 --> 00:22:48,440
+off route. So this might sound very narrow for for typically, I'm not into being narrow about anything. But what I've discovered also, this is on looking back, that if you can incorporate the cabbage plant, which is what I just mentioned, that whole variety of cabbage plants, and the thistle, which is burdock, also burdock would include the carrot, which is a very soft form. It's if
+
+177
+00:22:48,440 --> 00:23:18,260
+burdock were ice cream, a carrot would be whipped cream. Okay, right, very light. parsnip, right root vegetables, not bulbous root vegetables like peanuts, and potatoes and yams and things like that. Those would be further down the line further away to be eaten as well. The next level would be your gourds, pumpkins and squashes. There's so many varieties, right? Okay,
+
+178
+00:23:18,780 --> 00:23:47,640
+between those three things as being a staple, you will excel in health, and you will excel in recovery, and general vitality. The other aspect is whole grains, and whole grains and whole cereals now whole, not processed, right? You take your pick. You know, for example, what I mean by this, you know, usually when you bring up this is only since the
+
+179
+00:23:47,640 --> 00:24:17,360
+1950s, or maybe 60s, even much later. Asian cultures, you always think of white rice or rice, right? Always rice. But yeah, but before World War Two, rice was not a mainstay. If you served someone rice in Asia, you were wealthy. It's like doing filet mignon in the Western world, right? It was very exclusive. They predominantly ate barley and millet. That was predominantly their grains, believe it or not. There's a movie that actually
+
+180
+00:24:17,360 --> 00:24:44,540
+shows us in Kurosawa, Seven Samurai, they're walking through some of the villages, and someone offers him rice. He's like, wow, you have rice, you know, like no one, you know, if you don't know the history, like I just mentioned, you wouldn't see how important that was in that part of the film, right? The samurai was impressed because he had someone was offering him rice, right? And if you're a modern Westerner watching it, you're like, what do you mean? He's so excited about getting rice. What are you talking about? You know, it's so common, right?
+
+181
+00:24:44,540 --> 00:25:14,520
+Yeah, it makes sense.
+
+182
+00:25:14,520 --> 00:25:40,680
+And there's something called valve timing, which is based on how fast the fuel ignites. If the fuel ignites very quickly, it's usually a lower power fuel, and it requires a certain timing. In other words, when the fuel is introduced into the cylinder, and when the spark goes off to ignite it. When the fuel is a slower burning fuel, a higher octane, requires a different timing, when the fuel is introduced and the spark is introduced, right?
+
+183
+00:25:41,720 --> 00:26:10,320
+So this in simple terms is put into what's called the recommended octane rating. So if you buy, let's say a typical American car, they'll say use only 87 octane. Oh, but I want the premium. Well, it's a slower burning fuel, you'll be wasting your money, it might do have some cleaning properties, because it lingers around. So you don't have to fuel lingers around, it'll be wetter in there, it might clean off some carbon. Right? Now, if you buy something like an Audi, or BMW, it says use only
+
+184
+00:26:10,320 --> 00:26:38,780
+91 octane, because the timing and the valve timing and all right, is adjusted for the slower burning fuel, the higher octane, 93, or whatever. Yeah, that's even the higher remember, Sunoco is only one off for 92, or 93. Then there's racing gas 107. Right? Which is an even slower. Yeah, because those engines run hotter. So burning fuel cools the engine. Yeah, we can talk about car design. You know, but
+
+185
+00:26:38,780 --> 00:27:08,680
+reciprocating engine is not my favorite, even though I can talk about it and engineer it to be better, which I do, by the way, spark plugs and throttle bodies. Okay. So essentially, but again, with the automobiles, they'll tell you what octane you use, what fuel to use, you can go radically different gasoline or diesel, right? Then there's the the the ethanol and all that other stuff. Right? It's almost like the manufacturer recommends this
+
+186
+00:27:08,680 --> 00:27:38,560
+stuff. You know, I don't see a direct manufacturer recommendation. But in the Bible, it indirectly, indirectly promotes a vegetarian diet, because it says if you touch any animal carcass or flesh, you're unclean until you wash the next day. So most people think it would be roadkill or a dead cow or something. No, if you chicken sandwiches are made of chicken flesh, which is dead chicken, if you eat a chicken sandwich, which is permissible, right? Are
+
+187
+00:27:38,560 --> 00:28:08,100
+you touching animal flesh? Yes or no? You are? Yeah, you're. So it's indirectly, it doesn't tell you be vegetarian, don't eat animal, but it indirectly tells you if you happen to touch animal flesh, you're unclean. Well, if someone says, Well, I'm a kosher, I biblical, I pride, I only eat clean meats or whatever. Doesn't matter. It's still animal flesh, right? Right. So it doesn't tell you be avoided. It just says if you do, right, it's covered, it covers it very indirectly.
+
+188
+00:28:08,560 --> 00:28:37,980
+So again, it might be a proponent for veganism or vegetarian. No, not at all. I do enjoy eggs and milk and oval lactic and fish and things like that. And meats and all that. But I'm not I enjoy them only if they're good quality. I don't when I'm hungry. I don't think Oh, I want I want chicken, right? I want fish, right? No, I want a delicious meal. And if there happens to be high quality meat that can be prepared well or animal, I'll get it.
+
+189
+00:28:38,580 --> 00:29:08,280
+Right? Like, if I'm traveling, I remember when I was traveling more a decade ago, and who I was staying with, I'd cook dinner, you know, they want to cook dinner. So let me cook dinner for you. We go to a quote unquote, supermarket that I'm not familiar with, and they want to eat the chicken. So we go to the chicken department. And I'm looking at the chickens are our friends. And these chickens don't cut it. Just because it says chicken on it doesn't mean you should eat it, right? I mean, look at the quality of this, you know, you know, what's what's like, some farms was one of these
+
+190
+00:29:08,560 --> 00:29:24,700
+chicken companies, not like Purdue, or whatever farms hills or whatever. Yeah, like, Oh, man, these guys, this is not it's in a bag with liquid. And it's a doesn't, you know, it probably was eating chickens. And this is not going to taste good. So let's do something else. You see,
+
+191
+00:29:25,220 --> 00:29:38,740
+plus, sometimes I see those things are unnaturally large, you know, like, clearly that this thing had to have been fixed. Oh, yeah. Well, anyone knows that people that come from, especially Asia, they don't, they laugh at the chickens, the chicken,
+
+192
+00:29:39,940 --> 00:29:46,040
+free range chickens are so skinny. They're so skinny, they're bred, you know, especially roosters. I'm always
+
+193
+00:29:46,040 --> 00:29:50,460
+giving a rooster once. I was like, there was no chicken breast, you know, it was like, hardly
+
+194
+00:29:50,460 --> 00:30:01,020
+anything, right? And the legs were super sticks. Yeah, there's not enough meat. You know, what came first, the chicken or the egg, I used to joke, right, it's the chicken farmer that came first, because what you call a chicken now did not exist
+
+195
+00:30:01,020 --> 00:30:05,520
+before they were cross bred into what you consider to be a chicken now.
+
+196
+00:30:07,160 --> 00:30:13,400
+Very much like wild game bird, if you've gone hunting, game bird, it's nothing like the bird
+
+197
+00:30:13,400 --> 00:30:36,560
+that you poultry that you buy in the store, it's very, very thin, very little meat, right. So the same with most animals. But what I'm trying to say is the I've also said this publicly years ago, and as in the coming years, it's going to be harder and harder to eat meat. I think I said this around 2019. In a few years, probably won't be eating meat, I still make some good choices. But predominantly,
+
+198
+00:30:38,040 --> 00:31:02,240
+based on vegetable, but you must understand the balance on how to do it. And the balance is very simple. Vegetable and grain should be the majority, you can go down the middle. And then you have legumes, beans, and they should represent a quarter or a third of the volume of the vegetable and grain.
+
+199
+00:31:02,240 --> 00:31:18,780
+Yeah, I was gonna ask about that. Because I know that you didn't bring up really a lot of beans. And you know, most of not necessary, believe it or not, beans are overrated. Well, yeah, but most of these vegetarian people that I speak to right there, they're always hawking the beans, like, Oh, you got to have beans in there. Beans, beans, beans, because that's how you get your proteins.
+
+200
+00:31:18,780 --> 00:31:47,760
+Well, no, well, there is no look at protein, the science, by the way, if you look at a protein molecule and a carbohydrate molecule, molecule, what's the difference? The chemical molecule? Nothing. It's just one, one nitrogen atom. Yeah. So it's, it's a hoax protein is a hoax to direct you into buy it's a marketing hoax. There's okay, it's also available protein. Give you an example. If you have something that has 10 grams of protein,
+
+201
+00:31:48,780 --> 00:32:17,720
+and you can only only about a third or 20% quarter of that 10 grams, two and a half grams is biocompatible. And you have something that is half the protein, five grams of protein, that 70% of that is biocompatible or 80%. You're going to be getting four grams instead of two grams, right? So you'll get more protein out of beans than meat, you'll get more protein out of certain plants, especially thistle, then you will even out of beans.
+
+202
+00:32:18,280 --> 00:32:39,640
+Even though it initially has less protein, it's what's biocompatible. Now, beans are more of a concentrated food, a higher energy food, people that eat a lot of beans have retard the digestive process. That's why if you don't cook beans properly, he was even in film, they're sitting around the cowboys around the campfire farting. What was that film?
+
+203
+00:32:40,340 --> 00:32:41,220
+Blazing Saddles.
+
+204
+00:32:41,440 --> 00:33:08,040
+Yeah, yeah. That's the common if you eat beans, you're gonna fart, especially in Western culture, because they don't understand how to cook them properly. That's the other thing. When you start preparing food for yourself, learn how to cook it properly. There was a Jiro Uno, a Netflix documentary about one of the best sushi places in Japan. And it was in Japanese with subtitles. And one of the rice merchants came into the restaurant and was laughing
+
+205
+00:33:08,640 --> 00:33:38,020
+with the owners of this restaurant that the documentary was about saying, Yeah, you know, the Hyatt Hotel wanted to buy the rice that you buy, but I wouldn't sell it to them. And because why would I sell them rice that they can't cook? Because, you know, no one was there was skilled enough to cook. And the logic behind that is, if you have a certain quality product that has to be cooked well to get that quality result. When you give it to someone who doesn't know how to cook it properly, they're going to get a low quality result. And that's going to go back on the
+
+206
+00:33:38,020 --> 00:34:06,160
+reputation of the product, right? You see, right, right. So you're selling this premium rice. And if you give it to people who can't cooking, it's no good. Well, he has one person to say that somebody else ruins it. And then it's like, what kind of rice is this? It's ruined. It's terrible. Well, it's this. Yeah. Or it's not that good. And you just need one person, you know, one person to give that out. And I'll say, Wait a second, he's charged. That's a premium. And it's not any good. You see. So you want to protect these things, right?
+
+207
+00:34:06,160 --> 00:34:35,800
+By reputation, you wind up shooting yourself in the foot if you do that, right? So you don't sell it to people. So for me, when I start discussing food, it's in the back of my mind. I'm like, Oh, how many people listening to me actually know how to prepare food properly? Very few, you know, very, very few. So that is another thing that we should probably get into. I was taught we the solo sonics never really took off because of the scalerator and the water research and other things. But learning how to cook,
+
+208
+00:34:36,500 --> 00:35:05,780
+is so important. And ever since I saw the chef popular, the popularity of chefs in the 90s on television, I pointed out and I said, Not one person's gonna learn how to cook by watching these cooking shows, because it has nothing to do with their strength. It's all showmanship. Right? Yeah. And I think we've been over this before. So again, if we're going to talk about the human body, you're basically made of the earth, you need the earth materials, and I just pretty much laid out the fundamentals of it. And it doesn't have to be boring.
+
+209
+00:35:05,800 --> 00:35:35,140
+Because I've always have time to talk about condiments and what makes eating cabbage, thistle, basically, you know, root vegetables, and whole grains, super interesting is the condiments, the sauces and the things that you use to flavor it. Right? So, and maybe we should do something about that. And I was really going to get into more about the human body and how it works and all that. But if you can forget about how something works,
+
+210
+00:35:35,140 --> 00:35:44,080
+and ritualize good intake, right, like having a physical health manifestation, whether it's skin,
+
+211
+00:35:44,280 --> 00:35:51,680
+organ, you know, what people call illness and all that. If you eat a correct diet, just like I mentioned,
+
+212
+00:35:52,040 --> 00:35:56,620
+you will not have that. It doesn't mean you're immune to not having it. By the way, there's no
+
+213
+00:35:56,620 --> 00:36:01,400
+immune system either. Right? Well, you know, it's interesting. You brought up cars before,
+
+214
+00:36:01,400 --> 00:36:05,580
+because think about it. You know, what do you find when you're buying a used car that's been
+
+215
+00:36:05,580 --> 00:36:10,980
+around a little while? What is one of the best values to it? It means that somebody took care of
+
+216
+00:36:10,980 --> 00:36:16,620
+it. They put the maintenance into it. And when you put the maintenance into it, it survives better.
+
+217
+00:36:16,780 --> 00:36:22,580
+It's in better shape, even as it gets older. Sure. Even like the Dodge Caravans have a terrible
+
+218
+00:36:22,580 --> 00:36:28,520
+reputation for breaking down. Not if you may change the oil frequently and you have a bad
+
+219
+00:36:28,520 --> 00:36:33,080
+reputation for transmission failing. Not if you change the transmission fluid once in a while.
+
+220
+00:36:33,160 --> 00:36:38,440
+You really must do a full transmission fluid change, just partial change, and they just run
+
+221
+00:36:38,440 --> 00:36:43,880
+pretty much forever, as long as you use it as you should. Well, a well taken care of, you know,
+
+222
+00:36:43,960 --> 00:36:48,920
+Dodge Caravan, as you said, is much better than, you know, a crappy taken care of Escalade
+
+223
+00:36:48,920 --> 00:36:54,220
+any day of the week. And fundamentally, when the lights are off in the garage, they all
+
+224
+00:36:54,220 --> 00:37:02,160
+kind of look the same, right? Anyway, so yeah, I would suggest, again, without getting into
+
+225
+00:37:03,280 --> 00:37:09,700
+major and how the body works and all that, I found that meditating on how would you explain
+
+226
+00:37:10,220 --> 00:37:14,840
+the human body, you know, walking, walking around with your head filled and how the human body
+
+227
+00:37:14,840 --> 00:37:19,220
+really works. So we talked about there's no absorption. Also, you could look at the skin,
+
+228
+00:37:19,540 --> 00:37:24,200
+cross section of a skin. Anatomical drawings are fairly accurate of the intestines. There's
+
+229
+00:37:24,200 --> 00:37:28,120
+no way anything passed physically passes through like you're saying you're absorbing it. It's by
+
+230
+00:37:28,120 --> 00:37:33,620
+induction. By the way, if you look at all of the reference, you're not going to find it online
+
+231
+00:37:33,620 --> 00:37:39,820
+anymore. I'll tell you that very difficult. What they call disease and contagions are induced into
+
+232
+00:37:39,820 --> 00:37:45,860
+the body, by the way, right? There's no physical transfer. It's recreated in the body. So the
+
+233
+00:37:45,860 --> 00:37:52,340
+miracle and the incredible magic, you can call it magic. Like walking, if you if you would you say
+
+234
+00:37:52,340 --> 00:37:57,240
+that somebody walking through a wall actually coming out the other side magic, you know, you
+
+235
+00:37:57,240 --> 00:38:03,000
+could it's in that category. That's how the body pretty much works. But what I what I would just
+
+236
+00:38:03,000 --> 00:38:10,900
+want to I cannot overemphasize that. If you stick to what I said tonight, as your general principle,
+
+237
+00:38:11,060 --> 00:38:15,860
+go to it doesn't have to be boring. This is the other thing I because I've tried to render this
+
+238
+00:38:15,860 --> 00:38:22,860
+myself. I've been doing a revived doing burdock and cabbage and all that cabbage more recently,
+
+239
+00:38:23,320 --> 00:38:28,380
+as a regular staple, like I said, two people here live here and we go through two heads of
+
+240
+00:38:28,380 --> 00:38:33,320
+cabbage a week and doesn't feel like we're eating a lot of cabbage, right? And this is just to because
+
+241
+00:38:33,320 --> 00:38:37,480
+I was using this to remedy some things that I'm trying to recover from and the recovery was really,
+
+242
+00:38:37,480 --> 00:38:46,540
+really fast. Eating eating Well, also, only if you're going to have to learn how to do it. And I
+
+243
+00:38:46,540 --> 00:38:52,200
+think we did a talk about that before and also burdock. Yeah, you did you did the What did you
+
+244
+00:38:52,200 --> 00:38:56,180
+call it? The cabbage pot roast cabbage pot roast. That's what I was trying to think of. Right. Yeah.
+
+245
+00:38:56,220 --> 00:39:00,640
+And then there's the broccoli steak and broccoli and cabbage are pretty much the same thing,
+
+246
+00:39:00,700 --> 00:39:06,080
+by the way. So is kale collard and Swiss chard is just if you look at the growth patterns. Yeah.
+
+247
+00:39:06,080 --> 00:39:12,080
+So yeah. And I know two heads of cabbage for two people. That seems like very little in a week.
+
+248
+00:39:12,140 --> 00:39:15,820
+Yeah, that seems like that's not all we have. We have lots of other things, too.
+
+249
+00:39:16,460 --> 00:39:20,200
+We have a big variety. No, no, I'm not talking about a Spartan diet on that.
+
+250
+00:39:20,440 --> 00:39:24,740
+No, but it's the basis. You know, it's kind of like the basis. You know how people say it's
+
+251
+00:39:24,740 --> 00:39:30,960
+meat and potatoes. Right. Right. So you're going to always you know, it wasn't uncommon,
+
+252
+00:39:31,280 --> 00:39:35,200
+basically, in a meat and potatoes type household to go and buy a 50 pound bag of potatoes for
+
+253
+00:39:35,200 --> 00:39:44,520
+family every other week or so. Right. Right. And what I would say is a cabbage based diet with
+
+254
+00:39:44,520 --> 00:39:50,800
+grains, fish and other things as well. Like I have a pizza oven. I made pizza last night,
+
+255
+00:39:50,960 --> 00:39:55,960
+you know, Napolitan style, you know, with a mother culture and the fermented dough and,
+
+256
+00:39:56,620 --> 00:40:01,460
+you know, 90 seconds, maybe maybe 90 seconds in the oven, you know, a beautiful leoparding
+
+257
+00:40:01,460 --> 00:40:05,780
+on the bottom and oh, yeah, you know, Jewish, you know, Napolitan style, not New York style,
+
+258
+00:40:05,900 --> 00:40:09,360
+Napolitan. It's a small, very, you know, the personal look like personal pizzas.
+
+259
+00:40:10,000 --> 00:40:15,120
+Absolutely delicious. You're going to make personal pizza or just pizzas if you have a
+
+260
+00:40:15,120 --> 00:40:21,400
+pizza oven, wood fired oven with a stone. Don't add anything to it. Don't put anything in the
+
+261
+00:40:21,400 --> 00:40:25,860
+sauce. Use a plain tomato, crushed tomato. Don't add it. Just, you know, make the dough how
+
+262
+00:40:25,860 --> 00:40:32,140
+you want to ferment it with olive oil, a little honey and salt. Don't add it. Nothing fancy with
+
+263
+00:40:32,140 --> 00:40:36,440
+the cheese. And you'll notice the fewer seasonings you put, the more delicious it is if you do it
+
+264
+00:40:36,440 --> 00:40:42,700
+right. So I have an extreme variety. The night before that, I had a yellowtail sashimi. There's
+
+265
+00:40:42,700 --> 00:40:48,680
+a place where I could go and get what's called sushi quality fish and a big slab of yellowtail
+
+266
+00:40:48,680 --> 00:40:54,600
+and, you know, raw is soaked in salt water. Chidashi Chidashi is where you put raw fish
+
+267
+00:40:54,600 --> 00:41:01,920
+slices on top of a bowl of rice. And I had that with a side of Chidashi, which is like
+
+268
+00:41:01,920 --> 00:41:07,560
+steamed spinach. It's steamed in a fish stock, right? It's it's it's poached in a fish stock.
+
+269
+00:41:09,100 --> 00:41:15,600
+Yeah. With various condiments. So I do have variety, but the main staple, the main go to
+
+270
+00:41:15,600 --> 00:41:20,400
+are these vegetables, especially now that I was trying to heal certain certain things in the body
+
+271
+00:41:20,400 --> 00:41:25,040
+coming to be 60 pretty soon. And, you know, what you did in your 30s catches up with you,
+
+272
+00:41:25,260 --> 00:41:33,720
+even though I tend to be health conscious. But one thing that I can stress on all of this is
+
+273
+00:41:34,600 --> 00:41:42,040
+if you resolve yourself, not necessarily to be vegetarian or vegan, but to just consider those
+
+274
+00:41:42,040 --> 00:41:46,340
+the whole grain, the cabbage based vegetables and the root vegetables,
+
+275
+00:41:46,340 --> 00:41:51,020
+potatoes and peanuts and yams are not really they're more you can have those,
+
+276
+00:41:51,100 --> 00:41:56,880
+but more off to the side root vegetables, parsnip, burdock, carrot and resolve yourself.
+
+277
+00:41:57,020 --> 00:42:01,460
+And then, of course, beans. If you could resolve yourself to a diet like that,
+
+278
+00:42:02,380 --> 00:42:06,820
+when most people do it, they don't like it. They don't feel good because they don't.
+
+279
+00:42:06,960 --> 00:42:11,260
+It's the flavoring that also signals the body that it's getting nutrition.
+
+280
+00:42:11,900 --> 00:42:16,860
+So you must get into condiments. You must have flavorful condiments at this point.
+
+281
+00:42:17,360 --> 00:42:23,280
+What I would suggest is if you're going to switch and do even a whole grain, more whole grains
+
+282
+00:42:23,860 --> 00:42:28,080
+and cabbage based vegetables and root based vegetables with some beans,
+
+283
+00:42:28,700 --> 00:42:33,780
+if you don't find it to be flavorful enough as a meat and potatoes dish and one of your favorite,
+
+284
+00:42:33,980 --> 00:42:39,240
+let's say salad dressings is blue cheese dressing from going by the blue cheese,
+
+285
+00:42:39,240 --> 00:42:43,060
+put the blue cheese dressing on the brown rice and this cabbage or whatever you're having.
+
+286
+00:42:43,620 --> 00:42:49,060
+Right. As just to give you the flavor you're looking for. And one thing I haven't stressed
+
+287
+00:42:49,060 --> 00:42:55,700
+enough is how much the role of condiments, because they're digestive aids. And also,
+
+288
+00:42:55,720 --> 00:43:00,740
+if you're eating something that's bland, no matter how nutrition packed it is, like in sci-fi, right?
+
+289
+00:43:01,260 --> 00:43:05,320
+They're aboard some situation and it's like, where's the food? Well, you just put this tube
+
+290
+00:43:05,320 --> 00:43:09,120
+and you just eat that. That's your food. It has no flavor, but it has all the nutrition
+
+291
+00:43:09,120 --> 00:43:13,400
+your body needs. How many times you heard that in sci-fi means, right? All the time,
+
+292
+00:43:13,440 --> 00:43:17,480
+right. Your body will not sense that it's getting nutrition. You must have something flavorful.
+
+293
+00:43:19,340 --> 00:43:25,780
+So one thing that I want to stress is when you change that. OK, for example, in the military,
+
+294
+00:43:26,060 --> 00:43:29,500
+the little Tabasco in the MREs, they give you a little Tabasco sauce bottles,
+
+295
+00:43:29,580 --> 00:43:33,920
+little miniature bottles like serving size one. But that's used as money in the military.
+
+296
+00:43:34,520 --> 00:43:41,360
+In other words, infantry, when you if you don't actually you see, you know, cigarettes,
+
+297
+00:43:41,460 --> 00:43:47,980
+not so much anymore. But Tabasco sauce is like money because, you know, the MREs taste so bad,
+
+298
+00:43:48,000 --> 00:43:53,200
+you need more than they give you for Tabasco sauce to bring the flavor up. Right. Anyone that's been
+
+299
+00:43:53,200 --> 00:43:57,660
+in the military with infantry would know what I'm saying. Probably laugh. Yeah. Tabasco sauce
+
+300
+00:43:57,660 --> 00:44:01,260
+could be used as money. You know, it's a it's a value, very valuable commodity. What is it?
+
+301
+00:44:01,260 --> 00:44:07,160
+It's a condiment. Right. So if if you were to hear this kind of like all over the place,
+
+302
+00:44:07,220 --> 00:44:10,460
+it was supposed to talk about the container. We're really talking about what you should put in it.
+
+303
+00:44:12,240 --> 00:44:18,120
+Start what I would say after listening to this sonic and start researching and recapitulate
+
+304
+00:44:18,680 --> 00:44:23,660
+research condiments and recapitulate what is your favorite flavor and taste in food,
+
+305
+00:44:23,700 --> 00:44:29,020
+and you will find it's the condiments. So it's all about the condiments. And at this point,
+
+306
+00:44:29,560 --> 00:44:33,660
+but so we get to, quote, unquote, healthier condiments, anything that you find to be
+
+307
+00:44:33,660 --> 00:44:38,460
+exceptionally delicious for me, one of the most exceptionally delicious things, like flavor thing
+
+308
+00:44:38,460 --> 00:44:43,700
+is blue cheese dressing. Right. In a Western event, it's ranch. Right. How many times people
+
+309
+00:44:43,700 --> 00:44:47,100
+go to fast food? I want to start a ranch no matter what they're getting. Right. You're
+
+310
+00:44:47,100 --> 00:44:52,320
+even for pizza. I've noticed. Yeah, that really weird. Somebody told me about that a few months
+
+311
+00:44:52,320 --> 00:44:55,880
+ago. I'm like, oh, my God. Really? They put ranch on everything. Well, that's the taste.
+
+312
+00:44:55,880 --> 00:45:00,460
+It's cultural and all that. You know, in Asia, it's soy sauce. When I would cook for Asian people,
+
+313
+00:45:00,540 --> 00:45:05,320
+they use more soy sauce. I'm like, oh, I thought I drowned it in soy sauce. So it's cultural. But
+
+314
+00:45:05,320 --> 00:45:13,540
+one way to to really bring up what your your game is in food is to decide what
+
+315
+00:45:13,540 --> 00:45:17,800
+condiments really blow your hair back. And that's where you're really going to.

@@ -1,0 +1,5071 @@
+1
+00:00:00,000 --> 00:00:04,730
+Greetings and welcome once again to Uncommon Sense with The Greek and Seth
+
+2
+00:00:04,730 --> 00:00:09,570
+Michael. You're on American Freedom Radio and it also is being streamed on
+
+3
+00:00:09,570 --> 00:00:16,410
+Ustream which you can access by going to uncommonradio.com and you will find
+
+4
+00:00:16,410 --> 00:00:21,790
+your instructions on pretty much how to do that. And welcome everyone again and
+
+5
+00:00:21,790 --> 00:00:26,230
+hello Seth. Greetings, salutations, how are you doing?
+
+6
+00:00:26,230 --> 00:00:33,430
+We're doing well, yeah, yeah. Again, so we're here again pretty much again like we
+
+7
+00:00:33,430 --> 00:00:37,130
+said you could find us on Ustream and we are on American Freedom Radio which
+
+8
+00:00:37,130 --> 00:00:44,570
+is a internet-based format and it requires your input not only just the
+
+9
+00:00:44,570 --> 00:00:47,170
+output that you're getting from listening to it through however you're
+
+10
+00:00:47,170 --> 00:00:52,310
+listening but the folks here or there at American Freedom Radio would appreciate
+
+11
+00:00:52,310 --> 00:00:56,250
+anything you could send their way and I've said with that but just to pretty
+
+12
+00:00:56,250 --> 00:01:02,910
+much interject one other thing Seth is on the on the feedback that we've been
+
+13
+00:01:02,910 --> 00:01:07,410
+getting let's say through emails and other messaging platforms we want to
+
+14
+00:01:07,410 --> 00:01:12,430
+just thank everyone for not only the extremely let's say positive response
+
+15
+00:01:12,430 --> 00:01:16,730
+but also the encouragement and also the inquiry about where to donate. Several
+
+16
+00:01:16,730 --> 00:01:20,950
+people have come forward and say hey I want to donate to you guys we appreciate
+
+17
+00:01:20,950 --> 00:01:26,750
+that very very much. There is no platform for that to do it to us directly other
+
+18
+00:01:26,750 --> 00:01:31,030
+than to perhaps support the platform known as American Freedom Radio and you
+
+19
+00:01:31,030 --> 00:01:36,570
+can donate to them by finding that out by searching their home page. I don't
+
+20
+00:01:36,570 --> 00:01:40,110
+know how prominent the donate button is but you will find something on there I'm
+
+21
+00:01:40,110 --> 00:01:45,470
+sure. So with that said I just wanted to bring that forward because it's kind of
+
+22
+00:01:45,470 --> 00:01:50,270
+like a little bit of something that has been brought up to us about donation so
+
+23
+00:01:50,270 --> 00:01:57,930
+there you have it. So absolutely in the near future we'll set up a way to take
+
+24
+00:01:57,930 --> 00:02:02,810
+donations for us directly as well but absolutely support American Freedom
+
+25
+00:02:02,810 --> 00:02:10,350
+Radio they're making it possible for our audience to get it on that platform so
+
+26
+00:02:10,350 --> 00:02:16,730
+yeah absolutely as well as you know Ustream we're using the free service
+
+27
+00:02:16,730 --> 00:02:23,190
+there as well but if we can get some sort of small regular income we can do
+
+28
+00:02:23,190 --> 00:02:29,030
+the professional Ustream side as well and that will be a lot no ads you know
+
+29
+00:02:29,030 --> 00:02:33,690
+things like that so that'll be pleasant but yeah that's all in the future so
+
+30
+00:02:33,690 --> 00:02:37,930
+yeah and it should be done democratically let's say by the by the
+
+31
+00:02:37,930 --> 00:02:41,610
+people if they want it they'll come up with it but you know you can't really
+
+32
+00:02:41,610 --> 00:02:46,830
+stop the signal we say perhaps and if we want to call this sonic experience a
+
+33
+00:02:46,830 --> 00:02:51,430
+signal it will go on you know there's always been talk about the internet
+
+34
+00:02:51,430 --> 00:02:56,810
+going down it's not going to go down folks because it's been at this level of
+
+35
+00:02:56,810 --> 00:02:59,970
+achievement or accomplishment to accommodate the population it will not
+
+36
+00:02:59,970 --> 00:03:06,410
+be taken away but we decided to do a Ustream when AFR was down for a short
+
+37
+00:03:06,410 --> 00:03:10,950
+time and also to cover that I think it would be interesting get some ham radio
+
+38
+00:03:10,950 --> 00:03:16,870
+people with some repeaters and perhaps even provide a in print form transcript
+
+39
+00:03:16,870 --> 00:03:20,650
+slash newsletter just to cover all the bases but I don't think it's necessary
+
+40
+00:03:20,650 --> 00:03:25,810
+because the internet is here to stay albeit all the ridiculousness that is on
+
+41
+00:03:25,810 --> 00:03:32,210
+it it is designed and structured to accommodate the population on the planet
+
+42
+00:03:32,210 --> 00:03:38,390
+meaning in a common way right okay it's sort of having a discussion with
+
+43
+00:03:38,390 --> 00:03:43,010
+someone recently set about you know the show it was I don't know I don't know if
+
+44
+00:03:43,010 --> 00:03:46,290
+I really even like calling this a show because I usually implies strictly
+
+45
+00:03:46,290 --> 00:03:50,130
+entertainment but one of the first things that came up in conversation
+
+46
+00:03:50,130 --> 00:03:55,290
+Seth was with this individual was that you know the word common it doesn't it
+
+47
+00:03:55,290 --> 00:04:01,870
+it doesn't mean anything good like yeah I know that's why we kind of like want
+
+48
+00:04:01,870 --> 00:04:07,030
+to talk about things that are uncommon and I think we kind of brought up maybe
+
+49
+00:04:07,030 --> 00:04:11,150
+clarifying a little bit of cliches at every show I don't have one to clarify
+
+50
+00:04:11,150 --> 00:04:14,810
+this week let's say but the last cliche I believe what might have been
+
+51
+00:04:14,810 --> 00:04:19,490
+clarified was a biblical one which says it's not what goes into someone's mouth
+
+52
+00:04:19,490 --> 00:04:23,970
+that defiled but what comes out of their mouth that defiles them and the actual
+
+53
+00:04:23,970 --> 00:04:31,510
+term there's the term being common not defiled so it's yeah being common is not
+
+54
+00:04:31,510 --> 00:04:37,910
+good so you know with that said yeah any other thoughts before we get into
+
+55
+00:04:37,910 --> 00:04:41,270
+something that we don't know what we're really going to get into other than
+
+56
+00:04:41,270 --> 00:04:52,960
+perhaps more thoughts about these things Seth any anything random perhaps okay
+
+57
+00:04:52,960 --> 00:04:57,000
+Seth all right he's just remains wants to be maybe quiet for the moment but
+
+58
+00:04:57,000 --> 00:05:00,640
+let's let's maybe get into it now what we're gonna get into this week we don't
+
+59
+00:05:00,640 --> 00:05:06,560
+really know but the same concepts keep coming up very often by looking and
+
+60
+00:05:06,560 --> 00:05:09,780
+hearing and seeing what's going on in the world and what's really interesting
+
+61
+00:05:10,800 --> 00:05:14,840
+if you want to pretty much look at something that it's not really discussed
+
+62
+00:05:14,840 --> 00:05:20,300
+much is something called mental health I'm kind of defining it as the aspect of
+
+63
+00:05:21,140 --> 00:05:25,620
+what is mental what is you know the mind and if you've listened to any kind of
+
+64
+00:05:25,620 --> 00:05:29,160
+Greek speak or with Seth and myself speaking we've always tried to bring
+
+65
+00:05:29,160 --> 00:05:33,840
+back definitions of things and bringing bringing a center or reference that is
+
+66
+00:05:34,460 --> 00:05:40,320
+accessible by anyone and the the mental state or the mind is essentially the
+
+67
+00:05:40,320 --> 00:05:45,720
+spirit so when you hear about things being mental or of the mind they are of
+
+68
+00:05:45,720 --> 00:05:51,780
+spiritual in nature intangible in a physical sense so from that point of view
+
+69
+00:05:52,580 --> 00:05:57,100
+in passing you know even though just mentioned don't have much on the agenda
+
+70
+00:05:57,100 --> 00:06:00,780
+let's say to speak about there's something about mental health it's been
+
+71
+00:06:00,780 --> 00:06:08,340
+coming up recently in conversation and even even from the perspective of what
+
+72
+00:06:08,340 --> 00:06:14,280
+is spiritual all the way down to little little things that people take to as
+
+73
+00:06:14,280 --> 00:06:18,560
+helpers you know like little pills and things like that you know and the in the
+
+74
+00:06:18,560 --> 00:06:25,080
+materialistic side and one thing that could be considered is what is mental
+
+75
+00:06:25,080 --> 00:06:30,240
+health you know what is the is it possible to restore it you know what
+
+76
+00:06:30,240 --> 00:06:34,700
+what's going on with the the aspect of the spirit or the mind and it's it's
+
+77
+00:06:34,700 --> 00:06:40,320
+very easy to see how it's being guided if you tend to pull back and be a little
+
+78
+00:06:40,320 --> 00:06:44,460
+more objective and see what's going on with your own faculties give you an
+
+79
+00:06:44,460 --> 00:06:49,500
+example not to harp on the alternative media but you know it's very interesting
+
+80
+00:06:49,500 --> 00:06:54,000
+I've kind of retracted from looking at the internet personally too much because
+
+81
+00:06:54,000 --> 00:06:58,920
+it's just seems to not being let's say put into effect and it's best and
+
+82
+00:06:58,920 --> 00:07:03,320
+highest use other than a telephone book or a telephone or pretty much looking at
+
+83
+00:07:03,320 --> 00:07:08,840
+weather or basic things like that even the weather is another subject one day
+
+84
+00:07:08,840 --> 00:07:11,940
+we'll get into but what's interesting what I noticed about the alternative
+
+85
+00:07:11,940 --> 00:07:16,140
+media very much is that they should thank the heavens that the mainstream
+
+86
+00:07:16,140 --> 00:07:20,400
+exists because every time I sort of tune in even albeit five minutes a week here
+
+87
+00:07:20,400 --> 00:07:25,460
+or there is the first thing you hear is a parroting of what was going on in the
+
+88
+00:07:25,460 --> 00:07:31,140
+mainstream media so essentially there there is not much going on other it
+
+89
+00:07:31,140 --> 00:07:37,480
+seems to be a massive movement of thought control and there is no real
+
+90
+00:07:37,480 --> 00:07:42,100
+alternative to it again just by bringing up the example of listening to how many
+
+91
+00:07:42,100 --> 00:07:50,280
+hosts have quote-unquote shows open their show or fill their show with what
+
+92
+00:07:50,280 --> 00:07:53,830
+the mainstream has done that day so that shows me that there is a a
+
+93
+00:07:54,320 --> 00:07:59,500
+complete tie-in there is still a almost a homogeneous movement on the planet or
+
+94
+00:07:59,500 --> 00:08:03,220
+homogeneous movement in consciousness that is guiding people and when you go
+
+95
+00:08:03,220 --> 00:08:09,900
+away from what is this mainstream thinking or let's say news parody that's
+
+96
+00:08:09,900 --> 00:08:14,240
+going on there is also the fringe aspect and if you look at a lot of the fringe
+
+97
+00:08:14,240 --> 00:08:19,840
+aspect of information being put out in the alternative again and that would
+
+98
+00:08:19,840 --> 00:08:23,900
+also mean a bookstore for example there's like these new-age bookstores
+
+99
+00:08:23,900 --> 00:08:26,900
+you know things like that that are called if you look at what they're
+
+100
+00:08:26,900 --> 00:08:31,020
+putting out as well I mean it sounds good it makes you feel good because it's
+
+101
+00:08:31,020 --> 00:08:34,320
+something different but if you actually look into what they're saying you'll
+
+102
+00:08:34,320 --> 00:08:38,940
+find this pretty much unfounded and it's not based on anything again one
+
+103
+00:08:38,940 --> 00:08:42,980
+thing we like to bring up is the baselessness of what humanity has been
+
+104
+00:08:44,680 --> 00:08:48,580
+pretty much been involved in and endorsing what I mean endorsing meaning
+
+105
+00:08:48,580 --> 00:08:52,660
+they are putting behind their full faith and credit and their word and
+
+106
+00:08:52,660 --> 00:08:56,560
+their actions behind things that are totally baseless whether it's the
+
+107
+00:08:56,560 --> 00:09:00,480
+financial system the monitor you know meaning the monetary system their
+
+108
+00:09:00,480 --> 00:09:07,220
+religions their sciences even their news again you know again that's a harp on the
+
+109
+00:09:07,220 --> 00:09:11,680
+alternative media but tune in to any alternative or majority of alternative
+
+110
+00:09:11,680 --> 00:09:16,000
+stuff you're either going to get this new-age baseless mindlessness that was
+
+111
+00:09:16,000 --> 00:09:21,080
+pretty much formed by some new-age movement a hundred years ago or you're
+
+112
+00:09:21,080 --> 00:09:25,100
+going to hear a parody or a parody of what the mainstream had put out that day
+
+113
+00:09:25,100 --> 00:09:33,040
+or the day before this endless cycle it's a self-consuming self-consuming how
+
+114
+00:09:33,040 --> 00:09:39,240
+would you say self-consuming circle where it's just if you know getting the
+
+115
+00:09:39,780 --> 00:09:46,920
+drabbiness of it is not that difficult to see so Seth are you back with us yes
+
+116
+00:09:46,920 --> 00:09:51,720
+yes I have been for a little while and I didn't want to interrupt yeah so this is
+
+117
+00:09:51,720 --> 00:09:55,340
+like I kind of spun off a little bit talking about like the state of affairs
+
+118
+00:09:55,340 --> 00:09:59,120
+when we because I brought up the idea of what is mental health this this kind of
+
+119
+00:09:59,120 --> 00:10:04,220
+came up in conversation during the week and again we've defined you know the mind
+
+120
+00:10:04,220 --> 00:10:07,320
+is being the spirit and they're not it's basically the same thing in a
+
+121
+00:10:07,320 --> 00:10:13,700
+different form of expression you almost don't need the word mental anymore you
+
+122
+00:10:13,700 --> 00:10:17,640
+could just if everyone just used the word spirit instead of the word mental
+
+123
+00:10:17,640 --> 00:10:22,320
+or mind it would actually simplify and allow economy of movement in
+
+124
+00:10:22,320 --> 00:10:30,900
+communication you know so that would be so mental is really a synonym of spirit
+
+125
+00:10:30,900 --> 00:10:35,760
+or spirituality you know which is it it just means communication it means a
+
+126
+00:10:35,760 --> 00:10:41,460
+state of being that is intangible it's of the mind of the spirit let's say and
+
+127
+00:10:41,460 --> 00:10:49,860
+this concept of mental health of being in a healthful form when you kind of
+
+128
+00:10:50,340 --> 00:10:55,620
+bring up the topic it's like what is it you know is it you know is it is it from
+
+129
+00:10:55,620 --> 00:11:00,400
+the ultra materialistic pseudoscientific point of view where it's chemical you
+
+130
+00:11:00,400 --> 00:11:03,840
+know where they tell you about all these synapses in the brain and chemical
+
+131
+00:11:03,840 --> 00:11:10,060
+imbalances and whatever or is it as defined the spirit of spirituality some
+
+132
+00:11:10,060 --> 00:11:17,060
+new-age rubbish or something that comes out of some religion you know is should
+
+133
+00:11:17,060 --> 00:11:24,020
+it be that because you look at that also it's it's rubbish rubbish meaning it
+
+134
+00:11:24,020 --> 00:11:30,160
+just it should be discarded you know you can go to look at things
+
+135
+00:11:31,120 --> 00:11:34,740
+qualitatively see if you go to a landfill there's a lot of garbage
+
+136
+00:11:34,740 --> 00:11:41,840
+everywhere that cannot be denied you know quantity but what is the quality
+
+137
+00:11:41,840 --> 00:11:45,360
+you know it's pretty low so when I say rubbish that's what I mean I mean
+
+138
+00:11:45,360 --> 00:11:50,680
+something that is a low quality or no worth is what people are pretty much
+
+139
+00:11:50,680 --> 00:11:57,400
+still engaging in wholesale from what they find to be alternative sources all
+
+140
+00:11:57,400 --> 00:12:02,040
+the way to mainstream and what makes it rubbish is that it's not founded on
+
+141
+00:12:02,040 --> 00:12:07,340
+anything or not founded on what they state it should be on so what is that
+
+142
+00:12:07,340 --> 00:12:11,740
+what effect does that have to do on the spirit or the mind you see it's quite
+
+143
+00:12:11,740 --> 00:12:18,460
+interesting isn't it what does the word sanity mean it perhaps you know it's
+
+144
+00:12:18,460 --> 00:12:23,520
+interesting it goes with sanitation or being clean or helpful doesn't it yeah
+
+145
+00:12:23,520 --> 00:12:34,780
+sanity is is health it's healthy insanity is unhealthy yeah and looking
+
+146
+00:12:34,780 --> 00:12:41,880
+at the you know the mind as spirits and not as the physical organ that the
+
+147
+00:12:41,880 --> 00:12:51,100
+spirit seems to use to you know interact with this with this body it's the root
+
+148
+00:12:51,100 --> 00:12:55,040
+the mind might be the root of the spirit that's why how many times I ever heard
+
+149
+00:12:55,040 --> 00:12:59,940
+of a kill shot to the head you've never really heard of a kill shot to the foot
+
+150
+00:12:59,940 --> 00:13:09,360
+or the arm or the shoulder have you so it seems to be the root of this maybe
+
+151
+00:13:09,360 --> 00:13:13,220
+it's an ethereal positioning but it does work you know a kill shot to the head
+
+152
+00:13:13,220 --> 00:13:16,880
+lights out you're finished where that's that's where the kill shot is guided to
+
+153
+00:13:16,880 --> 00:13:21,980
+so there is a found you can find the organ corresponding with the presence of
+
+154
+00:13:21,980 --> 00:13:25,820
+that spirit as well but to lean completely on the organ and the material
+
+155
+00:13:25,820 --> 00:13:31,620
+aspect of itself is kind of useless when you want to branch off it's even or
+
+156
+00:13:31,620 --> 00:13:36,960
+even the looking at it as a singular organ because there's one other place
+
+157
+00:13:38,910 --> 00:13:45,210
+the heart you will find what they call brain cells kill shot and it also seems
+
+158
+00:13:45,210 --> 00:13:49,750
+to be you know at least through observation and historically yeah yeah
+
+159
+00:13:49,750 --> 00:13:52,310
+that would be the heart yeah and by the way you're cutting in and out a little
+
+160
+00:13:52,310 --> 00:13:57,370
+bit so yeah so from that aspect you know here's another thing just to kind of
+
+161
+00:13:57,370 --> 00:14:01,630
+stay within this thing because we don't really need to come out and tell people
+
+162
+00:14:01,630 --> 00:14:06,610
+that they're mentally or spiritually not well maybe we could go around it even
+
+163
+00:14:06,610 --> 00:14:09,770
+though I kind of just did we can go around the roundabout way of just
+
+164
+00:14:09,770 --> 00:14:14,930
+describing maybe not the symptomology of it right which is attempted to be
+
+165
+00:14:14,930 --> 00:14:20,530
+mitigated through chemicals or through what they call spiritual awakenings and
+
+166
+00:14:20,530 --> 00:14:24,570
+con therapies and things like that which are mindless again and well they're not
+
+167
+00:14:24,570 --> 00:14:27,630
+really mindless because there is a spirit behind that or even albeit a low
+
+168
+00:14:27,630 --> 00:14:30,970
+quality one but you know what's interesting stuff I'm going to bring
+
+169
+00:14:30,970 --> 00:14:35,250
+this up I've been told Greek why don't you say this is very often when you when
+
+170
+00:14:35,250 --> 00:14:39,670
+you're discussing things in private with people from all walks they say yeah man
+
+171
+00:14:39,670 --> 00:14:43,910
+people have been dumbed down you know there's a big dumbing down but you know
+
+172
+00:14:43,910 --> 00:14:49,510
+what's interesting it's never them it's never someone they like a family member
+
+173
+00:14:49,510 --> 00:14:53,310
+or someone that's close them it's always just generally people that are that are
+
+174
+00:14:53,310 --> 00:14:58,290
+dumbed down you know you hear this pretty much from every aspect and guess
+
+175
+00:14:58,290 --> 00:15:03,710
+what folks you're all dumbed down you know it's at this point and am I
+
+176
+00:15:03,710 --> 00:15:08,770
+pointing a finger at anyone no it's it's we're all inclusive in this but it's I
+
+177
+00:15:08,770 --> 00:15:21,610
+last week I did discuss it's not only a it's that period has ended we're not
+
+178
+00:15:21,610 --> 00:15:27,230
+ended it's still continuous meaning on where let's say a cure for dumbing might
+
+179
+00:15:27,230 --> 00:15:32,650
+be information but is it really if you don't care you know being you know harsh
+
+180
+00:15:32,650 --> 00:15:37,870
+in discussion it was like well you know what do you know Luminati are really
+
+181
+00:15:37,870 --> 00:15:42,090
+controlling all this stuff for some oligarchical group but I'm like well
+
+182
+00:15:42,090 --> 00:15:47,290
+obviously if they're in control they don't keep their word what do you mean
+
+183
+00:15:47,290 --> 00:15:51,310
+well they're supposed to reduce the population down to 500 million I still
+
+184
+00:15:51,310 --> 00:15:56,630
+see 7 billion morons walking the planet obviously they don't keep their word not
+
+185
+00:15:56,630 --> 00:15:59,550
+that they should here but the point is what the hell are you giving so much
+
+186
+00:15:59,550 --> 00:16:03,970
+credence to all this stuff for you know what you know it's more than just
+
+187
+00:16:03,970 --> 00:16:07,730
+dumbing down now it's like no one's paying attention to what they're saying
+
+188
+00:16:07,730 --> 00:16:16,710
+but nonetheless to to look at again just the the idea of a healthy spirit or
+
+189
+00:16:16,710 --> 00:16:21,330
+a healthy mind if if the if it's intangible and it lies within the realm
+
+190
+00:16:21,330 --> 00:16:26,390
+of communication like I said earlier people are getting information
+
+191
+00:16:26,390 --> 00:16:30,590
+communicated to them that it seemed to be coming from some kind of a
+
+192
+00:16:30,590 --> 00:16:35,290
+homogenous mass or homogenous stream very simply again just not to harp on the
+
+193
+00:16:35,290 --> 00:16:40,490
+alternative media but look any pretty much effort that's being made in the
+
+194
+00:16:40,490 --> 00:16:44,730
+alternative is either going to parrot what is in the mainstream or some kind
+
+195
+00:16:44,730 --> 00:16:52,030
+of like sign of the times alternative new ag bullshit yep you got it
+
+196
+00:16:52,030 --> 00:16:56,910
+yeah bullshit's good for growing flowers but you know what makes it bullshit you
+
+197
+00:16:56,910 --> 00:17:00,950
+know that you hear on radio and print or in presentations that people are making
+
+198
+00:17:00,950 --> 00:17:06,450
+well you bring up discussions let's say regarding let's say ancient texts and if
+
+199
+00:17:06,450 --> 00:17:09,470
+you listen to what they're discussing about it you will not find it in the
+
+200
+00:17:09,470 --> 00:17:14,990
+text so what's going on right if they bring up discussions regarding
+
+201
+00:17:14,990 --> 00:17:19,569
+scientific matters you won't find it in the natural world because the scientific
+
+202
+00:17:20,430 --> 00:17:28,170
+matter or the science study of science is to pretty much give an explanation which
+
+203
+00:17:28,170 --> 00:17:33,230
+they fail to or description of the natural world give you folks an example
+
+204
+00:17:33,230 --> 00:17:39,010
+about that they speak about the the magnetic poles or magnetism or gravity
+
+205
+00:17:39,010 --> 00:17:45,010
+in the earth well this is a big subject but let's make it small and essentially
+
+206
+00:17:45,010 --> 00:17:50,770
+the consensus now is not by everyone but conventional is that magnetism of the
+
+207
+00:17:50,770 --> 00:17:56,190
+earth or let's say for us to say is gravity but specifically magnetism is
+
+208
+00:17:56,190 --> 00:18:05,710
+caused by the molten core molten iron core at the earth's center now okay that
+
+209
+00:18:05,710 --> 00:18:10,210
+sounds okay wow you know we know that iron is magnetic we put refrigerator on a
+
+210
+00:18:10,210 --> 00:18:15,610
+magnet or a nail or something and I mean put a magnet on something iron and it's
+
+211
+00:18:15,610 --> 00:18:19,990
+and it's ferromagnetic ferro meaning iron and it sticks so so kind of makes
+
+212
+00:18:19,990 --> 00:18:24,750
+sense that there's this huge molten iron core it's not just iron core that they're
+
+213
+00:18:24,750 --> 00:18:27,630
+saying that it's molten in the center of the earth that's causing this magnetic
+
+214
+00:18:27,630 --> 00:18:32,890
+you know bar magnet effect let's say with a north and south pole now no stop
+
+215
+00:18:32,890 --> 00:18:38,170
+and think folks okay that might sound good it makes you feel good right but
+
+216
+00:18:38,170 --> 00:18:42,330
+just all right don't stop and think actually don't stop and think why don't
+
+217
+00:18:42,330 --> 00:18:47,030
+you go and look at a little bit more about what iron and magnetism is about
+
+218
+00:18:47,030 --> 00:18:52,430
+and when you look at that you'll find out that when when iron is heated beyond a
+
+219
+00:18:52,430 --> 00:18:58,830
+certain point it fails to be magnetic it's called the Curie point right so and
+
+220
+00:18:58,830 --> 00:19:04,550
+the Curie point is where iron is no longer magnetic and that is well below
+
+221
+00:19:04,550 --> 00:19:08,990
+that temperature is well below before it becomes molten you know it might be I
+
+222
+00:19:08,990 --> 00:19:14,670
+think it's around 800 Celsius and the melting point of iron is almost double
+
+223
+00:19:14,670 --> 00:19:19,610
+that or actually a little less about 1300 or so so how can a molten iron
+
+224
+00:19:19,610 --> 00:19:27,390
+which is not magnetic be the cause of Earth's magnetic poles you know you can
+
+225
+00:19:27,390 --> 00:19:30,810
+look this up it takes a few minutes so when you hear a little bit of
+
+226
+00:19:32,090 --> 00:19:35,690
+information and it makes you feel good that's fine I'm not saying you shouldn't
+
+227
+00:19:35,690 --> 00:19:41,090
+feel like you're being made to feel good in a common way but just take an extra
+
+228
+00:19:41,090 --> 00:19:46,150
+step and inquire a little bit more now you not everyone has to do this but
+
+229
+00:19:46,150 --> 00:19:50,390
+there has to be a certain few that will and it seems to be lacking in the
+
+230
+00:19:50,390 --> 00:19:55,350
+society so again how does that tie in with mental health if people are walking
+
+231
+00:19:55,350 --> 00:20:04,590
+around pretty much believing things that are untrue so from that respect is it
+
+232
+00:20:04,590 --> 00:20:09,070
+just informational based it can be you know having the wrong information or
+
+233
+00:20:09,070 --> 00:20:12,790
+erroneous information does that have anything to do with having a good sound
+
+234
+00:20:12,790 --> 00:20:21,410
+mind think about that for a moment you know and essentially when you hear
+
+235
+00:20:21,410 --> 00:20:27,850
+about the changes that are going in a negative way why is it that everyone not
+
+236
+00:20:27,850 --> 00:20:31,950
+everyone but particularly everyone tends to want to blame it on someone else
+
+237
+00:20:31,950 --> 00:20:36,890
+I've always suggested that if you want to know who the problem is get a mirror
+
+238
+00:20:37,430 --> 00:20:43,490
+look into it why because the simplest way to perhaps approach anything that you
+
+239
+00:20:43,490 --> 00:20:47,730
+don't like is to say do I want to be a part of this or do I want to separate
+
+240
+00:20:47,730 --> 00:20:52,830
+myself from it and what's interesting about that when you look up what's
+
+241
+00:20:52,830 --> 00:20:57,150
+called let's say the holy writs of the world or spiritual texts let's say of
+
+242
+00:20:57,150 --> 00:21:01,970
+the mind or of the gods they never suggest you need to thrust yourself in
+
+243
+00:21:01,970 --> 00:21:09,230
+the midst of society be the change you know create change never always about
+
+244
+00:21:09,230 --> 00:21:16,110
+separating yourself from it so if the if their problems that exist within the
+
+245
+00:21:16,110 --> 00:21:22,830
+society or the world are made up of the individuals if the individuals decide to
+
+246
+00:21:22,830 --> 00:21:27,350
+pull themselves out of that problem will there still be a problem that's kind of
+
+247
+00:21:27,350 --> 00:21:32,930
+like asking is a room a room if no one's in it well you know we're from
+
+248
+00:21:32,930 --> 00:21:37,230
+architectural perspective yes but from a social perspective maybe no that's why I
+
+249
+00:21:37,230 --> 00:21:42,250
+very often lead people back to look up a book called the crowd by Gustave Le Bon
+
+250
+00:21:42,250 --> 00:21:45,950
+L-E-B-O-N well it's not the be all end all it's a good place to kind of start
+
+251
+00:21:46,410 --> 00:21:50,690
+and what's interesting there is some of the commentaries you don't have to read
+
+252
+00:21:50,690 --> 00:21:54,330
+the book even though it is there's an audiobook on there but there's some
+
+253
+00:21:54,330 --> 00:22:00,450
+pretty accurate commentaries about that book and what's interesting is it when
+
+254
+00:22:00,450 --> 00:22:05,570
+this these crowds form you find them through what's called activism or
+
+255
+00:22:05,570 --> 00:22:11,630
+activists or protesters or of any other level whether it's from the
+
+256
+00:22:12,310 --> 00:22:16,890
+geopolitical side known as lobbyists or political groups all the way down to the
+
+257
+00:22:16,890 --> 00:22:22,110
+earthy crunchy you know poncho slipper wearing people peace and love you know
+
+258
+00:22:22,110 --> 00:22:29,430
+all the way down to that from the suit and tie down to you know whoever you
+
+259
+00:22:29,430 --> 00:22:33,490
+will find that there's always a cause that they are gathered under and if you
+
+260
+00:22:33,490 --> 00:22:37,210
+ask the individuals within the crowd why are they doing what they're doing they
+
+261
+00:22:37,210 --> 00:22:43,950
+will pretty much cite that cause and if you take what they just cited and spend
+
+262
+00:22:43,950 --> 00:22:48,230
+a few minutes looking more deeply into it you'll find that what they had cited
+
+263
+00:22:48,230 --> 00:22:52,590
+as their cause really doesn't resemble what it originally was in the first
+
+264
+00:22:52,590 --> 00:22:59,070
+place you'll find this very much in a lot of the legal activism about
+
+265
+00:22:59,070 --> 00:23:05,510
+legalizing things have these people actually stopped to look at the
+
+266
+00:23:05,510 --> 00:23:09,250
+fundamental laws that were thrusted into society that made something illegal or
+
+267
+00:23:09,250 --> 00:23:14,830
+legal or they using the New York Times as their research and you will find it's
+
+268
+00:23:14,830 --> 00:23:20,490
+the latter so again what is what does this have to do with risk you know
+
+269
+00:23:20,490 --> 00:23:23,650
+keeping the health of the individual keeping a healthy mind because most
+
+270
+00:23:23,650 --> 00:23:27,450
+people can go throughout their lives essentially believing things that are
+
+271
+00:23:27,450 --> 00:23:33,610
+erroneous and untrue or unfounded now does you know they might seem happy they
+
+272
+00:23:33,610 --> 00:23:38,310
+might smile or whatever but when when it comes to the rubber meeting the pavement
+
+273
+00:23:38,310 --> 00:23:44,410
+and proceeding in any positive way it's tends to not really work well because it
+
+274
+00:23:44,410 --> 00:23:49,550
+could be because they're not really looking into what they think something
+
+275
+00:23:49,550 --> 00:23:56,590
+is you know one of my favorite things to mention is a lot of biblical cliches it
+
+276
+00:23:56,590 --> 00:24:03,630
+is an important text to consider I mean whether it's you know something to do
+
+277
+00:24:03,630 --> 00:24:07,510
+with some religious group or not is not the point because it really isn't by the
+
+278
+00:24:07,510 --> 00:24:11,330
+way like I've always like to reiterate there's not a religion on the planet bar
+
+279
+00:24:11,330 --> 00:24:15,170
+none that does anything that's in the text that they allegedly allegedly
+
+280
+00:24:15,170 --> 00:24:19,930
+subscribe to any religion Eastern Western or in the middle do not do
+
+281
+00:24:19,930 --> 00:24:23,510
+anything that's in the texts do not acknowledge anything in there they might
+
+282
+00:24:23,510 --> 00:24:29,270
+take something out of context I used to always discuss nature of religion is
+
+283
+00:24:29,270 --> 00:24:35,630
+basically meaning something that you do regularly but what what it has taken on
+
+284
+00:24:35,630 --> 00:24:40,630
+to is something to commemorate higher beings or gods or what again people like
+
+285
+00:24:40,630 --> 00:24:45,430
+to call spirituality and the state of humanity regarding these causes and I'm
+
+286
+00:24:45,430 --> 00:24:49,830
+talking also about the highest levels right now and we'll cite them like the
+
+287
+00:24:49,830 --> 00:24:55,370
+Vatican if you go to the Vatican the highest levels or your highest schools
+
+288
+00:24:55,370 --> 00:25:00,650
+of divinity your highest schools of biblical thought or teaching or your
+
+289
+00:25:00,650 --> 00:25:07,450
+highest schools of in the world of Islam or in the Eastern traditions as well if
+
+290
+00:25:07,450 --> 00:25:12,790
+you listen to what they say you will not find any of it in the texts that they say
+
+291
+00:25:12,790 --> 00:25:17,530
+their religion is based on I'm just going to take a pause there for a minute
+
+292
+00:25:17,530 --> 00:25:23,290
+to show you how ridiculous even that aspect has gone but but that is because
+
+293
+00:25:23,290 --> 00:25:27,070
+of the the way that the human mind is being led like right now any anyone in
+
+294
+00:25:27,070 --> 00:25:34,150
+the Western world can get a recipe for a chocolate chip chip cookie and bake one
+
+295
+00:25:34,150 --> 00:25:39,570
+in the form of the Virgin Mary and within a fact and if he tells people
+
+296
+00:25:39,570 --> 00:25:44,090
+about this you'll have a thousand people in a month worshipping that that that
+
+297
+00:25:44,090 --> 00:25:49,530
+whole scenario is and he'll be there standing about telling them how that
+
+298
+00:25:49,530 --> 00:25:53,110
+cookie crumbled and they'll all and he'll just take their money take their
+
+299
+00:25:53,110 --> 00:25:58,010
+effort take their mind and take their interest this is the level of stupidity
+
+300
+00:25:58,010 --> 00:26:03,090
+that humanity is is is involved in at this moment so again when when people are
+
+301
+00:26:03,090 --> 00:26:06,450
+when I hear people discussing yeah people are pretty dumb they're dumbed
+
+302
+00:26:06,450 --> 00:26:11,130
+down it's never them of course you know you know can't be you know think about
+
+303
+00:26:11,130 --> 00:26:16,010
+that folks for a moment you know are you common and look up what that means
+
+304
+00:26:16,010 --> 00:26:20,510
+so the sense here again you know how does that tie into being mentally what
+
+305
+00:26:20,510 --> 00:26:24,750
+what is okay the mental health aspect can it be restored well the thing is
+
+306
+00:26:26,350 --> 00:26:30,690
+what makes anyone think that it ever was in a position that you want to bring it
+
+307
+00:26:30,690 --> 00:26:35,870
+back to you know there's there's an interesting part of the formation of
+
+308
+00:26:35,870 --> 00:26:41,050
+things and if you look around society look at what's going on do you see
+
+309
+00:26:42,830 --> 00:26:47,950
+objectively a problem yes one can say that you know people are always yelling
+
+310
+00:26:47,950 --> 00:26:52,550
+about their problems in society well then can you see objectively if there is
+
+311
+00:26:52,550 --> 00:26:58,590
+a solution well no you know people want a solution or yeah they say this might
+
+312
+00:26:58,590 --> 00:27:02,050
+be the solution you know they're looking for things to save them they
+
+313
+00:27:02,050 --> 00:27:07,670
+don't know what they're going to be saved from but there's an insanity and
+
+314
+00:27:09,490 --> 00:27:16,210
+unhelpfulness that's going on and could that be also it's not only of the mind
+
+315
+00:27:16,210 --> 00:27:22,370
+but it's of the spirit which haha by the way means the same thing you know last
+
+316
+00:27:22,370 --> 00:27:26,210
+week we which which can be found in archives I kind of did a monologue for an
+
+317
+00:27:26,210 --> 00:27:32,010
+hour based on pretty much if I were to comment on it was do really people
+
+318
+00:27:32,010 --> 00:27:38,550
+deserve the truth if they're acting so undeservingly is that a judgment call
+
+319
+00:27:38,550 --> 00:27:44,610
+absolutely two of the things that I pretty much covered then and got into
+
+320
+00:27:44,610 --> 00:27:48,550
+for about an hour was first of all you don't even know how to keep time and you
+
+321
+00:27:48,550 --> 00:27:53,390
+don't notice and you don't care the Pope's work schedule or the Gregorian
+
+322
+00:27:53,390 --> 00:28:00,030
+calendar is not a timepiece never was intended to be and it never will be and
+
+323
+00:28:00,030 --> 00:28:04,750
+you can't keep time with it it is a work schedule for the Pope subjects period
+
+324
+00:28:05,590 --> 00:28:09,890
+that's something that really can't be debated because it's so simply clear
+
+325
+00:28:09,890 --> 00:28:15,050
+when you see it for example anyone that observes any day of the year will notice
+
+326
+00:28:15,050 --> 00:28:18,990
+that it's a different day of the week next year and it has nothing to do with
+
+327
+00:28:18,990 --> 00:28:24,530
+the Earth going around the Sun in an uneven pattern wake up folks no one
+
+328
+00:28:24,530 --> 00:28:31,310
+knows how to keep time and time is just the recordation of events so if
+
+329
+00:28:31,310 --> 00:28:36,210
+something isn't really worth recording maybe it's not really worth having if
+
+330
+00:28:36,210 --> 00:28:40,370
+you look at a lot of the events that people have been vanquishing about or
+
+331
+00:28:40,370 --> 00:28:45,370
+relishing about or celebrating pretty much based in worthlessness yes I'm
+
+332
+00:28:45,370 --> 00:28:50,970
+sorry to say that but anyway the other thing that I brought up is the concept
+
+333
+00:28:50,970 --> 00:28:55,370
+of are you in is your body in a healthful condition where you require a
+
+334
+00:28:55,370 --> 00:29:00,430
+cool head and warm feet how many times have people gone to their engineering
+
+335
+00:29:00,430 --> 00:29:06,390
+classes and requested devices that produce a rise in cold and a descending
+
+336
+00:29:06,390 --> 00:29:11,190
+heat like it is in nature so you have a cool head and warm feet if the answer is
+
+337
+00:29:11,190 --> 00:29:16,170
+none you are correct so you don't know how to keep time or record events
+
+338
+00:29:16,170 --> 00:29:21,630
+properly don't care and you've got a hot head and cold feet and you want the
+
+339
+00:29:21,630 --> 00:29:29,310
+truth that's a discussion for another subject but you see where that goes so
+
+340
+00:29:29,310 --> 00:29:35,150
+very simply there's something again about mental health and again you're not
+
+341
+00:29:35,150 --> 00:29:39,590
+going to get it if you're kind of like lazy and stuck in these things you know
+
+342
+00:29:39,590 --> 00:29:43,850
+there's there's a material aspect of it oh it's all chemical based that's fine
+
+343
+00:29:43,850 --> 00:29:47,930
+with Seth earlier we just mentioned you know the kill shot is the head you know
+
+344
+00:29:47,930 --> 00:29:53,890
+like the zombies cut off the head get rid of the brain you kill the zombie it
+
+345
+00:29:53,890 --> 00:30:01,010
+even works with them but nonetheless this this concept of restoring things
+
+346
+00:30:01,010 --> 00:30:06,050
+also why would you want to restore something which wasn't good in the first
+
+347
+00:30:06,050 --> 00:30:16,660
+place there's got to be a redoing of things greeting Seth yes yes we have
+
+348
+00:30:16,660 --> 00:30:21,720
+that's we have suffered through a hard reboot but we're back okay great and
+
+349
+00:30:21,720 --> 00:30:27,520
+pretty much went around the block regarding several things so the the
+
+350
+00:30:27,520 --> 00:30:33,200
+aspect of the spirit and being a health in a healthful state or the mind being in
+
+351
+00:30:33,200 --> 00:30:37,480
+a healthful state is very grim for humanity at this point it's not going to
+
+352
+00:30:37,480 --> 00:30:43,820
+happen there's going to be a general let's say leading through of pretty much
+
+353
+00:30:43,820 --> 00:30:49,100
+the way things are until things change because the changes that have to come
+
+354
+00:30:49,100 --> 00:30:56,940
+have to come you see but to pretty much consider the state of being of health of
+
+355
+00:30:57,360 --> 00:31:03,680
+things it's it's not very good but it doesn't mean that it's fatal you see one
+
+356
+00:31:03,680 --> 00:31:09,960
+can be in an in a state of illness or disease and still function right and
+
+357
+00:31:09,960 --> 00:31:12,920
+just this is pretty much just carrying through the concept of the health of the
+
+358
+00:31:12,920 --> 00:31:18,600
+mind and you can pretty much hear it I use the example of you know magnetism
+
+359
+00:31:18,600 --> 00:31:24,340
+of the earth and many other things that people really very simple to understand
+
+360
+00:31:25,840 --> 00:31:30,700
+they but they refuse to look into it into things objectively even though
+
+361
+00:31:30,700 --> 00:31:34,840
+they're pretty much simple you know which brings like the the concept of
+
+362
+00:31:34,840 --> 00:31:39,180
+memory how many times have you heard well I didn't remember that or I didn't I
+
+363
+00:31:39,180 --> 00:31:43,760
+don't really know that you know even though they came across it one thing I
+
+364
+00:31:43,760 --> 00:31:48,040
+want to bring up regarding memory is that everything is in your memory before
+
+365
+00:31:48,040 --> 00:31:53,700
+you one speaks or writes or begins to communicate they're actually accessing
+
+366
+00:31:53,700 --> 00:31:57,960
+little tidbits and faculties words sounds and things that are already in their
+
+367
+00:31:57,960 --> 00:32:03,900
+memory you know so this whole thing about people saying well I don't have a
+
+368
+00:32:03,900 --> 00:32:08,760
+good memory or I don't remember that it's not just the faculty or the
+
+369
+00:32:08,760 --> 00:32:12,440
+function of the memory itself because the very fact that they can communicate
+
+370
+00:32:12,440 --> 00:32:17,620
+and use more than five words semi intelligent intelligently strung
+
+371
+00:32:17,620 --> 00:32:21,640
+together means that they have some sort of memory and what's interesting with
+
+372
+00:32:21,640 --> 00:32:28,060
+that is the more weight that you can carry the stronger you are you see so it
+
+373
+00:32:28,060 --> 00:32:33,260
+doesn't mean that you need to be memorizing and imprinting things but
+
+374
+00:32:33,260 --> 00:32:39,280
+when you pay attention to retaining things and paying attention to what
+
+375
+00:32:39,280 --> 00:32:46,780
+memory is let's say which by the way mem means water and or means light those
+
+376
+00:32:46,780 --> 00:32:51,220
+look at the point of the root parts of it in the Caldean Hebrew the ancient
+
+377
+00:32:51,220 --> 00:32:57,240
+tongue it's very interesting so it's almost like water and light is what the
+
+378
+00:32:57,240 --> 00:33:02,660
+word memory can pretty much be described as and we have a lot of water and some
+
+379
+00:33:02,660 --> 00:33:08,680
+light and in ourselves hopefully so but the point here about coming up with the
+
+380
+00:33:08,680 --> 00:33:15,940
+subject of the mental health aspect is a big subject but the whole thing with any
+
+381
+00:33:15,940 --> 00:33:21,320
+truth of any matter is how deserving is the population for it you know when
+
+382
+00:33:21,320 --> 00:33:25,200
+they are not even asking the most basic aspects of their you know functioning
+
+383
+00:33:25,200 --> 00:33:30,280
+existence to be clarified you know and the thing that I like to bring up in a
+
+384
+00:33:30,280 --> 00:33:35,360
+judgmental way is the people don't know what how to keep time and they don't
+
+385
+00:33:35,360 --> 00:33:39,280
+care about it and they're not noticing that they're existing indoors with a
+
+386
+00:33:39,280 --> 00:33:44,380
+hot head and cold feet and they don't care about it either you see and by the
+
+387
+00:33:44,380 --> 00:33:48,240
+way folks that's why we kind of like tend to go back and say we have about
+
+388
+00:33:48,240 --> 00:33:53,620
+five listeners which is quite quite enough there's only a handful of people
+
+389
+00:33:53,620 --> 00:33:57,260
+on the planet actually that may even understand what's being said here it all
+
+390
+00:33:57,260 --> 00:34:01,860
+be it even as simple as can be you know Seth I think you might have been around
+
+391
+00:34:01,860 --> 00:34:07,320
+one day you and I were on a roundtable that was being broadcast and it was a
+
+392
+00:34:07,320 --> 00:34:12,780
+someone who was also supposedly a host of an alternative media came to me and
+
+393
+00:34:12,780 --> 00:34:17,060
+said hey Greek every time you speak I need babble fish to understand what
+
+394
+00:34:17,060 --> 00:34:20,739
+you're saying and my response was you don't need babble fish you need a
+
+395
+00:34:20,739 --> 00:34:27,840
+lollipop in a padded room but anyway so you know yes it's pretty easy to apply
+
+396
+00:34:27,840 --> 00:34:34,760
+that to to what's going on on the planet right now but the the uncommon aspect of
+
+397
+00:34:34,760 --> 00:34:38,400
+the discussion of mental health is first of all the connections objectively are
+
+398
+00:34:38,400 --> 00:34:44,179
+not being made there's still a refusal to go away from the fractional
+
+399
+00:34:45,320 --> 00:34:50,480
+compartmentalization of the definition of things like oh heaven forbid does the
+
+400
+00:34:50,480 --> 00:34:54,780
+mind or mental mean the spirit right people just don't want to acknowledge
+
+401
+00:34:54,780 --> 00:34:59,660
+that and how easy is it to actually learn about that as a reference point or
+
+402
+00:34:59,660 --> 00:35:06,760
+a meaning of the word quite easy again just to you know bring up it's not just
+
+403
+00:35:06,760 --> 00:35:10,660
+the definition of words but it's scientific concepts and social concepts
+
+404
+00:35:10,660 --> 00:35:15,280
+as well you know I brought up one of the concepts of the magnetism of the earth
+
+405
+00:35:15,280 --> 00:35:20,380
+being blamed on molten iron at the center of center but people fail to
+
+406
+00:35:20,380 --> 00:35:25,380
+realize that molten iron is not magnetic it's way beyond the curie the curie
+
+407
+00:35:25,380 --> 00:35:32,100
+point it's it's actually iron loses its magnetism when it's about red-hot before
+
+408
+00:35:32,100 --> 00:35:36,320
+and it's still solid so how can you see and no one and the whole thing here is
+
+409
+00:35:36,320 --> 00:35:39,900
+is it required for the entire population to hear a bit information and
+
+410
+00:35:40,400 --> 00:35:46,640
+then validate it let's just say this in secret everybody cover your ears Seth it
+
+411
+00:35:46,640 --> 00:35:54,500
+is okay I'm back yes you do so but okay so let's say everyone doesn't do that
+
+412
+00:35:54,500 --> 00:36:00,840
+because of their emotional or mental laziness is it is it up to maybe certain
+
+413
+00:36:00,840 --> 00:36:04,780
+individuals let's say a small percentage of the group to do it yet every again
+
+414
+00:36:04,780 --> 00:36:07,940
+everybody all listeners cover your ears Seth I'll tell you privately guess what
+
+415
+00:36:07,940 --> 00:36:14,420
+Seth it is they have to validate what they're saying yeah okay I'm back so how
+
+416
+00:36:14,420 --> 00:36:18,660
+many so how many people are actually validating anything you know you know
+
+417
+00:36:18,660 --> 00:36:22,820
+very little it's in it and how easy is it to and again the discussion whether
+
+418
+00:36:22,820 --> 00:36:27,580
+it's the definition of the mind what it is I mean people are not even shocked
+
+419
+00:36:27,580 --> 00:36:31,220
+when you bring up the point that the mind and the spirit are the same by the way
+
+420
+00:36:31,220 --> 00:36:34,020
+they're not even shocked anymore they just because they're in such a state of
+
+421
+00:36:34,020 --> 00:36:39,900
+refuel a refusal to acknowledge it right that it doesn't really affect them you
+
+422
+00:36:39,900 --> 00:36:43,800
+see just like when you bring up something in the scientific world or the
+
+423
+00:36:43,800 --> 00:36:49,040
+political world or the legal world those are all the same aren't they that's yeah
+
+424
+00:36:49,040 --> 00:36:53,100
+they're all aspects of religion again if we go to the religions you know right
+
+425
+00:36:53,100 --> 00:36:57,320
+now this is the Christian era secularly not to knock Christians you don't have
+
+426
+00:36:57,320 --> 00:37:00,740
+to because it's so easy I mean it's not fair to do that it's like shooting fish
+
+427
+00:37:00,740 --> 00:37:05,140
+in the barrel a lot of people are threatening that there's going to be an
+
+428
+00:37:05,140 --> 00:37:09,300
+elimination of Christianity by the New World Order and I'm like something has
+
+429
+00:37:09,300 --> 00:37:14,100
+to exist in order for to be eliminated because you won't find anything that is
+
+430
+00:37:14,100 --> 00:37:19,740
+Christian in anything that they say it's based on it is actually a culture or
+
+431
+00:37:19,740 --> 00:37:27,080
+tradition that's been developed it is not based on it's it's fiat the same with
+
+432
+00:37:27,080 --> 00:37:33,240
+any religion it's pretty much fiat when you look at their scientific aspect it's
+
+433
+00:37:33,240 --> 00:37:39,940
+fiat you know it's not based on anything they supposedly is but you cannot
+
+434
+00:37:39,940 --> 00:37:47,960
+validate it the same with the illegal society fiat I mean so how is one in
+
+435
+00:37:47,960 --> 00:37:52,560
+other words does does the very fact that pretty much what's being discussed
+
+436
+00:37:53,260 --> 00:37:57,000
+because remember I'm saying what's being discussed by people or what they believe
+
+437
+00:37:57,000 --> 00:38:02,420
+in is not based on anything meaning each corresponding subject that we just
+
+438
+00:38:02,420 --> 00:38:06,000
+brought up if you actually go look at what's been memorialized about what that
+
+439
+00:38:06,000 --> 00:38:10,680
+should be about it does not it's not in accordance with what people think it is
+
+440
+00:38:10,680 --> 00:38:15,200
+so does that have anything to do with mental health or one's mental well-being
+
+441
+00:38:16,000 --> 00:38:21,020
+you know I believe it does and when I say believe I'm meaning meaning that
+
+442
+00:38:21,020 --> 00:38:26,100
+it's a functional belief meaning something appears to be like this now and
+
+443
+00:38:26,100 --> 00:38:31,800
+it doesn't seem like it's going to change tomorrow so it is founded to say
+
+444
+00:38:31,800 --> 00:38:36,380
+I believe it is like this because it'll probably continue until it doesn't this
+
+445
+00:38:36,380 --> 00:38:45,160
+way absolutely I would I would say that looking at we refer to another way of
+
+446
+00:38:45,160 --> 00:38:50,500
+referring to mental health colloquially would be sanity or insanity as we
+
+447
+00:38:50,500 --> 00:38:55,840
+brought up earlier and sanity is a word that simply means health in the
+
+448
+00:38:55,840 --> 00:39:00,980
+language that it comes from English does that we like to take words and say okay
+
+449
+00:39:00,980 --> 00:39:09,920
+it means this now but if you look at sanity as as health and not just of one
+
+450
+00:39:09,920 --> 00:39:17,300
+aspect of existence but of all of them that you know we can observe body mind
+
+451
+00:39:17,300 --> 00:39:24,200
+soul you know soul being the breath not separate from you know spirit or yes
+
+452
+00:39:24,200 --> 00:39:28,620
+separate from spirit it's functional it's carnal it's carnally based well
+
+453
+00:39:28,620 --> 00:39:33,520
+like the body and the breath or the soul the requirements to contain the spirit I
+
+454
+00:39:34,060 --> 00:39:40,900
+know I would suggest that the things that are necessary for good physical health
+
+455
+00:39:40,900 --> 00:39:47,080
+for lack of a better term or good bodily health are the are the same things that
+
+456
+00:39:47,080 --> 00:39:55,100
+are necessary for good you know spiritual or mental health that when you
+
+457
+00:39:55,100 --> 00:40:00,900
+are addressing one in a proper manner you are actually addressing both because
+
+458
+00:40:00,900 --> 00:40:05,760
+the body is how the spirit interacts with the world around it so if you have
+
+459
+00:40:05,760 --> 00:40:10,620
+a sick body you know there's been recently there have been studies
+
+460
+00:40:10,620 --> 00:40:16,460
+published that I have not read but I've seen the titles of and the titles would
+
+461
+00:40:16,460 --> 00:40:23,840
+lead one to believe that there is slowly a recognition going on in some at
+
+462
+00:40:23,840 --> 00:40:29,000
+least aspects of study and research if not you know readily available
+
+463
+00:40:29,000 --> 00:40:35,820
+publications that are starting to address such things that poor emotional
+
+464
+00:40:35,820 --> 00:40:43,680
+like relationships corresponds actually to physical ailments of the heart where
+
+465
+00:40:43,680 --> 00:40:49,420
+they've studied people that have you know poor relationships with the people
+
+466
+00:40:49,420 --> 00:40:55,820
+around them relatively and after you know and the thorough physical
+
+467
+00:40:55,820 --> 00:41:00,600
+examinations or as thorough as this culture can come to a physical
+
+468
+00:41:00,600 --> 00:41:06,560
+examination there's been actually problems found with the physical state
+
+469
+00:41:06,560 --> 00:41:14,660
+of their their heart which by the way just to throw this in and preface
+
+470
+00:41:14,660 --> 00:41:18,080
+before I throw this said you know when I did a show with Chuck Ocelli called
+
+471
+00:41:18,080 --> 00:41:23,360
+Ocelli and the Greek and by the way for anyone wants to hear more of let's say
+
+472
+00:41:23,360 --> 00:41:28,260
+background behind the recitations we give here go to Ocelli and the Greek
+
+473
+00:41:28,260 --> 00:41:34,560
+dot-com you very simply you'll find places to get archives it's 36 hours 18
+
+474
+00:41:34,560 --> 00:41:40,840
+episodes of discussion and a tremendous amount of initial initialization of
+
+475
+00:41:40,840 --> 00:41:47,260
+background of what we tend to discuss here what Seth is found there but part
+
+476
+00:41:47,260 --> 00:41:53,260
+of the that and part of discussion is having guests and bringing other people
+
+477
+00:41:53,260 --> 00:41:58,340
+in and pretty much I've said that anyone I'd want to interview or have as a guest
+
+478
+00:41:58,340 --> 00:42:01,940
+is pretty much dead there are very few people that I believe that exist on this
+
+479
+00:42:01,940 --> 00:42:06,660
+planet today that can I'd be interested in bringing forward and interviewing
+
+480
+00:42:06,660 --> 00:42:10,180
+let's say there's still actually a couple and one of them would be Frank
+
+481
+00:42:10,180 --> 00:42:18,780
+Chester Frank Frank Chester as a chest of drawers and a Chester CHE STER you
+
+482
+00:42:18,780 --> 00:42:22,040
+will find Frank Chester there's YouTube's on there and these are YouTube's
+
+483
+00:42:22,040 --> 00:42:26,300
+that'll make you feel smart if you watch them right okay that's very it's very
+
+484
+00:42:26,300 --> 00:42:30,020
+I'm sorry to interrupt but I'm going to anyways I just wanted to say that that's
+
+485
+00:42:30,020 --> 00:42:35,960
+very it's interesting that you bring up Frank Chester I guess when speaking
+
+486
+00:42:35,960 --> 00:42:46,420
+about the heart it's of course but I was reviewing and sharing some of his I guess
+
+487
+00:42:46,420 --> 00:42:52,720
+demonstrations is what it would be two nights ago wonderful yeah see how it
+
+488
+00:42:52,720 --> 00:43:02,140
+coincides with yeah someone expressed a taste for patterns and things like that
+
+489
+00:43:02,140 --> 00:43:08,740
+and so I brought up a few patterns and like you you would take more from this
+
+490
+00:43:08,740 --> 00:43:14,640
+than the average person reviewing it you if you were already kind of aware of
+
+491
+00:43:14,640 --> 00:43:19,380
+some of these patterns so yeah again sorry to interrupt but please no no it's
+
+492
+00:43:19,380 --> 00:43:22,400
+not it's not it's exactly cuz I didn't really want to get into his work because
+
+493
+00:43:22,400 --> 00:43:26,060
+we just cited him and if you're if you're listening to us you're probably in
+
+494
+00:43:26,060 --> 00:43:29,980
+front of a computing machine and you could access Frank Chester you will find
+
+495
+00:43:29,980 --> 00:43:34,340
+the matters of the heart being discussed there by someone who I would call who is
+
+496
+00:43:34,340 --> 00:43:40,020
+one of the few master teachers or has mastership there are very few people that
+
+497
+00:43:40,020 --> 00:43:46,280
+have mastership and things anymore and he is one of them and he and also to sort
+
+498
+00:43:46,280 --> 00:43:50,660
+of use as a how do you say is an exception to the statements that I make
+
+499
+00:43:50,660 --> 00:43:56,080
+that older people have been reduced to fools these days he is one older people
+
+500
+00:43:56,080 --> 00:44:01,160
+that is not in in the matters that he discusses he is quite brilliant and I
+
+501
+00:44:01,160 --> 00:44:05,920
+would regard him as a master in his field to say the least would you agree
+
+502
+00:44:05,920 --> 00:44:11,380
+Seth I would yeah and it's quite an experience even if you have no interest
+
+503
+00:44:11,380 --> 00:44:18,200
+in the heart wink wink or haha it would be a well a well worth view or citing
+
+504
+00:44:18,200 --> 00:44:26,380
+this man's work again it's Frank Chester C-H-E-S-T-E-R as in Chester drawers so
+
+505
+00:44:26,380 --> 00:44:32,160
+Chester Frank Chester look him up you will be glad you did yeah yes indeed
+
+506
+00:44:32,160 --> 00:44:40,060
+regarding the heart yeah and we talk we we kind of harp on the alternative media
+
+507
+00:44:40,060 --> 00:44:45,680
+and the internet because it is well I mean that they it's so easy to do I
+
+508
+00:44:45,680 --> 00:44:52,240
+guess but statistically yes that is exactly yes and I would I would say that
+
+509
+00:44:52,240 --> 00:44:57,240
+a lot of the information that he speaks about is information that is not being
+
+510
+00:44:57,240 --> 00:45:02,280
+spoken of anywhere else in the manner in which he's doing it and he's he's very
+
+511
+00:45:02,280 --> 00:45:10,040
+good at it as well in illustrating these these concepts that he presents so I
+
+512
+00:45:10,040 --> 00:45:14,340
+would I would definitely second that encouragement to look up Frank Chester
+
+513
+00:45:14,340 --> 00:45:20,700
+and it's it's well worth the time yes absolutely and you will get more of
+
+514
+00:45:22,040 --> 00:45:26,480
+let's say a grip on you albeit a tight grip or a loose grip on what is going on
+
+515
+00:45:26,480 --> 00:45:32,520
+with the archetypal forms behind things so you know there's there's the aspect
+
+516
+00:45:32,520 --> 00:45:38,040
+of that you know that is pretty tangible and very easy for people to access you
+
+517
+00:45:38,040 --> 00:45:44,480
+know yeah absolutely but the the again that we kind of brought up out of the
+
+518
+00:45:44,480 --> 00:45:51,040
+blue let's say the idea of mentality or you know the the there's there's the
+
+519
+00:45:51,040 --> 00:45:55,180
+aspect of mental health you know and here's here's the interesting part of
+
+520
+00:45:55,180 --> 00:46:00,900
+any health when you're looking at it in a common point of view is there seems to
+
+521
+00:46:00,900 --> 00:46:04,340
+be you know something called the bell curve or the minimal acceptable standard
+
+522
+00:46:04,340 --> 00:46:10,500
+of something and when the entire group or the entire let's say quantity of
+
+523
+00:46:10,500 --> 00:46:16,260
+something reaches a low level of quality that low level minimum is then lowered
+
+524
+00:46:16,260 --> 00:46:21,520
+again you see so then everything is above that you see what I mean so there's
+
+525
+00:46:21,520 --> 00:46:26,060
+this lack of referencing to what is quality and what is not because it's
+
+526
+00:46:26,060 --> 00:46:30,660
+always being changed you know I don't like using the grading form with people
+
+527
+00:46:30,660 --> 00:46:35,340
+but there is grading of things like fruits and vegetables and livestock right
+
+528
+00:46:35,340 --> 00:46:39,400
+and that's why very much I like to say that what is the most degrading thing you
+
+529
+00:46:39,400 --> 00:46:45,160
+can do to anyone especially a child is to grade them grade them yes well it's
+
+530
+00:46:45,160 --> 00:46:49,820
+not only the grading itself strictly but what happens when you put people let's
+
+531
+00:46:49,820 --> 00:46:53,700
+say for example when you say grading you think of school when you put people in
+
+532
+00:46:53,700 --> 00:46:59,100
+a group that let's say is called a school what is that purpose right what
+
+533
+00:46:59,100 --> 00:47:02,320
+is the purpose again what is it based on right it was you're supposed to go
+
+534
+00:47:02,320 --> 00:47:05,760
+there to learn things right and we've discussed how we don't have an operating
+
+535
+00:47:05,760 --> 00:47:10,680
+system and such so when you bring up the concept of grading now you are
+
+536
+00:47:10,680 --> 00:47:16,280
+motivating them to learn through penalty the motivation now is penalty you see
+
+537
+00:47:16,280 --> 00:47:20,340
+right yeah so the person getting the high grade is getting the high grade
+
+538
+00:47:20,340 --> 00:47:25,160
+because he what doesn't want the low grade you see so now the motivations
+
+539
+00:47:25,160 --> 00:47:29,360
+behind these things are penalty just like for example have you ever heard
+
+540
+00:47:30,140 --> 00:47:34,300
+whether this is an urban myth or not it's a really good example how the
+
+541
+00:47:34,760 --> 00:47:38,760
+regulatory the health regulatory agencies were going around to hot dog
+
+542
+00:47:38,760 --> 00:47:45,120
+factories and they found that they all had rat feces so they had a
+
+543
+00:47:45,120 --> 00:47:48,520
+choice either close all of them down and have a revolution yes the only way
+
+544
+00:47:48,520 --> 00:47:51,600
+to have a revolution America is to close on all the hot dog factories by the way
+
+545
+00:47:51,600 --> 00:47:57,860
+folks but anyway either close them all down or raise the allowable amount of
+
+546
+00:47:57,860 --> 00:48:02,100
+rat feces and hot dogs which would be lowering the quality standard right so
+
+547
+00:48:02,100 --> 00:48:06,460
+they could all stay open so now you can have rat feces but you you cannot go
+
+548
+00:48:06,460 --> 00:48:09,720
+exceed this level which would be the lowest level of quality so they keep
+
+549
+00:48:09,720 --> 00:48:16,080
+changing the bar you see so why is this happening you know you see so this
+
+550
+00:48:16,080 --> 00:48:21,520
+quality when we like to discuss what quality is is it based should it be
+
+551
+00:48:21,520 --> 00:48:24,660
+based on something that is always fluctuating based on the norm or what
+
+552
+00:48:24,660 --> 00:48:29,560
+that what's commonly accepted or is there really a set quality you see and
+
+553
+00:48:29,560 --> 00:48:34,060
+absolutely and I believe that there is a set quality that can be determined which
+
+554
+00:48:34,060 --> 00:48:37,700
+goes back to the health of things you know whether it's the health of the soil
+
+555
+00:48:37,700 --> 00:48:41,640
+the health of the mind the health of the body you know playing around with the
+
+556
+00:48:41,640 --> 00:48:45,800
+quality for political reasons or commercial reasons is really a death
+
+557
+00:48:45,800 --> 00:48:53,840
+trap you see certainly but for the sake of of one's own health you know what
+
+558
+00:48:53,840 --> 00:48:58,080
+there is information available look which which we could reiterate you know
+
+559
+00:48:58,080 --> 00:49:01,020
+if anyone listens to the archives on these shows we'll find that we're always
+
+560
+00:49:01,020 --> 00:49:05,640
+repeating almost the same things always and the simplest aspect of health is of
+
+561
+00:49:05,640 --> 00:49:08,780
+course you know people here they want information on their health they go to
+
+562
+00:49:08,780 --> 00:49:12,240
+the internet or wherever and find all these various various plethora of
+
+563
+00:49:12,240 --> 00:49:15,720
+approaches whether it's allopathic mainstream or alternative but what they
+
+564
+00:49:15,720 --> 00:49:20,620
+have figured out to have missed and omit as being forward in the discussion
+
+565
+00:49:20,620 --> 00:49:23,700
+is are you eating within your environment in other words if you're
+
+566
+00:49:23,700 --> 00:49:29,520
+living in a cold place what happens when you eat food that was grown in a hot
+
+567
+00:49:29,520 --> 00:49:35,260
+place well obviously it will change your body's chemistry to living in a hot
+
+568
+00:49:35,260 --> 00:49:38,620
+place and you will not do well and vice versa so this lead eating seasonally
+
+569
+00:49:38,620 --> 00:49:43,700
+thing is an interesting approach we always kind of harp on harping because
+
+570
+00:49:43,700 --> 00:49:48,780
+people don't really want to hear it let's say in general why do I say they
+
+571
+00:49:48,780 --> 00:49:51,100
+don't really want to hear it I've had discussions with thousands of
+
+572
+00:49:51,100 --> 00:49:54,480
+individuals and when we do discuss health I say well are you eating
+
+573
+00:49:54,480 --> 00:50:00,460
+seasonally or within cross-latitude oh oh I kind of heard you mention that but
+
+574
+00:50:00,460 --> 00:50:05,860
+I forgot well it's something that bears repeating because it's something that's
+
+575
+00:50:05,860 --> 00:50:11,520
+very very simple and when it's pointed out it seems well that's that's obvious
+
+576
+00:50:11,520 --> 00:50:17,080
+if you're eating just on a to reiterate a point that we've reiterated several
+
+577
+00:50:17,080 --> 00:50:22,240
+times but you know if you're eating a plant that grows heartily in the climate
+
+578
+00:50:22,240 --> 00:50:27,580
+in which you find yourself chances are that is going to be significantly better
+
+579
+00:50:27,580 --> 00:50:34,480
+for you than you know the the reverse of that so yeah it's it bears repeating
+
+580
+00:50:34,480 --> 00:50:41,200
+it's it seems obvious once it's explained and it's it's very simple you know so
+
+581
+00:50:41,200 --> 00:50:45,320
+yeah well the aspect of the chemical aspect of it for example you know like
+
+582
+00:50:45,320 --> 00:50:49,180
+they'll tell you open adders have you know potassium it's really good for you
+
+583
+00:50:49,180 --> 00:50:55,160
+or oranges have vitamin C and vitamin C's been proven to help with colds you
+
+584
+00:50:55,160 --> 00:50:59,700
+know it's and all that like but wait a second folks okay you know no one really
+
+585
+00:50:59,700 --> 00:51:05,320
+knows what's in a banana no one really knows what's in an orange and when I say
+
+586
+00:51:05,320 --> 00:51:09,060
+no one I mean well yes there are some people that just they put on white lab
+
+587
+00:51:09,060 --> 00:51:11,920
+coats and they have brick-and-mortar buildings that are well endowed with the
+
+588
+00:51:11,920 --> 00:51:16,500
+credit system and they take oranges and bananas and they cut them open and they
+
+589
+00:51:16,500 --> 00:51:20,780
+dry them out and subject them to other chemicals and fire which is called
+
+590
+00:51:20,780 --> 00:51:25,940
+assaying and mining for example and they assay these things and what they do
+
+591
+00:51:25,940 --> 00:51:30,260
+changes it so much from its original living form they then write reports that
+
+592
+00:51:30,260 --> 00:51:36,980
+bananas have potassium and oranges have vitamin C yeah those things kind of
+
+593
+00:51:36,980 --> 00:51:42,040
+emerge after you do all those things to them in a laboratory you know so it's
+
+594
+00:51:42,040 --> 00:51:46,660
+like no one really knows what's in food you see the close the one who came the
+
+595
+00:51:46,660 --> 00:51:50,380
+closest to it was Rudolf Hoschka which we've mentioned before and he's the
+
+596
+00:51:50,380 --> 00:51:53,440
+father of vitamins and he found was looking to see what gave food its
+
+597
+00:51:53,440 --> 00:51:58,940
+vitality I think we've mentioned him before yeah so less last week yeah so
+
+598
+00:51:58,940 --> 00:52:04,660
+there's been a major pull away from that but again we always bring up the idea
+
+599
+00:52:04,660 --> 00:52:08,040
+that if humanity is deceived about headquarters how are they going to
+
+600
+00:52:08,040 --> 00:52:13,200
+proceed from headquarters into other things and adventure into other concepts
+
+601
+00:52:13,200 --> 00:52:17,000
+and again ties into the health of the spirit or health of the mind and if
+
+602
+00:52:17,000 --> 00:52:21,500
+you're deceived about yourself aren't you going to pretty much it you know
+
+603
+00:52:21,500 --> 00:52:25,620
+resonate with deception and pretty much emit deception and that's one of the
+
+604
+00:52:25,620 --> 00:52:29,720
+things that hasn't been addressed just like earlier I was saying you know in
+
+605
+00:52:29,720 --> 00:52:33,860
+private conversation or even not so private people that you run into of all
+
+606
+00:52:33,860 --> 00:52:37,600
+walks of life will admit that people have been dumbed down but it's always
+
+607
+00:52:37,600 --> 00:52:41,620
+no it's not it's never them you ever notice that you know it's never them
+
+608
+00:52:41,620 --> 00:52:44,600
+that they know and the other meme that you hear in society is like oh yeah
+
+609
+00:52:44,600 --> 00:52:48,580
+we're psychopaths we're being run by psychopaths oh yeah but it's it's never
+
+610
+00:52:48,580 --> 00:52:52,260
+you of course it's never it's no one in your family no one you know no no no no
+
+611
+00:52:52,260 --> 00:52:57,580
+no I haven't forbid you know it's it's quite interesting how there is this
+
+612
+00:52:57,580 --> 00:53:03,200
+retraction from objectivity that tends to not be acknowledged and also the the
+
+613
+00:53:03,200 --> 00:53:07,940
+aspect of everything has been created in the past century or lesser actually
+
+614
+00:53:07,940 --> 00:53:13,280
+right now it seems to be everything sort of came into creation about 20 years ago
+
+615
+00:53:13,280 --> 00:53:18,160
+it's very difficult for people to go even beyond that you know by listening to
+
+616
+00:53:18,160 --> 00:53:25,220
+the discussions you know so again you know yeah the concept of a healthy let's
+
+617
+00:53:25,220 --> 00:53:31,320
+say spirit or mind you know what is it what is it hinged on psycho psychopathy
+
+618
+00:53:32,260 --> 00:53:41,240
+is the is you know the inverse of that psyche and pathos being the roots the
+
+619
+00:53:41,240 --> 00:53:48,460
+root words of the psychopath pain spirit right well being pain and psyche being
+
+620
+00:53:48,460 --> 00:53:54,880
+spirit yeah and again we could keep reiterating it in the language the way
+
+621
+00:53:54,880 --> 00:53:59,660
+we communicate let's say in English being the langua franca franca what is
+
+622
+00:53:59,660 --> 00:54:05,020
+it when you see the word PSY in a prefix what is it implying get back to
+
+623
+00:54:05,020 --> 00:54:08,480
+that in a minute we're listening or several minutes folks listening to
+
+624
+00:54:08,480 --> 00:54:12,720
+American Freedom Radio and hopefully streaming on UStream to Seth Michael and
+
+625
+00:54:12,720 --> 00:54:16,960
+the Greek at Uncommon Sense yes and we're back we're streaming again on
+
+626
+00:54:16,960 --> 00:54:20,960
+UStream and we're on American Freedom Radio and this is Uncommon Sense with
+
+627
+00:54:20,960 --> 00:54:28,220
+the Greek and Seth Michael so yeah we were kind of getting this week into the
+
+628
+00:54:28,220 --> 00:54:32,860
+aspect of mental health and showing how you know what what is it what's going
+
+629
+00:54:32,860 --> 00:54:38,200
+on and Seth where do we leave off I believe trying to use the colloquial PSY
+
+630
+00:54:38,200 --> 00:54:43,040
+prefix which we find in the English language yes what would you say on that
+
+631
+00:54:43,040 --> 00:54:49,020
+we've been beating this horse which is still alive hopefully about the PSY and
+
+632
+00:54:49,020 --> 00:54:55,300
+then the PNU prefix for years now how would you sum it up before because you
+
+633
+00:54:55,300 --> 00:54:58,080
+might do it really well we don't have to go into it again but what do you think
+
+634
+00:54:58,080 --> 00:55:04,680
+about that the PNU was found in words that are common in English such as
+
+635
+00:55:04,680 --> 00:55:20,200
+pneumonia or pneumatics is air and the PSY is spirit mind one in the same PSY
+
+636
+00:55:20,200 --> 00:55:27,000
+so psychiatry psychology psychology would be study of the spirits or the
+
+637
+00:55:27,000 --> 00:55:36,240
+mind and you know pneumatics is the use of air such as in pneumatic tools air
+
+638
+00:55:36,240 --> 00:55:42,360
+air powered drills you know impact wrenches things of that nature that's an
+
+639
+00:55:42,360 --> 00:55:48,460
+easy tangible way to look at it and see it and also an accurate way to think of
+
+640
+00:55:48,460 --> 00:55:53,600
+it in your mind if you're trying to deconstruct words and find out what the
+
+641
+00:55:53,600 --> 00:55:59,140
+maybe what the sounds themselves originally connotated when they were
+
+642
+00:55:59,140 --> 00:56:04,800
+first being used and it's about also being mindful as also like being
+
+643
+00:56:04,800 --> 00:56:11,900
+spiritual in a way about it meaning you know in the DNA language or the DNA
+
+644
+00:56:11,900 --> 00:56:18,060
+which are the DNA people which are I believe derogatory called Navajo there
+
+645
+00:56:18,060 --> 00:56:22,560
+are the DNA people even in their language the term I believe us Nick day
+
+646
+00:56:22,560 --> 00:56:28,900
+or Nick Jay which which means spirit it means that the leader right it's
+
+647
+00:56:28,900 --> 00:56:34,180
+something but it's intangible one right and I don't recall their word for soul
+
+648
+00:56:34,180 --> 00:56:38,520
+but it actually means the breath right when it's defined so every culture in
+
+649
+00:56:38,520 --> 00:56:44,340
+the world you will find that the mind is the spirit and the breath is the soul
+
+650
+00:56:44,340 --> 00:56:50,740
+every culture in the world throughout history sans this one by the way you
+
+651
+00:56:50,740 --> 00:56:56,500
+will find that when the body dies the body is dead when the soul is dead right
+
+652
+00:56:56,500 --> 00:57:03,400
+and the spirit departs and these basic aspects believe me and I say believe me
+
+653
+00:57:03,400 --> 00:57:07,020
+meaning well the word belief just means that you know a bit of information that
+
+654
+00:57:07,020 --> 00:57:11,540
+holds true right now and you're not so sure if it'll hold true later but it
+
+655
+00:57:11,540 --> 00:57:15,620
+holds so much truth right now that it'll probably hold that truth later right
+
+656
+00:57:15,620 --> 00:57:19,720
+that's what belief is based on you know like gravity you know you believe that
+
+657
+00:57:19,720 --> 00:57:23,700
+you know if you drop something right now it'll fall but due to gravity there's a
+
+658
+00:57:23,700 --> 00:57:26,720
+pretty good belief that if you do it in five minutes or five years it will
+
+659
+00:57:26,720 --> 00:57:30,660
+happen that's all belief is it has to be founded on something that's why I said
+
+660
+00:57:30,660 --> 00:57:36,580
+believe me when you when I state that if you approach if you find this out to be
+
+661
+00:57:36,580 --> 00:57:41,560
+a good reference point right like learning how to read a tape measure on a
+
+662
+00:57:41,560 --> 00:57:46,180
+construction site so you can build things right when you discover what the
+
+663
+00:57:46,180 --> 00:57:51,660
+mind the body and the soul are and you try to discuss this with people you will
+
+664
+00:57:51,660 --> 00:57:55,620
+be met with opposition not not because we're starting some kind of
+
+665
+00:57:55,620 --> 00:57:59,140
+revolutionary group or trying to get people to oppose others no that's not
+
+666
+00:57:59,140 --> 00:58:03,920
+the point the point is when you come to even just the person next to you or for
+
+667
+00:58:03,920 --> 00:58:09,500
+someone you might meet or someone that is allegedly a teacher or not you will
+
+668
+00:58:09,500 --> 00:58:14,080
+be met with resistance on this matter what say you on that Seth would you find
+
+669
+00:58:14,080 --> 00:58:21,260
+that to be pretty accurate statement oh certainly resistance on an intellectual
+
+670
+00:58:21,260 --> 00:58:27,000
+level actually like an almost unwillingness to consider such concepts
+
+671
+00:58:27,000 --> 00:58:31,980
+in a way that they have not considered them before correct yeah it's about
+
+672
+00:58:31,980 --> 00:58:36,800
+considering you'll find a lot of the entitled classes whether they are the
+
+673
+00:58:36,800 --> 00:58:40,220
+you know the attorneys the scientists the religious or a quote-unquote
+
+674
+00:58:40,220 --> 00:58:45,140
+spiritual leaders which are different by the way because you can be a traffic
+
+675
+00:58:45,140 --> 00:58:48,260
+cop and you're very religious because you're doing something very regularly
+
+676
+00:58:48,260 --> 00:58:55,300
+just means you're doing it regularly so you will find when you approach people
+
+677
+00:58:55,300 --> 00:59:00,720
+in society that are specialists or self-proclaimed or others proclaim them
+
+678
+00:59:00,720 --> 00:59:05,740
+to be experts in a field if you actually look up what they are quote-unquote
+
+679
+00:59:05,740 --> 00:59:12,160
+practicing or putting out you will find major discrepancies and they will loosely
+
+680
+00:59:12,160 --> 00:59:18,300
+always state that they're basing their field on this body of work but if anyone
+
+681
+00:59:18,300 --> 00:59:21,640
+goes and looks into it you will see the hypocrisy that they're actually not
+
+682
+00:59:21,640 --> 00:59:26,000
+they're kind of making things up as they go along hopefully that other people
+
+683
+00:59:26,000 --> 00:59:30,660
+won't find out about it there's essentially one of the definitions of
+
+684
+00:59:30,660 --> 00:59:35,540
+what's going on in society right now I've seen this I've heard it I've
+
+685
+00:59:35,540 --> 00:59:40,740
+experienced it what I mean I've seen it by reading an article about something
+
+686
+00:59:40,740 --> 00:59:44,320
+and then looking up what that something is about and it doesn't match I've heard
+
+687
+00:59:44,320 --> 00:59:48,620
+it by listening to people speak on certain topics and then I look up what
+
+688
+00:59:48,620 --> 00:59:53,140
+they're supposedly basing it on and it's not there or it's highly inaccurate and
+
+689
+00:59:53,140 --> 00:59:57,460
+I've experienced it by you know wanting to let's say do something the way I told
+
+690
+00:59:57,460 --> 01:00:01,020
+it should be and then I look into it and study it and I realized that the way I
+
+691
+01:00:01,020 --> 01:00:06,820
+was told was not correct and there's a I don't think that most of the problems
+
+692
+01:00:06,820 --> 01:00:11,840
+or problems at all I think they're stemmed on a sick spirit or a sick mind
+
+693
+01:00:11,840 --> 01:00:18,360
+well one that is not doing well lacks lax levity you know and is also very
+
+694
+01:00:18,360 --> 01:00:24,820
+lazy mm-hmm lax nutrition and noxious there's there's there's a thought for
+
+695
+01:00:24,820 --> 01:00:34,540
+food perhaps yeah there are there are a few passages in scripture that uh that
+
+696
+01:00:34,540 --> 01:00:43,620
+speak directly to that and the idea is not to empower an individual to go like
+
+697
+01:00:43,620 --> 01:00:49,660
+a go-to type person this is what mankind likes to do right the idea is not to
+
+698
+01:00:49,660 --> 01:00:53,880
+empower them with all of your energy in that direction right like let's say you
+
+699
+01:00:53,880 --> 01:00:57,420
+run into someone who is says they're a healer or a spiritual person or a
+
+700
+01:00:57,420 --> 01:01:01,960
+scientific person or they like what they say you know someone who's got a radio
+
+701
+01:01:01,960 --> 01:01:08,340
+show or someone who is good at performing something in society the idea now has
+
+702
+01:01:08,340 --> 01:01:11,880
+been to empower that individual people just say oh I'll just send them whatever
+
+703
+01:01:11,880 --> 01:01:14,660
+they need and they'll just do what they're doing and I'll be fine because
+
+704
+01:01:14,660 --> 01:01:20,020
+what they're doing is what I need right see what's happening here is instead of
+
+705
+01:01:20,540 --> 01:01:25,560
+in fully empowering these people in society why don't you go ahead and you
+
+706
+01:01:25,560 --> 01:01:28,860
+know if you like what they're doing go ahead and support them but resist be a
+
+707
+01:01:28,860 --> 01:01:33,480
+little hold back a little bit a little bit of time and energy and look up what
+
+708
+01:01:33,480 --> 01:01:38,700
+they're telling you try to validate right so there's a lot of people out there and
+
+709
+01:01:38,700 --> 01:01:43,620
+let's say let's use the internet as an idea and they write books put out DVDs
+
+710
+01:01:43,620 --> 01:01:46,800
+some of them been doing it for 50 years they say and others just came on the
+
+711
+01:01:46,800 --> 01:01:50,920
+scene and everyone and everything in between and people I've seen it and
+
+712
+01:01:50,920 --> 01:01:54,660
+heard it wholeheartedly fall into subscribing to what this person is
+
+713
+01:01:54,660 --> 01:01:58,840
+saying as quote-unquote gospel and I'm not saying don't do this with
+
+714
+01:01:58,840 --> 01:02:02,540
+individuals but what I'm saying is if you're going to spend all of this energy
+
+715
+01:02:02,540 --> 01:02:05,740
+and giving them all of your energy to believe in what they're telling you
+
+716
+01:02:05,740 --> 01:02:09,540
+reserve about five or ten percent of it to actually look up what they're telling
+
+717
+01:02:09,540 --> 01:02:15,660
+you and see if it is so and the more energy you research what they're saying
+
+718
+01:02:15,660 --> 01:02:20,780
+you put into you the less you will find that you should be doing what you're
+
+719
+01:02:20,780 --> 01:02:25,360
+doing with them anyway and you become empowered you hear about a lot of these
+
+720
+01:02:25,360 --> 01:02:31,260
+gurus or teachers or masters or spiritualists or scientists or health
+
+721
+01:02:31,260 --> 01:02:36,560
+people or political people economic people and I've listened to them all and
+
+722
+01:02:36,560 --> 01:02:39,980
+I would say it's the opposite less than five percent of what they're saying you
+
+723
+01:02:39,980 --> 01:02:45,340
+will find to be true but yet most people give a hundred percent of their energy to
+
+724
+01:02:45,340 --> 01:02:50,360
+listening to these people instead of you know being more reserved and they
+
+725
+01:02:50,360 --> 01:02:55,700
+will find out if they start investing a little bit of time into checking up on
+
+726
+01:02:55,700 --> 01:02:59,260
+what they're saying there they will not it will be more conservative and not be
+
+727
+01:02:59,260 --> 01:03:04,340
+dumping energy I mean into here's a good example Seth are the megachurches in the
+
+728
+01:03:04,340 --> 01:03:11,580
+u.s. right I don't know if I would use the word good yeah but exactly a good
+
+729
+01:03:11,580 --> 01:03:16,120
+example of how people dump all their energy into something that is false yeah
+
+730
+01:03:16,120 --> 01:03:21,880
+certainly yeah it's a well yes yeah absolutely because what's being espoused
+
+731
+01:03:21,880 --> 01:03:26,840
+is not accurate right I have an interesting view of such things as just
+
+732
+01:03:26,840 --> 01:03:33,900
+simply being a social club like a like a brand a cult if you view the word cult
+
+733
+01:03:33,900 --> 01:03:39,440
+as the root of culture as opposed to taking it from the occult which I mean
+
+734
+01:03:39,440 --> 01:03:42,820
+is the same same root I'm not talking about something that's hidden I'm
+
+735
+01:03:42,820 --> 01:03:46,020
+talking about what's done in plain sight it's a it's the type of culture
+
+736
+01:03:46,020 --> 01:03:52,920
+it's a it's a brand it's a it's a brand of belief it's a brand of not having to
+
+737
+01:03:53,940 --> 01:03:57,320
+look anything up it's a it's the following the leader and if you're
+
+738
+01:03:57,320 --> 01:04:00,720
+following the leader the view never changes so but here's the thing just to
+
+739
+01:04:00,720 --> 01:04:03,460
+go back on what I said about them being false and what you brought up is
+
+740
+01:04:03,460 --> 01:04:08,560
+actually let's clarify they are not false for example this big evangelistic
+
+741
+01:04:08,560 --> 01:04:15,700
+whatever they always strictly tell you that this is about the church right they
+
+742
+01:04:15,700 --> 01:04:20,620
+they strictly they strictly tell you that pretty much law has been done away
+
+743
+01:04:20,620 --> 01:04:25,520
+with so now we have we look up the definition of what church means and it
+
+744
+01:04:25,520 --> 01:04:30,480
+comes from the word Circe or Kiriaki in Greek or Circe which is the goddess
+
+745
+01:04:30,480 --> 01:04:35,840
+which the circus was formed around which just means circus and then they tell you
+
+746
+01:04:35,840 --> 01:04:40,140
+there's no law so if you look at the two basic definitions on that they are
+
+747
+01:04:40,140 --> 01:04:45,040
+lawless and their circus so they're not lying to you really direct but the
+
+748
+01:04:45,040 --> 01:04:49,400
+thing is people are misinterpreting what's being said and is it spiritual
+
+749
+01:04:49,400 --> 01:04:55,320
+absolutely it's all of the mind right but then we go back to the rat feces and
+
+750
+01:04:55,320 --> 01:05:00,460
+hot dogs anyway that's another you see how they could what quality are you
+
+751
+01:05:00,460 --> 01:05:04,740
+doing you know what's the level of spiritual the quality is very low
+
+752
+01:05:04,740 --> 01:05:09,220
+obviously when you look at that right as it does it deals with an aspect of
+
+753
+01:05:09,220 --> 01:05:15,140
+the mind which is part of the crowd again we go back to the bonds comments on
+
+754
+01:05:15,140 --> 01:05:20,260
+that that whenever you find people in a group albeit how small or how large when
+
+755
+01:05:20,260 --> 01:05:24,820
+this group is forming because even a small group might stay small but the
+
+756
+01:05:24,820 --> 01:05:29,760
+mentality is still the same where they're joined regarding a certain
+
+757
+01:05:29,760 --> 01:05:34,420
+subject or a topic you know whether it's secular or non-secular and in
+
+758
+01:05:34,420 --> 01:05:40,060
+between you might find let's say a good example so is the UFO community right if
+
+759
+01:05:40,060 --> 01:05:45,880
+you look at you know the paranormal stuff they come under this concept but
+
+760
+01:05:45,880 --> 01:05:50,220
+if you actually look at what the end you know what it's based on you won't
+
+761
+01:05:50,220 --> 01:05:57,440
+find let's say a continuous or anything validatable you know it's again he said
+
+762
+01:05:57,440 --> 01:06:02,080
+she said it's very much also in the religious movements he said she said this
+
+763
+01:06:02,080 --> 01:06:05,200
+is what I believe it doesn't matter you know what you believe that I'm fine with
+
+764
+01:06:05,200 --> 01:06:10,560
+I was what I believe the same with the scientific community you know this is a
+
+765
+01:06:10,560 --> 01:06:15,380
+theory you know and by the way we've always suggested that people look up
+
+766
+01:06:15,380 --> 01:06:20,560
+what the word academic means because right now it holds prestige in some
+
+767
+01:06:20,560 --> 01:06:26,020
+capacity but if you actually look up what it means it means to be impractical
+
+768
+01:06:26,020 --> 01:06:31,600
+theoretical and never leading to a conclusion and also just to tie that
+
+769
+01:06:31,600 --> 01:06:34,620
+back in when you bring up the word spiritual everyone thinks it's something
+
+770
+01:06:34,620 --> 01:06:35,020
+good
+
+771
+01:06:35,520 --> 01:06:39,600
+oh he's so spiritual but it's not telling me what quality of spirit is it an
+
+772
+01:06:39,600 --> 01:06:45,100
+evil spirit is it a good spirit is it a dark spirit you see is it is it a lying
+
+773
+01:06:45,100 --> 01:06:49,880
+spirit is it a spirit of truth is it a spirit of death is a spirit of life
+
+774
+01:06:50,940 --> 01:06:55,020
+you ever notice that people oh he's so spiritual like yeah okay what kind of
+
+775
+01:06:55,020 --> 01:07:01,680
+spirit with quality of spirit oh well you know it's it's good what makes it
+
+776
+01:07:01,680 --> 01:07:08,760
+good well I like it like wow you know come on people let's get it together and
+
+777
+01:07:08,760 --> 01:07:12,060
+when I say come on people only addressing about five people I think we
+
+778
+01:07:12,060 --> 01:07:14,660
+only have about five listeners and by the way Seth we had about a hundred
+
+779
+01:07:14,660 --> 01:07:18,960
+somewhat views on the YouTube stream and we don't know how many archives are
+
+780
+01:07:18,960 --> 01:07:23,600
+viewed again you know meaning the archives and that's 20 times more than we
+
+781
+01:07:23,600 --> 01:07:28,780
+thought we'd ever get so appreciate that but this might be the only programming
+
+782
+01:07:28,780 --> 01:07:32,560
+that is put in digital format that is actually geared to about five or ten
+
+783
+01:07:32,560 --> 01:07:38,560
+people on the planet you know so that's why perhaps the discussions tend to go
+
+784
+01:07:38,560 --> 01:07:45,740
+the way they do absolutely I would suggest that if anyone wants more
+
+785
+01:07:45,740 --> 01:07:54,860
+information on a particular point or anything to email us uncommon sense
+
+786
+01:07:54,860 --> 01:08:00,860
+radio one right uncommon sense radio with the number one following it at
+
+787
+01:08:00,860 --> 01:08:08,900
+gmail.com or you can email me directly dear red shoes d-a-r-r-e-d-s-h-o-e-s
+
+788
+01:08:09,880 --> 01:08:18,939
+at gmail.com and eventually here and probably maybe perhaps even next week
+
+789
+01:08:19,700 --> 01:08:28,600
+we'll you know open the lines so to speak and have the ability for people to call
+
+790
+01:08:28,600 --> 01:08:32,760
+in and join the conversation for a little bit to further clarify anything
+
+791
+01:08:32,760 --> 01:08:38,640
+in particular because we do jump around quite a bit and the Greek and I have
+
+792
+01:08:38,640 --> 01:08:44,540
+spent a lot of time speaking publicly and privately on these on a lot of these
+
+793
+01:08:44,540 --> 01:08:51,100
+you know topics and subjects that brought up so some of it to us we might you know
+
+794
+01:08:51,100 --> 01:08:58,319
+blaze through something that is maybe not even difficult to grasp but might
+
+795
+01:08:58,319 --> 01:09:04,319
+need a little bit further explanation and so we'll we'll do that and until we
+
+796
+01:09:04,319 --> 01:09:11,680
+do that live you're you know you're welcome to use the this interesting form
+
+797
+01:09:11,680 --> 01:09:17,660
+of communication at our fingertips to contact us. Now Seth what's interesting is
+
+798
+01:09:17,660 --> 01:09:22,040
+I think you've also looked at the emails from all the emails we've gotten
+
+799
+01:09:22,040 --> 01:09:25,680
+have all been positive and encouraging and also we've had a lot of query a lot
+
+800
+01:09:25,680 --> 01:09:30,220
+of questioning and what I found to be in common with all of the questions they
+
+801
+01:09:30,220 --> 01:09:36,979
+tend to lead to the biblical aspect or topic of things and you and I briefly in
+
+802
+01:09:36,979 --> 01:09:42,120
+public stated that it's not time yet to discuss that with accuracy at this point
+
+803
+01:09:42,120 --> 01:09:46,200
+and yes anyone can gain accuracy on any subject all you have to do is engage it
+
+804
+01:09:46,200 --> 01:09:50,979
+directly and don't read into it read out of it you will be surprised what you
+
+805
+01:09:50,979 --> 01:09:57,700
+might find but just to go back to that topic even just this week we've gotten a
+
+806
+01:09:57,700 --> 01:10:01,640
+couple of emails regarding the nature of things biblical and when I say that
+
+807
+01:10:01,640 --> 01:10:05,320
+term I'm using it loosely in communication and I believe you and I
+
+808
+01:10:05,320 --> 01:10:11,220
+Seth have spent great time in public discussing how even started a few years
+
+809
+01:10:11,220 --> 01:10:16,680
+ago in public discussing how as you see time go on people will have an increased
+
+810
+01:10:16,680 --> 01:10:21,360
+interest in that subject and not only biblical but all spirituality none of it
+
+811
+01:10:21,360 --> 01:10:25,440
+will be accurate or worth mentioning as being accurate but the interest will
+
+812
+01:10:25,440 --> 01:10:30,100
+increase in that subject and wow isn't it interesting when you start to find
+
+813
+01:10:30,100 --> 01:10:36,100
+things that you knew were coming that actually manifest certainly I think some
+
+814
+01:10:36,100 --> 01:10:42,360
+of that has to do with the fact that you know it's spoken of in an uncommon
+
+815
+01:10:42,360 --> 01:10:50,320
+manner here and it's something that is almost take it for granted as a part of
+
+816
+01:10:50,320 --> 01:10:56,600
+you know the Western culture that we find ourselves in and so for it to be
+
+817
+01:10:57,260 --> 01:11:04,820
+discussed in a manner that is unique is there's going to be at least you know a
+
+818
+01:11:04,820 --> 01:11:09,960
+handful of people that realize that and catch on to it and want further
+
+819
+01:11:09,960 --> 01:11:20,300
+clarification and there's there's a lot of excuse me a lot of clarification to
+
+820
+01:11:20,300 --> 01:11:27,240
+toward any semblance of accuracy or before any any semblance of accuracy you
+
+821
+01:11:27,240 --> 01:11:33,920
+know I'm trying to learn languages specifically for the purpose of studying
+
+822
+01:11:33,920 --> 01:11:38,780
+old books but eventually what was something like the biblical text you'll
+
+823
+01:11:38,780 --> 01:11:42,800
+find out that there's no requirement to learn a special language and that's kind
+
+824
+01:11:42,800 --> 01:11:47,560
+of like the labor that's required in one way indirectly but I want to just state
+
+825
+01:11:47,560 --> 01:11:52,620
+one thing which is a fact that right now there seems to be holistically no
+
+826
+01:11:52,620 --> 01:11:57,460
+accurate discussion on the biblical text holistically there only is little
+
+827
+01:11:57,460 --> 01:12:01,520
+frack fragments someone might pick up something and say look at this it's not
+
+828
+01:12:01,520 --> 01:12:06,560
+what you guys think it is but as a whole there is nowhere to go on the internet
+
+829
+01:12:06,560 --> 01:12:11,400
+or in the physical world where you will get accurate information regarding that
+
+830
+01:12:11,400 --> 01:12:16,700
+text period what I mean by that is the way to identify what I just said is being
+
+831
+01:12:16,700 --> 01:12:23,140
+true is very simple if anyone it doesn't matter who it is high or low in
+
+832
+01:12:23,140 --> 01:12:28,740
+ranking social rank if they start giving something that is supposedly based on
+
+833
+01:12:28,740 --> 01:12:33,420
+the biblical text regardless of the character loosely defined or something in
+
+834
+01:12:33,420 --> 01:12:39,440
+an event if they don't preface what they're saying as reminding the
+
+835
+01:12:39,440 --> 01:12:44,760
+audience that even to this date what is known as the Bible has not been
+
+836
+01:12:44,760 --> 01:12:49,040
+translated out of Hebrew and Greek with the original scriptures what you have is
+
+837
+01:12:49,040 --> 01:12:55,940
+a version I loosely represent a loose representation that is actually more
+
+838
+01:12:55,940 --> 01:13:00,520
+erroneous than correct that exists in the world today in any language in any
+
+839
+01:13:00,520 --> 01:13:07,720
+version and it in other words the original text has yet to be translated
+
+840
+01:13:07,720 --> 01:13:14,380
+into English or any other language to this day this must be prefaced you know
+
+841
+01:13:14,380 --> 01:13:19,660
+and it is not and you have people from every walk of life all the way from the
+
+842
+01:13:19,660 --> 01:13:23,440
+schools of divinity which are an utter joke all the way down to the man on the
+
+843
+01:13:23,440 --> 01:13:28,080
+street who thinks he's got a good idea discussing matters that are biblical and
+
+844
+01:13:28,080 --> 01:13:31,920
+actually believing and thinking that what they have is the actual biblical
+
+845
+01:13:31,920 --> 01:13:38,120
+text in a version form and this is the first thing that will that needs to be
+
+846
+01:13:38,120 --> 01:13:45,500
+established that it is not available to the world in any accurate form even
+
+847
+01:13:45,500 --> 01:13:51,120
+today other than the how it's been preserved in the Hebrew and Greek and
+
+848
+01:13:51,120 --> 01:13:56,200
+that is really a sad state of affairs not because it hasn't been translated but the
+
+849
+01:13:56,200 --> 01:14:01,460
+sad state of affairs is the discussions and things that are built upon what's
+
+850
+01:14:01,460 --> 01:14:06,400
+called the Bible on something that's completely erroneous known as the King
+
+851
+01:14:06,400 --> 01:14:11,100
+James Version when all of the versions by the way are based on King James how
+
+852
+01:14:11,100 --> 01:14:15,620
+do you know if you open up a Bible it doesn't matter what version it is if the
+
+853
+01:14:15,620 --> 01:14:18,580
+first verse is in the beginning God created the heavens and the earth that
+
+854
+01:14:18,580 --> 01:14:26,500
+is a King James Version period so there is no availability and accurate access
+
+855
+01:14:26,500 --> 01:14:30,680
+to the text right now outside of the Hebrew and Greek scriptures where it is
+
+856
+01:14:30,680 --> 01:14:36,340
+still being preserved so that would that right there makes discussion direct
+
+857
+01:14:36,340 --> 01:14:40,860
+discussion about the text nearly impossible the only possible discussion
+
+858
+01:14:40,860 --> 01:14:44,980
+that can be a valid discussion on the text or any character in the text
+
+859
+01:14:44,980 --> 01:14:50,000
+whether it's Adam and Eve or Abraham or the Christ or anything beyond that the
+
+860
+01:14:50,000 --> 01:14:55,940
+only way to discuss these topics or characters or events or anything like
+
+861
+01:14:55,940 --> 01:15:00,480
+that is by first correcting the mistakes that are in the versions and bringing up
+
+862
+01:15:00,480 --> 01:15:05,840
+what should be said about it instead of what is been delivered to the
+
+863
+01:15:05,840 --> 01:15:10,580
+public and I believe we've done that several hundred times already in
+
+864
+01:15:10,580 --> 01:15:16,340
+specificity Seth you and I in public including on other things like you know
+
+865
+01:15:16,340 --> 01:15:21,840
+what what people are doing is when they approach the biblical text even in the
+
+866
+01:15:21,840 --> 01:15:25,840
+poor version that they have they have already their minds have been
+
+867
+01:15:25,840 --> 01:15:31,340
+completely misdirected through Hollywood churchy entity Sunday school
+
+868
+01:15:31,340 --> 01:15:37,120
+their parents urban myth about anything and when they approach the biblical text
+
+869
+01:15:37,120 --> 01:15:41,040
+and read it they are reading into it not reading out of it you know like the
+
+870
+01:15:41,040 --> 01:15:45,980
+giving another example or a specific example on that I had there's some
+
+871
+01:15:45,980 --> 01:15:49,860
+discussion about the burning bush coming up here and there and I I kind of like I
+
+872
+01:15:49,860 --> 01:15:53,460
+couldn't hold back anymore I'm like you know there is no burning bush what are
+
+873
+01:15:53,460 --> 01:15:57,020
+you talking about burning bush is that let's like Hollywood stuff man that's
+
+874
+01:15:57,020 --> 01:16:00,100
+stuff they teach you in church it's no go look at the text there's no burning
+
+875
+01:16:00,100 --> 01:16:06,500
+bush what are you talking about and one person said holy crap he's right look
+
+876
+01:16:06,500 --> 01:16:12,240
+it's right here and I'm like yeah where'd you get the burning bush from you know
+
+877
+01:16:12,240 --> 01:16:17,400
+it's it's really fascinating how that just it just took one person five
+
+878
+01:16:17,400 --> 01:16:21,420
+seconds to look it up and but yet you will go throughout the world and
+
+879
+01:16:21,420 --> 01:16:28,470
+billions of people think there's a burning bush absolutely so how do you
+
+880
+01:16:28,470 --> 01:16:33,510
+know and by the way should we just give them the spoiler absolutely it takes a
+
+881
+01:16:33,510 --> 01:16:37,370
+few seconds well there's a scene where Moses is a particular mountain or a
+
+882
+01:16:37,370 --> 01:16:41,910
+mountain or let's say we're alone in a rural area let's say and he sees an
+
+883
+01:16:41,910 --> 01:16:47,450
+angel that is giving off fire and the angel Moses is kind of astounded let's
+
+884
+01:16:47,450 --> 01:16:53,110
+say and he and the the angel stands puts a bush between him and Moses and the
+
+885
+01:16:53,110 --> 01:16:58,730
+statement is that the bush is not being consumed by the angels fire so where's
+
+886
+01:16:58,730 --> 01:17:03,270
+the burning bush in other words the what's actually going on here is he sees
+
+887
+01:17:03,270 --> 01:17:06,630
+a spiritual being that is emitting what looks like fire but that fire does not
+
+888
+01:17:06,630 --> 01:17:11,070
+actually consume something that is combustible so it's a different kind of
+
+889
+01:17:11,070 --> 01:17:19,150
+fire well there's no burning bush where's the burning bush the bush does
+
+890
+01:17:19,150 --> 01:17:24,310
+not get burned obviously that was the point it's just misdirection what you
+
+891
+01:17:24,310 --> 01:17:30,090
+yeah oh I'm going yeah and this is this is pertinent to every subject there's
+
+892
+01:17:30,090 --> 01:17:34,770
+people out there discussing Noah's Ark and the flood outside of there being
+
+893
+01:17:34,770 --> 01:17:38,690
+some rain and something that floats and some animals none of it is correct
+
+894
+01:17:38,690 --> 01:17:43,570
+none of the discussions none of the scholars there's someone who is touted as
+
+895
+01:17:43,570 --> 01:17:47,490
+the biblical expert on Noah's Ark or flood and you go to their website they
+
+896
+01:17:47,490 --> 01:17:51,670
+tell you it had three levels and you got to just do a double facepalm and say
+
+897
+01:17:51,670 --> 01:17:57,250
+wow this is really sad because it's quite interesting that when you stood in
+
+898
+01:17:57,250 --> 01:18:02,010
+the ark you had one floor below and two above you how many floors are there
+
+899
+01:18:02,470 --> 01:18:06,090
+let's say you walk into a building and I say you there's one floor below you and
+
+900
+01:18:06,090 --> 01:18:11,630
+there's two floors above you how many floors in total that would be four yeah
+
+901
+01:18:11,630 --> 01:18:18,910
+I mean we're talking about the most rudimentary basic discussion cannot be
+
+902
+01:18:18,910 --> 01:18:22,970
+carried because it's all hinged on erroneousness because people are reading
+
+903
+01:18:22,970 --> 01:18:28,570
+in they're not reading out you know this is this is this goes on with pretty much
+
+904
+01:18:28,570 --> 01:18:33,870
+every topic you know so where is you know how is this considered a spiritual
+
+905
+01:18:33,870 --> 01:18:38,930
+is you know mentally or spiritually healthy you know well let's just say
+
+906
+01:18:38,930 --> 01:18:43,550
+maybe people are really here to be based on stability on food clothing and
+
+907
+01:18:43,550 --> 01:18:46,810
+shelter I've ever heard that being discussed it's all about food clothing
+
+908
+01:18:46,810 --> 01:18:51,650
+and self shelter at this point and that would be the basics of existing and I
+
+909
+01:18:51,650 --> 01:18:54,890
+would say that most people on this planet have not gotten beyond that point
+
+910
+01:18:54,890 --> 01:18:59,850
+food clothing shelter when it comes to matters of thought when it comes to
+
+911
+01:18:59,850 --> 01:19:06,810
+matters of communication they are failing as a society I have a question
+
+912
+01:19:06,810 --> 01:19:15,350
+from the you stream chat here and that is are are the hosts familiar with the
+
+913
+01:19:15,350 --> 01:19:22,050
+scriptural works of Ernest L Martin absolutely I'm not go ahead yeah
+
+914
+01:19:22,050 --> 01:19:28,030
+Ernest L Martin was part of the UCG it was a movement back in the 50s and 60s
+
+915
+01:19:28,030 --> 01:19:33,790
+and I'm not going to be shy or about it but I'll tell you right now they did
+
+916
+01:19:33,790 --> 01:19:39,090
+some very good work excellent work pioneering work I was very high marks
+
+917
+01:19:39,090 --> 01:19:43,730
+from the grading point of view their pitfall was essentially greed the greed
+
+918
+01:19:43,730 --> 01:19:49,090
+there was they didn't have the balls or the cojones or the guts to come out and
+
+919
+01:19:49,090 --> 01:19:54,430
+and blatantly show that Christianity is 100% paganism what they did was they
+
+920
+01:19:54,430 --> 01:20:01,990
+mixed in the the cultural aspect of what's the cult the Christian era
+
+921
+01:20:01,990 --> 01:20:07,510
+meaning the world religion right now into their works and that was their
+
+922
+01:20:07,510 --> 01:20:12,350
+biggest problem and and they're always addressing the Christian aspect and
+
+923
+01:20:12,350 --> 01:20:16,810
+there is no Christianity in the Bible biblical text period at all it's only
+
+924
+01:20:16,810 --> 01:20:22,350
+used once by Agrippa as a derogatory term and the word means Messianic or a
+
+925
+01:20:22,350 --> 01:20:26,650
+zealot or revolutionary so what's interesting about Ernest L Martin he's
+
+926
+01:20:26,650 --> 01:20:31,010
+done some excellent work but you've got to really do shake your head and see how
+
+927
+01:20:31,010 --> 01:20:35,770
+he's directing it obviously from there's some kind of monetary gain you
+
+928
+01:20:35,770 --> 01:20:43,650
+see if you're discussing any religious text if you don't gravitate towards the
+
+929
+01:20:43,650 --> 01:20:49,630
+religious group that has hijacked that text you will be broke you will not be
+
+930
+01:20:49,630 --> 01:20:55,370
+able to make a dime doing it so in other words if you go out and study scripture
+
+931
+01:20:55,370 --> 01:21:00,550
+and actually do research to prove that it's historically accurate and do not
+
+932
+01:21:00,550 --> 01:21:06,710
+attach yourself to the human culture known as the human cultural aspect known
+
+933
+01:21:06,710 --> 01:21:11,210
+as the religious group of Christianity or Judaism which would be the two major
+
+934
+01:21:11,210 --> 01:21:17,070
+groups that have hijacked that text let's say you will be broke you will not
+
+935
+01:21:17,070 --> 01:21:20,390
+be able to fund anything no one will want to listen to you might have a small
+
+936
+01:21:20,390 --> 01:21:23,930
+little group of people here and there that are doing it because they want
+
+937
+01:21:23,930 --> 01:21:28,090
+clarification on the subject but I assure you no one will buy your stuff no one
+
+938
+01:21:28,090 --> 01:21:31,670
+will give you any money you will be broke you will be eating out of garbage
+
+939
+01:21:31,670 --> 01:21:37,770
+cans right and that is from the secular point of view but from a belief point of
+
+940
+01:21:37,770 --> 01:21:41,930
+view if you're doing the right thing even though it seems to be a bad business
+
+941
+01:21:41,930 --> 01:21:46,190
+decision because you're not accommodating a particular cultural group I believe
+
+942
+01:21:46,190 --> 01:21:50,670
+there's a higher force that will support you and because of that this group that
+
+943
+01:21:50,670 --> 01:21:54,890
+Ernest Martin was involved in had failed and that's what I know and believe and
+
+944
+01:21:54,890 --> 01:21:58,950
+the reason I'm bringing this up is because it's very good to study their
+
+945
+01:21:58,950 --> 01:22:04,150
+work and other work of others but the problem is they are always stuck on this
+
+946
+01:22:04,150 --> 01:22:09,430
+Christian aspect of things only because they wanted to support themselves what
+
+947
+01:22:09,430 --> 01:22:12,750
+there's nothing wrong with supporting themselves on that but what would it
+
+948
+01:22:12,750 --> 01:22:17,730
+obviously showed is that they had very little faith in a higher power even
+
+949
+01:22:17,730 --> 01:22:21,890
+though they proclaim to be bringing out accurate information on it that's that's
+
+950
+01:22:21,890 --> 01:22:25,970
+almost like a personal commentary on on Ernest Martin but otherwise he's done
+
+951
+01:22:25,970 --> 01:22:30,570
+very good work just avoid the allegory and comparativeness to what a Christian
+
+952
+01:22:30,570 --> 01:22:38,660
+should be and you'll be fine with his work hopefully wasn't too harsh yeah
+
+953
+01:22:38,660 --> 01:22:42,980
+yeah he's written a lot of good stuff there are others that are written really
+
+954
+01:22:42,980 --> 01:22:47,640
+good things as well that you that are less popular during that movement that
+
+955
+01:22:47,640 --> 01:22:53,900
+came before him that is there's there's quite a bit of accurate discussion but
+
+956
+01:22:53,900 --> 01:22:58,560
+none of it in one place at all and you will not find it anywhere right now in
+
+957
+01:22:58,560 --> 01:23:04,240
+one place it's all in pieces in other words the kingdom is in pieces it's
+
+958
+01:23:04,240 --> 01:23:11,080
+fractured and part of the end let's say endeavor stuff you and I have discussed
+
+959
+01:23:11,080 --> 01:23:16,820
+it is quite possible to bring forward a very good accurate presentation on what
+
+960
+01:23:16,820 --> 01:23:23,540
+the biblical text is in a neutral positive very accurate way right that
+
+961
+01:23:23,540 --> 01:23:28,540
+will edify humanity and it hasn't done yet but I believe you and I have
+
+962
+01:23:28,540 --> 01:23:33,180
+discussed the formula of it and it's very clear that if anything's going to
+
+963
+01:23:33,180 --> 01:23:36,780
+be brought out into public you must understand the timing there is a timing
+
+964
+01:23:36,780 --> 01:23:41,360
+to do it right and there's a timing to not do it and right now is clearly not
+
+965
+01:23:41,360 --> 01:23:47,980
+the time to do it in as a project as you know bringing it out forward you
+
+966
+01:23:47,980 --> 01:23:52,740
+know what these things mean and how they were meant to be looked at based on
+
+967
+01:23:52,740 --> 01:23:57,240
+what is in the text itself not what you think it is reading out of it this is
+
+968
+01:23:57,240 --> 01:24:01,540
+still not the time but getting very close getting very close and this is
+
+969
+01:24:01,540 --> 01:24:06,220
+regarding any subject whether it's scientific whether it's legal whether
+
+970
+01:24:06,220 --> 01:24:13,460
+it's biblical medical it is still not the time the let's just say the the the
+
+971
+01:24:13,460 --> 01:24:20,040
+wall of lies that people have been bowing down to as being the the be-all
+
+972
+01:24:20,040 --> 01:24:23,060
+end-all of all of these subjects is starting to fall apart the mortars
+
+973
+01:24:23,060 --> 01:24:28,940
+getting loose and the wall is cracking at this point but to break through the
+
+974
+01:24:28,940 --> 01:24:33,100
+wall to see what any of these subjects are truly about it's not time yet we
+
+975
+01:24:33,100 --> 01:24:40,120
+have discussed the basic parameters of it but not really presenting the truth
+
+976
+01:24:40,120 --> 01:24:44,520
+behind these matters whether it's legal scientific or religious I think we've
+
+977
+01:24:44,520 --> 01:24:53,900
+hinted quite a bit certainly certainly I would say that the method of
+
+978
+01:24:53,900 --> 01:25:05,950
+communication is something of value in in discussing and but I mean we use
+
+979
+01:25:05,950 --> 01:25:10,830
+words that's how we communicate thought and regardless of the language if you're
+
+980
+01:25:10,830 --> 01:25:18,830
+you know looking at something that's old it's good to know how those words were
+
+981
+01:25:18,830 --> 01:25:25,750
+used then and what they meant just as it would be now in you know a technical
+
+982
+01:25:25,750 --> 01:25:31,310
+manual of any sort you know you can increase your knowledge of almost any
+
+983
+01:25:31,310 --> 01:25:36,530
+subject by familiarizing yourself with the language that is used to describe it
+
+984
+01:25:37,410 --> 01:25:47,320
+be that you know anything anything at all so and it's all communication let's
+
+985
+01:25:47,320 --> 01:25:51,680
+just go back to the biblical text to show you a contrast of why it's not time
+
+986
+01:25:51,680 --> 01:25:56,460
+yet if you look at one of the institutions that's hijacked the concept
+
+987
+01:25:56,460 --> 01:26:00,740
+of the biblical text is the legal society you go into a courtroom and they
+
+988
+01:26:00,740 --> 01:26:05,020
+still not as much as in the past they ask you to put your hand on a King James
+
+989
+01:26:05,020 --> 01:26:10,220
+Bible and swear right I say you want me to you want me to make an idol out of
+
+990
+01:26:10,220 --> 01:26:15,020
+this this document here right exactly forbids idolatry and then you want me to
+
+991
+01:26:15,020 --> 01:26:22,380
+swear which this document also forbids very specifically yes go ahead yeah yeah
+
+992
+01:26:22,380 --> 01:26:26,660
+but the point here is this is say well okay so what is this book is it the
+
+993
+01:26:26,660 --> 01:26:30,160
+telephone book what is it a book set a cookbook no no it's the biblical text
+
+994
+01:26:30,160 --> 01:26:35,680
+okay so it's just black ink on white paper bound together that has a specific
+
+995
+01:26:35,680 --> 01:26:39,520
+communication known as the biblical text so it's not the telephone book it's not
+
+996
+01:26:39,520 --> 01:26:44,580
+a recipe you know a book it's not you know Mark Twain or anything like that
+
+997
+01:26:44,580 --> 01:26:48,500
+okay so it's still a communication of the biblical text but okay so if it's
+
+998
+01:26:48,500 --> 01:26:52,900
+about the communication of the information I have it downloaded right
+
+999
+01:26:52,900 --> 01:26:58,200
+here on a thumb drive I think I'm just gonna swear on that instead can I do
+
+1000
+01:26:58,200 --> 01:27:02,940
+that no no no no you can't do that it has to be this particular book so you see
+
+1001
+01:27:02,940 --> 01:27:09,760
+the stupidity of this it's paganism it's the rabbit's foot it's the paganism just
+
+1002
+01:27:09,760 --> 01:27:14,640
+means ignorant right it's the it's a form of low-level magic what's going on
+
+1003
+01:27:14,640 --> 01:27:19,520
+it's just a communication the biblical text it doesn't matter if it's simple I
+
+1004
+01:27:19,520 --> 01:27:23,680
+would reckon people yes it doesn't matter if it's printed on paper or on a
+
+1005
+01:27:23,680 --> 01:27:27,340
+scroll or on a thumb drive or download it on the computer or if you've
+
+1006
+01:27:27,340 --> 01:27:31,160
+memorized it the thing is what are you getting out of the communication what
+
+1007
+01:27:31,160 --> 01:27:34,200
+are you getting out of the information if the answer is nothing you're close
+
+1008
+01:27:34,200 --> 01:27:41,760
+that's exactly what is going on you see it's like that with anything just let's
+
+1009
+01:27:41,760 --> 01:27:44,380
+just jump around real quick to medicine you know there's this thing right now I
+
+1010
+01:27:44,380 --> 01:27:50,200
+call it a form of bioterrorism to terrorize right is to inflict I guess
+
+1011
+01:27:50,200 --> 01:27:55,040
+terror using the same word to define itself or fear on a population right now
+
+1012
+01:27:55,040 --> 01:27:59,380
+the population is under a form of bioterrorism by these by the Institute
+
+1013
+01:27:59,380 --> 01:28:03,720
+the medical and society by something called viruses you know you've heard of
+
+1014
+01:28:03,720 --> 01:28:09,180
+that everything is now caused by a virus and even the most learned people that
+
+1015
+01:28:09,180 --> 01:28:11,960
+are speaking so I almost I got the flu I must have caught a virus I mean
+
+1016
+01:28:11,960 --> 01:28:17,060
+stupidity is just astounding but you know here's the thing if you go and
+
+1017
+01:28:17,060 --> 01:28:22,560
+research the medical society's works on viruses and very simply you will find
+
+1018
+01:28:22,560 --> 01:28:26,140
+the National Institute of Health and various other there's a corporation
+
+1019
+01:28:26,140 --> 01:28:30,100
+called the CDC and other things like that which people think is actually
+
+1020
+01:28:30,100 --> 01:28:34,160
+government it's not it's like GM General Motors you know it's just a company but
+
+1021
+01:28:34,160 --> 01:28:38,420
+if you go look at all the academic works on this they're very thick documents long
+
+1022
+01:28:38,420 --> 01:28:44,040
+PDFs and you say oh because this is 900 pages they know a lot about viruses but
+
+1023
+01:28:44,040 --> 01:28:48,440
+do me a favor folks go pull up a document on viral research and read the
+
+1024
+01:28:48,440 --> 01:28:52,280
+introduction it'll tell you the purpose of this research is to discover what the
+
+1025
+01:28:52,280 --> 01:28:57,140
+viruses are and they're in their relationship to disease okay now then go
+
+1026
+01:28:57,140 --> 01:29:01,420
+to the conclusion and they'll tell you that we still don't know what viruses
+
+1027
+01:29:01,420 --> 01:29:05,040
+are or there's it's inconclusive that they cause disease why the hell would
+
+1028
+01:29:05,040 --> 01:29:09,920
+you read the 900 pages in the middle well the same reason people swear on
+
+1029
+01:29:09,920 --> 01:29:15,840
+the Bible because it's paganism it's ignorance and this is how you're being
+
+1030
+01:29:15,840 --> 01:29:24,870
+ruled and terrorized by the way and by the way demos means terror and crossy
+
+1031
+01:29:24,870 --> 01:29:30,650
+means to rule by or the state so you're anyway that's another concept right
+
+1032
+01:29:30,650 --> 01:29:36,740
+there so again regarding the health of the mind or the health of the spirit
+
+1033
+01:29:36,740 --> 01:29:43,060
+could it be that if what's in the mind or the spirit is unfounded or not based
+
+1034
+01:29:43,060 --> 01:29:47,620
+on anything or it's just based on some kind of culture that is descended into
+
+1035
+01:29:47,620 --> 01:29:51,960
+materialism and paganistic practices does that lead to a healthy mind or a
+
+1036
+01:29:51,960 --> 01:29:56,200
+healthy spirit which by the way means the same thing and the answer would be
+
+1037
+01:29:56,200 --> 01:30:01,220
+no and the question is here are you going to get one that is helpful no
+
+1038
+01:30:01,220 --> 01:30:05,400
+you're not as a society you will get a little more clarity on these matters
+
+1039
+01:30:05,400 --> 01:30:10,500
+before future events take place and as they're taking place but you will be
+
+1040
+01:30:10,500 --> 01:30:14,800
+other than the few individuals that do the discipline in the work and get
+
+1041
+01:30:14,800 --> 01:30:20,720
+strength in their minds or their spirit will be able to do better just like
+
+1042
+01:30:20,720 --> 01:30:24,760
+people who are not feeling well when they tend to be recovering they say I
+
+1043
+01:30:24,760 --> 01:30:29,000
+need some exercise now get out of bed and walk around and you feel stronger you
+
+1044
+01:30:29,000 --> 01:30:34,540
+know the more weight you can carry the stronger you get and and that is a
+
+1045
+01:30:34,540 --> 01:30:41,360
+level of laziness people don't want to carry things or remember things or learn
+
+1046
+01:30:41,360 --> 01:30:49,320
+things so they remain in a state of weakness so you know the the aspect of
+
+1047
+01:30:51,140 --> 01:30:55,880
+talking about things uncommon might lead back to realizing that things that are
+
+1048
+01:30:55,880 --> 01:31:00,680
+uncommon are things that are quite obvious if we're going to look at things
+
+1049
+01:31:00,680 --> 01:31:07,840
+as being common well that's fine too what is commonly being done that's okay
+
+1050
+01:31:07,840 --> 01:31:12,100
+we tend to relax and you know want to be part of a group let's say actually you
+
+1051
+01:31:12,100 --> 01:31:17,560
+shouldn't be but anyway if we start to try to validate what the common folks
+
+1052
+01:31:17,560 --> 01:31:22,500
+and what is commonly accepted you will see that it's basically not founded on
+
+1053
+01:31:22,500 --> 01:31:28,400
+anything there is no basis to it or what they tell you it is based on it's really
+
+1054
+01:31:28,400 --> 01:31:34,200
+not so how does that lead to being you know pertinent how can you actually get
+
+1055
+01:31:34,200 --> 01:31:37,180
+things done but apparently you might say Greek things are getting done we're
+
+1056
+01:31:37,180 --> 01:31:40,920
+still building houses we still have boats and planes and trains and we do
+
+1057
+01:31:40,920 --> 01:31:44,380
+all this other stuff yes okay you are getting a lot of things done in quantity
+
+1058
+01:31:44,380 --> 01:31:48,340
+but what about the quality of those things in order to mind the quality of
+
+1059
+01:31:48,340 --> 01:31:52,940
+something you must have a foundation to find out how you can measure and manage
+
+1060
+01:31:52,940 --> 01:31:58,220
+what it's based on in a simple way to look at it as well as looking at the
+
+1061
+01:31:58,220 --> 01:32:02,340
+financial system you know the legal system how can that be measured and
+
+1062
+01:32:02,340 --> 01:32:06,680
+managed if you see what these things are supposedly based on you will find that
+
+1063
+01:32:06,680 --> 01:32:10,220
+they're not in accordance with them at all they are not based on the things
+
+1064
+01:32:10,220 --> 01:32:15,960
+that you believe that they are and that does not lead to a healthy mind or
+
+1065
+01:32:15,960 --> 01:32:21,200
+spirit and it's very simple to to see that and the only thing here would be
+
+1066
+01:32:21,200 --> 01:32:27,180
+the you know is there is there an effort being made and the answer is no you know
+
+1067
+01:32:27,180 --> 01:32:35,140
+again if we're going to discuss what is uncommon it's very simple the obvious is
+
+1068
+01:32:35,140 --> 01:32:38,600
+uncommon anything that's being discussed anything that's being looked at
+
+1069
+01:32:38,600 --> 01:32:43,800
+has to have a basis in something let's say albeit physical perhaps or material
+
+1070
+01:32:43,800 --> 01:32:48,900
+not always communication could be immaterial or intangible but it still is
+
+1071
+01:32:48,900 --> 01:32:53,600
+very viable it is primary informative to before things happen when a command is
+
+1072
+01:32:53,600 --> 01:32:57,100
+given that is a form of communication and the quality and the direction of
+
+1073
+01:32:57,100 --> 01:33:03,220
+that command leads into action so you know again the you know how does this
+
+1074
+01:33:03,220 --> 01:33:09,100
+have to do with the mind being in a good state perhaps one can be in a good state
+
+1075
+01:33:09,100 --> 01:33:14,800
+of mind and everything they think they know is fictional or false or a lie you
+
+1076
+01:33:14,800 --> 01:33:18,800
+know and does that eventually catch up to them that's an interesting point to
+
+1077
+01:33:18,800 --> 01:33:24,320
+discuss as well because it can be easily easily assured that the majority
+
+1078
+01:33:24,320 --> 01:33:29,920
+of humanity has gone from the craved cradle to the grave and pretty much
+
+1079
+01:33:29,920 --> 01:33:33,740
+everything they believe or think exists does not and or pretty much everything
+
+1080
+01:33:33,740 --> 01:33:38,980
+they think they know is a lie ever since they were from the cradle and until they
+
+1081
+01:33:38,980 --> 01:33:44,280
+were an old man or an old woman everything they believe is a lie so how
+
+1082
+01:33:44,280 --> 01:33:48,900
+were they in a healthful condition well one might say well they were pretty
+
+1083
+01:33:48,900 --> 01:33:52,800
+happy all their lives you know even though they died believing you know that
+
+1084
+01:33:52,800 --> 01:33:56,760
+voting mattered and going to church had something to do with the Bible or the
+
+1085
+01:33:56,760 --> 01:34:02,680
+the molten iron core in the earth caused gravity you know I mean yeah they seem
+
+1086
+01:34:02,680 --> 01:34:06,680
+pretty helpful and all that so you know there's there's an aspect to this that's
+
+1087
+01:34:06,680 --> 01:34:11,080
+very subtle and what does that tell you maybe it wasn't meant for them to know or
+
+1088
+01:34:11,080 --> 01:34:16,380
+you know hey they had a pretty happy life I mean there is a lot of old cats
+
+1089
+01:34:16,380 --> 01:34:20,760
+right now on the internet still kicking around selling books doing websites
+
+1090
+01:34:20,760 --> 01:34:25,500
+being interviewed all over the place and you know people flock to it and say hey
+
+1091
+01:34:25,500 --> 01:34:28,000
+these guys are old they know what they're talking about and I could show
+
+1092
+01:34:28,000 --> 01:34:31,000
+you how they don't anybody could show you how they don't eight-year-old could
+
+1093
+01:34:31,000 --> 01:34:34,960
+in five minutes but everyone still likes it makes them happy so there's an aspect
+
+1094
+01:34:34,960 --> 01:34:41,800
+to happiness and joy that can be pursued that that might might be transcending
+
+1095
+01:34:42,540 --> 01:34:48,300
+mental health being even though the mental health being based on a lie you
+
+1096
+01:34:48,300 --> 01:34:53,900
+know or not in other words if again someone can go from cradle to grave and
+
+1097
+01:34:53,900 --> 01:34:56,600
+everything they think they know or believe is a complete lie and they could
+
+1098
+01:34:56,600 --> 01:35:02,760
+lead a pretty happy healthful you know physical life and I assure you that's
+
+1099
+01:35:02,760 --> 01:35:06,540
+the case of most people that have come to this planet and have passed away and
+
+1100
+01:35:06,540 --> 01:35:09,920
+and the old ones that are still around and the young ones but the interesting
+
+1101
+01:35:09,920 --> 01:35:16,160
+part of this discussion is that there are things that people call problems
+
+1102
+01:35:16,160 --> 01:35:23,420
+things they call endeavors things that they consider to be things bigger than
+
+1103
+01:35:23,420 --> 01:35:28,480
+themselves things that they want to establish and have things that come in
+
+1104
+01:35:28,480 --> 01:35:32,200
+the way whether they're legal scientific political or what have you and they view
+
+1105
+01:35:32,200 --> 01:35:36,240
+these things as problems and without these things as probably view problems
+
+1106
+01:35:36,240 --> 01:35:40,460
+along the way that can't be solved or conundrums and the suggestion here to be
+
+1107
+01:35:40,460 --> 01:35:45,520
+made that's uncommon is very simply if you put things in order if a topic is
+
+1108
+01:35:45,520 --> 01:35:50,440
+brought up regardless of what the topic is if you spend a little bit of time to
+
+1109
+01:35:50,440 --> 01:35:55,640
+see if what is being presented in front of you can be validated you will also
+
+1110
+01:35:55,640 --> 01:35:59,980
+find this the source or the root of what you might call a problem to be there as
+
+1111
+01:35:59,980 --> 01:36:07,800
+well okay it's very it's very simple like regardless of what the topic is
+
+1112
+01:36:07,800 --> 01:36:11,040
+let's say religious matters you hear of all these religious groups always
+
+1113
+01:36:11,040 --> 01:36:14,560
+fighting well if you go back and look at what their religions are supposed to be
+
+1114
+01:36:14,560 --> 01:36:19,020
+based on you will find all the texts are very similar and it actually tells you
+
+1115
+01:36:19,020 --> 01:36:22,800
+not to fight but you know if you bring that back to the groups that are
+
+1116
+01:36:22,800 --> 01:36:27,240
+fighting they don't want to see it but they only want to see things that suits
+
+1117
+01:36:27,240 --> 01:36:32,780
+their purpose or drive the same thing with the legal community if you go and
+
+1118
+01:36:32,780 --> 01:36:38,600
+look at any legal societies texts that they supposedly are basing their low laws
+
+1119
+01:36:38,600 --> 01:36:43,780
+codes rules and regulations on them you'll notice that by definition they're
+
+1120
+01:36:43,780 --> 01:36:47,420
+not doing any of it they're not even familiar with any of it right they're
+
+1121
+01:36:47,420 --> 01:36:52,660
+only taking a small aspect of it and using it right and same thing with the
+
+1122
+01:36:52,660 --> 01:36:56,680
+scientific community same thing with the politicians as every aspect the
+
+1123
+01:36:56,680 --> 01:37:01,360
+medical community does the same you know if anyone if you've discussed had
+
+1124
+01:37:01,360 --> 01:37:06,600
+discussions with people that had gone to the medical society for help if it's
+
+1125
+01:37:06,600 --> 01:37:11,900
+not a usual or common problem which you know what's another thing here they
+
+1126
+01:37:11,900 --> 01:37:16,460
+typically all they do is subscribe prescribe painkillers and antibiotics
+
+1127
+01:37:16,460 --> 01:37:20,800
+and if they don't want to acknowledge what you have they tell you you have
+
+1128
+01:37:20,800 --> 01:37:26,620
+some kind of unknown virus so again they're not really looking into what
+
+1129
+01:37:26,620 --> 01:37:31,600
+their studies are based on I had once gone to a dental technician or
+
+1130
+01:37:31,600 --> 01:37:36,040
+practitioner also known as a dentist doctor and I wanted something done and I
+
+1131
+01:37:36,040 --> 01:37:40,700
+researched it and when I approached him how I wanted it done he said wow Greek I
+
+1132
+01:37:40,700 --> 01:37:45,420
+haven't heard that in 20 years since I was in medical school I said okay so
+
+1133
+01:37:45,420 --> 01:37:49,300
+you're not familiar with this procedure I guess I am I haven't heard of that in
+
+1134
+01:37:49,300 --> 01:37:52,980
+20 years and I said okay so how many of these procedures have you done in the
+
+1135
+01:37:52,980 --> 01:37:57,140
+past 20 years says thousands of them I said when you mean you haven't really
+
+1136
+01:37:57,760 --> 01:38:03,640
+gone back and looked at how it should be done properly I guess not this is the
+
+1137
+01:38:03,640 --> 01:38:11,760
+level of existence of humanity at this point I think we have set back as well we
+
+1138
+01:38:11,760 --> 01:38:20,580
+do have set back as well excellent so again uncommon is just the idea is to
+
+1139
+01:38:20,580 --> 01:38:25,080
+just pretty much if you hear about something just investigate and you know
+
+1140
+01:38:25,080 --> 01:38:31,800
+there's there's any good did you share any any links to photographs of viruses
+
+1141
+01:38:32,700 --> 01:38:38,480
+yeah there no such thing by the way yeah you'll never find a photograph of one
+
+1142
+01:38:38,480 --> 01:38:44,540
+you'll find a computer graphic right yeah yeah you'll you'll find a color
+
+1143
+01:38:44,540 --> 01:38:49,900
+enhanced image of a damaged cell yeah broken mitochondria perhaps the smallest
+
+1144
+01:38:49,900 --> 01:38:56,320
+of the smallest aspect of the cell probably be the mitochondria yeah yeah
+
+1145
+01:38:56,320 --> 01:38:59,260
+it's just and what's interesting by the way since you brought up viruses again
+
+1146
+01:38:59,260 --> 01:39:04,560
+if you look it up in any capacity the initial definition is a virology is a
+
+1147
+01:39:04,560 --> 01:39:08,580
+branch of toxicology and all of toxicology has to deal with things that
+
+1148
+01:39:08,580 --> 01:39:16,420
+emit through or by the liver so yeah there's there's a beauty in it you know
+
+1149
+01:39:16,420 --> 01:39:20,360
+even with discussing words Seth you know when I bring up a word and I said you
+
+1150
+01:39:20,360 --> 01:39:23,160
+know you use the word nice you know to people I said you know what that means
+
+1151
+01:39:23,160 --> 01:39:26,460
+yeah I know what it means I said no it doesn't really mean that according to
+
+1152
+01:39:26,460 --> 01:39:29,620
+the reference material well what does it mean then I usually tell them to look it
+
+1153
+01:39:29,620 --> 01:39:33,700
+up themselves the reason why is it seems like when they look it up themselves it
+
+1154
+01:39:33,700 --> 01:39:39,320
+seems to have about 70 or 80 percent more impact on them as if you know it
+
+1155
+01:39:39,320 --> 01:39:42,780
+has to be done that way you know so you have to be kind of inefficient with
+
+1156
+01:39:42,780 --> 01:39:47,760
+spreading information because people are still locked into the shock value of
+
+1157
+01:39:47,760 --> 01:39:53,320
+seeing it for themselves which is actually appropriate as well you see you
+
+1158
+01:39:53,320 --> 01:39:56,580
+know I rather have people yeah look it up and read it recently I was on a
+
+1159
+01:39:57,500 --> 01:40:00,960
+private call and they were discussing something about the academics this and
+
+1160
+01:40:00,960 --> 01:40:04,880
+academics that I said would you please go to an etymological dictionary and
+
+1161
+01:40:05,540 --> 01:40:09,760
+they're like why and I said well do you would you just you know fulfill that
+
+1162
+01:40:09,760 --> 01:40:14,040
+request for me just for a moment and they did and I said put academic into
+
+1163
+01:40:14,040 --> 01:40:18,480
+the search box and I said okay why am I doing this I said because you'll see in
+
+1164
+01:40:18,480 --> 01:40:22,920
+a moment I said read the definition and use the
+
+1165
+01:40:22,920 --> 01:40:29,240
+terms they said oh my god is that what it means and I said yep that's what it
+
+1166
+01:40:29,240 --> 01:40:36,000
+means and they're like holy crap I've been using that word wrong along that
+
+1167
+01:40:36,000 --> 01:40:40,480
+thing academic means it's not doesn't mean anything good and I'm like yep
+
+1168
+01:40:40,480 --> 01:40:44,480
+that's right would you believe would you have believed me if I would have told
+
+1169
+01:40:44,480 --> 01:40:52,740
+you and they said no there you go absolutely and part of what we're trying
+
+1170
+01:40:52,740 --> 01:41:01,020
+to do here is in part a sense of perhaps let's just say the more you the
+
+1171
+01:41:01,020 --> 01:41:03,940
+more weight you can carry the stronger you are just like an elephant you know
+
+1172
+01:41:03,940 --> 01:41:06,580
+why are elephants known for their strength well they inherently carry a
+
+1173
+01:41:06,580 --> 01:41:11,280
+lot of weight on their own anyway right you know so the more weight you could
+
+1174
+01:41:11,280 --> 01:41:14,260
+carry the stronger you will be anyone that goes to the gym will tell you that
+
+1175
+01:41:14,260 --> 01:41:17,680
+you know and which which is also also what I'd like to bring back since we
+
+1176
+01:41:17,680 --> 01:41:21,260
+were discussing mental or spiritual health how many times do you still hear
+
+1177
+01:41:21,260 --> 01:41:26,380
+on the alternative media being banded around oh that's all fear porn that's
+
+1178
+01:41:26,380 --> 01:41:29,780
+fear-based man you know these are the same people that tell you that you know
+
+1179
+01:41:29,780 --> 01:41:33,840
+it's your intent love and light and your intention actually means something you
+
+1180
+01:41:33,840 --> 01:41:39,460
+know but but anyway this whole thing about fear so yeah that's fear it's bad
+
+1181
+01:41:39,460 --> 01:41:43,980
+I'm like okay let's just look at this a little closely now well if fear like
+
+1182
+01:41:43,980 --> 01:41:49,040
+love and other things exist within society are we to run away and avoid it
+
+1183
+01:41:49,040 --> 01:41:53,100
+or is it something that could be handled properly and efficiently and
+
+1184
+01:41:53,100 --> 01:41:58,100
+effectively and I would say the second part is true if you fear disabled by fear
+
+1185
+01:41:58,100 --> 01:42:03,780
+if you feel disabled by fear that means that you lack spiritual or mental
+
+1186
+01:42:03,780 --> 01:42:09,020
+fortitude or strength and also you lack skill those are the two components that
+
+1187
+01:42:09,020 --> 01:42:16,100
+are required loosely termed to deal with what is called fear and I've used this
+
+1188
+01:42:16,100 --> 01:42:21,720
+analogy before Seth if I could go do it one more time like for example if you
+
+1189
+01:42:21,720 --> 01:42:26,840
+do not know how to operate a dishrag or a mop you're in total fear of a glass of
+
+1190
+01:42:26,840 --> 01:42:33,160
+milk spilling over right but if you're in the presence or of someone or if you
+
+1191
+01:42:33,160 --> 01:42:38,380
+yourself know how to operate a dishrag or a mop and a glass of milk spills over
+
+1192
+01:42:38,380 --> 01:42:45,460
+well you then go into your skill set of operating a dishrag in a mop and you
+
+1193
+01:42:45,460 --> 01:42:49,840
+clean it up and the person who doesn't have that skill set is totally terrified
+
+1194
+01:42:49,840 --> 01:42:56,820
+and you're like don't worry dude it's just spilled milk right right so so the
+
+1195
+01:42:56,820 --> 01:43:00,900
+lack of skill and the laziness of lack of skill in these matters also builds
+
+1196
+01:43:00,900 --> 01:43:04,660
+doesn't build but does the opposite atrophies the mind and atrophies the
+
+1197
+01:43:04,660 --> 01:43:10,460
+spirit and they get weaker and weaker and weaker so from one aspect the fear
+
+1198
+01:43:10,460 --> 01:43:14,660
+aspect is disabling and weakening but it's actually those that are commenting
+
+1199
+01:43:14,660 --> 01:43:22,460
+on the fear that are promoting it you see so if you are disabled by fear or
+
+1200
+01:43:22,460 --> 01:43:27,260
+fearful of fear it means that you are weak minded weak spirited same thing and
+
+1201
+01:43:27,580 --> 01:43:32,460
+lack skill it's just again the alternative media how many times have
+
+1202
+01:43:32,460 --> 01:43:36,480
+you turned into an alternative media venue and the first thing they start
+
+1203
+01:43:36,480 --> 01:43:42,500
+talking about is what Fox News and CNN or the news of the day which shows me that
+
+1204
+01:43:42,500 --> 01:43:47,720
+there is a continuous thread that goes through the entire society whether it's
+
+1205
+01:43:47,720 --> 01:43:53,280
+mainstream or alternative it's the same stuff you know at one point I put a
+
+1206
+01:43:53,280 --> 01:43:56,840
+comment and I when it when our microphones gonna cost a million bucks I
+
+1207
+01:43:56,840 --> 01:44:02,200
+think that's the best way to stop the nonsense right because then anyway so
+
+1208
+01:44:02,200 --> 01:44:06,860
+anyway if microphones cost a million bucks that'd be fewer people on the
+
+1209
+01:44:06,860 --> 01:44:12,440
+internet so any that's another comment there I guess you know bullets should
+
+1210
+01:44:12,440 --> 01:44:16,300
+cost a million bucks right I think there's a little bumper thing on this
+
+1211
+01:44:16,300 --> 01:44:20,500
+tip yeah it's not the gun so it's the same thing so this is the thing is about
+
+1212
+01:44:20,500 --> 01:44:24,360
+this fear the other thing I hear a lot about still is the Federal Reserve being
+
+1213
+01:44:24,360 --> 01:44:28,940
+harped on nonsense you know Federal Reserve is just accommodating you the
+
+1214
+01:44:28,940 --> 01:44:33,260
+petrochemical companies are just accommodating you the corporations oh
+
+1215
+01:44:33,260 --> 01:44:37,620
+no did you Seth did you know that there are evil corporations or corporations are
+
+1216
+01:44:37,620 --> 01:44:41,920
+bad did you know that Seth oh gosh man I've been listening to a lot of people
+
+1217
+01:44:41,920 --> 01:44:46,280
+talk about how bad corporations are did you know that gosh I didn't know that
+
+1218
+01:44:46,800 --> 01:44:51,540
+man I mean the position part of the corporation or not but yeah yeah this is
+
+1219
+01:44:51,540 --> 01:44:56,880
+just ridiculous you point yeah but they they they all love it like you know
+
+1220
+01:44:56,880 --> 01:44:59,800
+here's here's a deep dig and everyone's talking about the Federal Reserve is so
+
+1221
+01:44:59,800 --> 01:45:04,880
+bad but they love the PayPal I don't care where I don't care how I get it as
+
+1222
+01:45:04,880 --> 01:45:08,560
+long as I go to the store and get something for it but Federal Reserve is
+
+1223
+01:45:08,560 --> 01:45:17,480
+bad oh man you know it's it's not yeah it's not very good state because no one
+
+1224
+01:45:17,480 --> 01:45:21,900
+is really looking into it now here's the point when something runs you know that
+
+1225
+01:45:21,900 --> 01:45:25,080
+there's the horse running out of the barn yeah you know you have the horse in
+
+1226
+01:45:25,080 --> 01:45:28,200
+the barn you know you could deal with it if it runs out of the barn you got it
+
+1227
+01:45:28,200 --> 01:45:32,220
+you could still deal with the horse it just takes more effort right but what
+
+1228
+01:45:32,220 --> 01:45:36,440
+happens if the horse has run out of the barn broken its leg was shot in the head
+
+1229
+01:45:36,440 --> 01:45:41,000
+and is in the glue factory what are the chances of getting that horse back
+
+1230
+01:45:42,540 --> 01:45:46,240
+relatively slim yeah and that's the state of affairs of humanity right now
+
+1231
+01:45:46,240 --> 01:45:49,700
+but on the other hand we always kind of talk about what's coming in the future
+
+1232
+01:45:49,700 --> 01:45:53,200
+because yes folks we know the future and so do you if you put a little time into
+
+1233
+01:45:53,200 --> 01:45:56,960
+it what's coming in the future now is a series of events that are going to
+
+1234
+01:45:59,000 --> 01:46:04,100
+proceed before let's say come before you get what you have coming to you as a
+
+1235
+01:46:04,100 --> 01:46:07,700
+society and that will be a perfect society on this planet yes no war
+
+1236
+01:46:08,220 --> 01:46:11,540
+prosperity Liberty Liberty just means time off from the things you have
+
+1237
+01:46:11,540 --> 01:46:15,880
+commitments to it's coming and it's right around the corner next decade
+
+1238
+01:46:15,880 --> 01:46:20,200
+you're going to be experiencing the bastion of perfection and it will be
+
+1239
+01:46:20,200 --> 01:46:24,220
+promised to you as lasting for a thousand years and you're all gonna buy
+
+1240
+01:46:24,220 --> 01:46:27,800
+into it yes you are all of you and you know who all of you are if you're
+
+1241
+01:46:27,800 --> 01:46:32,060
+listening to me and that is the great deception because it's only gonna last
+
+1242
+01:46:32,060 --> 01:46:39,520
+for a short time so these things must happen but as a group as a society
+
+1243
+01:46:39,520 --> 01:46:43,300
+you're not you're not faring well and you're not going to do well and that's
+
+1244
+01:46:43,300 --> 01:46:46,020
+very easy to see I mean there's lots of people telling you you're going to do
+
+1245
+01:46:46,020 --> 01:46:48,920
+better and there's lots of people telling you you're going to give doom
+
+1246
+01:46:48,920 --> 01:46:53,740
+and gloom but I assure you none of them are giving you any specifics on how none
+
+1247
+01:46:53,740 --> 01:46:57,660
+of them it's the same as going to a car mechanic to have the car fixed you tell
+
+1248
+01:46:57,660 --> 01:47:00,820
+them what's wrong with it and before you leave you give them the keys and the
+
+1249
+01:47:00,820 --> 01:47:04,080
+mechanic turns around and says to you by the way where is the steering wheel
+
+1250
+01:47:04,080 --> 01:47:09,380
+and everyone says oh it's right there in the middle see ya whoa whoa whoa wait a
+
+1251
+01:47:09,380 --> 01:47:12,380
+second you're telling me you brought the car to a mechanic and he doesn't know
+
+1252
+01:47:12,380 --> 01:47:17,040
+where the steering wheel is how do you think the rest of it's gonna go you're
+
+1253
+01:47:17,040 --> 01:47:23,140
+being had folks so this is part of what's being uncommon yes everyone on the
+
+1254
+01:47:23,140 --> 01:47:27,060
+alternative media everyone in the mainstream when I say everyone I mean
+
+1255
+01:47:27,060 --> 01:47:32,420
+statistically 99.9999999 percent there probably there's probably someone out
+
+1256
+01:47:32,420 --> 01:47:36,240
+there saying something that we haven't heard of yet there's a small group of
+
+1257
+01:47:36,240 --> 01:47:42,160
+people that have mastery in their fields like we suggested Frank Chester you know
+
+1258
+01:47:42,160 --> 01:47:47,700
+there's a couple of more here and there but there's nothing going on folks the
+
+1259
+01:47:47,700 --> 01:47:52,000
+lights are on and nobody's home well the lights are on and everybody's home but
+
+1260
+01:47:52,000 --> 01:47:57,220
+no one knows Jack you know what and that's the state of humanity reported to
+
+1261
+01:47:57,220 --> 01:48:03,340
+you this week again by Seth and the Greek at Uncommon Sense indeed and that's
+
+1262
+01:48:03,340 --> 01:48:12,060
+not a rant folks it's the truth absolutely on the last few minutes of
+
+1263
+01:48:12,060 --> 01:48:16,540
+the broadcast I'd like to just apologize again for my own technical issues here
+
+1264
+01:48:16,540 --> 01:48:21,420
+well it's filled me dealt with but yeah we do appreciate everyone out there who
+
+1265
+01:48:21,420 --> 01:48:27,940
+is listening if you'd like to contact us Uncommon Sense radio one at gmail.com
+
+1266
+01:48:27,940 --> 01:48:33,760
+uncommon radio.com is the website it's like a business card and AFR can use
+
+1267
+01:48:33,760 --> 01:48:38,680
+your help and you know how to do that folks yeah and thanks America and
+
+1268
+01:48:38,680 --> 01:48:42,760
+freedom radio.com yep and thanks again folks we'll see you again soon

@@ -1,0 +1,4032 @@
+1
+00:00:00,000 --> 00:00:07,000
+I took your advice on these solid state drives.
+
+2
+00:00:07,000 --> 00:00:17,680
+Okay, all right, so we're recording a few seconds in and I'm going to try to get a little
+
+3
+00:00:17,680 --> 00:00:23,800
+bit of a sonic on some questions that have been asked regarding the scale rate or construction
+
+4
+00:00:23,800 --> 00:00:27,720
+and I figured it would be more value in recording it.
+
+5
+00:00:27,720 --> 00:00:32,120
+And so this way everyone here has access to it because that's what this is about.
+
+6
+00:00:32,120 --> 00:00:37,280
+So I'm going to start off by just saying these questions are very pertinent to someone
+
+7
+00:00:37,280 --> 00:00:42,760
+who is very, very pertinent on building one and I noticed that and I did have a discussion
+
+8
+00:00:42,760 --> 00:00:47,280
+with this person and they are pretty serious and seemingly capable so far.
+
+9
+00:00:47,280 --> 00:00:55,680
+Excuse me, so they send me emails and there's the right kind of email meaning if the questions
+
+10
+00:00:55,680 --> 00:00:56,680
+are right.
+
+11
+00:00:56,680 --> 00:01:03,280
+And I'm going to just go down the questions and I'll try to be as complete as possible
+
+12
+00:01:03,280 --> 00:01:06,600
+because they're very helpful.
+
+13
+00:01:06,600 --> 00:01:16,640
+So let's see, let's open up this thing here and see if we can get it going.
+
+14
+00:01:16,640 --> 00:01:18,720
+(slurping sound)
+
+15
+00:01:18,720 --> 00:01:20,840
+(slurping sounds)
+
+16
+00:01:20,840 --> 00:01:37,540
+(slurping sounds)
+
+17
+00:01:37,540 --> 00:01:39,540
+(slurping sounds)
+
+18
+00:01:39,540 --> 00:01:41,540
+(slurping sounds)
+
+19
+00:01:41,540 --> 00:01:43,540
+(slurping sounds)
+
+20
+00:02:10,540 --> 00:02:12,540
+Alright, I finally muted a computer.
+
+21
+00:02:12,540 --> 00:02:14,540
+(slurping sounds)
+
+22
+00:02:14,540 --> 00:02:16,540
+And work should have less background noise.
+
+23
+00:02:16,540 --> 00:02:19,540
+(slurping sounds)
+
+24
+00:02:19,540 --> 00:02:21,540
+Okay, so here we go.
+
+25
+00:02:21,540 --> 00:02:24,540
+A person says here they've ordered the magnet.
+
+26
+00:02:24,540 --> 00:02:27,540
+Do you have any guidance or recommendations on buying the following?
+
+27
+00:02:27,540 --> 00:02:30,540
+Alright, bullet point.
+
+28
+00:02:30,540 --> 00:02:32,540
+First one is the pipe. What is it made of?
+
+29
+00:02:32,540 --> 00:02:34,540
+Alright, the pipe.
+
+30
+00:02:34,540 --> 00:02:36,540
+Let's call it the spool.
+
+31
+00:02:36,540 --> 00:02:44,540
+If you go to industry when you have a... go to a fab shop and you have a plan of drawing of what looks like the scalerator.
+
+32
+00:02:44,540 --> 00:02:48,540
+And you want that pipe bent around like that, they're going to call it a spool.
+
+33
+00:02:48,540 --> 00:02:52,540
+So, it kind of makes sense.
+
+34
+00:02:52,540 --> 00:02:59,540
+A spool is just a winding if it's one or, you know, one time around, one to runs, once or a thousand times it's a spool.
+
+35
+00:02:59,540 --> 00:03:03,540
+So that's the industrial term for it from a fabrication shop.
+
+36
+00:03:03,540 --> 00:03:07,540
+So here the question, the first bullet point is the pipe. What is it made of?
+
+37
+00:03:07,540 --> 00:03:16,540
+What we're using, and I highly specify, and I'll give the reasons why, is schedule 80, that schedule 80, PVC.
+
+38
+00:03:16,540 --> 00:03:20,540
+The reason why we use that is several reasons.
+
+39
+00:03:20,540 --> 00:03:23,540
+First of all, I'll give the caveat.
+
+40
+00:03:23,540 --> 00:03:29,540
+I'm not a fan of PVC, polyvinyl chloride. It has fafaleates and it can pollute the water.
+
+41
+00:03:29,540 --> 00:03:33,540
+So, I'm going to apply the sizeors in there. Extra-ginty-mitter is blah, blah, blah.
+
+42
+00:03:33,540 --> 00:03:37,540
+All the stuff you hear about, bad about plastic, you'll find in PVC.
+
+43
+00:03:37,540 --> 00:03:49,540
+But the reason why we're using it, the main reason is because schedule 80, I'm saying this again, schedule 80, not schedule 40, it's the dark gray stuff.
+
+44
+00:03:49,540 --> 00:03:56,540
+By the way, guys, when I've been on Sonic's rapport, I've made game instructions to people, and why to use one over the other.
+
+45
+00:03:56,540 --> 00:04:04,540
+I need to be double-triple-clear because when I did the Sonic about the number 8 rise, I talked about the tarot, and there's two types of tarot.
+
+46
+00:04:04,540 --> 00:04:08,540
+Don't use the small one, use the large one, and someone sent me a box of the small tarot.
+
+47
+00:04:08,540 --> 00:04:14,540
+I don't know if that was to piss me off, or they just didn't get the detail, but I appreciate the gift anyway.
+
+48
+00:04:14,540 --> 00:04:16,540
+So, it's just funny.
+
+49
+00:04:16,540 --> 00:04:23,540
+So, let's go back to the pipe. Schedule 80. Did I say schedule 80? As in 80.
+
+50
+00:04:23,540 --> 00:04:29,540
+8 times 10 is 80. That's what you want to use. Now, that's dark gray stuff.
+
+51
+00:04:29,540 --> 00:04:35,540
+Most typically in PVC pipe, you'll see the schedule 40. That's a 4 or 0, and that's a white thin wall.
+
+52
+00:04:35,540 --> 00:04:40,540
+The difference is the schedule 80 is a thick wall pipe, and the other one is not.
+
+53
+00:04:40,540 --> 00:04:44,540
+And there's also a C-PVC. Don't use that either.
+
+54
+00:04:44,540 --> 00:04:47,540
+So, why really focus on the schedule 80?
+
+55
+00:04:47,540 --> 00:04:55,540
+Because let's say you're building these devices, and you want to get them out out in the world.
+
+56
+00:04:55,540 --> 00:04:59,540
+And you end up butting heads with someone in industry.
+
+57
+00:04:59,540 --> 00:05:08,540
+If you show them anything other than schedule 80, they're going to want a certain safety and material test to prove that the device can hold up.
+
+58
+00:05:08,540 --> 00:05:15,540
+But if you show them a device made with schedule 80, that is internationally accepted as a standard in industry.
+
+59
+00:05:15,540 --> 00:05:22,540
+So, what it does is it allows you to walk into anyone's door and be respected on what material you're using.
+
+60
+00:05:22,540 --> 00:05:30,540
+The second reason you use it, which is all tied to the first reason, is that it's a thick wall.
+
+61
+00:05:30,540 --> 00:05:42,540
+It's almost twice as thick as schedule 40, and that dark gray color is such because they have a higher degree of solids built into the plastic when it's being extruded.
+
+62
+00:05:42,540 --> 00:05:49,540
+And when you're bending the pipe and putting it under thermal stresses because it's thermally bent.
+
+63
+00:05:49,540 --> 00:05:59,540
+Chances of the pipe losing its dimension, its wall thickness, and becoming fragile and brittle is very, very slim with the schedule 80.
+
+64
+00:05:59,540 --> 00:06:07,540
+Where with the schedule 40, the thinner wall, the white stuff gets really brittle and thin doesn't work that well.
+
+65
+00:06:07,540 --> 00:06:15,540
+And when the unit is complete with the magnetic reactor and it's completely done, it's very robust.
+
+66
+00:06:15,540 --> 00:06:21,540
+I mean, you could grab it and beat someone with it and it'll be just fine or it'll fall off the bench.
+
+67
+00:06:21,540 --> 00:06:23,540
+Hit the deck, pick it up, it's just fine.
+
+68
+00:06:23,540 --> 00:06:30,540
+Where if you make it out of the other pipe, the other PVC, any other PVC, if it falls off the bench and hits the deck, it'll crack and break.
+
+69
+00:06:30,540 --> 00:06:47,540
+And that means that if you're giving it to a plumber, you know, you guys know why they call them plumbers. But anyway, if he's wrestling on this thing, the lock it down, tighten it, cut it, whatever fit it in the field, that he steps on it, drops it from his pickup truck or whatever, it's going to break.
+
+70
+00:06:47,540 --> 00:06:49,540
+It's not going to hold up.
+
+71
+00:06:49,540 --> 00:07:06,540
+The only thing, the only material that will hold up is the schedule 80. And again, when you combine the properties of the schedule 80 versus all other types of PVC, because of its heavy thick wall, it makes it easier to work with and more consistent for bending.
+
+72
+00:07:06,540 --> 00:07:07,540
+Okay.
+
+73
+00:07:07,540 --> 00:07:19,540
+So I'd like to say if there are any questions on that, and actually if there are any questions regarding that material, the pipe and why we're using schedule 80, that's 80, that's the dark gray stuff.
+
+74
+00:07:19,540 --> 00:07:25,540
+And somebody wants to unmute and chime in with a question regarding that that's totally cool.
+
+75
+00:07:25,540 --> 00:07:34,540
+Otherwise, I'll go on to the next bullet point.
+
+76
+00:07:34,540 --> 00:07:40,540
+What size length of the pipe is this?
+
+77
+00:07:40,540 --> 00:08:01,540
+The length of the pipe ends up being we have a jig, which we'll get into basically or if you could just bend it around, if you're making one for the first time, and you're bending it around a five and one quarter inch, that's five and one quarter inch diameter magnet, you're going to eat 34 inches of pipe.
+
+78
+00:08:01,540 --> 00:08:13,540
+And you start off with about a four inch tail, and by the time she wraps around that magnet, bends around and you're done, you'll end up with another three to four inch tail on the opposite end.
+
+79
+00:08:13,540 --> 00:08:19,540
+You need 34 inches to start with. Now your pipe comes in 10 or 20 foot sticks.
+
+80
+00:08:19,540 --> 00:08:29,540
+When you buy a piece of pipe, it's called a stick, 20 feet long, and or you get half a stick, which is 10 feet long, if you go to lows, lows sells it, by the way.
+
+81
+00:08:29,540 --> 00:08:36,540
+Otherwise, you got to go to a sprinkler, an irrigation or professional plumbing supply to get it.
+
+82
+00:08:36,540 --> 00:08:49,540
+So you're going to have to cut yourself if you're using a five and one quarter inch diameter pipe, and you could do pi D, which is circumference, then you got to add 28% right because you're bending around.
+
+83
+00:08:49,540 --> 00:09:01,540
+Now it'll give you your length of pipe. And if you're using a smaller magnet, you could use less than 34 inches if you're using a bigger magnet, you got to have to use more.
+
+84
+00:09:01,540 --> 00:09:07,540
+So the 34 inches, you'll get three scalerators out of one 10 foot stick, right?
+
+85
+00:09:07,540 --> 00:09:11,540
+Because 34 inches just shy of three feet.
+
+86
+00:09:11,540 --> 00:09:22,540
+So you'll get three scalerators out of it, and about a little bit overfoot and a half left over on 10 foot stick, which you then you bend and make those internal spacers that you see in the middle of the magnetic reactor.
+
+87
+00:09:22,540 --> 00:09:24,540
+Have a little scrap left over.
+
+88
+00:09:24,540 --> 00:09:35,540
+Now if you're making a custom one and you want the longer tail, especially if you're going to get into putting flow forms in the pipe, you can cut it at just a 36.
+
+89
+00:09:35,540 --> 00:09:48,540
+You can do a little more length or whatever. But if you're going to wrap it around a five and a quarter inch magnet, you're going to want it centered around 18 or 17 inches, which is a total 34 inch.
+
+90
+00:09:48,540 --> 00:10:00,540
+I also used to, the plans that I've drawn up is in radians. I go by degrees instead of white, but that, you know, people kind of freak out when they see that kind of math, you know, radians.
+
+91
+00:10:00,540 --> 00:10:15,540
+You know, that's why when I put up a picture of one that I call the 700 degree someone said, well, that's a 540 degree band. I said, yeah, but it's measured at radians in other words, the part of the scalerator that sticks out the study part that's not bent. That's part of the circle.
+
+92
+00:10:15,540 --> 00:10:25,540
+Right. There's a conference. So I'll give in the future. I'll put up drawings on that and I'll do it in both straight measurement radians and all that.
+
+93
+00:10:25,540 --> 00:10:37,540
+So, yeah, that's a good question. Well, they didn't have it at home depot. So the home depot doesn't have it. You could special order from them, but they're going to charge you five times more.
+
+94
+00:10:37,540 --> 00:10:53,540
+You can get it at lows, some lows. There's only one lows here to some that has it. You get at Ferguson's plumbing supply. You could call around. There is industrial plumbing supplies like Harrington is another one that has it.
+
+95
+00:10:53,540 --> 00:11:06,540
+Any what's called an irrigation supply will have it. And if you call them and they don't have it in stock, it's embarrassing for them. So they'll say we'll have it tomorrow or two days for you.
+
+96
+00:11:06,540 --> 00:11:19,540
+Right. Shame on you for not having it right because there's a shop here of Ferguson's when I called them. They said, oh, we're out of one inch schedule lady. Well, we'll have a stick for you tomorrow.
+
+97
+00:11:19,540 --> 00:11:33,540
+Shame on you probably, so for legitimate plumbing supply, you don't have schedule lady one inch by Wow. A comprehensive hardware store will have it. There's a hardware store here on 22nd Street that's got everything and they have it.
+
+98
+00:11:33,540 --> 00:11:43,540
+And they could sell it if you find a really good hardware store. They will sell it to you by the intro by the foot. So you don't have to get a 10-foot stick. Just get a three-foot piece.
+
+99
+00:11:43,540 --> 00:11:59,540
+For two hardware stores that I could think of here in town that have it, but do not. Now, well, I shouldn't say do not do not use the white stuff or the CPV state see the schedule 4040 is the white PVC that you see at home depot.
+
+100
+00:11:59,540 --> 00:12:12,540
+And there's also this yellow stuff. It's for high temperature same size copper as copper. It's called CPVC. Don't use that either. Both that's crap. Now you can if if you want to practice bending pipe,
+
+101
+00:12:12,540 --> 00:12:25,540
+you might say, well, I'll use the crap plastic, but you'll have a bad experience bending it because the wall is so thin when you heat the pipe to bend at the wall will collapse and you won't it won't have a circular profile anymore. The pipe will be real flat.
+
+102
+00:12:25,540 --> 00:12:35,540
+So you won't have any there's no there's no sense that because how do I know this? The first scalerator I put up in the chat nine months ago was made out of schedule 40.
+
+103
+00:12:35,540 --> 00:12:45,540
+And it did come out really well on the bend, but it's the only one that I've ever done that came out really well the first one every time I try to use a schedule 40 repeat on it.
+
+104
+00:12:45,540 --> 00:12:54,540
+It just deformed too much. I didn't like it. So the schedule 80 is the way to go do not use the schedule 40 or the CPVC or whatever.
+
+105
+00:12:54,540 --> 00:13:00,540
+Now just to volunteer, there's someone while back that did something with packs.
+
+106
+00:13:00,540 --> 00:13:18,540
+I like the way I'm crossing polyethylene tubing. I like that chemically because the only thing PECs will release into the water for about a week or two and when it's put in service is a little bit of ammonia and some nitrates and once it cleans that out from the industrial manufacturing.
+
+107
+00:13:18,540 --> 00:13:33,540
+It's a very inert material as a matter of fact polyethylene pipe or PECs tubing with varieties there's PECs A there's PECs B don't confuse it with poly butylene, which is not PECs or polyethylene.
+
+108
+00:13:33,540 --> 00:13:45,540
+It's a multi-layered stranded kind of like the soda, you know, the two liter soda bottles that kind of plastic very difficult to bend it has a high internal resistance and memory.
+
+109
+00:13:45,540 --> 00:13:51,540
+And the only way to make a scale rate or out of that is by really hitting it with a lot of heat. We'll talk about that.
+
+110
+00:13:51,540 --> 00:14:00,540
+And when it's complete, it needs to fit into a form that has braces that hold it in place. Braces just like you put braces on someone's teeth.
+
+111
+00:14:00,540 --> 00:14:07,540
+Every few inches you need to have somehow cinch it down and you always want to use non-ferrous material around it.
+
+112
+00:14:07,540 --> 00:14:19,540
+Someone had put a picture of very industrial individual chat that did a double one and I saw, you know, magnetic hardware around it and that's a no-no but we'll get into that in the future.
+
+113
+00:14:19,540 --> 00:14:23,540
+You know, all is forgiven because I haven't disclosed the important parts, right?
+
+114
+00:14:23,540 --> 00:14:28,540
+So if you put one together of peanut butter and chewing gum, I'm not going to laugh at you.
+
+115
+00:14:28,540 --> 00:14:42,540
+Because you don't know, but when you know, I still won't laugh at you because you're at least you're making an effort. But in terms of tubing, schedule 80 is the way to go for many reasons.
+
+116
+00:14:42,540 --> 00:14:49,540
+In the primary reason would be manufacturing you're making it so it maintains a shape and secondary reason it will be universally accepted.
+
+117
+00:14:49,540 --> 00:14:51,540
+No questions asked.
+
+118
+00:14:51,540 --> 00:15:11,540
+Schedule 40 is garbage schedule and CPVC is garbage all other forms of CPVC or garbage for this application. It will not even if you successfully bend it with without deformation, it is not durable enough for the field.
+
+119
+00:15:11,540 --> 00:15:21,540
+And again, the PECS is a more high purity plastic. It's used in, you know, laboratories and pharmaceutical grade, but it will not hold the shape.
+
+120
+00:15:21,540 --> 00:15:29,540
+You're going to have to go through a process where you're going to have to make a form that holds it into that position.
+
+121
+00:15:29,540 --> 00:15:39,540
+And because it's a multi-stranded, multi-layered plastic, I believe separation, internal separation might happen in the pipe.
+
+122
+00:15:39,540 --> 00:15:47,540
+So for now, it would be schedule 80, that's a schedule 80.
+
+123
+00:15:47,540 --> 00:15:50,540
+That would be the way to go.
+
+124
+00:15:50,540 --> 00:15:52,540
+That was a good question.
+
+125
+00:15:52,540 --> 00:15:59,540
+And it was drifting away from the length, but 34 inches ought to do it for a five and one quarter inch magnet.
+
+126
+00:15:59,540 --> 00:16:09,540
+It depends purely on your magnet size. And if you're using a smaller diameter, five and a quarter is a good for one inch or up to one and a quarter.
+
+127
+00:16:09,540 --> 00:16:14,540
+If you're using a half inch or three quarter pipe, you go ahead and use a four and a half inch magnet.
+
+128
+00:16:14,540 --> 00:16:23,540
+The standard for magnets, non-metric ones, they go basically three, three and a half, four, four and a half, five and a half.
+
+129
+00:16:23,540 --> 00:16:30,540
+And they kind of dead end around that size. You can get a six inch magnet. They're kind of hard to find.
+
+130
+00:16:30,540 --> 00:16:36,540
+I'll get into the magnets. They get real pricey and they're hard to find.
+
+131
+00:16:36,540 --> 00:16:40,540
+So you're going to need about three feet of pipe to experiment with.
+
+132
+00:16:40,540 --> 00:16:41,540
+Thanks for that question.
+
+133
+00:16:41,540 --> 00:16:47,540
+So great. We're getting ready to do our first magnet reactor in there.
+
+134
+00:16:47,540 --> 00:16:53,540
+We're coming up to the pipe stage for the first one. Do you recommend to redo all like the copper leaves?
+
+135
+00:16:53,540 --> 00:16:54,540
+I'm going to get into that.
+
+136
+00:16:54,540 --> 00:16:59,540
+Okay. That's the next question. Yeah. Let's go right into it right now.
+
+137
+00:16:59,540 --> 00:17:00,540
+Okay.
+
+138
+00:17:00,540 --> 00:17:07,540
+No, not necessary. I'll drop an image of the first one that I made and sent out and that was tested.
+
+139
+00:17:07,540 --> 00:17:09,540
+I'll drop it in right now.
+
+140
+00:17:09,540 --> 00:17:18,540
+And if you're on the chat, which I'm sure you could just look in there. Let's see. I have it on another account. Let's just.
+
+141
+00:17:18,540 --> 00:17:23,540
+This is number one. This is a scalarator zero zero zero one.
+
+142
+00:17:23,540 --> 00:17:32,540
+That's made of a schedule 80. I'll even, and this is it right here. I'm going to forward it to the group right now.
+
+143
+00:17:32,540 --> 00:17:37,540
+And let me know when it comes up. Done just sent it said done.
+
+144
+00:17:37,540 --> 00:17:41,540
+If you're in front there, can you see it?
+
+145
+00:17:41,540 --> 00:17:46,540
+That's the first one ever made the second one ever made first one in schedule 80.
+
+146
+00:17:46,540 --> 00:17:51,540
+This one was made without a jig just bending it around the magnet as you see.
+
+147
+00:17:51,540 --> 00:17:58,540
+You got is that a Roger? Do you see it? Yep. George. Yep. Cool. Okay. You could just click on that load up zoom in.
+
+148
+00:17:58,540 --> 00:18:05,540
+Yeah. She's real ugly. She's so ugly. She's pretty, right?
+
+149
+00:18:05,540 --> 00:18:12,540
+Yep. And the dots you see there. That's the south side. If you flip it over, that's the north side of the magnet.
+
+150
+00:18:12,540 --> 00:18:20,540
+I mean, it looks brutalist. You know, if you look at it, you know, the brutalist architecture style. I mean, it looks like you could take that into battle.
+
+151
+00:18:20,540 --> 00:18:26,540
+Or it looks like real steam punk, right? Especially with the copper.
+
+152
+00:18:26,540 --> 00:18:32,540
+So there you go. And I'll get into the magnets and why it looks that way and why in those support tabs and all that.
+
+153
+00:18:32,540 --> 00:18:40,540
+This is number two. As you can see, I like to brag. I don't build junk. Anything I build always looks good.
+
+154
+00:18:40,540 --> 00:18:43,540
+Always did that since I was eight years old.
+
+155
+00:18:43,540 --> 00:18:50,540
+What I used to do was fifth grade science fair. I walked in with my science project and all the teachers jumped up. So you can't bring that in here.
+
+156
+00:18:50,540 --> 00:18:56,540
+You got to bring a project that you did not the adults built for you. And I'm like, no, I made this. No, you didn't.
+
+157
+00:18:56,540 --> 00:19:03,540
+I had the parents come down until now you made it all on his own and they're all like running around with their mouths open.
+
+158
+00:19:03,540 --> 00:19:09,540
+So I do brag about my skills. Yeah, unions on the end. That's right.
+
+159
+00:19:09,540 --> 00:19:19,540
+Unions are durable. The nice thing about unions is if you're cutting into a, is you referring to the photo.
+
+160
+00:19:19,540 --> 00:19:29,540
+Let's say, remember, this is a utilitarian project. This is not jerk off technology. It's not like a bread a filter where you just turn on your spout and board in there.
+
+161
+00:19:29,540 --> 00:19:40,540
+You know, this stuff to talk about doing the ghetto style water purification. This is utilitarian stuff. This is where you know, you're going to flip freak your parents out if you live with your mom and you say, mom, I'm going to go cut the water.
+
+162
+00:19:40,540 --> 00:19:49,540
+And put this thing in there from this guy on the internet. It ain't going to work. This is not known. This is not for those situations. This is heavy duty utilitarian stuff.
+
+163
+00:19:49,540 --> 00:20:01,540
+So George, I understand you, you might know about the trades. So the reason we're using unions here is that let's say we go to field and we cut out about 12 and a half inches of pipe to drop this in.
+
+164
+00:20:01,540 --> 00:20:15,540
+We fit it with it doesn't matter what the other pipe is iron copper plastic. There's adapters and we adapt with the union and what's great about the union is you buy two sets to pair so for.
+
+165
+00:20:15,540 --> 00:20:21,540
+And you fix the piece of pipe that you removed to put the scalerator and with another set of unions.
+
+166
+00:20:21,540 --> 00:20:40,540
+So in case you have a hard time or you want to take it out, the piece of pipe you cut out is fitted with the unions also. So you just go back to where you put the scalerator and pull it out and slip the original pipe that you cut out with the other set of unions and you're done. You feel any.
+
+167
+00:20:40,540 --> 00:20:47,540
+Okay, you don't have to you could type. That's fine. That's why we use the unions.
+
+168
+00:20:47,540 --> 00:20:51,540
+And we need two spanners.
+
+169
+00:20:51,540 --> 00:21:00,540
+Okay, when you use the unions don't use spanner one, you see spanner thinks we're bringing that up that my mind just went there.
+
+170
+00:21:00,540 --> 00:21:05,540
+Even an emergency, you should use what's called a strap wrench on a union.
+
+171
+00:21:05,540 --> 00:21:16,540
+Even if the union is made of steel or brass, not plastic because the spanner is any spanner you're not going to get a 12 point socket or six point socket around that.
+
+172
+00:21:16,540 --> 00:21:25,540
+It's going to be a spanner that has a three point contact jaw maximum and it crushes you're not going to grab it with a channel lock or anything or a pipe of spanner.
+
+173
+00:21:25,540 --> 00:21:38,540
+And what is strap wrench is what looks just like it sounds usually a piece of rubber around something that looks like a holding block and it cinches you cinch it down and you turn it.
+
+174
+00:21:38,540 --> 00:21:45,540
+I've seen people use channel locks and spanners on unions and it's a no no there's actually tools for it.
+
+175
+00:21:45,540 --> 00:21:58,540
+And then you just split tools that are made for them get it from the manufacturer that's the only disadvantage. Now if you got a firm handshake and you don't have a week chin, you could pretty much tighten down a union by hand.
+
+176
+00:21:58,540 --> 00:22:07,540
+Give it about a minute or two, let it arrest, especially if you use a O ring grease come back by hand and lock it down again by hand.
+
+177
+00:22:07,540 --> 00:22:17,540
+The only problem with locking it down by hand, you may not get enough torque that you would when there's thermal expansion and contraction, even with a spanner with something that has a large flange like a union.
+
+178
+00:22:17,540 --> 00:22:24,540
+You could lock it down. I think it's 15 to 16 foot pounds depending on the size.
+
+179
+00:22:24,540 --> 00:22:36,540
+And Newton meters, they've got the specs written on there for tightening when there when the temperature changes, you might come back and say, hey, it feels a little looser than it did or you know, or might get a little tighter than it did based on temperature.
+
+180
+00:22:36,540 --> 00:22:47,540
+So whenever you lock a union down, you lock it down, unless you're in a big hurry, give it about a minute or two to relax and then go ahead and torque it again with a strap wrench or strap handles.
+
+181
+00:22:47,540 --> 00:22:57,540
+Never use a channel lock or wrench. And if you're going to use a regular spanner on a union, don't tell me that you did, please. I don't want to know.
+
+182
+00:22:57,540 --> 00:23:09,540
+Good question. Anything else before we move on to the copper? I knew the picture would throw off the, for more questions.
+
+183
+00:23:09,540 --> 00:23:11,540
+OK.
+
+184
+00:23:11,540 --> 00:23:20,540
+So the next question, like George asked about the copper, the other question here is, you know, I've ordered the magnet. Do you have any guidance recommendations on buying the following?
+
+185
+00:23:20,540 --> 00:23:32,540
+This one was the pipe. What is it made of? Second is pure copper leaf for magnet coding. And I'm going to combine that with the next question, also, which is barium titanate.
+
+186
+00:23:32,540 --> 00:23:39,540
+And now the pure copper leaf came about several ways.
+
+187
+00:23:39,540 --> 00:23:49,540
+Not necessary. As you see in that first picture, that first one was great. And everyone after that with all the other improvements is great also.
+
+188
+00:23:49,540 --> 00:23:59,540
+Not necessary. I had a vision of people showing this to people and I've had people say, looks like a turbo looks like a break rotor, you know, all the stuff you get.
+
+189
+00:23:59,540 --> 00:24:13,540
+I like that initial commentary. And just waking up one morning, I got a flash in my head from building loudspeakers on using a ferrida ring on it, which is a copper band because there's a EMF going on.
+
+190
+00:24:13,540 --> 00:24:28,540
+Electromotive force whenever you move water that has conductive minerals in and around the magnet. And the way you damp out EMF, electrically, MF is by using what's called a ferrida ring copper ferrida ring. So I got into the idea of coding the magnets with copper.
+
+191
+00:24:28,540 --> 00:24:33,540
+And then also when someone looks at it, they don't scream break rotor. Right.
+
+192
+00:24:33,540 --> 00:24:48,540
+So there's no fault in that. It's just kind of annoying most people anyway, by the way have two modes with me. It's annoying and very annoying. So I figured if I could just keep it down and annoying, that'd be good. And I figured I'd code it with copper and also acts as a ferrida ring.
+
+193
+00:24:48,540 --> 00:24:57,540
+And I asked around for some copper prices, custom made, you know, stamped pieces and prices were outrageous.
+
+194
+00:24:57,540 --> 00:25:04,540
+So I said, well, this is the thickness of the copper matter. Yes, it does, but let's just start off with some copper.
+
+195
+00:25:04,540 --> 00:25:12,540
+And then the other thing was I have some barium titanate laying around. I have it in putty form and powder form. You can you're on your own with that folks.
+
+196
+00:25:12,540 --> 00:25:25,540
+Ebay sells it. You'll find it in common products like tooth filler. They there's a temporary tooth filler. If you have a tooth filling pharmacy has a little thing they've your filling falls out.
+
+197
+00:25:25,540 --> 00:25:38,540
+White putty in there, stuff the hole until you see a dentist. That's made of barium titanate to putty. You could dilute it with water. Barium titanate is also used in the ceramic engine coding.
+
+198
+00:25:38,540 --> 00:25:44,540
+They have these ceramic additive nano additives, whatever you put in your car engine in your motor oil.
+
+199
+00:25:44,540 --> 00:25:57,540
+Well, liquid molly makes one has barium tetanate, but I don't recommend using that one because it's oil based on Ebay and laboratory supply places they sell it in powder or putty form.
+
+200
+00:25:57,540 --> 00:26:12,540
+It's used in the dental industry. It's used in as a dielectric. It's used as a thermal grease. If ever worked on amplifiers and you look at where the transistors are mounted to the heat sink, you'll see a white paste that's a barium titanate also.
+
+201
+00:26:12,540 --> 00:26:19,540
+It's used in every common material, not something that your mom has in her cupboard, but it's common nonetheless industrially.
+
+202
+00:26:19,540 --> 00:26:29,540
+It is expensive, but it'll end up costing anywhere between one to five dollars a gram, which in regular math it's a thousand dollars a pound or whatever. You don't need that much.
+
+203
+00:26:29,540 --> 00:26:41,540
+I pick barium titanate because it's an extremely dielectric substance, extremely dielectric. It has some funky electrical properties, especially when you put it in the mid zone where you have magnetism and electricity mingling.
+
+204
+00:26:41,540 --> 00:26:48,540
+It has some interesting properties also because I went with the copper leaf, the gilding process.
+
+205
+00:26:48,540 --> 00:27:00,540
+I decided to add the barium titanate paste into the gilding glue and where do you get that? I get mine from place called hobby lobby.
+
+206
+00:27:00,540 --> 00:27:07,540
+It's real cheap. Pack of 25 sheets of pure copper leaf is about three dollars.
+
+207
+00:27:07,540 --> 00:27:16,540
+You need about six sheets to do a magnet on both sides, so actually more like ten sheets because I do three coats.
+
+208
+00:27:16,540 --> 00:27:22,540
+And I have a copper leaf paint, a little water based that I would also add in some of the barium titanate too.
+
+209
+00:27:22,540 --> 00:27:28,540
+Just follow instructions on how to do gilding or applying a gold leaf or copper leaf.
+
+210
+00:27:28,540 --> 00:27:35,540
+It doesn't matter what metal leaf, the gilding process leaf is plenty of YouTube's on it. You need to practice.
+
+211
+00:27:35,540 --> 00:27:40,540
+And then you have the gilding process.
+
+212
+00:27:40,540 --> 00:27:45,540
+And then you have the gilding process leaf.
+
+213
+00:27:45,540 --> 00:27:50,540
+And then you have the gilding process leaf.
+
+214
+00:27:50,540 --> 00:27:53,540
+And then you have the gilding process leaf.
+
+215
+00:27:53,540 --> 00:27:58,540
+And then you have the gilding process leaf.
+
+216
+00:27:58,540 --> 00:28:05,540
+So when people saw it, you know, because magnets have that common color, most people in the world are familiar with it.
+
+217
+00:28:05,540 --> 00:28:08,540
+That's that, you know, anthracite, that dark gray blackish color.
+
+218
+00:28:08,540 --> 00:28:10,540
+Oh, it's a magnet.
+
+219
+00:28:10,540 --> 00:28:16,540
+But if you flash some copper, just like you know, flashing a badge or something, they know they get mesmerized, right?
+
+220
+00:28:16,540 --> 00:28:22,540
+Most people look at the coating, but I did notice that the ones that have the coating tend to be more robust in their function.
+
+221
+00:28:22,540 --> 00:28:28,540
+So it's very valid because it's very prominent when you look at the scalerator to see that bright copper.
+
+222
+00:28:28,540 --> 00:28:34,540
+And then when I mentioned very empty, it's like, oh my gosh, what's going on here? There's more than meets the eye. Yes, there is.
+
+223
+00:28:34,540 --> 00:28:40,540
+But what basically meets the eye about the scalerator, which is the pipe spool, the pipe wrapped around the magnet.
+
+224
+00:28:40,540 --> 00:28:45,540
+And just the magnet is really 99.9% of the job done.
+
+225
+00:28:45,540 --> 00:28:53,540
+And I'd say when you add the copper and the barium titinate in the glue for the copper, I'd say it's about 2% more.
+
+226
+00:28:53,540 --> 00:28:59,540
+A lot of people say it does not enough to matter, but everything matters because it's cumulative as you improve the process.
+
+227
+00:28:59,540 --> 00:29:02,540
+So these are the major questions so far.
+
+228
+00:29:02,540 --> 00:29:11,540
+I'm going to pause right here for anybody got anything else to say.
+
+229
+00:29:11,540 --> 00:29:21,540
+For you guys a question. Yeah, all right. Is there a way to measure or do you have an idea of the ratio, very of a titinate you would put in the glue and speaking of the glue.
+
+230
+00:29:21,540 --> 00:29:25,540
+I'm surprised it's water based not rubber.
+
+231
+00:29:25,540 --> 00:29:33,540
+Yeah, I would. Okay, the reason why you use water base is because when you use a metal leaf, you got to put a coating on it.
+
+232
+00:29:33,540 --> 00:29:38,540
+And I found the most otherwise rub off or oxidize. It's not very durable.
+
+233
+00:29:38,540 --> 00:29:44,540
+The best coating bar none is just plain old lacquer spray lacquer, not acrylic clear coat. That's junk.
+
+234
+00:29:44,540 --> 00:29:53,540
+But the old fashioned spray lacquer, if it doesn't say lacquer on spray cans or bottle, you know, you buy it a little half pint of it at the hobby store.
+
+235
+00:29:53,540 --> 00:30:00,540
+It's junk. Don't get acrylic clear coat. So basically the clear coat that I end up finishing it with is lacquer.
+
+236
+00:30:00,540 --> 00:30:05,540
+And if you have an oil based on the glue, the lacquer will release it and you'll have a big mess.
+
+237
+00:30:05,540 --> 00:30:12,540
+So the standard right now is water based as a matter of fact, if you go look at gilding that was done hundreds of years ago, it was also water based.
+
+238
+00:30:12,540 --> 00:30:18,540
+It was made out of rabbit hide and egg whites.
+
+239
+00:30:18,540 --> 00:30:25,540
+So the reason I use the water base, you put it on let it get tacky 10 to one dilution.
+
+240
+00:30:25,540 --> 00:30:35,540
+So I dilute my paste, my barium titanate paste. So it's a very fine flowing paste. Flows more than ketchup.
+
+241
+00:30:35,540 --> 00:30:43,540
+And I add that to my glue and then a little bit of distilled water. And it doesn't really change the viscosity until I don't change the viscosity to the glue 10 to one.
+
+242
+00:30:43,540 --> 00:30:49,540
+So it's a really small fraction of barium titanate. There used to be, I did some experiments with barium titanate.
+
+243
+00:30:49,540 --> 00:30:56,540
+It's one of these materials that, what are these miracle materials when you mix magnetism and electricity. You don't need much.
+
+244
+00:30:56,540 --> 00:31:06,540
+You just need the presence of it to start working, especially if anyone remembers 10 years ago, 15 years ago, 20 years ago, there was a craze.
+
+245
+00:31:06,540 --> 00:31:10,540
+With building crystal cells like batteries that never run out, right?
+
+246
+00:31:10,540 --> 00:31:17,540
+Or the way you recharge them is by shorting the battery out with David Hutchinson or actually what's the John Hutchinson.
+
+247
+00:31:17,540 --> 00:31:23,540
+And that was there, and John Bidini, they're building these crystal cells, they were just light up in LED light forever kind of thing.
+
+248
+00:31:23,540 --> 00:31:29,540
+And what they didn't tell people is they use all these salts with a tiny amount of barium titanate.
+
+249
+00:31:29,540 --> 00:31:34,540
+So I was always, I've always been enamored with it. And I said, let's add some.
+
+250
+00:31:34,540 --> 00:31:41,540
+But we're using a, the standard water base. If you go on hobby lobby or any hobby shops,
+
+251
+00:31:41,540 --> 00:31:53,540
+art shops that sells leaf material, copper leaf, and you ask them what glue to use. Most of the glue is available in the most preferred ones on the water based one.
+
+252
+00:31:53,540 --> 00:32:00,540
+And you apply it quickly and it dries to attack. It never dries hard. It always stays tacky.
+
+253
+00:32:00,540 --> 00:32:05,540
+And the barium titanate goes in with that glue, just a tiny amount, 10 to 1, I'd say.
+
+254
+00:32:05,540 --> 00:32:23,540
+And the nine parts, so the glue to one part, very heavily diluted barium titanate. And if you find that it made the glue too thick, you could, you could, you could fin it out with a little bit of alcohol and water, just tiny amount of alcohol, not too much because I could sometimes coagulate and curdle the glue.
+
+255
+00:32:23,540 --> 00:32:32,540
+So, yeah, part of me is like at the such early in the game to bring up the barium titanate is too fine of a point.
+
+256
+00:32:32,540 --> 00:32:41,540
+And I'm enamored by its properties that I just want to bring up everything in serial fashion, everything that I discovered to this point.
+
+257
+00:32:41,540 --> 00:32:46,540
+Is that okay to that help?
+
+258
+00:32:46,540 --> 00:32:50,540
+Yes, it did. Thank you.
+
+259
+00:32:50,540 --> 00:32:57,540
+Anything else regarding the pipe and the coatings because we haven't really gotten into the magnets, which we will.
+
+260
+00:32:57,540 --> 00:33:03,540
+The magnets, are you using an adhesive to glue them together to make them smaller?
+
+261
+00:33:03,540 --> 00:33:07,540
+Yep, yep, like get into how to make that.
+
+262
+00:33:07,540 --> 00:33:14,540
+And the next thing is a device to measure TDS, not necessary. I'll give a story again that I keep finding repeated.
+
+263
+00:33:14,540 --> 00:33:17,540
+A TDS meter, yes or no, you know, it's up to you.
+
+264
+00:33:17,540 --> 00:33:23,540
+You know, explain why measurements and lab tests are not important with this in minutes.
+
+265
+00:33:23,540 --> 00:33:29,540
+Okay, so what can the Mark 1 be connected to this continuing on this email?
+
+266
+00:33:29,540 --> 00:33:34,540
+What can the Mark 1 be connected to for testing purposes? Is that a garden hose size? Yes.
+
+267
+00:33:34,540 --> 00:33:38,540
+Now, here's the thing about it. I don't know if I've mentioned it enough and I will again.
+
+268
+00:33:38,540 --> 00:33:48,540
+If you send the Mark 1 or a scalerator to a lab for tested, they will show that it doesn't do anything, no change to the water whatsoever because their standard with devices are.
+
+269
+00:33:48,540 --> 00:33:53,540
+They attach it to a water source and most labs, by the way, do not provide that kind of service.
+
+270
+00:33:53,540 --> 00:33:56,540
+Most labs of test water just work on samples.
+
+271
+00:33:56,540 --> 00:34:05,540
+They have a standard sample size, 500 milliliter that you give them and they just take drops out of the bottle like a bunch of idiots and tested like that.
+
+272
+00:34:05,540 --> 00:34:13,540
+There's very few labs that you'll find at all that will test the device like the scalerator because you need a running water source and they just don't do that.
+
+273
+00:34:13,540 --> 00:34:15,540
+They just don't do that.
+
+274
+00:34:15,540 --> 00:34:27,540
+They have the corporations that have labs that do things like that or whatever, but if you find one that does, they will show that it has absolutely no change on the water because they hook it up to the end of a hose and they use it like a nozzle.
+
+275
+00:34:27,540 --> 00:34:33,540
+You know, imagine hook it up the scalerator like a nozzle on the end of a hose and you squirt and water through it or whatever.
+
+276
+00:34:33,540 --> 00:34:42,540
+A crazy willy out on everything wet. It doesn't do anything. It needs to have at least 20, 30, 40, 50 feet of pipe in front of it.
+
+277
+00:34:42,540 --> 00:34:47,540
+It's called runner length. You got to have a runner length in front of it.
+
+278
+00:34:47,540 --> 00:34:54,540
+And the more runner length, the better. Yes, you're right. So how much does more runner length, the better? I don't know.
+
+279
+00:34:54,540 --> 00:35:00,540
+I don't know, but the more runner lengths, the better and under pressure, the better.
+
+280
+00:35:00,540 --> 00:35:07,540
+Okay, so that's it. Hopefully we'll answer that. How do you test it? This is a utilitarian. This is not jerk off technology.
+
+281
+00:35:07,540 --> 00:35:15,540
+You know, like bread of filters or jerk off technology, right? You just anybody go to Walmart, get one pour water in it, pour water out, you think you're done.
+
+282
+00:35:15,540 --> 00:35:21,540
+This is not, you know, for people living in their mom's basement, she'll kick you out if you bring this up.
+
+283
+00:35:21,540 --> 00:35:25,540
+This is utility stuff. This is where you got to go be a man.
+
+284
+00:35:25,540 --> 00:35:33,540
+Trench out a hole, cut the water main and fasten it in. You're going to have skills and you're going to have that balls and confidence.
+
+285
+00:35:33,540 --> 00:35:44,540
+Okay, so basically again, reiterate the question, what can the mark one be connected to for testing purposes? Is that a garden hose size? Yes, but you got to have garden hose in front of it.
+
+286
+00:35:44,540 --> 00:35:55,540
+So you buy two garden hoses. However, you're going to connect it with a short length and imagine the longer part of the garden hose 30, 40, 50 feet is in front of the device.
+
+287
+00:35:55,540 --> 00:36:07,540
+And you block it off with a valve or a nozzle. So when you pressurize the entire line and then let water out and then you'll see what it really does.
+
+288
+00:36:07,540 --> 00:36:12,540
+Okay, I'll acquire material soon as I can play around little would like to chat so you're okay.
+
+289
+00:36:12,540 --> 00:36:16,540
+All right, now the next question.
+
+290
+00:36:16,540 --> 00:36:25,540
+Let's see you go now. Well, then I'll get I don't know if the magnet. Okay, first magnet are arriving tomorrow. Okay, here we go.
+
+291
+00:36:25,540 --> 00:36:35,540
+Another email, same individual. Barium, tonight is a little more confusing. Are you making a mixture? Are you applying it? I think I went over that.
+
+292
+00:36:35,540 --> 00:36:49,540
+Pipe bending techniques, the hot sand method. What do you think? Yep, absolutely. And I think that's it for the questions from this individual and I will continue.
+
+293
+00:36:49,540 --> 00:36:56,540
+Yes, someone just put a comment, Bruce 90 degree bends in create simulated, increased length.
+
+294
+00:36:56,540 --> 00:37:10,540
+They do a 90 degree bend, simulate runner length, you could find lab reports, old reference books on water flow through pipe and then how 90 degree bends, not sweeps, but sweeps also how they reduce flow.
+
+295
+00:37:10,540 --> 00:37:21,540
+I estimate that I'm adding a 90 degree bend in a runner of plumbing is the same as adding anywhere between six to 10 feet of pipe is the consequence.
+
+296
+00:37:21,540 --> 00:37:39,540
+And I do find that when you add 90 degree bends directly in front and behind it does work a little bit better. Yes, for some reason it's he's this dead end, you know, that it has to go around and it seems to improve the, you know, improve the, the effect.
+
+297
+00:37:39,540 --> 00:37:45,540
+Now, I just got to keep interjecting this thing has only been in existence on the surface of the earth as far as I can tell for 10 months.
+
+298
+00:37:45,540 --> 00:37:59,540
+Maybe a little, yeah, a little less than that. I'm the only one that could pretty much act as the boss on the subject and I want to change that that's why I'm doing this on other people to get involved in this.
+
+299
+00:37:59,540 --> 00:38:08,540
+So yes, we're still learning we're going to keep learning because this is not the water businesses, the physics business and start playing around with it and seeing what it does, you'll find out what.
+
+300
+00:38:08,540 --> 00:38:15,540
+Right, so let's just jump into the magnets and Georgie or if you anyone was ready to build it is going to be jumping off the bit about the magnet.
+
+301
+00:38:15,540 --> 00:38:18,540
+When I first hooked this up.
+
+302
+00:38:18,540 --> 00:38:32,540
+I turned on the water and I was like, OK, I noticed the water is kind of fizzy fuzzy and I'm thinking, you know, I want to get away from the front and back of the magnet, which is the north and south pole as much as possible.
+
+303
+00:38:32,540 --> 00:38:40,540
+And I know by looking at diagrams, even though they're false, if you want to correct diagram with the magnetic flux lines look like look up Ken Wheeler's book.
+
+304
+00:38:40,540 --> 00:38:50,540
+Thank you guys will be in just put in Ken Wheeler magnetism, go to images and you'll see what the magnetic field lines look like and you'll see where the domain the block wall is.
+
+305
+00:38:50,540 --> 00:38:57,540
+There still is some influence from the what I call the centrifugal part of the magnet, you know, the north and south.
+
+306
+00:38:57,540 --> 00:39:11,540
+And in my mind intuitively it hit me like, how can we minimize and bend those fields that are the north, south, poles, the faces that everyone is used to and everyone is thinking about when you mentioned the word magnet.
+
+307
+00:39:11,540 --> 00:39:15,540
+I want to pull them away from the center axis of that domain.
+
+308
+00:39:15,540 --> 00:39:16,540
+I don't I do that.
+
+309
+00:39:16,540 --> 00:39:26,540
+How about I stack smaller circumference or smaller diameter magnets that will tuck the field in and make it more of a period.
+
+310
+00:39:26,540 --> 00:39:31,540
+Of a pyramid right it'll bring the field away from the outer part of the magnet.
+
+311
+00:39:31,540 --> 00:39:40,540
+So I grabbed two small max slapped them on real quick is that wow water quality changed got more got sweeter got lighter that fizziness went away.
+
+312
+00:39:40,540 --> 00:39:54,540
+And I stacked on some more mags not much of a change took them off not much of a change, but as soon as I took off the outer two magnets and just had the big one that that fizziness came back again I was like with the three inch magnets as you see in the photo that proportions.
+
+313
+00:39:54,540 --> 00:39:59,540
+That's a five in a quarter outer three in a quarter or three in an eighth inner.
+
+314
+00:39:59,540 --> 00:40:09,540
+There's nothing special about the proportions you could use a smaller magnet but in the five in a quarter magnet it's got a two and a half inch hole so you're not going to put a two and a half inch magnet.
+
+315
+00:40:09,540 --> 00:40:11,540
+It's going to fall right in the hole.
+
+316
+00:40:11,540 --> 00:40:23,540
+So I did plenty of experimentation with removing the outer magnets mean the smaller magnets left it on the either space and just having a single magnet and there's a big difference in anyone who's already experimented with the space.
+
+317
+00:40:23,540 --> 00:40:28,540
+I did with the scalerator would a test I believe to the same.
+
+318
+00:40:28,540 --> 00:40:32,540
+If you just use a single magnet you'll notice an effect on the water.
+
+319
+00:40:32,540 --> 00:40:41,540
+But if you add a smaller magnet on each face correspondingly you'll notice an even bigger effect immediately and go ahead and someone does anyone's done it chime in give me some feedback.
+
+320
+00:40:41,540 --> 00:40:46,540
+So that's what I've noticed with repeatedly.
+
+321
+00:40:46,540 --> 00:40:53,540
+Okay, how do you connect the magnets? Well, they're magnets when you attach those magnets don't do anything funny.
+
+322
+00:40:53,540 --> 00:41:00,540
+You just put them on correspondingly how they would go normally like you were sticking something to a fridge on the face of a piece of metal.
+
+323
+00:41:00,540 --> 00:41:09,540
+So the the north side of one of the smaller magnet goes to the south side of the big magnet and the south side of the small magnet goes to the north side of the big magnet.
+
+324
+00:41:09,540 --> 00:41:22,540
+And when you place the magnets over the two smaller outer magnets over the single larger magnet in the center you'll notice that sometimes if you move them around they want to jump off.
+
+325
+00:41:22,540 --> 00:41:25,540
+Yes, that's right because there are field reversals happening.
+
+326
+00:41:25,540 --> 00:41:35,540
+So just center them and rotate them clockwise or counterclockwise you'll find they'll settle in and you'll center up and you go and do a visual center on them.
+
+327
+00:41:35,540 --> 00:41:52,540
+And if you look through the whole the smaller magnets cover the larger hole and you have access to the back of the smaller magnet and what I do is I put a few drops all around once I got them centered of a sine or acrylic acrylic glue which is crazy glue.
+
+328
+00:41:52,540 --> 00:42:03,540
+You could use the you could use the gel or you could use the flow you know what they call minute glue crazy glue, sine or acrylic, sono, or athletic whatever the chemical term is, crazy glue.
+
+329
+00:42:03,540 --> 00:42:06,540
+It's very cheap.
+
+330
+00:42:06,540 --> 00:42:20,540
+And the gap between the faces of the magnet creates a capillary zone. So the moment you put that glue in there which it also likes that it will creep in between the the back face of the smaller outer magnet in the large face of the.
+
+331
+00:42:20,540 --> 00:42:34,540
+The larger magnet and it'll creep in there and immediately harden and dry once you put drops of glue every 120 degrees or every 90 degrees immediately hardens up.
+
+332
+00:42:34,540 --> 00:42:42,540
+And another way to make that glue hard enough is water vapor or water spray or by the way nothing special.
+
+333
+00:42:42,540 --> 00:42:53,540
+And just played around with broken magnets and shit magnets and I've just put a just placed them together how they normally go and put a little drop of glue in the corner and try to separate them they will not separate.
+
+334
+00:42:53,540 --> 00:42:56,540
+You could soak them in acetone.
+
+335
+00:42:56,540 --> 00:43:09,540
+And that would do it now you could use five minute epoxy not necessary in other words you don't have to add any kind of adhesive between the magnet faces meaning the faces of the smaller to the larger magnet not not necessary.
+
+336
+00:43:09,540 --> 00:43:19,540
+You may and you don't even have to use a fast setting glue use a slow again setting glue the if you add the glue if it's a liquid a low enough viscosity.
+
+337
+00:43:19,540 --> 00:43:37,540
+The cavity inside the large magnet you will see the internal faces of the outer small magnets just put your glue in that in your room and it will suck through and and grab you don't need to do any special adhesive because remember once these magnets settle in and they're not shifting around they'll just stay in place anyway.
+
+338
+00:43:37,540 --> 00:43:40,540
+That's what they do that's why they're called magnets right.
+
+339
+00:43:40,540 --> 00:43:50,540
+So that's what I've been using is just basically the crazy glue the side of a crew glue I get it from Wal-Mart Harbor freight whatever the cheap stuff that flows.
+
+340
+00:43:50,540 --> 00:44:03,540
+I use a pipe that goes a fitting a shim and once I think my first magnet is centered I slide my paper shim through to align the other magnets so they're aligned is a line in critical.
+
+341
+00:44:03,540 --> 00:44:16,540
+So I just know what's more in critical is the magnetic field lines are aligned again because as you place the smaller magnet on the larger magnet notice they do attract you know you put them on how they normally would attract but they like to bounce around a little bit so you just count.
+
+342
+00:44:16,540 --> 00:44:29,540
+Root just rotate them like a tuning knob and you'll find the lock into place makes everybody happy you know that people sitting next to each other on an airplane for a long trip right you want to be comfortable.
+
+343
+00:44:29,540 --> 00:44:37,540
+That good enough to work you get anything else because you're the only one that brought up the magnet using.
+
+344
+00:44:37,540 --> 00:44:40,540
+Yeah that was spot on.
+
+345
+00:44:40,540 --> 00:44:56,540
+Cool now remember don't get crazy with the glue I mean no pun intended when you put the smaller magnet on the larger magnet face if you look inside you'll see you see the faces of the all the magnets you could just run a beat of anything in there plenty strong.
+
+346
+00:44:56,540 --> 00:45:13,540
+Yeah just recap the smaller of the south side to the larger on the north right and then yeah just like they normally would go yeah don't don't try to reverse anything you know you'll know by the way if you go north to north you'll know you're doing that it will not want to go right.
+
+347
+00:45:13,540 --> 00:45:20,540
+You just put the magnets how they want to go now when I work with magnets I mark them all the big I got a red marker and a white marker.
+
+348
+00:45:20,540 --> 00:45:40,540
+I mark all my faces just to be easy because I get kind of fancy with the magnets when you buy a magnet it's it's cut off of a block and all that and then mag you know cured metal and ceramics and all that it's got some really sharp edges when you order a magnet and you take it out of a container you you could cut yourself on that edge of the magnet sometimes it's so sharp it's not.
+
+349
+00:45:40,540 --> 00:46:00,540
+It's not a deeper or anything I put the magnets on a laid spin them and I have a large diamond pad and I round off the edges if you look at the photo I think if you could zoom in on the photo that I dropped with the copper magnets when they come when the magnetic reactor is done you could zoom in on that pick right there real close.
+
+350
+00:46:00,540 --> 00:46:17,540
+I'm going to zoom in use them in real close you'll see there's about a two millimeter millimeter and a half radius on those magnets they're rounded off on the edges now that I mentioned it you can see it you could zoom really zoom in on that you'll see that the edges on those magnets from round it off.
+
+351
+00:46:17,540 --> 00:46:35,540
+Now that I made another discovery doing that when you spin a large and I spin a round off the edges before I assemble them so you want to round off the corresponding edges on the smaller magnets if you're going to do it I don't recommend building these early ones that you do that but I just do that.
+
+352
+00:46:35,540 --> 00:46:50,540
+When you by the way when you spin a magnet in the lay that about 600 RPM and you start putting friction on it whatever you're touching on there is going to go red hot right away and it shouldn't hint hint.
+
+353
+00:46:50,540 --> 00:46:52,540
+Let me repeat that.
+
+354
+00:46:52,540 --> 00:47:04,540
+What we could do with a little bit of fine tuning is get a solar panel and a little battery spinning a large magnet with a flywheel little bit of friction you run some fluid through that you'll heat your house.
+
+355
+00:47:04,540 --> 00:47:07,540
+Was a 12 volt battery.
+
+356
+00:47:07,540 --> 00:47:22,540
+You know what you're doing you could super heat anything with a rotating magnetic field and you need a little bit of friction you'll be making other words you put 100 watts of power and you'll get 150 200 watts of heat out of it is the free energy I don't know you tell me.
+
+357
+00:47:22,540 --> 00:47:37,540
+And when I started running because you want to run my diamond abrasive pads on to round off these magnets I had to keep them really wet the moment the moisture and the water the cutting fluid stop there's just water.
+
+358
+00:47:37,540 --> 00:47:49,540
+It got red hot anything that touched it right immediately just you know I started an experiment I noticed that you can create tremendous amount of calorie heat with rotating magnets and a small amount of friction.
+
+359
+00:47:49,540 --> 00:47:54,540
+Anybody wants to go down that route you got to go for it now just gave you a big hint.
+
+360
+00:47:54,540 --> 00:48:05,540
+Right in form of we get as big as Westinghouse or general electric one is big companies we can open we can have 10 different departments doing things with what we've discovered with the scalerie or.
+
+361
+00:48:05,540 --> 00:48:07,540
+But I doubt that's going to happen.
+
+362
+00:48:07,540 --> 00:48:09,540
+But about the relay.
+
+363
+00:48:09,540 --> 00:48:14,540
+Okay the relay what relay.
+
+364
+00:48:14,540 --> 00:48:21,540
+Last seminar you said that we can relay the reactors.
+
+365
+00:48:21,540 --> 00:48:30,540
+The the turbidorator is another device. Yeah, in other words we can know we can make a new type of relay because we've discovered also a play in our magnetic field which I'll get into.
+
+366
+00:48:30,540 --> 00:48:33,540
+I want to introduce the turbidorator.
+
+367
+00:48:33,540 --> 00:48:38,540
+Yeah, we know what relay switching relays are right they're basically electromagnets.
+
+368
+00:48:38,540 --> 00:48:46,540
+And they have a certain field size and a certain functions and they do have problems when you put them in metal cases next to each other whatever.
+
+369
+00:48:46,540 --> 00:48:55,540
+But now I know how to make a plane or magnetic field meaning when you look at any magnetic field at the face on the opposite field is on the backside.
+
+370
+00:48:55,540 --> 00:49:03,540
+Well I know how to make a magnet where you look at let's say the north end of the magnet but on the opposite side there it's a north also.
+
+371
+00:49:03,540 --> 00:49:08,540
+South goes 90 degrees to it every time. Right.
+
+372
+00:49:08,540 --> 00:49:13,540
+Very power it's amazing when you rotate that sucker you get other phenomenon.
+
+373
+00:49:13,540 --> 00:49:24,540
+We'll share this in new time on a different call let's say we'll start a different subject and that I probably will start doing more like video stuff shorts.
+
+374
+00:49:24,540 --> 00:49:37,540
+I'll just take a video of the phenomenon and show you the setup right because it's more elaborate than this the mark one the scale or you couldn't come up with anything simpler than that there's only two components.
+
+375
+00:49:37,540 --> 00:49:42,540
+The magnetic reactor and spool of fight and the rest of it is embellishing.
+
+376
+00:49:42,540 --> 00:49:45,540
+You couldn't come up with a simpler device no one can you know.
+
+377
+00:49:45,540 --> 00:50:03,540
+I mean they're put it this way it couldn't get any simpler than this the turbiterator which is a three part device that uses this plane or magnetic fields is a little more complex actually a lot more complicated but still requires the same skill set if you can build this you can build that.
+
+378
+00:50:03,540 --> 00:50:07,540
+It's more elaborate and we'll get into that as time goes on.
+
+379
+00:50:07,540 --> 00:50:13,540
+Right you could see right now you don't know what the turbiterator is or does you're not missing anything are you.
+
+380
+00:50:13,540 --> 00:50:16,540
+Well just what you said.
+
+381
+00:50:16,540 --> 00:50:21,540
+Yeah well it leads like someone said you're not in the water business you're in the physics business.
+
+382
+00:50:21,540 --> 00:50:42,540
+Because no one's using the block wall no one at all at a patent reviewer keep sending me patents for weeks and weeks look at all these patents with magnetic treatment of water I went through none of them are like this they're all using the face of the North and South they're all hitting the fluid with the they want to all these different ways of how magnets should face the water I'm like I'm not doing that.
+
+383
+00:50:42,540 --> 00:50:57,540
+As a matter of fact you want to shut down the scale orator from working go ahead and hook it up and then get yourself a big bar magnet or whatever and sandwich it put the magnet right on pipe just like everybody else does watch what happens boom stops working.
+
+384
+00:50:57,540 --> 00:51:11,540
+Yep this is an amazing amazing amazing there is no one with a capital W that is doing this running the fluids exclusively solely over the block wall only and with
+
+385
+00:51:11,540 --> 00:51:31,540
+purpose with purpose I've had dozens of patents people send me and not a one is doing this not a one no one everyone's getting creative with because you know they're still locked into that eight year old nine year old it's a magnet you know so you got to use the side that we all know about right.
+
+386
+00:51:31,540 --> 00:51:40,540
+North or South right oh should we should we put the North and North or South and South or North and South none of it none of it avoid that avoid that.
+
+387
+00:51:40,540 --> 00:51:55,540
+So yeah so that's basically the magnetic reactor and then there's the fitting when you when you wrap your pipe and it cools down and all that around the magnet you'll find sometimes it's too tight go ahead and file away some of that material.
+
+388
+00:51:55,540 --> 00:52:08,540
+If it's too loose you want to put some epoxy a non not JB weld because it has iron in it use a clear epoxy or use PC 11 I'm a big fan of PC 11.
+
+389
+00:52:08,540 --> 00:52:34,540
+Look it up that's p peter Charlie number 11 epoxy and you just build up some material every 90 degrees on the magnet not you don't have to slop the whole edge in the magnet you know in other words if the magnet sloppy doesn't go it's it flops around flops through the pipe I like to fit the magnetic reactor into the pipe like a nice slip fit a tight slip fit even a mild press fit.
+
+390
+00:52:34,540 --> 00:53:03,540
+I don't like it sloping around because it has to be centered you do a visual center when you along the pipe if you center the the magnetic reactor the large magnet in the center of the pipe visually in three locations opposite each other she centered she's good to go must be centered first one I did I stuck the magnet I'll drop a photo of the first one.
+
+391
+00:53:03,540 --> 00:53:17,540
+Again when I put it in there I just push the magnet in the pipe and after I installed the magnet when a stew and I noticed the water got crappy magnet was still in there but it was not centered.
+
+392
+00:53:17,540 --> 00:53:23,540
+So I started moving the mess let me just visually centered it and I grabbed it with some zip ties.
+
+393
+00:53:23,540 --> 00:53:38,540
+And the water got really good and then I moved the magnet water got crappy wasn't centered. That's another it's a very critical thing that the block wall the domain wall is centered along the main path as much as possible.
+
+394
+00:53:38,540 --> 00:53:48,540
+And I'll drop a photo and show you what a ghetto radar looks like the first one ever made I'll show you what it looks like on the install.
+
+395
+00:53:48,540 --> 00:53:54,540
+It's real ugly because I did it real fast this is the foundation wall.
+
+396
+00:53:54,540 --> 00:54:06,540
+I did it real fast like you know over like a half a pack of cigarettes and five cups of coffee in the morning so excited to get it in there soon I got some daylight you know.
+
+397
+00:54:06,540 --> 00:54:17,540
+And there it is and that one's dated around April 18 of 2023 so I don't know if you guys got that picture somebody just chime in if you got it you can see it.
+
+398
+00:54:17,540 --> 00:54:23,540
+Yes and if that if that's not ghetto I don't know what it is.
+
+399
+00:54:23,540 --> 00:54:33,540
+You could see I was in a hurry there's no unions at schedule 40 it's magic marker you know I did my my line up where I was going to cut things and I just.
+
+400
+00:54:33,540 --> 00:54:41,540
+Bold marker I just make sure when you stick it in with the glue because it's that hot glue it's called hot PVC got five seconds.
+
+401
+00:54:41,540 --> 00:55:02,540
+Once you slip it in then you can't move it right so so let me make some bold marks and it was wet it was yeah and and you could see the magnet Scott this is after I before I buried it or closed off the area I can get to it pretty well because it's got sand around it and a hat at cover access cover now but.
+
+402
+00:55:02,540 --> 00:55:11,540
+Reason I got the zip ties there isn't I didn't even bother bonding the magnet magnetic reactor anything but I know she was really off center.
+
+403
+00:55:11,540 --> 00:55:21,540
+And you can see the bend is not really that great you know the the upper pipe on the return doesn't bend down and line up with the lower pipe at all like it does later on.
+
+404
+00:55:21,540 --> 00:55:34,540
+And it still works is because I've got majority of the pipe centered and it's just zip ties and that's the first one this is the first desperate attempt to get it manifest.
+
+405
+00:55:34,540 --> 00:55:38,540
+And boy was it was it worth it.
+
+406
+00:55:38,540 --> 00:55:46,540
+Now if you if you scroll up to the gray one that I just dropped in the images you could see the big formative difference there.
+
+407
+00:55:46,540 --> 00:55:53,540
+That's the second one that I built a week later by contemplating how it should be done.
+
+408
+00:55:53,540 --> 00:56:06,540
+Okay and I do apply tabs I don't know you could go back and see photos of other ones I do make plastic tabs if you if you guys recall the ones that if you scroll up.
+
+409
+00:56:06,540 --> 00:56:21,540
+Ones that are in the cases. By the way there's a pick someone put there about a Lord kelvin's experimenting Andrew where he splits the water flow now just ignore that no it says nothing to do with anything like that.
+
+410
+00:56:21,540 --> 00:56:26,540
+If you scroll up I don't know if I have the wildrop.
+
+411
+00:56:26,540 --> 00:56:40,540
+What I'm going to do just for finishing purposes I'm going to go see the other account here that will forward another image of if you were to order one from me.
+
+412
+00:56:40,540 --> 00:56:44,540
+And the check is in the mail like they say and I know you're going to pay for it.
+
+413
+00:56:44,540 --> 00:56:50,540
+You will I will get one of these to you you're going to settle with me on it.
+
+414
+00:56:50,540 --> 00:56:57,540
+I'll be if you act professional with me I will be very professional with you kind of thing right.
+
+415
+00:56:57,540 --> 00:57:00,540
+You will get one.
+
+416
+00:57:00,540 --> 00:57:13,540
+That looks like this is the shorty I call it because the ones below are a little larger I'm going to drop an image here again use you guys are probably seen these before.
+
+417
+00:57:13,540 --> 00:57:20,540
+We'll get something that looks like that in a very nice military grade pressurized case.
+
+418
+00:57:20,540 --> 00:57:24,540
+Right it's got a nice finish to it.
+
+419
+00:57:24,540 --> 00:57:29,540
+Or you'll get the larger model that has some fittings on it.
+
+420
+00:57:29,540 --> 00:57:35,540
+That will look like this let's see I'll send you a forward this one.
+
+421
+00:57:35,540 --> 00:57:42,540
+Or you'll get the larger it's still one they're both one inch pipe.
+
+422
+00:57:42,540 --> 00:57:44,540
+That looks like this.
+
+423
+00:57:44,540 --> 00:57:47,540
+I'll just drop that one in.
+
+424
+00:57:47,540 --> 00:57:52,540
+So when you get a device for me and you don't know me.
+
+425
+00:57:52,540 --> 00:57:57,540
+Say boy this guy don't make junk he makes some good shit when there it is.
+
+426
+00:57:57,540 --> 00:58:04,540
+That one has a gold leaf on it it's a it looks silver but it's a gold leaf and it's an imitation gold leaf which is made of cotton.
+
+427
+00:58:04,540 --> 00:58:07,540
+It's a gold leaf which is made of copper and zinc.
+
+428
+00:58:07,540 --> 00:58:09,540
+Barium titanate clue.
+
+429
+00:58:09,540 --> 00:58:16,540
+Yeah call this the tactical version it's got the us army tan colored 2k spray coating on it.
+
+430
+00:58:16,540 --> 00:58:20,540
+Now what you'll see on both of these is once the magnet is fitted.
+
+431
+00:58:20,540 --> 00:58:31,540
+I have a chinking material or a cock that goes between the pipe and the magnet and some tabs that are bonded to the pipe and the magnet to hold it in place.
+
+432
+00:58:31,540 --> 00:58:34,540
+I see that on both of them.
+
+433
+00:58:34,540 --> 00:58:43,540
+And those tabs are at 36 degrees apart because why because the heart sits at 36 degrees in the body.
+
+434
+00:58:43,540 --> 00:58:45,540
+36 degrees right.
+
+435
+00:58:45,540 --> 00:58:49,540
+It's an important angle.
+
+436
+00:58:49,540 --> 00:58:56,540
+So if you guys see those images those are with what the finished products look like if you were to order one from me what you get.
+
+437
+00:58:56,540 --> 00:59:04,540
+It is impressive. It's not like you're getting something from Amazon or cheap box it comes double boxed in a really nice case.
+
+438
+00:59:04,540 --> 00:59:08,540
+And you're also paying five grand for it.
+
+439
+00:59:08,540 --> 00:59:10,540
+So it should look good.
+
+440
+00:59:10,540 --> 00:59:13,540
+In the larger version that you've got the Greek.
+
+441
+00:59:13,540 --> 00:59:14,540
+Yeah.
+
+442
+00:59:14,540 --> 00:59:22,540
+The two circles either side of the scale or a they just flanges for the feeding.
+
+443
+00:59:22,540 --> 00:59:25,540
+The circles mean left and right on the foreground of the case.
+
+444
+00:59:25,540 --> 00:59:26,540
+Yeah.
+
+445
+00:59:26,540 --> 00:59:28,540
+Those are the other halves of the unions.
+
+446
+00:59:28,540 --> 00:59:31,540
+You could just put in what a pipe union looks like.
+
+447
+00:59:31,540 --> 00:59:32,540
+Yeah.
+
+448
+00:59:32,540 --> 00:59:33,540
+They just did.
+
+449
+00:59:33,540 --> 00:59:35,540
+I didn't want to have them attached.
+
+450
+00:59:35,540 --> 00:59:36,540
+Yeah.
+
+451
+00:59:36,540 --> 00:59:38,540
+Are you familiar with the plumbing union?
+
+452
+00:59:38,540 --> 00:59:45,540
+Those those two circles on the foreground in the case get attached to the main.
+
+453
+00:59:45,540 --> 00:59:47,540
+Oh yeah, gotcha.
+
+454
+00:59:47,540 --> 00:59:48,540
+Yeah.
+
+455
+00:59:48,540 --> 00:59:49,540
+Yeah.
+
+456
+00:59:49,540 --> 00:59:53,540
+Anybody anybody else see that?
+
+457
+00:59:53,540 --> 00:59:54,540
+Yeah.
+
+458
+00:59:54,540 --> 00:59:56,540
+I'm not extra parts for anything.
+
+459
+00:59:56,540 --> 00:59:57,540
+Yeah.
+
+460
+00:59:57,540 --> 00:59:58,540
+Yeah.
+
+461
+00:59:58,540 --> 00:59:59,540
+So the flanges.
+
+462
+00:59:59,540 --> 01:00:00,540
+Yeah.
+
+463
+01:00:00,540 --> 01:00:01,540
+There's the outer flanges.
+
+464
+01:00:01,540 --> 01:00:07,540
+The flanges that are mounted to the scale orator are the ones where the old rings are.
+
+465
+01:00:07,540 --> 01:00:11,540
+These are the outer flanges that get mounted to where you do your cut in.
+
+466
+01:00:11,540 --> 01:00:12,540
+Yep.
+
+467
+01:00:12,540 --> 01:00:13,540
+And the center.
+
+468
+01:00:13,540 --> 01:00:14,540
+Yeah.
+
+469
+01:00:14,540 --> 01:00:15,540
+And in the center.
+
+470
+01:00:15,540 --> 01:00:17,540
+Is that just a bushing that you had it on there?
+
+471
+01:00:17,540 --> 01:00:18,540
+Yeah.
+
+472
+01:00:18,540 --> 01:00:25,540
+And in the center because it looks all right, imagine you got a big magnet and you adhere to smaller magnets and you got this gap you look in there.
+
+473
+01:00:25,540 --> 01:00:27,540
+It's like, you know, so what I did.
+
+474
+01:00:27,540 --> 01:00:32,540
+Remember I said when you get stick a pipe, you can have some leftover about a foot.
+
+475
+01:00:32,540 --> 01:00:35,540
+You cut yourself a three and a quarter inch piece.
+
+476
+01:00:35,540 --> 01:00:39,540
+And you have yourself a cone, a metal cone or a wooden cone.
+
+477
+01:00:39,540 --> 01:00:41,540
+Heat one end of the piece.
+
+478
+01:00:41,540 --> 01:00:43,540
+Plastic and you flare it out.
+
+479
+01:00:43,540 --> 01:00:47,540
+Until it fills into that gap of the smaller magnet and you turn it around and you flare it out again.
+
+480
+01:00:47,540 --> 01:00:48,540
+It's not that easy.
+
+481
+01:00:48,540 --> 01:00:49,540
+I have a.
+
+482
+01:00:49,540 --> 01:00:53,540
+Excuse me, a jig that I made to do that.
+
+483
+01:00:53,540 --> 01:00:56,540
+A jig that maybe I could show.
+
+484
+01:00:56,540 --> 01:01:02,540
+Yeah, it's a no, I don't have done a photo of that, but I made a special jig out of wood.
+
+485
+01:01:02,540 --> 01:01:05,540
+That you you just cut a three inch piece of pipe.
+
+486
+01:01:05,540 --> 01:01:11,540
+And as you heat the pipe, you basically with a small press to press it down until it stops as a stop.
+
+487
+01:01:11,540 --> 01:01:13,540
+Players the part out.
+
+488
+01:01:13,540 --> 01:01:14,540
+Right.
+
+489
+01:01:14,540 --> 01:01:16,540
+And then you heat it up like a mandrel.
+
+490
+01:01:16,540 --> 01:01:18,540
+Yeah, like a mandrel.
+
+491
+01:01:18,540 --> 01:01:19,540
+Yeah, yeah, yeah.
+
+492
+01:01:19,540 --> 01:01:22,540
+I'll I'll be the future make, but it's not necessary.
+
+493
+01:01:22,540 --> 01:01:23,540
+It just looks good.
+
+494
+01:01:23,540 --> 01:01:28,540
+It's just a well formed when I send it to a guy as a company says, wow, that's a nice.
+
+495
+01:01:28,540 --> 01:01:33,540
+Well formed plastic piece in center because they form plastics and they're like, how do you do that?
+
+496
+01:01:33,540 --> 01:01:41,540
+Or he just said, well, for someone who has a business who forms makes forms and injects plastics, he's called it a well formed piece.
+
+497
+01:01:41,540 --> 01:01:42,540
+So I take it as a compliment.
+
+498
+01:01:42,540 --> 01:01:48,540
+But I just like plugging it up.
+
+499
+01:01:48,540 --> 01:01:57,540
+If you really feel mean, you could get yourself some, you know, that epoxy, that clear epoxy that you know when you go to a bar and they have pennies and things in the bar.
+
+500
+01:01:57,540 --> 01:02:00,540
+With that heavy clear coat material epoxy on it, right?
+
+501
+01:02:00,540 --> 01:02:07,540
+Go ahead and mix up some silver dust and barium tetanate with that epoxy and just fill in the gap.
+
+502
+01:02:07,540 --> 01:02:14,540
+The gap, poured and you know, put a block or something on the backside and fill that area up with that epoxy is fine too.
+
+503
+01:02:14,540 --> 01:02:20,540
+But it gets expensive when you put expensive dielectrics in there because I remember barium tetanate and silver powder is not cheap.
+
+504
+01:02:20,540 --> 01:02:21,540
+You could do that.
+
+505
+01:02:21,540 --> 01:02:22,540
+That'll increase.
+
+506
+01:02:22,540 --> 01:02:26,540
+It's a little make the water seem a little more juicy.
+
+507
+01:02:26,540 --> 01:02:33,540
+Let's just say all these little things will get into later with the adding dielectrics to the magnet and things like that will do.
+
+508
+01:02:33,540 --> 01:02:36,540
+But it's not that much of a difference.
+
+509
+01:02:36,540 --> 01:02:38,540
+It's just a little bit nicer.
+
+510
+01:02:38,540 --> 01:02:46,540
+It's kind of like years ago, you bought a plane car with a radio and the dealer says for 300 bucks more will put a pin stripe on the car.
+
+511
+01:02:46,540 --> 01:02:48,540
+As it go faster.
+
+512
+01:02:48,540 --> 01:02:50,540
+Well, you know, it's a pin strike, right?
+
+513
+01:02:50,540 --> 01:02:52,540
+It's more than a pin stripe, but you know what I mean?
+
+514
+01:02:52,540 --> 01:02:54,540
+It's just options.
+
+515
+01:02:54,540 --> 01:02:57,540
+It does get a little bit better.
+
+516
+01:02:57,540 --> 01:03:02,540
+So basically that's just a fill piece in on the magnet.
+
+517
+01:03:02,540 --> 01:03:07,540
+So you know, little curious children will stick their fingers in there and say, hey, look, it's just too magnet stacked.
+
+518
+01:03:07,540 --> 01:03:13,540
+It's again, I was just inspired as just in like the way it looked just imagine bonding to smaller magnet to a larger magnet.
+
+519
+01:03:13,540 --> 01:03:15,540
+That's what it looks like.
+
+520
+01:03:15,540 --> 01:03:18,540
+And I figured let's fill that hole.
+
+521
+01:03:18,540 --> 01:03:21,540
+Also on installation, it's much cleaner.
+
+522
+01:03:21,540 --> 01:03:26,540
+It won't get filled with dirt and water, you know, because there's a step in there, right?
+
+523
+01:03:26,540 --> 01:03:31,540
+So again, now we're that we're on the magnet's attaching the magnet.
+
+524
+01:03:31,540 --> 01:03:35,540
+What I do when the magnet I have a tight fit.
+
+525
+01:03:35,540 --> 01:03:42,540
+And if it just so happens to be a sloppy fit, either way too tight grind out some of the pipe, use your brain.
+
+526
+01:03:42,540 --> 01:03:46,540
+Don't be don't grind away so much pipe that you compromise it.
+
+527
+01:03:46,540 --> 01:03:49,540
+Just a little.
+
+528
+01:03:49,540 --> 01:03:57,540
+Or if it's too big of an opening, go ahead and every 90 degrees or 120 degrees on the magnet, apply some epoxy.
+
+529
+01:03:57,540 --> 01:04:02,540
+You could do a couple of dabs and when the epoxy hardens, file it down as needed to center it.
+
+530
+01:04:02,540 --> 01:04:05,540
+It should be a nice press fit, not a press fit.
+
+531
+01:04:05,540 --> 01:04:13,540
+Usually when you see press fit in the fab world, it means you need a tool or press to press it and no, it's a good slip fit.
+
+532
+01:04:13,540 --> 01:04:19,540
+Like when you slip it in there, you could walk it with it, you could walk around with it under your arm and the magnet won't fall out.
+
+533
+01:04:19,540 --> 01:04:21,540
+That's the worst thing too.
+
+534
+01:04:21,540 --> 01:04:28,540
+When you're playing with it, when you're putting this together, it's on a table, someone tries to pick it up and move it and the magnet falls out and hits the deck, right?
+
+535
+01:04:28,540 --> 01:04:31,540
+Because it'll shatter, it's a ceramic magnet.
+
+536
+01:04:31,540 --> 01:04:37,540
+And by the way, let me just add this, every time I talk about something, I've got to add various sundry things that sound tangental.
+
+537
+01:04:37,540 --> 01:04:43,540
+I'm using these ceramic magnets in an era where everything is gone with these neodymium little fuckers, right?
+
+538
+01:04:43,540 --> 01:04:48,540
+Neos don't work. You could try experimenting and has a slight effect.
+
+539
+01:04:48,540 --> 01:04:55,540
+The real high powered magnets don't work because the field is so tight and the block wall is so tight, right?
+
+540
+01:04:55,540 --> 01:04:58,540
+The stronger the magnet, the tighter the field.
+
+541
+01:04:58,540 --> 01:05:02,540
+And you could notice this by the way, by handling them.
+
+542
+01:05:02,540 --> 01:05:09,540
+If you have a small neomat, I don't want to get it in the neosubject, but it's really strong, rare earth magnets they call them.
+
+543
+01:05:09,540 --> 01:05:13,540
+If you handle that, how strong is this magnet?
+
+544
+01:05:13,540 --> 01:05:15,540
+You bring it close to a piece of metal, nothing, nothing, nothing.
+
+545
+01:05:15,540 --> 01:05:18,540
+It gets real close and then bam!
+
+546
+01:05:18,540 --> 01:05:21,540
+Holy shit, that's a strong magnet, but yeah, let's pay attention.
+
+547
+01:05:21,540 --> 01:05:26,540
+A comparable strength magnet that's ceramic, of course, can be much larger.
+
+548
+01:05:26,540 --> 01:05:32,540
+As you bring it closer, let's say refrigerator, and you're like, "Oh, it's start, I feel the pull, I feel the pull, I feel the pull."
+
+549
+01:05:32,540 --> 01:05:35,540
+Because the field is much wider.
+
+550
+01:05:35,540 --> 01:05:44,540
+So we're living in an era where basically these ceramic magnets are in industry and everywhere else being phased out, unless it's for cost.
+
+551
+01:05:44,540 --> 01:05:50,540
+Because these are big and chunky and they're heavy and they don't have the field intensity.
+
+552
+01:05:50,540 --> 01:05:57,540
+But for this application, they work way better than the neos. If you tried neos, it wouldn't work much at all because the field is so tight.
+
+553
+01:05:57,540 --> 01:06:02,540
+So I just needed to bring that up because we're on the magnet subject.
+
+554
+01:06:02,540 --> 01:06:07,540
+But basically, when I apply the magnet, now you have two situations that go on.
+
+555
+01:06:07,540 --> 01:06:12,540
+You want that magnetic reactor to stay put.
+
+556
+01:06:12,540 --> 01:06:25,540
+So you have two things that will affect the device once it's installed. You have a torque load when let's say a plumbers hooking it up, he's twisting and turning with his spanners, right, hopefully not if they're using unions.
+
+557
+01:06:25,540 --> 01:06:27,540
+You don't have to use unions.
+
+558
+01:06:27,540 --> 01:06:30,540
+In the install, you might have to force it, right?
+
+559
+01:06:30,540 --> 01:06:36,540
+So the overlap where the pipe is also has to be bonded to use PVC glue for that.
+
+560
+01:06:36,540 --> 01:06:46,540
+If you shoot in close up on the scalar finish, scaler, in the cases, real close, you'll see that the where the pipes, the spool overlaps is also bonded.
+
+561
+01:06:46,540 --> 01:06:53,540
+You could see the fill it, they're a fillet of material that just PVC glue or plastic epoxy for that.
+
+562
+01:06:53,540 --> 01:06:57,540
+Now again, the magnetic reactor where it fits into the pipe, you got two things that will disturb it.
+
+563
+01:06:57,540 --> 01:07:01,540
+One is a slow torque load twisting bending.
+
+564
+01:07:01,540 --> 01:07:11,540
+And the other thing is what I call a shock load. Shock load would be like you're walking to where you're going to install it and from the truck and it falls out of your hand hits the deck.
+
+565
+01:07:11,540 --> 01:07:14,540
+Boom, it's the ground. That's a shock load.
+
+566
+01:07:14,540 --> 01:07:19,540
+Shock load would be someone giving it a good whack with a mallet. There's a shock load.
+
+567
+01:07:19,540 --> 01:07:33,540
+All right, what we know from basic fab work is that in order to resist torque and twist, you need a rigid glue, something that is preferably even more rigid than the material.
+
+568
+01:07:33,540 --> 01:07:43,540
+That's why, for example, young children when they start playing with wood glue, they're always amazed when they glue the two pieces of wood together and they try to break it that it.
+
+569
+01:07:43,540 --> 01:07:51,540
+The glue is stronger than the wood, right? Yeah, I remember that. I don't know if everybody remembers that playing around wood glue when you're really young.
+
+570
+01:07:51,540 --> 01:08:00,540
+And when you glue the wood together is like, shit, why is stronger where I glued it stronger than the wood itself? Okay, that resists the torque and twist.
+
+571
+01:08:00,540 --> 01:08:02,540
+Okay.
+
+572
+01:08:02,540 --> 01:08:29,540
+So we use that kind of glue every 60 degrees, every 90 degrees, and we leave some areas open, then we use a flexible glue because the flexible glue takes the shock load really well where if the hard glue that's stronger than the plastic or stiff from the plastic will break with the shock load little shatter.
+
+573
+01:08:29,540 --> 01:08:36,540
+Let's go back to the popsicle stick children playing with wood glue, they use the regular white or yellow wood glue.
+
+574
+01:08:36,540 --> 01:08:48,540
+And after a few hours, they go ahead and break, pull it apart and they say the popsicle stick breaks for where it was glued, right? Now, that that's your shock load breaking it.
+
+575
+01:08:48,540 --> 01:09:03,540
+But if you had a very flexible glue and you put the two popsicle sticks together with your, your really young nephew or grandson or whatever, and you ask them pull the popsicle sticks together, it's real, they won't break, right?
+
+576
+01:09:03,540 --> 01:09:11,540
+They'll just twist and bend, right? And you'll see the glue kind of flexing and stretching, right? You get it?
+
+577
+01:09:11,540 --> 01:09:23,540
+So what would I've considered from experience and also projecting my experience on what could happen? The two situations, one is a heavy shock load and one is a torque load.
+
+578
+01:09:23,540 --> 01:09:34,540
+So I want two types of glue. So if one fails, so if it takes the shock load and the rigid glue fails, I've got the flex glue still holding the magnetic reactor in place and vice versa.
+
+579
+01:09:34,540 --> 01:09:51,540
+Right? If the, if the flexible glue fails, I've got the rigid glue holding it. And once I have those intervals of glue in there, I then have a color matched water based latex high quality that I've matched.
+
+580
+01:09:51,540 --> 01:10:00,540
+I took black, cock and gray, cock and mixed it. I've heard women in Washington called cock cock. That's fine too.
+
+581
+01:10:00,540 --> 01:10:09,540
+And they, it depends on what accent you have. So you take the black cock and the gray cock and you mix it to get the color of the gray plastic, I like that.
+
+582
+01:10:09,540 --> 01:10:18,540
+I put, whenever I use fillet material like that, even the poxies, I have a small plastic bag, a zip lock bag, those freezer bags are durable.
+
+583
+01:10:18,540 --> 01:10:30,540
+I put the material in the corner of the bag, I tie it real tight and I have a little pouch with the glue, the corner, I can snip a little tiny one millimeter into the corner of the bag and then I have like a pastry black bag where I could flow the material out.
+
+584
+01:10:30,540 --> 01:10:37,540
+Really nice. And then I have some solvent to smooth it out as needed. Right? That depends on your skills.
+
+585
+01:10:37,540 --> 01:10:49,540
+If someone ever asked you like cock their bathtub or whatever, if you're happy with the way you do that, you probably be happy with the way you'll do this. If you're not good at that, you probably won't be good at that. It's not necessary to make it look finished at this point.
+
+586
+01:10:49,540 --> 01:11:00,540
+And I believe that the finishing aspects struck and some of the structural aspects will best be done in the future, maybe doing a short video and uploading it somewhere.
+
+587
+01:11:00,540 --> 01:11:10,540
+I think if you do enough videos or whatever on Skype, it'll kill Skype. I'm not sure. So maybe it's best Bruce or someone else, Sarah might help me with that where we upload a video like on YouTube.
+
+588
+01:11:10,540 --> 01:11:23,540
+Oh my gosh. Or you know, some other whatever free thing that you sign up for shorts and you know, in the title will be appropriate and I have a description and you can say, well, how does the Greek finish this? How does you put that?
+
+589
+01:11:23,540 --> 01:11:32,540
+Right, but I'm not going to do all this. We can watch the build them. So yeah, go ahead.
+
+590
+01:11:32,540 --> 01:11:36,540
+We could even play the video right over Skype.
+
+591
+01:11:36,540 --> 01:11:44,540
+Yeah, I think it's better to do reference type stuff where it's clean and it's poignant because over Skype, it may not be perfect. First shot around.
+
+592
+01:11:44,540 --> 01:11:58,540
+I could do a video and then have it edited, you know, just to like we know people do on YouTube, right? Or Vimeo or whatever, right? Honestly, there's so many free. Yeah, do so. Or you could do the video over Skype. Yeah, turn it on, turn it off. Yeah.
+
+593
+01:11:58,540 --> 01:12:08,540
+I think it records video also, doesn't it? Yes, sir. Yeah, but even doing a video over Skype, I got to get lighting right. You know, you know me, I got to do it right. I'm not going to get.
+
+594
+01:12:08,540 --> 01:12:18,540
+I know. Yeah, so I got to get a little studio area together. You know, I know people won't mind if a cat or two jumps over stuff.
+
+595
+01:12:18,540 --> 01:12:28,540
+But yeah, I just got to do it right. The lighting got to be right. The setting has to be right. Camera has to be right. Maybe more than one camera. I don't know. I have all that stuff ready to go.
+
+596
+01:12:28,540 --> 01:12:33,540
+I don't like to do junk. You know, so.
+
+597
+01:12:33,540 --> 01:12:48,540
+Also, it's not necessary to do all that setup if no one's going to build anything, right? And I noticed the more interest, the more, the more interest I see, the more interest I will put in and more time I will put into help whoever wants to do it.
+
+598
+01:12:48,540 --> 01:12:51,540
+This is something that.
+
+599
+01:12:51,540 --> 01:13:05,540
+Again, it reminds me I was reading about Michael Faraday is like something came up, raises, says, just thinking about Michael Faraday, look up Michael Faraday guy with an eighth grade education basically created the foundation of the entire electrical world.
+
+600
+01:13:05,540 --> 01:13:09,540
+Or in the 1700s, 1800s, right?
+
+601
+01:13:09,540 --> 01:13:18,540
+1800s, 1800s, 1800s, or whatever. And he had no education, no whatever. And he basically no mathematics, no equations, right?
+
+602
+01:13:18,540 --> 01:13:28,540
+Just like I've got, you know, descriptions here's some conductive wire. Here's a piece of iron and look what I've observed when I do this and look what I've observed and I did that.
+
+603
+01:13:28,540 --> 01:13:34,540
+And he was not into turning it into a business. He just wanted to document everything. I think he was a canite.
+
+604
+01:13:34,540 --> 01:13:42,540
+It's a religious sect where it's like a teacher that it's bad to make money. It's bad to be wealthy or whatever. I'm not a gang.
+
+605
+01:13:42,540 --> 01:13:48,540
+But at this point, I'd like to get other people interested in doing see what comes out of it.
+
+606
+01:13:48,540 --> 01:13:55,540
+Because if it does turn into a business, even on my and more strictly a business and proposal, there's plenty to go around.
+
+607
+01:13:55,540 --> 01:14:02,540
+I mean, there's plenty of customers and all that, you know, and I'm leading the way on it anyway until someone else wants to lead the way on it.
+
+608
+01:14:02,540 --> 01:14:10,540
+Because this is very, very important application and discovery of use of the block wall of a magnet.
+
+609
+01:14:10,540 --> 01:14:20,540
+Again, I want to stress on this. There are magnets involved, but we are not using magnetism. That's why we don't call them magnets when they're assembled to call them a magnetic reactor.
+
+610
+01:14:20,540 --> 01:14:25,540
+Kind of gets the mind away from sole purpose of a magnet.
+
+611
+01:14:25,540 --> 01:14:40,540
+You bring up a magnet to even someone who's a fizzy cyst. The first thing they think of in their mind, I know actually if they have any mind left after education or university is magnet sticking to something, you know, poles.
+
+612
+01:14:40,540 --> 01:14:50,540
+They have no idea that the block wall is useful as it's being used here and they never will, by the way, in the ever that they have left.
+
+613
+01:14:50,540 --> 01:15:02,540
+So this is an application on many, many, many levels. And I just want to any, if there's any questions about the coatings, the pipe bending, which we have not gotten into yet.
+
+614
+01:15:02,540 --> 01:15:07,540
+Or whatever, maybe should I get into the pipe bending a little bit?
+
+615
+01:15:07,540 --> 01:15:08,540
+Yeah, type of.
+
+616
+01:15:08,540 --> 01:15:10,540
+Oh, yes.
+
+617
+01:15:10,540 --> 01:15:25,540
+Okay, type of sand, sharp sand. There's different types of sand, L kinds of sand. There's something called sharp sand and they use it. It's a AB sand when they make roads, you know, they mix gravel and sand and they put the ass, they pack it down and they put their ass, folder, some mental.
+
+618
+01:15:25,540 --> 01:15:29,540
+You can buy it. It's called sharp sand. If you don't have it, it's fine.
+
+619
+01:15:29,540 --> 01:15:34,540
+Any beach sand will do play sand will do call it sand anything.
+
+620
+01:15:34,540 --> 01:15:45,540
+The proper temperature I found the best temperatures 360, 370 degrees. I go to a secondhand store and buy medium sized pots.
+
+621
+01:15:45,540 --> 01:15:49,540
+Leader and a half pot thick wall aluminum, anodized pot.
+
+622
+01:15:49,540 --> 01:15:57,540
+There's a lot of, you could use cast iron. You want the side of the pot to be thick. You know how so I'm stainless steel potters have a thick bottom and thin side.
+
+623
+01:15:57,540 --> 01:16:04,540
+It takes much longer and do it over an electric stove top cast off top doesn't matter get yourself an infrared thermometer.
+
+624
+01:16:04,540 --> 01:16:07,540
+So you could shoot it at a distance when it gets to you.
+
+625
+01:16:07,540 --> 01:16:12,540
+340 degrees. The sand give it a stir every so often.
+
+626
+01:16:12,540 --> 01:16:22,540
+We figure out what that is Celsius. I think somebody figure out 340, 360, 370 degrees is your working point depending on your outdoor temperature.
+
+627
+01:16:22,540 --> 01:16:31,540
+Winter time. If you're outdoor temperature, it's fall or winter you're going to keep it in the 360, 370 range if it's a hot summer day.
+
+628
+01:16:31,540 --> 01:16:34,540
+340, 350 degrees sand is fine.
+
+629
+01:16:34,540 --> 01:16:44,540
+And you want to plug your pipe and when you plug your pipe, you have a dowel with a stopper wrapped around that it could be just a piece of rag with masking tape.
+
+630
+01:16:44,540 --> 01:16:58,540
+And your dowel is like a push rod it goes down into the pipe a couple of inches because you don't want to heat up the very ends of the pipe where your plumbing fittings go because they're going to deform potentially right.
+
+631
+01:16:58,540 --> 01:17:03,540
+So what you're really doing out of let's say 34 inches of pipe.
+
+632
+01:17:03,540 --> 01:17:12,540
+You only need enough sand for let's say 30, 27 inches.
+
+633
+01:17:12,540 --> 01:17:21,540
+Usually I have two dowel ends that are 4 inches long that I stuff into the ends or one end is 2 1/2 inches.
+
+634
+01:17:21,540 --> 01:17:26,540
+So you could see you know those barrel cleaners they have on a canons.
+
+635
+01:17:26,540 --> 01:17:38,540
+It's like a stick with a brush or a ball on the end of it cloth ball basically just make something like that and attach to the dowel so when you pull it out it comes out with the dowel of plug.
+
+636
+01:17:38,540 --> 01:17:42,540
+And so no hot sand ends up on the last couple of inches of the pipe.
+
+637
+01:17:42,540 --> 01:17:46,540
+That's pretty much it. You got to use a metal funnel.
+
+638
+01:17:46,540 --> 01:17:56,540
+Don't grab your mom's plastic funnel because you know what you pour 350 degree sand Fahrenheit for plastic funnel your mommy is going to ask you what you do to the funnel.
+
+639
+01:17:56,540 --> 01:17:59,540
+It'll melt and fall into the pipe and make a big mess.
+
+640
+01:17:59,540 --> 01:18:14,540
+So you need a metal funnel or a glass funnel but I don't like working with glass when they got stuff that have to work quick.
+
+641
+01:18:14,540 --> 01:18:17,540
+Pipe of cups.
+
+642
+01:18:17,540 --> 01:18:23,540
+Paper cups will work. Yeah because flashpoint of paper cups over 450 Fahrenheit so you'll find.
+
+643
+01:18:23,540 --> 01:18:28,540
+Whatever takes I use the funnel because I like to not think about it.
+
+644
+01:18:28,540 --> 01:18:41,540
+And when you fill up the pipes to dump it out put your your end piece in your plug in. Right now I get really fancy you get really fancy have very elaborate stoppers with valves on them filters.
+
+645
+01:18:41,540 --> 01:18:47,540
+And when I put my stoppers on there I put about two or three PSI of air.
+
+646
+01:18:47,540 --> 01:18:55,540
+And there's actually air pressure inside the pipe that keeps the walls from deforming also but that's too technical right now.
+
+647
+01:18:55,540 --> 01:19:00,540
+Yeah I mean in these the level that I'm making them now I could send it to a space agency.
+
+648
+01:19:00,540 --> 01:19:06,540
+And they engineers would look at it and say this thing is really really high level tolerance manufacturer.
+
+649
+01:19:06,540 --> 01:19:15,540
+I don't need to convey all the various things I do that that don't matter and getting one or two or three of these built getting the working not necessary.
+
+650
+01:19:15,540 --> 01:19:24,540
+But eventually I will get into how to make a high precision one and show all the jigs and fixtures and mandrels and all the stuff that I made.
+
+651
+01:19:24,540 --> 01:19:32,540
+And it'll just it'll just bog you down right now and off to be on for the next six hours to explain all that.
+
+652
+01:19:32,540 --> 01:19:39,540
+Or the 30 photographs. I'm not going to do that right now it's too early in the game and I think you guys appreciate that.
+
+653
+01:19:39,540 --> 01:19:53,540
+But what you want to do with the hot sand in the pipe is put plugs very I can't stress how important it is because the hot sand does not go to all the way to the end of the pipe you want to keep that true dimension undisturbed right.
+
+654
+01:19:53,540 --> 01:20:00,540
+Because that's why you're where your fittings go and your fittings are dimensionally accurate I mean they're not that dimensionally accurate plastic things.
+
+655
+01:20:00,540 --> 01:20:13,540
+If you go to a plumbing supply you grab a handful of any fitting of the same size you'll notice they all feel a little different when you try to put it on the end of a pipe they don't really make these plumbing fittings of high tolerance so you don't want to disturb the end of the pipe.
+
+656
+01:20:13,540 --> 01:20:21,540
+What I do is I have a heat gun it's called a heat gun yes I use it for paint stripping or whatever it gets real hot.
+
+657
+01:20:21,540 --> 01:20:34,540
+600 degrees Celsius 1200 degrees Fahrenheit kind of thing on high. Right so while my sand is cooking usually it takes me 15 to 20 minutes to get the sand up the temperature on a low to medium flame.
+
+658
+01:20:34,540 --> 01:20:44,540
+No reason to hit the pot of sand with a high flame because it'll just it doesn't the heat doesn't transfer to the sand and so fast right so why burn up your pot and your burner.
+
+659
+01:20:44,540 --> 01:20:58,540
+Now I have another thing that I do is I mix magnetite if you don't have it it's fine about 20% magnetite in with my sand now magnetite's black iron you know black sand it's iron crystal.
+
+660
+01:20:58,540 --> 01:21:05,540
+And when I started doing this I noticed that whenever I put it in there because it holds the heat real good.
+
+661
+01:21:05,540 --> 01:21:19,540
+And I noticed the one ever I heated pipe with the magnetite mixture and I rubbed solvent strong solvent and that would normally melt the plastic.
+
+662
+01:21:19,540 --> 01:21:27,540
+If it had been heated with the magnetite internally or externally the plastic did not want to melt it changed the plastic.
+
+663
+01:21:27,540 --> 01:21:45,540
+And I made it resistant to solvents and I thought I was just you know maybe the solvent got aired out lost at the potency or whatever and I said hmm maybe the magnetite transmuting the pipe you know formula changing it making it more resistant to solvents so I said let's do a couple of experiments.
+
+664
+01:21:45,540 --> 01:22:05,540
+I went back and forth with heated non heated heated with magnetite heated without magnetite and then every time the pipe that was subject to the hot magnetite mixture was extremely solvent resistant so I just want to I've mentioned this on a regular sonica while back.
+
+665
+01:22:05,540 --> 01:22:19,540
+And I believe that it also affects the water quality because now if the plastic is less resistant is more resistant to solvents it's actually resistant to leaching stuff into the water right it's more inert.
+
+666
+01:22:19,540 --> 01:22:34,540
+So you're going to have a better plastic that way again not necessary but it is it is it is a good point and that a lot of people are not as far I have a half a ton of magnetite here on the property thousand pounds of it high grade that's not fair right.
+
+667
+01:22:34,540 --> 01:22:47,540
+If I don't have magnetite where do I get it well you know eBay will send you a little pouch for ten bucks or something whatever you could be industrious on how do you I've talked about been talking about magnetite for years so.
+
+668
+01:22:47,540 --> 01:23:02,540
+So basically that's heating the pipe with the sand but just don't other than the stops I preheat the pipe with that heat gun by rolling it back and forth you don't want to you always want to be very even you could use a blow dry but you want to get that pipe.
+
+669
+01:23:02,540 --> 01:23:24,540
+Up upwards of 120 degrees externally so you basically you have a room temperature or ambient temperature pipe when you pour that hot sand in that schedule 80 hot sand is going to give up all its heat just to get that pipe hot before it makes it flexible and you're going to your working time in the pipes going to be real stiff.
+
+670
+01:23:24,540 --> 01:23:53,540
+So if you preheat the pipe externally with the heat gun or blow dry to at least 120 degrees by rolling it back and forth on the table or on the ground while your sand is being heated you want to heat the pipe really as much as you can without it getting soft because once it gets soft without the sand filler can deform and you remember when you're heating preheating the pipe before you put the sand in there you again you avoid the last three inches.
+
+671
+01:23:53,540 --> 01:24:03,540
+On the ends because you don't want to deform them again right so you can put markers on there or whatever just be a good boy remember where you're pointing the gun.
+
+672
+01:24:03,540 --> 01:24:22,540
+And and when I preheat the pipe to about 120 130 degrees by hand rolling it around as many ways to preheat a pipe you don't have to use the heat gun or whatever I don't recommend using hot water because it's dangerous splashing and around and all that but you could if you had a trough with boiling water that would work fine but
+
+673
+01:24:22,540 --> 01:24:36,540
+how are you going to not heat the ends again so I use a heat gun and for the moment you know while it's hot you could set it aside be quick get your plugs on one end and start pouring your hot sand in there.
+
+674
+01:24:36,540 --> 01:24:43,540
+And once you got your hot sand in there getting grab your heat gun again you know we're talking about like an industrial heat gun you could be gotten very cheap.
+
+675
+01:24:43,540 --> 01:24:58,540
+Hair dryers can help but they don't work very well you can if you just have a hair dryer go ahead and plug up the back the intake so the so you can put it on high and the restricted air flow allows the blow dryer to get hotter right.
+
+676
+01:24:58,540 --> 01:25:11,540
+And when you put your hot sand in there keep hitting it with a blow dryer on the area where you start bending it again because this is schedule 80 now no fault if you're working with schedule 40.
+
+677
+01:25:11,540 --> 01:25:23,540
+I'm not trying to be an asshole about it even though it is junk if you're building one at a schedule 40 which is the white plastic PVC go ahead it's fine.
+
+678
+01:25:23,540 --> 01:25:31,540
+Even though it is junk for me and for you will be if you start using even though the one I have installed here in the house still is schedule 40.
+
+679
+01:25:31,540 --> 01:25:50,540
+It's a very big difference between the white PVC schedule 40 and the schedule 80 the working experience very big difference the schedule 40 will will bend very rapidly with the hot sand because of its thin wall and it's the type of plastic that it is.
+
+680
+01:25:50,540 --> 01:26:03,540
+So basically as you bend it around you need to find a way to hold it so you can need some kind of a clamping system as you go and you don't want to use clamps that have a flat end on it because you're going to put a flat spot on your pipe.
+
+681
+01:26:03,540 --> 01:26:14,540
+So if you're using a one inch pipe you yourself some one and a quarter which slips over cut little sections of curved parts you can make curved parts out of epoxy at a wood whatever you could create pieces of cardboard whatever.
+
+682
+01:26:14,540 --> 01:26:28,540
+And you're going to have to figure out how you have a clamping table and a clamping system which I could photograph and show you guys what it looks like and all that but it will just like over if I start to show up putting pictures of all the fixtures and all the stuff that I built to make these.
+
+683
+01:26:28,540 --> 01:26:37,540
+If you're just starting out you'll be intimidated you'll be bogged down you'll say holy shit I got to make this this this that and this this and that to make that but that.
+
+684
+01:26:37,540 --> 01:26:49,540
+Now I don't want to do that right now because the first one and even the first schedule 81 that I had no jigsad nothing it was just done on the ground by hand with some welding gloves.
+
+685
+01:26:49,540 --> 01:27:03,540
+And yes I used heavy leather gloves because guess what it's hot plastic it won't really burn you but you you can get a like a real bad you know you'll be sore all night you don't want to be handling hot pipe hot plastic with your bare hands.
+
+686
+01:27:03,540 --> 01:27:16,540
+Now if once you start forming the pipe around the magnet or around some space or and you have a way to hold it you might want to people you know hold this here push it down there you know whatever.
+
+687
+01:27:16,540 --> 01:27:31,540
+You might want to start incorporating get a spray bottle and the moment you hit the sections that you have held down and are happy with with a spray bottle it immediately cools the plastic enough that it becomes rigid and it will not move.
+
+688
+01:27:31,540 --> 01:27:39,540
+And then once you go around with a spray bottle and saying you know a rubber that missed hits the water it will freeze the plastic in that position.
+
+689
+01:27:39,540 --> 01:27:46,540
+And then when you're done with it you're happy go ahead and pull one of the ends or both of the ends on poor that hot sand out of there.
+
+690
+01:27:46,540 --> 01:27:57,540
+And when you're pouring the hot sand out of that round spool you got to keep turning the spool up and down so first time doing it it'll be funny because you'll be getting sand everywhere you think you got to sand out and you turn it up.
+
+691
+01:27:57,540 --> 01:28:05,540
+And then when you put the hot sand over the place be careful remember it's coming out of something that looks like a French horn.
+
+692
+01:28:05,540 --> 01:28:18,540
+So that's pretty much the quick overview on the bending process at this point at this point the once you build one and you know that this is what you want to do.
+
+693
+01:28:18,540 --> 01:28:39,540
+I do recommend building rudimentary jigs there are some YouTube videos where people are bending pipe and their version of rudimentary jig which anybody could do very quickly is they have a table or just a sheet of wood that they drilled holes in on a grid pattern or selected pattern and then pegs.
+
+694
+01:28:39,540 --> 01:28:49,540
+Right so as you bend your you could look this up bending PVC pipe on YouTube and I think there's a chick that's doing it and she basically has a bench with holes in it.
+
+695
+01:28:49,540 --> 01:28:57,540
+And as she's bending her pipe she sticks these pegs in there that holds the pipe from wiggling out you know out of shape that's another way to do it.
+
+696
+01:28:57,540 --> 01:29:11,540
+I remember whenever you're putting something against a round flat plane against a round plane that's soft it's going to put a flat spot and a deformation in it right so just consider that.
+
+697
+01:29:11,540 --> 01:29:23,540
+So an easy way to start working on a jig again is just a scrap piece of wood that's as big as the device with holes in it and pegs as you go around you know as you bend it around you slap a peg in there keeps it from unbending in a ravony.
+
+698
+01:29:23,540 --> 01:29:33,540
+Many ways to do it very often people ask me show me how to do it and I'm like I'll introduce you to the person who showed me how to do it how's that.
+
+699
+01:29:33,540 --> 01:29:52,540
+I don't know who I'll introduce you to because I'm on my own so you guys are not on your own I'm here to help you out as much as possible but on an introductory level let's just keep it as such and then we'll continue on the more advanced stuff and I'll be glad to share everything that I've done and have on how to make these as time goes on based on feedback of course.
+
+700
+01:29:52,540 --> 01:30:07,540
+Years ago when I was a dumber and younger I would have spent a week doing an entire presentation and PowerPoint as show and you know so I don't you know why why it's not necessary right until I see there's an interest.
+
+701
+01:30:07,540 --> 01:30:15,540
+But once I see there's an interest in people are serious I'll jump in and tell you everything I know.
+
+702
+01:30:15,540 --> 01:30:24,540
+That said I think we've covered everything unless I know there's a couple of people are going to hear this in summer on here right now they're ready to go and some have already done it.
+
+703
+01:30:24,540 --> 01:30:38,540
+Is anything else that tickles you you know about asking in some here because the purpose of this was to give a more advanced expose on how to put these together for someone is going to be trying to put one together this week for the first time.
+
+704
+01:30:38,540 --> 01:30:44,540
+So if there's any questions or any one to chime in or whatever go ahead right now.
+
+705
+01:30:44,540 --> 01:30:47,540
+Yeah that was an accident on the.
+
+706
+01:30:47,540 --> 01:31:02,540
+Clicked wrong button on the heart but anyways was there for the plug and the Dow around it so you're putting the Dow inside the pipe correct with the with the plug.
+
+707
+01:31:02,540 --> 01:31:05,540
+The mean the magnetic reactor around the.
+
+708
+01:31:05,540 --> 01:31:11,540
+You mean plugging for the sand yeah.
+
+709
+01:31:11,540 --> 01:31:25,540
+Well just imagine you have a straight remember early on we how much pipe 34 inch piece of pipe so you buy your stick or you have a pre cut of 34 inches and you have a straight piece of pipe right.
+
+710
+01:31:25,540 --> 01:31:33,540
+Go ahead and poor sand in it what happens well Santa come out the other end right gravity.
+
+711
+01:31:33,540 --> 01:31:39,540
+We got to have at least one plug now if you just have one plug keep the sand from falling on the ground.
+
+712
+01:31:39,540 --> 01:31:43,540
+And if you turn it horizontal start working horizontal what's going to happen on the other end.
+
+713
+01:31:43,540 --> 01:31:48,540
+Can't start pouring on the other end you got plug both ends.
+
+714
+01:31:48,540 --> 01:32:03,540
+And the plugs basically look like three inch long dowels with a cotton fabric and some tape wrapped around it so that when you push it into the pipe it's got a lot of friction it will not fall out it's pretty tight right.
+
+715
+01:32:03,540 --> 01:32:13,540
+And it's also the ball the cotton fabric is connected to the Dow so when I pull the dowel out the cotton ball you know the stopper comes with it.
+
+716
+01:32:13,540 --> 01:32:25,540
+Yeah I have an image on it right there yeah it just looks here for watch all movies what have these cannon cleaners guy comes with the stick and it's got a ball on the end of it and they rub it back and forward to clean the barrel gun barrel out.
+
+717
+01:32:25,540 --> 01:32:36,540
+Yeah just like that but a miniature one more evolved one is a pipe it's a tube with a rubber stopper on the end with a shader valve on the end of the pipe.
+
+718
+01:32:36,540 --> 01:32:48,540
+And as you twist it there's a washer on the end of the stopper that expands it into the pipe and then you put when you have both of your stoppers in and your hot sand you put three pounds of pressure in there which is minimal.
+
+719
+01:32:48,540 --> 01:32:53,540
+And the air pressure in the sand keeps the pipe very very round if you look at the.
+
+720
+01:32:53,540 --> 01:33:01,540
+Scale rate is in the cases in you zoom in and you look at the profile of the pipe no matter where you look it's perfect.
+
+721
+01:33:01,540 --> 01:33:06,540
+Right now I've gotten to the point where I don't need the pressurize air anymore.
+
+722
+01:33:06,540 --> 01:33:13,540
+Because I've made enough of these and I'm paying attention while I'm working on how to avoid that step.
+
+723
+01:33:13,540 --> 01:33:31,540
+And when you have an air valve to pressurize to release the air it'll clog it and you'll throw away the valve so you have to have a very fine brass screen to keep the sand from going into the valve so you know we're talking about stoppers that I made that if you gave them to NASA they would look at it and say this is part of space shuttle right.
+
+724
+01:33:31,540 --> 01:33:37,540
+It's not necessary to build something like that but I did because I can build things like that very quickly.
+
+725
+01:33:37,540 --> 01:34:00,540
+Here I have the ability to do so but that would be the optimum optimum right so let's say you were to get a corporate higher than pipes for you want to do the compressed air in there so in case he had a bad morning didn't have enough coffee or whatever you argue me out with his wife he'll be consistent on bending these things he doesn't have to pay too much attention right.
+
+726
+01:34:00,540 --> 01:34:25,540
+That's my goal with this is to set up enough systems they I call them corporate hires you know you put an ad in the paper for someone to make something you interview him okay jack you think you can do this fine this much an hour pat him on the back you got to make ten of these and buy into the day okay buy see you unsupervised and when you come back to the end of the day you don't want to fire and you want to come back the next day and keep doing it right because he does good work right.
+
+727
+01:34:25,540 --> 01:34:31,540
+Yeah good.
+
+728
+01:34:31,540 --> 01:34:35,540
+You don't want to get the tails of it right you don't want to get the tails of it.
+
+729
+01:34:35,540 --> 01:34:41,540
+Heat the heat away yeah yeah it makes total sense that the tails are the ends the stubs.
+
+730
+01:34:41,540 --> 01:35:00,540
+And you want to keep those unaffected by the heat because what is the heat do it deforms and you also want to you don't want them to be deformed or cut or scratched if you're if you're cutting it with a saw you want to make sure it's a nice clean cut and squared off right.
+
+731
+01:35:00,540 --> 01:35:15,540
+You don't want to you to drop on the corner crack schedule eighty one crack schedule forty will right and when I say schedule eighty it's the gray stuff you know very often I take it so I'm like years ago I would just say you schedule eighty once.
+
+732
+01:35:15,540 --> 01:35:21,540
+And and then I'll go back and listen to people and said in here that I'm like oh my gosh so I have to keep repeating it.
+
+733
+01:35:21,540 --> 01:35:38,540
+The schedule eighty eight zero the gray stuff is very very durable and a pleasure to work with once you understand that the heavy wall material requires more heat and a little bit more labor but it will retain its shape better stay away from the ends that makes total sense to you now right.
+
+734
+01:35:38,540 --> 01:35:43,540
+You want to keep the hot sand in the pre heating away from that you know.
+
+735
+01:35:43,540 --> 01:35:48,540
+Just for the sake of dimensionality.
+
+736
+01:35:48,540 --> 01:36:10,540
+So I think we might have different terms in Australia like I haven't heard of schedule eighty but is it used as a conduit yes yes it can be right it's it yeah electrical conduit yeah yeah but it's not for pressure.
+
+737
+01:36:10,540 --> 01:36:39,540
+All right this is for water assignments yeah yeah yeah good one good one because I have schedule eighty outside electrical and that he brought this up I'm glad you brought it up because there could be some confusion so some bloke is going to get I just need some schedule eighty plastic pipe you could walk out with a pistol of schedule eighty plastic pipe all right but it's electrical conduit right that's that's told yeah it's a completely different alloy or a four.
+
+738
+01:36:39,540 --> 01:36:49,540
+Plastic and it's not for water. Yeah good one yeah good one that saved I think you just saved the entire sonic here with that.
+
+739
+01:36:49,540 --> 01:37:00,540
+No really because think about it some bloke goes in somewhere Greek says I need to schedule eighty plastic pipe here's just schedule eighty plastic pipe and get what it he handed off what did he just buy.
+
+740
+01:37:00,540 --> 01:37:05,540
+Fucking electrical conduit right you didn't say that Greek thank you.
+
+741
+01:37:05,540 --> 01:37:27,540
+Yeah yeah yeah yeah because I was looking for to change away from the plastic that I was using which it looks it looks fine by the wave did you find out more about it the black one the black top what is it poly poly what polyethylene yeah I think it's polyethylene but
+
+742
+01:37:27,540 --> 01:37:42,540
+here they have what they call it UP VC which pressurized PVC like they use around like spa baths you know that kind of thing and yeah.
+
+743
+01:37:42,540 --> 01:37:48,540
+So I got a bit of that thinking that might be what you're talking about me.
+
+744
+01:37:48,540 --> 01:37:58,540
+No it could be I don't know the the the difference is the schedules is the thickness of the internal wall thickness.
+
+745
+01:37:58,540 --> 01:38:12,540
+Yeah that's what I was thinking see if you could you know what a catalog cut is sheet cut sheet in industry it's like if you could find a specification there should be markings on that pipe who makes it go to the fight if they have a website.
+
+746
+01:38:12,540 --> 01:38:27,540
+If they have technical technical specs and drop that in the send it drop it in here or do it in the chat or somewhere so I could look at it I like to communicate that way I can do that with schedule 80 pipe not necessary other than bringing up that is for water right.
+
+747
+01:38:27,540 --> 01:38:41,540
+Yep yeah yeah if you're not sure I don't eat you that material dot a shape yeah yeah yeah yeah yeah yeah spec cut sheet or the cut sheets they call them here yeah it just basically tells you what it's made of.
+
+748
+01:38:41,540 --> 01:38:48,540
+And what it's for and what's purpose and pressure and all that other good stuff for a part of my potable.
+
+749
+01:38:48,540 --> 01:38:59,540
+I've been having trouble finding PVC pipe for pressure because in Australia most of its it's I think it's all polyethylene the plastic pipe they use.
+
+750
+01:38:59,540 --> 01:39:22,540
+Yeah or all this still on all this still on copper but yeah they're they do the only pressurized systems that I've seen that use PVC was with like with spa baths so I got a bit of that because it's I'm going to try and I think I want to get a better bend I'm getting spring back when around me around me.
+
+751
+01:39:22,540 --> 01:39:48,540
+I've got a couple of pointers off you today that would probably prevent me spring back anyway because I haven't been I haven't been cooling it as I go as well so yeah yeah and make yourself a fixture you can do a rough one you can overheat it where it deforms it's fine let's see you get it really hot with the sand and an external heat gun and you squeeze it a little too much in one section and she flattens out.
+
+752
+01:39:48,540 --> 01:40:02,540
+If you have the general deep geometry right this is how I made the first jig I wanted a real tight bend but ended up getting some deformation in the pipe that's okay when I had my general shape.
+
+753
+01:40:02,540 --> 01:40:17,540
+Just right the overall geometry in spangest right but I had flat spots when it cooled down I went and got myself some auto body filler and I filled the flat spots till they got nice and round I made myself a profile jig you know I didn't eyeball it.
+
+754
+01:40:17,540 --> 01:40:37,540
+So it actually you know ran like a plane over it that showed me exact what the pipe should be and I have now I have this model that is got auto body filler all over the place but it's exactly the shape that I want so when I made my jig I built my jig around that now right.
+
+755
+01:40:37,540 --> 01:40:49,540
+I use that as a model still I could take a picture of it and you'll you'll see just a piece of pie to scale or it and it's got auto body filler patches all over it really nice and smooth that right.
+
+756
+01:40:49,540 --> 01:41:06,540
+And that's my model for my jig and for my jig model you know the base of it I basically used hydro cow or we call it rock Durham's rock putty here plaster you just pour your plaster it looks like I'm all you push the
+
+757
+01:41:06,540 --> 01:41:22,540
+scale or make sure you know the your model and you cut away so it doesn't get locked into the plaster you pull it out and you have a negative shape right in plaster so when you go to bend your pipe you're you're bending and fitting it over this plaster mold that is made from your model right.
+
+758
+01:41:22,540 --> 01:41:27,540
+That was my first jig and it works well I still use it it's just ultra modified.
+
+759
+01:41:27,540 --> 01:41:54,540
+Oh yeah yeah I'll drop a drop a couple of pictures of it since I'm talking about it I don't have the latest these are pictures from May or June this is like you know because I got on this when I started making this I got on it right away meaning after the first one came a few days later came the second one few days later came the jig a few days later came that right it was I was on it like you know big time you know I wasn't
+
+760
+01:41:54,540 --> 01:42:13,540
+90% of everything I've talked about tonight I did within the first week of discovering this this is not 10 this is not 10 months of of development at all it's I basically went over like a first few days of development that's how excited I was about it right.
+
+761
+01:42:13,540 --> 01:42:20,540
+So here is a picture of the jig I don't know if you can get much of it.
+
+762
+01:42:20,540 --> 01:42:46,540
+I'll drop it in right now this is from May and see if I can get another one here's another picture of the jig also from May this is a week after the first one right so this is not recent doesn't look like this at all now.
+
+763
+01:42:46,540 --> 01:42:54,540
+You could throw them together but you could see on the second one especially let me know if you wish you when you see them those two pictures that is dropped in.
+
+764
+01:42:54,540 --> 01:43:00,540
+Yep I can say I'm on the second one you see how it's elevated so I get me claps to go underneath it.
+
+765
+01:43:00,540 --> 01:43:12,540
+Yeah yeah right so if you have it flat on a table is it got we got to get a clamp under it right so you see how it's elevated on three dowels you only see one dowel on the foreground.
+
+766
+01:43:12,540 --> 01:43:22,540
+And the two wood plates are cut the same as he yeah that makes sense to you doesn't it yeah it's elevated so you can get it from three axes xyz.
+
+767
+01:43:22,540 --> 01:43:34,540
+Yeah it does make sense to me because I started off similar to you I spent my first one around a magnet and then I made a jig flat on the table and had that exact trouble with you know plants.
+
+768
+01:43:34,540 --> 01:43:54,540
+Now I'm onto about jig number three yeah well I never I never did it on the table because I what I did was I sat down I had I just lay down in the afternoon and I said I'm going to go build a jig and when I build the jig I'm going to make my first piece on it and before I build it I'm going to imagine the entire thing.
+
+769
+01:43:54,540 --> 01:44:04,540
+And as I'm laying down taking an app I'm imagining with the jig I'm like it can't be flat on a table because this clamp has to go under it so I have to build it like this right.
+
+770
+01:44:04,540 --> 01:44:12,540
+You know how like Tesla used to design things in his mind and check up on them a month later check them for where he hasn't built it yet right.
+
+771
+01:44:12,540 --> 01:44:18,540
+Yeah so in other words it's called thinking it through as much as possible.
+
+772
+01:44:18,540 --> 01:44:28,540
+Yeah you can ask for a workbench with lots of overhang so I can get me clamps in there but it just wasn't quite enough because I had no three six feet.
+
+773
+01:44:28,540 --> 01:44:36,540
+That's right you can only get it on one you can only get about 180 degrees you can't get the back of the other 180 degrees of it.
+
+774
+01:44:36,540 --> 01:44:46,540
+And if you notice on this really jig on the second one you see there's some little black pieces of plastic with tape on them other pieces of pipe so me the flat clamp doesn't flatten out the pipe right.
+
+775
+01:44:46,540 --> 01:44:50,540
+Yeah.
+
+776
+01:44:50,540 --> 01:44:59,540
+And this one obviously is just for photograph because this is not an actual bending how can you tell if you look at the end of the pipe it's open there's no plug in it right.
+
+777
+01:44:59,540 --> 01:45:01,540
+Yeah that's a cold piece yeah.
+
+778
+01:45:01,540 --> 01:45:07,540
+I just threw that together for posterity because as I kept developing the jig I said before I.
+
+779
+01:45:07,540 --> 01:45:15,540
+Because in between making the next jig I will just build on this one so while I'm building on it I don't have a jig while I'm working on the jig right.
+
+780
+01:45:15,540 --> 01:45:21,540
+So I said why don't I just throw it together and take a picture of it right so at least it's preserved.
+
+781
+01:45:21,540 --> 01:45:25,540
+And so I just went and grabbed a pipe that I had been.
+
+782
+01:45:25,540 --> 01:45:33,540
+Early on and threw it all back together with the clamps just for the photographs but this is not live because there's no plug and there's no sand in it.
+
+783
+01:45:33,540 --> 01:45:37,540
+That's your first Sherlock Holmes give away right.
+
+784
+01:45:37,540 --> 01:45:44,540
+That this is just this is a staged a staged is a staged is this is not actual.
+
+785
+01:45:44,540 --> 01:45:49,540
+Actually when your actual it shows everything you know.
+
+786
+01:45:49,540 --> 01:46:02,540
+It would help if I had the plugs in there because it makes it more realistic because when when she's hot and you're bending that sounds good when she's hot and bending your your adrenaline is rushing right because you don't want to waste the piece right.
+
+787
+01:46:02,540 --> 01:46:05,540
+You don't want to reach for a camera.
+
+788
+01:46:05,540 --> 01:46:10,540
+Yeah you haven't got a time to you haven't got time to take happy snaps.
+
+789
+01:46:10,540 --> 01:46:15,540
+Yeah it's right and if you're not focusing 150% on what you're doing it's not enough right.
+
+790
+01:46:15,540 --> 01:46:19,540
+Yeah you're not focusing enough.
+
+791
+01:46:19,540 --> 01:46:31,540
+Yeah see like this one here if you look at the first one if you zoom in real close on the foreground on the right side of the jig you'll notice there's fiberglass on there which is high temperature welding blanket right.
+
+792
+01:46:31,540 --> 01:46:54,540
+I have if you zoom in on it on the top picture of the jig the welding has all the all the foil sticky all the foil all the tape and fiberglass welding blanket because of the heat so because if you just had the wood and you go there with a 1200 degree Fahrenheit heat gun what do you think your woods going to do.
+
+793
+01:46:54,540 --> 01:47:20,540
+It's going to start smoking right so I coded the jig with welding blank fiberglass you know it's good for 2000 degrees so I wouldn't get smoking on you notice the plastic of sitting which is an industrial plastic fitting in the middle it's got paper and all around aluminum around it why because if I have to approach it with a heavy duty eat gun what happens to bear plastic right.
+
+794
+01:47:20,540 --> 01:47:35,540
+It starts smoking and melting so the first jig and the second photo it's the same jig first and second one you'll notice that if you look close at the jig there's precautions taken for heating to see aluminum.
+
+795
+01:47:35,540 --> 01:47:49,540
+Right and fiberglass and again that was done before I so in other words Greek did you throw a jig together and it started smoking no it never did because I thought of it before I even did it you see.
+
+796
+01:47:49,540 --> 01:47:59,540
+Because I knew that what am I doing I'm making a jig and there's a heat cut involved shit well it better be able to handle 1000 degrees what do I have to make.
+
+797
+01:47:59,540 --> 01:48:18,540
+Piece of particle board that I threw together handle 1000 degrees well I've got an old welding blanket I could cut up and I've got some heavy duty duct aluminum tape I could put on there with cardboard right as a shield to that before I even started.
+
+798
+01:48:18,540 --> 01:48:40,540
+Anyway that's a rudimentary I'll go through what I need to do if as this progresses and it seems like it will is just go ahead and investigate some other things I'll drop in here photos of helps you know things that I have that will help.
+
+799
+01:48:40,540 --> 01:48:59,540
+Here's one I don't know if I've ever forwarded something like this I have access someone who has a 3d computer real professional and we have covers and stuff like that 3d printed I've never got into that I don't actually see that image there.
+
+800
+01:48:59,540 --> 01:49:21,540
+I have see that image I have someone that works on pretty high end computer program that is transferred everything into a computer and 3d printed a bunch of stuff and I think you guys remember when I think about 3d printing right I was pretty clear about it.
+
+801
+01:49:21,540 --> 01:49:34,540
+If you want to piss me off tell me you're going to 3d print right here's someone else that has one that has a case on it with.
+
+802
+01:49:34,540 --> 01:49:46,540
+I'll drop in some random photos with copper built around it and that's going to get filled with about a thousand dollars worth of barium tit night and silver powder.
+
+803
+01:49:46,540 --> 01:49:54,540
+It looks like a hummingbird house bird house but you could see it right in their office right there.
+
+804
+01:49:54,540 --> 01:49:59,540
+Get that one.
+
+805
+01:49:59,540 --> 01:50:01,540
+Yes.
+
+806
+01:50:01,540 --> 01:50:04,540
+Yeah that helps in here's.
+
+807
+01:50:04,540 --> 01:50:12,540
+Here's another one of the same person who is building one of going to a technical show in Colorado which was canceled.
+
+808
+01:50:12,540 --> 01:50:21,540
+Here you'll see the scalerator again this is in process of building it.
+
+809
+01:50:21,540 --> 01:50:36,540
+You could see there's one on the left a 3d printed the housing and they have the wood ends that go on it gets filled with the barium tit night and silver powder silver powder bag of silver powder is just like it sounds expensive you know.
+
+810
+01:50:36,540 --> 01:50:43,540
+It does make a difference. Yeah and I'll get more into the history and more of my experiences and I've got photos of.
+
+811
+01:50:43,540 --> 01:50:49,540
+Labs with it and all this other stuff you know the gears send you another.
+
+812
+01:50:49,540 --> 01:50:56,540
+This is another company that was doing something else the same guys you'll send you another picture.
+
+813
+01:50:56,540 --> 01:51:02,540
+Yeah so this is all already been completely computer modeled right.
+
+814
+01:51:02,540 --> 01:51:06,540
+All the physics the mechanics have been done on it.
+
+815
+01:51:06,540 --> 01:51:12,540
+Various covers various 3d cover for programs have been created and printed.
+
+816
+01:51:12,540 --> 01:51:22,540
+There's more history than I've led on to there's a lot more that's gone on to with this right that I'll get into as if necessary right.
+
+817
+01:51:22,540 --> 01:51:28,540
+There's no reason to do a 14 hour sonic on this.
+
+818
+01:51:28,540 --> 01:51:32,540
+Did you guys get those last technical ones released you.
+
+819
+01:51:32,540 --> 01:51:38,540
+Yes yeah okay so in other words there's more history behind this but yeah go ahead.
+
+820
+01:51:38,540 --> 01:51:41,540
+Where they're going to install.
+
+821
+01:51:41,540 --> 01:51:50,540
+In a house for this yeah I've got photos of them installed in the field yeah none of them have been done properly though but they are installed and they are working.
+
+822
+01:51:50,540 --> 01:51:56,540
+In other words none of them have been installed to my standards properly is not freaking amazing.
+
+823
+01:51:56,540 --> 01:52:08,540
+Think about that yeah there's there's six of them out in the wild right now not one is installed properly but two of them in New Jersey one in Canada one in Ohio.
+
+824
+01:52:08,540 --> 01:52:12,540
+The other one is I think another one in Jersey.
+
+825
+01:52:12,540 --> 01:52:16,540
+None are installed properly but the feedback is very positive.
+
+826
+01:52:16,540 --> 01:52:22,540
+So they're at 30 or 40% potential and they're still amazing right.
+
+827
+01:52:22,540 --> 01:52:26,540
+They're not installed to the alignments that you mentioned previously.
+
+828
+01:52:26,540 --> 01:52:39,540
+That's right I could show you a photo right now and I'll drop a photo in in the first one and you guys are pretty sharp right.
+
+829
+01:52:39,540 --> 01:52:51,540
+I know you're sharp from and you do recall what I recently said about the installation so I'm going to scroll through another file here.
+
+830
+01:52:51,540 --> 01:52:56,540
+I'm going to send you a picture of one that's installed.
+
+831
+01:52:56,540 --> 01:53:00,540
+This is an installation in somewhere in the country.
+
+832
+01:53:00,540 --> 01:53:04,540
+I don't know if it's Connecticut or New Jersey but I'll drop this is number one that went out.
+
+833
+01:53:04,540 --> 01:53:10,540
+It wasn't supposed to be installed it was supposed to be tested only but they installed it.
+
+834
+01:53:10,540 --> 01:53:13,540
+Now this is in a utility room.
+
+835
+01:53:13,540 --> 01:53:16,540
+I just told you if you get that image.
+
+836
+01:53:16,540 --> 01:53:23,540
+Can you tell you where the 50 feet of runner length is on that one?
+
+837
+01:53:23,540 --> 01:53:27,540
+There is none. There is no runner length on that one.
+
+838
+01:53:27,540 --> 01:53:33,540
+The feedback on that was well the other side of the house has about 50 feet away.
+
+839
+01:53:33,540 --> 01:53:35,540
+Oh my gosh.
+
+840
+01:53:35,540 --> 01:53:38,540
+Oh my gosh.
+
+841
+01:53:38,540 --> 01:53:44,540
+It doesn't count the other side of the house is 50 feet.
+
+842
+01:53:44,540 --> 01:53:49,540
+Okay. That's not per instructions.
+
+843
+01:53:49,540 --> 01:53:52,540
+Well, you've got a couple of bends in the pipe.
+
+844
+01:53:52,540 --> 01:53:55,540
+Yeah, that's right. Yeah, but it still works kick ass.
+
+845
+01:53:55,540 --> 01:53:57,540
+And I said no, it's not working kick ass.
+
+846
+01:53:57,540 --> 01:54:01,540
+Here's another one. This is one in Canada.
+
+847
+01:54:01,540 --> 01:54:07,540
+I don't want you to show me where the 50 feet is on this one also.
+
+848
+01:54:07,540 --> 01:54:10,540
+Where's the 50 feet on this one?
+
+849
+01:54:10,540 --> 01:54:14,540
+This one is working kick ass also back and forth.
+
+850
+01:54:14,540 --> 01:54:18,540
+Sometimes it works. Sometimes it doesn't because the well has got water.
+
+851
+01:54:18,540 --> 01:54:25,540
+Sometimes it comes up. There's a lake that infiltrates the well and the well gets like really dark tea color water sometimes.
+
+852
+01:54:25,540 --> 01:54:30,540
+But do you see the second picture I put in with the tank in the background?
+
+853
+01:54:30,540 --> 01:54:31,540
+Yeah.
+
+854
+01:54:31,540 --> 01:54:37,540
+Yeah, where's the 50 feet on runner length for gets to the house on that?
+
+855
+01:54:37,540 --> 01:54:43,540
+Already in the house. And the part of the instructions is it shouldn't even be in the house.
+
+856
+01:54:43,540 --> 01:54:48,540
+It should be outside of the house and you can test this.
+
+857
+01:54:48,540 --> 01:54:52,540
+If you, I don't know, I'll drop in a picture of an umbilical. Are you guys?
+
+858
+01:54:52,540 --> 01:54:56,540
+Do you guys know what I mean by an umbilical?
+
+859
+01:54:56,540 --> 01:55:01,540
+You know what a water main is? Have you heard of someone like they have a water main break in their house?
+
+860
+01:55:01,540 --> 01:55:03,540
+Right.
+
+861
+01:55:03,540 --> 01:55:08,540
+And they shut off the, they shut off the water and guess what the children can't brush their teeth.
+
+862
+01:55:08,540 --> 01:55:12,540
+They can't flush the toilets. There's no water going in the house. What was the way you do?
+
+863
+01:55:12,540 --> 01:55:17,540
+You go to what usually the water main breaks before the, the main shut off to the house.
+
+864
+01:55:17,540 --> 01:55:20,540
+So you go to the main shut off to the house and you shut it off.
+
+865
+01:55:20,540 --> 01:55:25,540
+And you go to the street and you shut off the water main to stop the leak. There's no reason to pay for water.
+
+866
+01:55:25,540 --> 01:55:30,540
+Like you're filling a swimming pool is just going into the ground. Now the house doesn't have any water.
+
+867
+01:55:30,540 --> 01:55:37,540
+You go next door to the house next door. You go to the next door's hose bib and you attach a hose.
+
+868
+01:55:37,540 --> 01:55:45,540
+And you bring that hose bib to the house that the water is shut off to and you attach it to their hose bib.
+
+869
+01:55:45,540 --> 01:55:48,540
+And you turn on that water valve, both water.
+
+870
+01:55:48,540 --> 01:55:55,540
+Now one house is hose bib energizes the other house with the shut off water through its hose bib.
+
+871
+01:55:55,540 --> 01:56:00,540
+And you all have water happily ever after until, well until the water main is repaired.
+
+872
+01:56:00,540 --> 01:56:06,540
+You see how the umbilical works. It's almost like two cars when someone battery dies.
+
+873
+01:56:06,540 --> 01:56:10,540
+You get a boost right from another car. It's almost the same principle.
+
+874
+01:56:10,540 --> 01:56:14,540
+I call it an umbilical. You follow how that works?
+
+875
+01:56:14,540 --> 01:56:19,540
+Now here, let's say you got someone with a healthy, malice skepticism.
+
+876
+01:56:19,540 --> 01:56:23,540
+And they're like, well, I don't know if I want to install this right now.
+
+877
+01:56:23,540 --> 01:56:26,540
+And they're like, well, why don't we give it a try? Why don't we give it a try?
+
+878
+01:56:26,540 --> 01:56:32,540
+So you go to their house and you shut off the water main, right at the street or wherever.
+
+879
+01:56:32,540 --> 01:56:38,540
+And you go to their neighbor and you know, say, hey, look, I'll give you 20 bucks if you let me borrow an hour's worth of your water.
+
+880
+01:56:38,540 --> 01:56:43,540
+Or if they're really friendly, or if your mom lives next door, right, I'll give you a real head case.
+
+881
+01:56:43,540 --> 01:56:47,540
+Their mom lives next door. She's not going to say no.
+
+882
+01:56:47,540 --> 01:56:53,540
+So I go to extor and I hook up a hose with a short length of six foot length of the hose to the scalerator.
+
+883
+01:56:53,540 --> 01:56:58,540
+And then the 50 foot goes to the house that I just shut the water off and we turn the water on it.
+
+884
+01:56:58,540 --> 01:57:05,540
+And now they're getting the entire house energized with scalerator water from the house next door.
+
+885
+01:57:05,540 --> 01:57:10,540
+I could show you a picture of an umbilical setup like that.
+
+886
+01:57:10,540 --> 01:57:14,540
+But then we're going to populate the entire of anybody comes to this.
+
+887
+01:57:14,540 --> 01:57:21,540
+I might delete these just to clean up the chat here or not up to you guys.
+
+888
+01:57:21,540 --> 01:57:24,540
+Grab the pictures if you want.
+
+889
+01:57:24,540 --> 01:57:26,540
+But do you see what I mean by the umbilical?
+
+890
+01:57:26,540 --> 01:57:30,540
+That is very helpful if you want to just someone to try it.
+
+891
+01:57:30,540 --> 01:57:36,540
+Or if you just want to, if you don't want to cut into your own water main and you're friendly with a neighbor,
+
+892
+01:57:36,540 --> 01:57:39,540
+it's good to be friendly with the neighbor adjacent to you.
+
+893
+01:57:39,540 --> 01:57:46,540
+If you're friendly with the not friendly with the neighbors adjacent, but you're friendly with the neighbors down the block, you're going to need a long hose, right?
+
+894
+01:57:46,540 --> 01:57:53,540
+So if you are friendly with a neighbor or adjacent property and before you cut into your water main, do the umbilical.
+
+895
+01:57:53,540 --> 01:57:54,540
+And it's the same thing.
+
+896
+01:57:54,540 --> 01:57:56,540
+Now let me tell you what happens.
+
+897
+01:57:56,540 --> 01:58:03,540
+Go ahead. Any more any questions on the fab or the fabrication?
+
+898
+01:58:03,540 --> 01:58:14,540
+Creek, I had a question. The inner magnet. I thought I heard you say that it was two and a half inches, but when I look at the inner hole diameter on the other one, it's three and it's three and one eight outer.
+
+899
+01:58:14,540 --> 01:58:20,540
+Yeah, two and a half inches is the inner hole of the of the large magnet and three.
+
+900
+01:58:20,540 --> 01:58:31,540
+The large, okay, the large magnet is five and a quarter outer the inner magnet is three and eight outer.
+
+901
+01:58:31,540 --> 01:58:43,540
+The inner of the larger magnet is two and a half and the inner of the smaller magnet is one and three eights.
+
+902
+01:58:43,540 --> 01:58:45,540
+So there.
+
+903
+01:58:45,540 --> 01:58:51,540
+Yeah, I was expecting the smaller magnet diameter to match the whole diameter of the larger magnet.
+
+904
+01:58:51,540 --> 01:58:54,540
+No, you don't know, no, no, no, avoid that.
+
+905
+01:58:54,540 --> 01:59:00,540
+It's what it'll have. It'll fall right. It'll fall right into it, right? And then you'll have a big problem.
+
+906
+01:59:00,540 --> 01:59:04,540
+Actually, as a matter of fact, you know, fields reverse when you do that, right?
+
+907
+01:59:04,540 --> 01:59:08,540
+You know what a rail gun is? You've heard of a rail gun instead of using gun powder.
+
+908
+01:59:08,540 --> 01:59:15,540
+You use magnet, a pulse magnetic fields to propel an object.
+
+909
+01:59:15,540 --> 01:59:23,540
+Okay, yeah. Yeah, you just go out and buy yourself about 30 or 40 of the big magnets and then you get a magnet that's about the size of the inner hole.
+
+910
+01:59:23,540 --> 01:59:26,540
+And just let it go and watch what happens.
+
+911
+01:59:26,540 --> 01:59:33,540
+If you know how to do it, the inner magnet will shoot out about the twice the speed of sound and go right through your neighbor's window and house.
+
+912
+01:59:33,540 --> 01:59:38,540
+Yeah, you may just make a rail gun if you do that.
+
+913
+01:59:38,540 --> 01:59:42,540
+We're not in the real gun business yet. So hold on.
+
+914
+01:59:42,540 --> 01:59:43,540
+Okay.
+
+915
+01:59:43,540 --> 01:59:47,540
+Yeah, no, you want your magnets to stack with overlap.
+
+916
+01:59:47,540 --> 01:59:50,540
+It's lucky I didn't know that one. I was 15.
+
+917
+01:59:50,540 --> 01:59:54,540
+Yeah, yeah. Yeah.
+
+918
+01:59:54,540 --> 01:59:59,540
+So, yeah, you want your magnets to stack and overlap.
+
+919
+01:59:59,540 --> 02:00:03,540
+Okay. That was what I missed. Yeah, I missed it. They were stuck.
+
+920
+02:00:03,540 --> 02:00:06,540
+Yeah, you want to stack them and you want room for stacking.
+
+921
+02:00:06,540 --> 02:00:08,540
+Now, how much room for stacking?
+
+922
+02:00:08,540 --> 02:00:14,540
+Even if it just stacked for a 16th of an inch, it's as long as it doesn't fall through. It's fine.
+
+923
+02:00:14,540 --> 02:00:17,540
+As long as she doesn't fall through, it's fine.
+
+924
+02:00:17,540 --> 02:00:22,540
+But I like to have I like to have an overlap for structural reasons.
+
+925
+02:00:22,540 --> 02:00:29,540
+Also, the more magnets you use, what would be optimum for a device would be a spherical magnet.
+
+926
+02:00:29,540 --> 02:00:33,540
+Imagine stacking enough magnets that you make a cone.
+
+927
+02:00:33,540 --> 02:00:35,540
+So it looks like two cones.
+
+928
+02:00:35,540 --> 02:00:43,540
+That would be optimal, but you would also increase the diameter. Right? Or you know, you make a very abrupt. It's hyperbolic cone.
+
+929
+02:00:43,540 --> 02:00:48,540
+So as they as you so the next magnet you stack much would be much smaller in proportion.
+
+930
+02:00:48,540 --> 02:00:53,540
+Because I have kept stacking extra magnets and it doesn't make that much of a difference.
+
+931
+02:00:53,540 --> 02:01:03,540
+But I believe that if you do them hyperbolicly, where they almost come to a point like a pyramid, a cone, a very sharp cone, but hyperbolic, it will improve it again.
+
+932
+02:01:03,540 --> 02:01:09,540
+Because not about the magnets is about what kind of a block wall quality are you creating, right?
+
+933
+02:01:09,540 --> 02:01:17,540
+And the more you focus the centrifugal part of the magnet away from the block wall, the better the block wall works.
+
+934
+02:01:17,540 --> 02:01:23,540
+This is still all theoretical. Remember, I'm the only I've got I get no I'm the only one that's been doing this for 10 months now.
+
+935
+02:01:23,540 --> 02:01:31,540
+This is a new thing. So one of the things one of the purposes of me reaching out to others is to increase the study. Right.
+
+936
+02:01:31,540 --> 02:01:47,540
+And also I'm never going to I don't want the rights or patents on them. So whatever. Yes, I am the daddy.
+
+937
+02:01:47,540 --> 02:01:50,540
+Whatever. So what?
+
+938
+02:01:50,540 --> 02:01:57,540
+And the more people that do it and put it out in public, I'm not afraid of anybody copying it if I just looking at it.
+
+939
+02:01:57,540 --> 02:02:04,540
+Or getting a patent or claiming it or whatever because at this even at this point, it's almost too late for someone.
+
+940
+02:02:04,540 --> 02:02:11,540
+A quote unquote steal the idea and go unchallenged because it's already been put out to the public domain as such.
+
+941
+02:02:11,540 --> 02:02:13,540
+You know what I mean?
+
+942
+02:02:13,540 --> 02:02:25,540
+But what's beautiful about it is if you really know how to work the business and you could go that route and keep everything proprietary and hidden just like those technical drawings that show covers and stuff built on it.
+
+943
+02:02:25,540 --> 02:02:30,540
+And be you know the standard, you know, greedy fucker.
+
+944
+02:02:30,540 --> 02:02:34,540
+If you have a patent and you want to get wealthy off it, you're not necessarily greedy fucker.
+
+945
+02:02:34,540 --> 02:02:42,540
+But you know, you can take that typical route. You know, it's my idea. My patent. You can't use it. You know, you can go that route with this, by the way.
+
+946
+02:02:42,540 --> 02:02:47,540
+I don't think it should go that way because this is something that is so unintuitive to most people.
+
+947
+02:02:47,540 --> 02:02:53,540
+Because you mentioned that there is a magnet there. Of course you get you're using you're not using the right part of the magnet.
+
+948
+02:02:53,540 --> 02:02:55,540
+Right.
+
+949
+02:02:55,540 --> 02:02:58,540
+On magnets work Greek.
+
+950
+02:02:58,540 --> 02:03:00,540
+Yeah.
+
+951
+02:03:00,540 --> 02:03:10,540
+Did you ever try the same test when you're putting a hot sand and the magnet tech together on that other kind of white PVC.
+
+952
+02:03:10,540 --> 02:03:14,540
+And see if it had the same problem or.
+
+953
+02:03:14,540 --> 02:03:19,540
+No, no, I didn't know why PVC to me is junk. Yeah, I would never use it. Yeah.
+
+954
+02:03:19,540 --> 02:03:23,540
+I get that. I didn't just know, but I did. I did. I did. I did. I did. I did.
+
+955
+02:03:23,540 --> 02:03:30,540
+But it is on the house. No, I wouldn't improve it enough. No, it's just junk. It's junk plastic and it's still all thickness is too thin.
+
+956
+02:03:30,540 --> 02:03:36,540
+No, just for me, for me to do in other words, I can't sign my name on it, even though the first one that I did is like that.
+
+957
+02:03:36,540 --> 02:03:38,540
+Because that's what I had.
+
+958
+02:03:38,540 --> 02:03:45,540
+When I first got the idea because of the discovery, I have plenty of PVC pipelying around. I got plenty of magnets laying around.
+
+959
+02:03:45,540 --> 02:03:55,540
+So I got up one morning and say, let's put this together. Right. Let's put this together before lunch and get it installed because I was already doing an underpinning on the foundation wall there anyway.
+
+960
+02:03:55,540 --> 02:04:02,540
+The timing worked out fine. It was already trenched. That area was dug out already as you could see looks like a new concrete step built there.
+
+961
+02:04:02,540 --> 02:04:10,540
+Well, that goes down another half. Yeah, it goes a foot and a half down and a foot and a half under the house is a huge amount of cement there.
+
+962
+02:04:10,540 --> 02:04:23,540
+Right. So it was already open and fit for and said, hey, I'm ready to put all the dirt back. Hey, make something on the pot of coffee, get some other pack of cigarettes makes up a, you know, I didn't know what to call it back then.
+
+963
+02:04:23,540 --> 02:04:28,540
+Scalerator stick it in there, cut the pipe, put it in there real quick.
+
+964
+02:04:28,540 --> 02:04:39,540
+Still there. But then I was like, this is junk PVC is junk anybody works with this stuff knows that it is, you know, if you were going to it's okay for outdoor use.
+
+965
+02:04:39,540 --> 02:04:50,540
+It's a lot to use that white stuff indoors. It's too fragile, but you get a pallet of this stuff for a bundle of this deliver they drop it off the pickup truck the bottom two pieces of crack.
+
+966
+02:04:50,540 --> 02:04:53,540
+Just handling it.
+
+967
+02:04:53,540 --> 02:04:59,540
+Yeah, I'm against I'm against using it for for something up for an object.
+
+968
+02:04:59,540 --> 02:05:09,540
+It's like the 3D printed stuff to me. It's junk anything 3D printed is junk if it's worth anything you're not going to 3D print it.
+
+969
+02:05:09,540 --> 02:05:20,540
+So, you know, I like to show respect to other people who dropping five grand on a scaler that I make. I'm not going to insult you by sending you schedule 40 plastic.
+
+970
+02:05:20,540 --> 02:05:23,540
+Oh, yeah, right.
+
+971
+02:05:23,540 --> 02:05:35,540
+So, if anything else I want to get just relay what a typical scalerator install does for someone what what you should expect.
+
+972
+02:05:35,540 --> 02:05:48,540
+If you if someone finds out about you have something like this and they're not broke, you know, they make a pretty good living they have a you know, half a million three three quarter million dollar house.
+
+973
+02:05:48,540 --> 02:06:00,540
+And they're like, oh, I hate the water my hair my skin's dry water doesn't taste good even through a filter my dad says I should get a water salt water softener or a row and I'm like, no, I heard about what you got.
+
+974
+02:06:00,540 --> 02:06:08,540
+It's kind of expensive, but what tell me about it scientifically can you tell me about it scientifically, especially because this person works in the science background.
+
+975
+02:06:08,540 --> 02:06:15,540
+And I said, well, yeah, there's no such thing as this is us just saying is that there an agreement with me in a to a degree.
+
+976
+02:06:15,540 --> 02:06:21,540
+And they're kind of healthy healthy dose of skepticism.
+
+977
+02:06:21,540 --> 02:06:28,540
+And they're like, yeah, okay, let's do it. Let's do it. I'm like, okay, go. So we got a plumber.
+
+978
+02:06:28,540 --> 02:06:38,540
+I'm in a place with an HOA and one of these home associations, I get a license plumber to it. So the installations are duicated. So some of these nosy bastards come around. What are you doing?
+
+979
+02:06:38,540 --> 02:06:40,540
+It's a license plumber. Oh, it's fine.
+
+980
+02:06:40,540 --> 02:06:42,540
+If he's license.
+
+981
+02:06:42,540 --> 02:06:55,540
+So while the installation is going on, they're like, I tell the person go inside before we cut the main and let the water run so you don't get water sitting in the pipes and get fresh water that you normally get fill up a jug with it.
+
+982
+02:06:55,540 --> 02:07:02,540
+And then we get a taste of this is before we put this in, you know, your control water. This is the water before.
+
+983
+02:07:02,540 --> 02:07:12,540
+And the plumber start, you know, we do that. Plumber starts cutting away whatever. Okay. So how's the water? How's the tap water? Oh, it tastes like shit. It's crappy tap, you know, two-zontap water is usual.
+
+984
+02:07:12,540 --> 02:07:13,540
+Okay.
+
+985
+02:07:13,540 --> 02:07:29,540
+And while the scalerator is going, it doesn't take about an half an hour, 45 minutes to get it in there. They're like, oh, you know, I want to also when this gets connected and ready, I want to also I'm getting a sample ready to take to a lab so they could tell me the difference, right?
+
+986
+02:07:29,540 --> 02:07:37,540
+And I'm like, are you sure? Okay. All right. You go ahead and get your lab sample, whatever we're ready. You know, you measure it and all that. That's fine.
+
+987
+02:07:37,540 --> 02:07:45,540
+So anyway, we get the scalerator in, turn the water on because there's some copper solder and all get the flux out of the water. Let it run for a few minutes.
+
+988
+02:07:45,540 --> 02:07:53,540
+Get all the pipes, you know, run all the fixtures in the house. Get it on water, clean water in there. Right away, go get a water sample inside. Let it run.
+
+989
+02:07:53,540 --> 02:07:54,540
+Get some water.
+
+990
+02:07:54,540 --> 02:07:55,540
+Get some water.
+
+991
+02:07:55,540 --> 02:08:07,540
+Oh my gosh, did you still want to take it to a lab, not necessary. It's not necessary at all. The difference is huge. Like you sure you don't want to have it tested, not necessary.
+
+992
+02:08:07,540 --> 02:08:08,540
+Right.
+
+993
+02:08:08,540 --> 02:08:21,540
+So here you have someone who's scientific works in a professional field is very skeptical is still skeptical and wants to have the post scalerator water tested so they can quantify.
+
+994
+02:08:21,540 --> 02:08:27,540
+Scalerator goes in and immediately they're like the lab testing is not necessary. The difference is so big.
+
+995
+02:08:27,540 --> 02:08:38,540
+It even tastes better than the best bottled water. We have coming straight out of the tap. And then I keep getting consecutive messages day after day after day after day after day after day.
+
+996
+02:08:38,540 --> 02:08:46,540
+I can't believe how easy it is to clean everything is sparkling. No water stains. My hair is smooth. My skin is not dry anymore.
+
+997
+02:08:46,540 --> 02:08:58,540
+The water coming through the burky filter is delicious where it tasted like crap before every day, every other day messages. The water is amazing. I just came back from a trip. I missed the water in my house. The water is amazing.
+
+998
+02:08:58,540 --> 02:09:02,540
+On a few days later, another message. The water is incredible. Thank you.
+
+999
+02:09:02,540 --> 02:09:05,540
+This is from someone who had a healthy amount of skepticism.
+
+1000
+02:09:05,540 --> 02:09:11,540
+Who wanted to take it to a lab to see what it really does. And they're like absolutely not necessary.
+
+1001
+02:09:11,540 --> 02:09:29,540
+Imagine that. This is how big the difference is. When you with municipal water municipal tap water, which is predominates. I think it's 85% of most urban and suburban populations use city water or state water.
+
+1002
+02:09:29,540 --> 02:09:31,540
+Not a well water.
+
+1003
+02:09:31,540 --> 02:09:38,540
+So this is a repeated reaction that I get. And this is what you would expect also.
+
+1004
+02:09:38,540 --> 02:09:45,540
+So with that said, if there's any other questions, we'll finish up and stop the recording.
+
+1005
+02:09:46,540 --> 02:09:47,540
+[sniff]
+
+1006
+02:09:48,540 --> 02:09:49,540
+[music]
+
+1007
+02:09:49,540 --> 02:09:51,540
+[music]
+
+1008
+02:09:51,540 --> 02:10:01,540
+[BLANK_AUDIO]
+

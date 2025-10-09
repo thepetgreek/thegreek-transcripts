@@ -1,0 +1,2247 @@
+1
+00:00:07,940 --> 00:00:17,100
+Here we are. Evening. All yep.
+
+2
+00:00:17,460 --> 00:00:25,500
+Just wait a little bit, right? You have 10 of 39 in the call. Great.
+
+3
+00:00:26,880 --> 00:00:28,740
+Are you crashing this call Chuck?
+
+4
+00:00:31,060 --> 00:00:33,500
+Well, I just came on this. Okay.
+
+5
+00:00:34,740 --> 00:00:37,160
+Can you hear me? Yeah, I can hear you. Yeah. Okay.
+
+6
+00:00:38,040 --> 00:00:41,380
+I'm just making sure you have your back and forth and I'll cut my Mike in a moment.
+
+7
+00:00:41,380 --> 00:00:45,100
+I was just giving you an update 11 of 39 now.
+
+8
+00:00:45,300 --> 00:00:47,680
+Oh, we're good. I see it. I'm on the, I'm on the.
+
+9
+00:00:48,580 --> 00:00:54,300
+Stupid rectangle, so I could do other things and run over and grab something in case I want to turn the camera on. This is just going to be a.
+
+10
+00:00:54,860 --> 00:00:58,580
+Quick introduction, I haven't hit the record yet. I'm going to be doing that on the computer.
+
+11
+00:00:59,360 --> 00:01:02,480
+Sure. So, yeah, but wait a little bit.
+
+12
+00:01:03,319 --> 00:01:11,360
+Because there's no reason to have interruptions or people coming on or whatever. Usually when you start something with more than 10 or 15 people.
+
+13
+00:01:11,360 --> 00:01:14,120
+It's good to give it 10 or 10 minutes, 15 minutes, even.
+
+14
+00:01:14,620 --> 00:01:23,860
+Well, right why I'm filling time with you just talking back and forth what I would suggest, though, is if you're going to record on the computer that you have another Skype account that signs in and grabs it because.
+
+15
+00:01:24,260 --> 00:01:30,700
+Yeah, it'll generate. Okay. So you're already aware of that with the. Yeah, I got that. Yeah, no problem. Just wanted to.
+
+16
+00:01:30,720 --> 00:01:34,360
+You know, any help I can issue. Yep. All right.
+
+17
+00:01:35,260 --> 00:01:39,920
+But I'll do, I'll do another 1 right now. I'll bring another 1 and see what happens.
+
+18
+00:01:41,120 --> 00:01:44,640
+See, how do you add another person here? I'll record on that.
+
+19
+00:01:46,800 --> 00:01:58,180
+Add here we go unless you want me to use mine. I can do that too. If you like. No, I'd rather do it. I'd rather do it. So I could learn. I get more experience that way.
+
+20
+00:01:58,680 --> 00:02:05,940
+No problem, but either way, what it will do when we're all done is it'll drop a file that everybody will be able to grab if they like.
+
+21
+00:02:06,300 --> 00:02:10,380
+Yeah, this will just be a warm up anyway. We're going to get into.
+
+22
+00:02:10,980 --> 00:02:16,240
+More like, why I'm doing this today and then see what questions.
+
+23
+00:02:16,820 --> 00:02:22,460
+We'll have because it's always good to get people's curiosity 1st in the beginning. Maybe the questions 1st.
+
+24
+00:02:23,060 --> 00:02:25,180
+Sure, then I'll get into the technology and.
+
+25
+00:02:26,160 --> 00:02:29,840
+And how important it is. Did anybody alert the chat that we're starting now?
+
+26
+00:02:31,380 --> 00:02:36,180
+Yeah, sure. All right. I'll just go ahead and put it in there again. Anyway, just in case.
+
+27
+00:02:43,500 --> 00:02:45,660
+This is open to everyone, by the way.
+
+28
+00:02:48,740 --> 00:02:54,780
+There we go. Just putting it in there just in case anybody's got any misunderstandings or they didn't know what CDT was.
+
+29
+00:02:58,480 --> 00:03:00,040
+Okay, close my email.
+
+30
+00:03:02,640 --> 00:03:08,020
+All right, so I'm all set up. Looks like you got 1 3rd of the way to the people that signed up or.
+
+31
+00:03:09,020 --> 00:03:14,020
+Clicked on the link so far, and we're only about 3 minutes into the call.
+
+32
+00:03:17,740 --> 00:03:23,980
+So, there we go. Did you want to get introductions from anybody now while we're waiting or did you want to wait some more or what do you want to do?
+
+33
+00:03:24,520 --> 00:03:27,420
+No, we're going to wait another 7 minutes. Yep. Okay.
+
+34
+00:03:28,300 --> 00:03:32,160
+Grab a drink, cook something in about 7 minutes. I'm meeting.
+
+35
+00:03:32,840 --> 00:03:44,700
+Okay, just for everybody in the chat, if you're signed up to rated why I just posted 81 a little while ago through the Patreon. I don't know how long it takes for that RSS to be done because.
+
+36
+00:03:46,680 --> 00:03:54,140
+Sam does that so, but I just posted 81, like, within the past 15 minutes or 20 minutes. I think.
+
+37
+00:03:58,020 --> 00:03:59,380
+Okay, so what else?
+
+38
+00:04:02,280 --> 00:04:04,420
+Looks like signal strength is all right.
+
+39
+00:04:06,920 --> 00:04:07,360
+Okay.
+
+40
+00:04:46,560 --> 00:04:48,140
+Check real fast.
+
+41
+00:04:55,760 --> 00:05:05,310
+Oh, Albert's on the call. Excellent. If you want to unmute for a minute while we're waiting, Albert, I'll talk to you. You don't mind.
+
+42
+00:05:15,140 --> 00:05:17,920
+Don't necessarily need a camera. Whoever's doing that.
+
+43
+00:05:20,180 --> 00:05:21,600
+But if you want to unmute.
+
+44
+00:05:24,140 --> 00:05:26,880
+Albert, maybe you don't, maybe you're not at your computer at the moment.
+
+45
+00:05:29,060 --> 00:05:34,160
+All right, I was going to talk to you about the transcript, but, uh, you know, while we're waiting.
+
+46
+00:05:40,340 --> 00:05:44,300
+Looks like we've got 14 of 39 now, so we're over the 1 3rd mark.
+
+47
+00:05:54,760 --> 00:06:10,320
+So, most likely, I'm just going to cut my microphone from my, from my mixer. So I shouldn't make any noise here during this call afterwards, unless I'm somehow called upon, but I doubt I will be. I am not the, not the guy to be handy with stuff like this.
+
+48
+00:06:13,140 --> 00:06:21,180
+Find it very, very interesting, though, and I think these are the kinds of things that lead to the best core.
+
+49
+00:06:23,180 --> 00:06:30,500
+The best core realities, I mean, after all, water is 1 of those things that is universal. So.
+
+50
+00:06:32,400 --> 00:06:36,600
+Any best practices that we can pick up share and utilize.
+
+51
+00:06:38,880 --> 00:06:47,300
+I think are just really, really helpful to anyone in general who bothers to pay attention. So good thing.
+
+52
+00:06:51,930 --> 00:06:54,610
+14, it looks like we got 14 and now.
+
+53
+00:06:57,150 --> 00:07:04,870
+Go check back with the rated 1, which, by the way, I don't know if everybody here is rated wide person, but if you didn't know.
+
+54
+00:07:06,610 --> 00:07:09,110
+There is a chat, which we interact with.
+
+55
+00:07:09,670 --> 00:07:14,630
+I think most of you 1 way or another are probably participants in it, but.
+
+56
+00:07:15,470 --> 00:07:21,250
+If not, I'll share a link here for the chat.
+
+57
+00:07:24,530 --> 00:07:40,330
+Just in general, and that's available beyond my website or anything. Some people got confused thought that when I locked off the website that this was locked off, but I actually don't even own that chat room.
+
+58
+00:07:40,990 --> 00:07:47,170
+That's just a free open forum on chat tango, but, you know, unless you know how to find it, you don't find it. So.
+
+59
+00:07:48,030 --> 00:08:01,470
+We do interact in there for those of you on aware take suggestions, not just about the rated wise stuff, but also the solo Sonics, which there have not been as many of, but eventually hopeful there will be.
+
+60
+00:08:03,750 --> 00:08:05,350
+And so there's that.
+
+61
+00:08:09,710 --> 00:08:13,690
+Anybody have any questions or anything I can help you with while we're waiting to get started.
+
+62
+00:08:21,030 --> 00:08:27,430
+Yes, not looks like we've got about another minute and a half before we hit great start time.
+
+63
+00:08:30,880 --> 00:08:39,260
+Josh, it looks like you have your camera open. It would probably cut down on your bandwidth use. If you unless you're planning on participating, you don't need your camera on.
+
+64
+00:08:43,560 --> 00:08:49,940
+If you don't know how to strike it, depending on most devices, there's a little button that looks vaguely like a camera.
+
+65
+00:08:50,220 --> 00:08:56,280
+That is usually to the right of not only the microphone icon, but then a little arrow.
+
+66
+00:08:56,680 --> 00:09:04,100
+On most devices or platforms, whether you're using a laptop or desktop, or even a stupid rectangle.
+
+67
+00:09:09,200 --> 00:09:10,100
+There we go.
+
+68
+00:09:12,440 --> 00:09:12,880
+Excellent.
+
+69
+00:09:14,080 --> 00:09:14,960
+Let's see.
+
+70
+00:09:17,980 --> 00:09:22,200
+I don't think anybody else is using the camera, although B looks like they've got a blue.
+
+71
+00:09:23,760 --> 00:09:36,960
+A blue solid background. I'm not sure if that's a piece of tape or not, but it could be something that you put up isn't it doesn't look like an icon that isn't using a camera. So if you wanted to, you could strike your camera as well.
+
+72
+00:09:41,170 --> 00:09:47,890
+Chuck, that was me. I had to turn off the external camera on this thing. So that's what it looks like.
+
+73
+00:09:48,710 --> 00:09:55,690
+Oh, that's what it does. That's odd. Because most times it produces these little circles. See, everybody else has like a little circle.
+
+74
+00:09:59,040 --> 00:10:01,780
+Like I got that silly looking almost looks like a bust.
+
+75
+00:10:05,360 --> 00:10:06,100
+Okay, great.
+
+76
+00:10:06,860 --> 00:10:13,740
+Well, let's see. We're we're at about the 10 minute mark. So I'm certain the Greek will be back in a moment. If he's not already. I'm listening.
+
+77
+00:10:20,650 --> 00:10:22,950
+Surprised I thought we would have at least 20 of you by now.
+
+78
+00:10:28,460 --> 00:10:41,080
+Also, wait a little more. Okay, it's not it's just you just need 1 person, believe it or not what the right person right and saying that for decades. You just need 1 right person. So I just want to give.
+
+79
+00:10:41,480 --> 00:10:52,460
+Enough people enough time to come on. So right. Is there anywhere else that we could try to notify or put a little case? No, no, it's not a big deal. This is going to be going for a little while.
+
+80
+00:10:53,020 --> 00:11:00,660
+Yeah, because it's a progression. I want to put some things out a little bit on the history of it what I've been doing.
+
+81
+00:11:01,640 --> 00:11:06,140
+And what's what's going on out there to answer questions that maybe haven't are not asked.
+
+82
+00:11:06,720 --> 00:11:11,100
+And what the possibilities are and how I believe it should go.
+
+83
+00:11:12,060 --> 00:11:16,240
+And if anyone has half a brain that's listening, by the way.
+
+84
+00:11:16,780 --> 00:11:24,960
+Right. Say, holy fuck. I got a mortgage my house and steal money from my grandmother. So we could all put at least a million dollars together to start a factory for this thing. Right.
+
+85
+00:11:25,700 --> 00:11:32,400
+So I doubt I'm going to hear that. But that's eventually what could happen. That's where you need 1 right person. Right.
+
+86
+00:11:32,400 --> 00:11:41,020
+Hey, look, I'm always surprised. I can't do it by myself. I'm always surprised when I don't see people like, why isn't everybody jumping in on something? Well, it's planet Earth, right?
+
+87
+00:11:41,320 --> 00:11:52,420
+Yeah, no one here knows what's going on. Yeah. But it's also when you hear about people opening factories, like and becoming wealthy, doing stuff that's all scripted. It's not real. It's it's that was set before them.
+
+88
+00:11:52,420 --> 00:12:03,160
+So for me to actually bring forward an idea and somebody, a group of people band together and do something like that is very unlikely on Earth. It doesn't happen that way.
+
+89
+00:12:03,580 --> 00:12:09,000
+You hear stories about it, but they're just stories. It's not real. You have to try it anyway.
+
+90
+00:12:09,360 --> 00:12:19,340
+It's part of what we're talking about recently. Right. The the sort of myth of innovation, actually, because, you know, the myth of innovation is what especially in Americana.
+
+91
+00:12:19,340 --> 00:12:32,800
+It's like the one guy with the right idea can do it. Yeah, true. But it's never this academic. It's never that guy. You ever notice the guy who creates something? Anything of even remote usefulness is the guy who dropped out of academia.
+
+92
+00:12:33,500 --> 00:12:39,280
+The guy who said, yeah, I've seen this. I'm done and walks away. It's that guy who actually makes something. Yeah.
+
+93
+00:12:39,800 --> 00:12:48,720
+And fair, fair warning. If you are an academic, which actually I've dealt with about half a dozen, this is not going to be a friendly call to you. Not personally.
+
+94
+00:12:49,380 --> 00:12:57,200
+But it's not going to be friendly to you, meaning that if because you're if you consider yourself an academic, first of all, you've fallen for it.
+
+95
+00:12:57,700 --> 00:13:09,740
+Second of all, you can't get out. And I don't have a lot of sympathy for you, by the way, because you have plenty of time, chance to get out. In other words, they base their career on it so they can't do anything else. Right.
+
+96
+00:13:10,540 --> 00:13:16,900
+They'll be sleeping on a park bench or move back with their mom. So I don't have a lot of sympathy for you for falling for it.
+
+97
+00:13:17,320 --> 00:13:28,760
+But it's not going to be friendly towards you because we're going to basically talk about the truth about academics, not some of them, but what they all have in common, which is pretty much uselessness. So, yeah.
+
+98
+00:13:29,480 --> 00:13:36,280
+That's why I was so sure to the history department at a university because it was like, are you sure you want to bring me in? Because.
+
+99
+00:13:38,560 --> 00:13:44,960
+Well, they fall into the one third of the human population, which is useless, no use at all.
+
+100
+00:13:46,080 --> 00:14:04,600
+And yeah, it makes and I could give a thousand reasons and I'll debate anyone on it. And even today, I even tested it today. I went to get a pizza and I said, can you I'll give you a thousand dollars. If you name one device, one thing that you found useful in your life, either current or historical, that was invented in a university or by an academic.
+
+101
+00:14:04,600 --> 00:14:13,560
+All pizza parlors, everybody was like, can't think of any light bulb. No, no electric motor. No.
+
+102
+00:14:14,940 --> 00:14:18,540
+Airplane. No, as a matter of fact, airplane people were sued by the academics.
+
+103
+00:14:19,220 --> 00:14:25,180
+Yeah, good. Keep going. Don't say vaccine because that doesn't work. That wasn't done.
+
+104
+00:14:25,380 --> 00:14:32,140
+Yeah, you could say vaccine because it's totally useless. Yeah, that's the other thing. But at 1 point.
+
+105
+00:14:32,140 --> 00:14:38,620
+Anyway, it's another thing, but I could. Yeah. Anything useless and damaging, maybe. And even then,
+
+106
+00:14:39,500 --> 00:14:46,380
+the story of the vaccine violation came from a Haitian witch doctor back in the days of George Washington.
+
+107
+00:14:46,780 --> 00:14:51,780
+Right. We could say LSD, LSD, maybe depending.
+
+108
+00:14:52,420 --> 00:14:58,260
+That came from practitioners in Germany, 1930s,
+
+109
+00:15:00,400 --> 00:15:04,860
+a bunch of guys that worked in chemical companies, not the not the academics.
+
+110
+00:15:05,380 --> 00:15:09,440
+But didn't they independently redeveloped here or did they use the stuff from Germany?
+
+111
+00:15:09,640 --> 00:15:11,480
+No, they use the stuff from Germany. Yeah.
+
+112
+00:15:11,680 --> 00:15:17,040
+OK. I remember reading a story that they might have developed something like that here. But
+
+113
+00:15:17,560 --> 00:15:23,480
+OK, but it probably is not correct. I mean, like most things I read, probably incorrect,
+
+114
+00:15:24,220 --> 00:15:31,780
+you know, in its assumptions. All right. Anyway, I'm just waiting to cut off my mic,
+
+115
+00:15:31,840 --> 00:15:35,440
+I just figured, well, you know, if anybody's got any other questions about anything
+
+116
+00:15:36,500 --> 00:15:40,420
+practically regarding the rated Y sonics or if you want to add anything in, by the way,
+
+117
+00:15:40,900 --> 00:15:43,760
+you can leave me a note on here or use that chat link that I gave you.
+
+118
+00:15:44,840 --> 00:15:49,440
+And definitely I'll try and address, you know, just about all your suggestions whenever I can.
+
+119
+00:15:51,300 --> 00:15:54,840
+And in case you don't have my email, if you don't know where my website is or whatever,
+
+120
+00:15:54,940 --> 00:16:00,680
+and you don't want to click on the email icon, Blind JFK Researcher, all one word at Gmail dot
+
+121
+00:16:00,680 --> 00:16:07,480
+com. That's my contact. Of course, yours. But Chuck, by the way, if you want to go ahead and
+
+122
+00:16:07,480 --> 00:16:12,440
+try to record it, that'd be fine, because I'd rather not be on on the other computer that I
+
+123
+00:16:12,440 --> 00:16:17,460
+do images on because it's really hard to navigate. And the other computer that I turned on
+
+124
+00:16:17,460 --> 00:16:25,440
+that I also signed into, I see I'm on the call muted. It doesn't give me the record function
+
+125
+00:16:25,440 --> 00:16:30,520
+anywhere. It doesn't show me where I can record it. I'll actually start recording. Here I go.
+
+126
+00:16:30,760 --> 00:16:35,340
+Yeah, I found it. Right. So should I? I'll probably do it then. So you're free to go.
+
+127
+00:16:35,500 --> 00:16:39,560
+I got it. But either way, if you wanted me to record, I can record. But
+
+128
+00:16:39,560 --> 00:16:44,280
+actually, go ahead. Go ahead and record it. It'll be accessible just to when the calls over.
+
+129
+00:16:44,560 --> 00:16:49,540
+But you turn it off and well, yeah, and it'll be it'll pop up as a video.
+
+130
+00:16:49,860 --> 00:16:54,760
+It'll pop up in the same place before that before it'll show up as an MP4 download. Just give it a
+
+131
+00:16:54,760 --> 00:16:59,640
+couple of minutes after the call is finished. After everybody has a delay, it has a starting
+
+132
+00:16:59,640 --> 00:17:06,300
+and finishing delay. Yeah, I know. OK, no big deal. So I will start recording. You want to start now?
+
+133
+00:17:06,300 --> 00:17:13,000
+Yeah. Count about 10 seconds or so me. You got it. And I'll cut my mic. So you're on your own.
+
+134
+00:17:13,339 --> 00:17:35,720
+Yes, sir. We got it. All right. So it looks like we're recording. And today, let's say it's
+
+135
+00:17:36,340 --> 00:17:41,460
+what they call a Sunday, the 21st of January, twenty twenty four of the Pope's work schedule.
+
+136
+00:17:41,920 --> 00:17:46,820
+And you recognize the voice as the Greek and whoever's here is here. And whoever will hear
+
+137
+00:17:46,820 --> 00:17:52,180
+it later will hear it later. This is the inertial domain group. The reason we call it the inertial
+
+138
+00:17:52,180 --> 00:17:56,940
+domain group is one of the aspects of water treatment that we're going to be discussing.
+
+139
+00:17:57,920 --> 00:18:05,720
+And I put out a call or notice of something like a sonar because I wanted to do it for several
+
+140
+00:18:05,720 --> 00:18:11,060
+reasons to catch up with everyone, what I've been doing, what the state of affairs is and what
+
+141
+00:18:11,620 --> 00:18:17,200
+your interest and how your interest could be used in it. Right. And if you're here, you're probably
+
+142
+00:18:17,200 --> 00:18:22,820
+interested and you'll find out if by listening as time goes on, whether you want to be interested
+
+143
+00:18:22,820 --> 00:18:30,540
+or not. So let's just say I'm going to do this backwards. The questions first, if whoever's here,
+
+144
+00:18:30,800 --> 00:18:37,260
+if anyone want to ask a question, just chime in, just go ahead, raise your voice on mute or whatever.
+
+145
+00:18:37,260 --> 00:18:53,820
+And before we start, let's see if there's anything anyone wants to know. OK. Lots of
+
+146
+00:18:53,820 --> 00:19:00,640
+cricket noise there. That's fine. That's fine. I'm used to it. It's fine. Am I hurt? Yes. You're hurt.
+
+147
+00:19:02,020 --> 00:19:12,400
+OK. The the planetary bodies are Jupiter, et cetera. You discuss Earth being a sentient being.
+
+148
+00:19:13,160 --> 00:19:19,040
+These large creations being beings. And last time I heard you and Chuck
+
+149
+00:19:19,680 --> 00:19:26,220
+discuss gods, if you will, Elohim are humanoids. Yeah. So what am I trying to ask?
+
+150
+00:19:27,000 --> 00:19:35,730
+Is Jupiter or these large heavenly bodies? I don't know how to finish the question.
+
+151
+00:19:35,850 --> 00:19:40,990
+I'll finish it for you. Are they are they gods? And if gods are humans, they're human,
+
+152
+00:19:40,990 --> 00:19:48,710
+right? That's a simple like if the if the apple is red and the car is red, the apple must be a car.
+
+153
+00:19:49,370 --> 00:19:56,090
+Right. Because they're both red. No. What's going on is we're living in a state of confusion.
+
+154
+00:19:56,710 --> 00:20:02,050
+So if your mind could physically go back more than two weeks or memory and remember something,
+
+155
+00:20:02,170 --> 00:20:08,170
+it's going to be 10 percent foggy, 10 percent confusion and another 10 percent.
+
+156
+00:20:08,810 --> 00:20:11,910
+Should I ask this question? That's just a human condition. That's just how
+
+157
+00:20:11,910 --> 00:20:16,190
+I might sound like a total asshole by saying that. But that's just the way we are. So
+
+158
+00:20:16,190 --> 00:20:23,430
+the question you brought up is also in a modern context that anything we hear about, even for me,
+
+159
+00:20:24,270 --> 00:20:30,070
+the Greek in a modern context, is still tainted by the society that we live in,
+
+160
+00:20:30,330 --> 00:20:35,850
+the type of society we live in. And what I mean by tainted is that we were brought up now for
+
+161
+00:20:35,850 --> 00:20:42,850
+more than 150 years that the ancients were ignorant. And we're the only ones that are smart,
+
+162
+00:20:42,950 --> 00:20:48,330
+the current people. Right. So we will. So we're coming from a tainted point of view.
+
+163
+00:20:48,730 --> 00:20:53,510
+We have a flawed human perception of things. So all of these things come together. Now,
+
+164
+00:20:53,530 --> 00:20:59,590
+when I say the gods were human, it's because they all have human traits in the text that they give
+
+165
+00:20:59,590 --> 00:21:06,870
+us unmistakably. Right. And the planets, who knows what's up there? Who knows? And how it's
+
+166
+00:21:06,870 --> 00:21:13,050
+up there? I've been looking at the planets and all this stuff for very deeply since the 1980s.
+
+167
+00:21:13,090 --> 00:21:18,530
+I kind of laid off the past decade or two. But what I found out from old books and things like
+
+168
+00:21:18,530 --> 00:21:24,450
+that is that no one is in agreement to how many planets there are, how big they are, how far away
+
+169
+00:21:24,450 --> 00:21:30,870
+they are. Right. And all the stuff they put out to the public about how big Jupiter is, how far it
+
+170
+00:21:30,870 --> 00:21:38,830
+is. None of it's substantiated. None of it. None of it at all. So. You know, where do we go with
+
+171
+00:21:38,830 --> 00:21:43,590
+this kind of stuff? Well, we know what we know, which is not a lot. And I've got to be happy with
+
+172
+00:21:43,590 --> 00:21:49,550
+it until time goes on and something else piece of knowledge breaks forward. And I'm happy with that.
+
+173
+00:21:55,570 --> 00:22:00,430
+But thanks for the question. Anything else? Yeah. Somebody joined with a slightly noisy
+
+174
+00:22:00,430 --> 00:22:05,070
+mic and was just saying, check, check a few minutes ago or a few, maybe a minute ago.
+
+175
+00:22:05,930 --> 00:22:10,010
+We're hearing you and you're making noise now. So did you have something you wanted to ask?
+
+176
+00:22:11,730 --> 00:22:15,190
+I got it, Chuck. It's all right, man. Chill. It's all right. Okay. I'm just trying. It's
+
+177
+00:22:15,190 --> 00:22:20,730
+going to be it's I get it's a public forum. It gets messy. Okay. So let's so if that was just
+
+178
+00:22:20,730 --> 00:22:26,170
+that on the water, what I want to get into is it's those that were subs most likely and those
+
+179
+00:22:26,170 --> 00:22:30,150
+that have had personal calls on Skype and other things that we know that have been up to something
+
+180
+00:22:30,150 --> 00:22:36,790
+since around April of last year on the Pope's work schedule. And that's something is I put
+
+181
+00:22:36,790 --> 00:22:43,530
+photographs up on this chat group. You will see a photograph. The first photo is almost like a very
+
+182
+00:22:43,530 --> 00:22:50,170
+a graphic kind of image, a high concept image of what I call the scale orator.
+
+183
+00:22:50,810 --> 00:22:57,530
+It's a water device. It's a large series of magnets in the middle and a pipe goes around
+
+184
+00:22:57,530 --> 00:23:04,430
+the magnets and it's full disclosure and how it's made and the water runs through the pipe.
+
+185
+00:23:05,310 --> 00:23:11,710
+But the key to it working and doing what it does is that what you normally call magnetism,
+
+186
+00:23:11,710 --> 00:23:17,970
+you and everybody else, yes, you, which is, hey, how do I get this piece of paper to stick
+
+187
+00:23:17,970 --> 00:23:22,930
+on the refrigerator? You got a magnet. Well, you put the paper between the magnet and the
+
+188
+00:23:22,930 --> 00:23:27,550
+refrigerator door and it sticks, right? That's how you think about magnets working. Or when you
+
+189
+00:23:27,550 --> 00:23:32,990
+see them pick up junk cars, right? They hit a switch, electromagnet picks up a junk car,
+
+190
+00:23:33,510 --> 00:23:40,170
+turns off the power, drops the car. Okay. It's not the moment you apply that type of magnetism to the
+
+191
+00:23:40,170 --> 00:23:46,770
+water flow, it stops working and nothing happens at all. So going back to the inertial domain,
+
+192
+00:23:47,750 --> 00:23:52,350
+if you look at that first, if you scroll up, first image, this is going to be very image
+
+193
+00:23:52,350 --> 00:23:58,110
+sensitive, by the way. So if you listen to a recording, I think when Bruce, thank you,
+
+194
+00:23:58,130 --> 00:24:03,770
+Bruce, for setting this up in the link in the Skype chat. I know it's not a lot, but I really
+
+195
+00:24:03,770 --> 00:24:07,710
+don't want to do anything like that. And Bruce, I want to thank Bruce for setting up this group call,
+
+196
+00:24:08,410 --> 00:24:15,190
+technically. I will be relying on photos and I will be numbering the photos. So there'll be no
+
+197
+00:24:15,190 --> 00:24:21,130
+ambiguity. The top, very top photo is a picture of the device that you would see like in an ad
+
+198
+00:24:21,130 --> 00:24:27,690
+or a promotional piece or what's called a cut sheet in an industry. And number two, now I've
+
+199
+00:24:27,690 --> 00:24:33,670
+used a typed in number two on the lower left. I put an X through that image, which is typically
+
+200
+00:24:33,670 --> 00:24:37,790
+what they show you magnetic water treatment is because that's not what we're going to be
+
+201
+00:24:37,790 --> 00:24:44,410
+discussing. You don't want to do that. That is the normal accepted way. So and then there'll
+
+202
+00:24:44,410 --> 00:24:49,190
+be pictures three, four, fives and on and on and on. And I'll probably be using a freehand pen
+
+203
+00:24:49,190 --> 00:24:55,130
+on the photo to put a much larger number to be more visual. But if you go to picture number one,
+
+204
+00:24:55,190 --> 00:25:01,510
+that's the device I call the Scalarator Mark 1. And I call it a Mark 1 because it's a one inch. So
+
+205
+00:25:01,510 --> 00:25:09,030
+two inch would be Mark 2. The three quarter inch is the Mark 0.75. Yes, and I did come up with all
+
+206
+00:25:09,030 --> 00:25:18,510
+this on my own, all of it. So if we go to number picture number two, I'm posting what conventional
+
+207
+00:25:18,510 --> 00:25:24,710
+thought of magnetic water treatment of fluids is. Now, you see a picture there with the north,
+
+208
+00:25:24,850 --> 00:25:29,230
+south, south, north, red magnets. I put an X through it and it's number two. I'll make the
+
+209
+00:25:29,230 --> 00:25:34,530
+numbers on the other photographs more prominent. And I put an X through it because that is not
+
+210
+00:25:34,530 --> 00:25:39,430
+what we want, what should be done, because it has no effect, very little effect. When I tell
+
+211
+00:25:39,430 --> 00:25:44,490
+people in the water industry that do sell products that are magnetized, they're like, what do you mean
+
+212
+00:25:44,490 --> 00:25:48,350
+it has no effect? Department of Energy wrote a paper that if you don't do that, you're an idiot.
+
+213
+00:25:48,790 --> 00:25:54,770
+I'm like, OK, all right. I'll get into the water industry here, too. Can you hear me?
+
+214
+00:25:54,770 --> 00:26:01,830
+Let me talk about the water industry. Sorry. Am I the only one who doesn't have the access to the
+
+215
+00:26:01,830 --> 00:26:06,050
+pictures because I don't see them? I would ask if you scroll all the way to the top, Bruce,
+
+216
+00:26:06,150 --> 00:26:10,450
+when someone joins in later, can they also get the photographs that were posted first?
+
+217
+00:26:11,170 --> 00:26:16,150
+Is there a way to alter the? It depends. It depends on where you're posting them. I haven't
+
+218
+00:26:16,150 --> 00:26:22,090
+seen anything come up on my end. I thought it would. Are you sharing screen on your end? No,
+
+219
+00:26:22,090 --> 00:26:27,750
+no. Oh, yeah. Internal domain. I could take a screenshot of what I see.
+
+220
+00:26:28,950 --> 00:26:36,650
+You can share a screen. You can share what you know, the other. Oh, you're using a record with
+
+221
+00:26:36,650 --> 00:26:42,990
+Greek. You can you can use that and share screen from that computer. And that way we would see.
+
+222
+00:26:43,130 --> 00:26:46,930
+I don't want to do that. I don't want to do that. What I'm going to be doing is I'm going to be
+
+223
+00:26:46,930 --> 00:26:52,910
+putting pictures up in this Skype conversation, this this actual call. And if you get this is
+
+224
+00:26:52,910 --> 00:26:58,790
+I don't want to start complicating it. OK, then you want to repost them into this chat now so that
+
+225
+00:26:58,790 --> 00:27:03,530
+they can be seen because not everybody can see. So what if someone joins in a week? They won't
+
+226
+00:27:03,530 --> 00:27:07,850
+be able to see them. They should do now. Now that we have an established call where you're
+
+227
+00:27:07,850 --> 00:27:13,350
+doing this. Yeah, yeah, they should be able to see it. I'm going to forward it again.
+
+228
+00:27:14,350 --> 00:27:23,050
+Picture number one. You see it now. Now there we go. Yep. I'm sorry. I just want to make sure
+
+229
+00:27:23,050 --> 00:27:28,190
+I'm not going to keep up by the way, because I'm not going to keep doing this. I'm not going to
+
+230
+00:27:28,190 --> 00:27:33,850
+keep roasting, roasting, presenting, representing pictures every time. So I want to make sure that
+
+231
+00:27:33,850 --> 00:27:38,210
+if someone joins in a week and they listen to the recording, they could scroll up from a week
+
+232
+00:27:38,210 --> 00:27:42,530
+ago and see the first pictures and the second pictures. Right. Yep. They'll see it. I don't
+
+233
+00:27:42,530 --> 00:27:47,470
+want to just tap because if they say they can't see it, I'll say too bad and it'll be Bruce's
+
+234
+00:27:47,470 --> 00:27:57,970
+fault. OK, thanks. Thank you. Yeah, you're welcome. Yeah. I am not you know, I can get into
+
+235
+00:27:57,970 --> 00:28:02,830
+all this, by the way, and I could be like the best computer techie you've ever seen. One of the best.
+
+236
+00:28:03,270 --> 00:28:08,810
+But I chose not to because it's not where I was. Any any geek or any nerd can do this stuff.
+
+237
+00:28:08,810 --> 00:28:13,390
+This is cookie cutter. That's why when you're going to hear me talk about the people in the
+
+238
+00:28:13,390 --> 00:28:16,790
+water industry, you say, oh, man, Greek sounds like he's really hating on them. No, I'm not.
+
+239
+00:28:17,150 --> 00:28:20,670
+I'm going to give you the perspective and I'm going to show you things that you normally
+
+240
+00:28:20,670 --> 00:28:26,570
+wouldn't see about them. As if I just came to this planet. And I saw what's going on,
+
+241
+00:28:26,590 --> 00:28:32,170
+I can give you such a clear point of view. And when I bring up certain companies,
+
+242
+00:28:32,170 --> 00:28:35,850
+I'm not going to mention names like Natural Action Technologies or Greenfield.
+
+243
+00:28:35,850 --> 00:28:40,450
+But anyway, I'll drop links in and I'll show you stuff and then you'll be OK. What am I
+
+244
+00:28:40,450 --> 00:28:45,010
+looking for? And then I'll bring up the points, you know, be like, holy crap.
+
+245
+00:28:46,190 --> 00:28:51,350
+Right. So does that make them bad? No. Does it make them good? Definitely not either.
+
+246
+00:28:52,370 --> 00:28:56,890
+And I'm going to show you what's going on with them. And those are just two examples
+
+247
+00:28:56,890 --> 00:29:01,730
+because they're the dominant ones on the Internet. And I brought them up because that's more the
+
+248
+00:29:01,730 --> 00:29:08,890
+alternative side of water treatment. The mainstream academic side of water treatment is dead
+
+249
+00:29:09,410 --> 00:29:16,710
+and it's stupid. It's so dumb that you might as well put Fisher Price or Romper Room on the label.
+
+250
+00:29:17,210 --> 00:29:23,850
+Right. I'm talking Harvard University, MIT also. By the way, you know, this is not the first time
+
+251
+00:29:23,850 --> 00:29:28,170
+you hear Greek speech, but I dare anyone to not notice what I'm about to say.
+
+252
+00:29:28,850 --> 00:29:35,430
+But go do a YouTube search on new technologies and you'll see a whole slew of videos from MIT
+
+253
+00:29:37,310 --> 00:29:41,130
+students bringing forward these new technologies. And it's a bunch of pimply,
+
+254
+00:29:42,130 --> 00:29:48,610
+snotty 18 year olds with popsicle sticks and silicone glued together talking about this is
+
+255
+00:29:48,610 --> 00:29:52,830
+some new technology. And you got to laugh your ass out. People look at this and you should see
+
+256
+00:29:52,830 --> 00:29:58,950
+the comments. Oh, wow. They're making fun of you, meaning society. This is what they're
+
+257
+00:29:58,950 --> 00:30:02,870
+putting in front. And what I just said, you cannot unsee it once you see it.
+
+258
+00:30:03,730 --> 00:30:08,450
+Look at all the new technology videos. They're showing you 18 or 19 year old pimply, snotty
+
+259
+00:30:08,450 --> 00:30:16,010
+MIT students with popsicle sticks. Third grade science crap and telling you this is how they're
+
+260
+00:30:16,010 --> 00:30:19,830
+doing the new nano stuff or whatever. They're making fun of you. There is nothing you are
+
+261
+00:30:19,830 --> 00:30:24,030
+not getting anything, not getting any new technology at all. Give you an example.
+
+262
+00:30:25,670 --> 00:30:29,250
+I like to make fun of people who still have hard drives because you shouldn't,
+
+263
+00:30:29,610 --> 00:30:32,630
+because you should be made fun of if you have something with a hard drive.
+
+264
+00:30:33,310 --> 00:30:39,070
+Because back in 1983, I went out and bought an AT&T answering machine because it didn't have
+
+265
+00:30:39,070 --> 00:30:44,090
+a cassette. It had a solid state drive. I don't know, Bruce, you probably remember that. And
+
+266
+00:30:44,090 --> 00:30:48,270
+you had answering machines instead of the cassette getting messed up. It was solid state, no cassette.
+
+267
+00:30:48,830 --> 00:30:52,850
+Okay. That means that solid state drives existed for the public to buy,
+
+268
+00:30:52,930 --> 00:30:55,650
+even though it was $40 for an answering machine, $400 in today's money.
+
+269
+00:30:56,510 --> 00:31:02,150
+It was still available in 1982. 40 years later, plus you're still using a hard drive,
+
+270
+00:31:02,670 --> 00:31:07,510
+you should be made fun of because that technology was around 40 years ago. Why are you making a
+
+271
+00:31:07,510 --> 00:31:13,490
+demand for it? Do you know that spinning a hard drive in any device is tantamount to 1950s
+
+272
+00:31:13,490 --> 00:31:20,110
+technology? It's not any different than watching a 1950s sci-fi when they show you a computer
+
+273
+00:31:20,110 --> 00:31:24,710
+and they show you the big reels of tape go back and forth. It spits out a piece of paper with
+
+274
+00:31:24,710 --> 00:31:30,450
+holes in it. It's ridiculous. So you're being made fun of. And I hate that. Because why?
+
+275
+00:31:31,270 --> 00:31:36,630
+I'm not the type of person when I was younger or older, got kicks out of making fun of stupid
+
+276
+00:31:36,630 --> 00:31:44,350
+people. I hate that. I saw people pick on other people that were dumb. I said, don't do that.
+
+277
+00:31:44,870 --> 00:31:50,090
+You think they want to be dumb? So when I see that happening today in industry,
+
+278
+00:31:50,230 --> 00:31:52,410
+it's a side all around that really pisses me off.
+
+279
+00:31:55,270 --> 00:31:59,790
+There's a text question in the chat. I don't know if you saw it.
+
+280
+00:31:59,870 --> 00:32:06,390
+All right. I'll get to it. No, I'll get to it. Thanks. So let's see. So what I want to get into
+
+281
+00:32:06,890 --> 00:32:11,390
+first, of course, is any questions. And the second thing I want to get into is why I wanted to get
+
+282
+00:32:11,390 --> 00:32:18,650
+the seminar together to put out because I'm ready to put out an effort. And before you do something,
+
+283
+00:32:19,430 --> 00:32:24,410
+if you think you might want to work with other people, it's good to figure that out before you
+
+284
+00:32:24,410 --> 00:32:31,470
+start and then look for them. Right. But if you put out a statement or a desire and then with
+
+285
+00:32:31,470 --> 00:32:35,630
+other people and they don't fulfill it. Well, now, you know, there's no question you have to do it
+
+286
+00:32:35,630 --> 00:32:41,930
+on your own. Right. So if you say, listen, there's this dragon coming to eat our children next week,
+
+287
+00:32:41,950 --> 00:32:46,830
+who's going to join me to go fight it? Well, a whole bunch of people say, let's go. Well,
+
+288
+00:32:46,830 --> 00:32:52,990
+you have a scenario because you got five people. OK, so we need five swords, five right axes,
+
+289
+00:32:53,730 --> 00:32:58,510
+right? Whatever, whatever. But if no one comes and you're the only one that's going to go fight it,
+
+290
+00:32:58,510 --> 00:33:04,290
+you're like, fuck. OK, now I need an axe. I need a sword. I can't take off to five of them.
+
+291
+00:33:04,290 --> 00:33:09,790
+I can only wield one or two at one time. What do I now? I have to you know, I got nobody. Watch my
+
+292
+00:33:09,790 --> 00:33:14,790
+back. So what if this dragon whips his tail around me? What do I do? So now that's the whole scenario.
+
+293
+00:33:14,890 --> 00:33:20,770
+It changes. Right. So that's why I'm doing this now, because it's always good to pick something
+
+294
+00:33:20,770 --> 00:33:25,750
+in life that you're going to focus on, not the only thing you're going to do and then put a
+
+295
+00:33:25,750 --> 00:33:29,310
+little bit of an effort. And I haven't done something like that in over 20 years, the last
+
+296
+00:33:29,310 --> 00:33:34,530
+actually 25 years. The last time I did something like this was when I started a bike shop in New
+
+297
+00:33:34,530 --> 00:33:39,530
+York City. I really put all of my effort and all of my consciousness and everything just fell into
+
+298
+00:33:39,530 --> 00:33:46,490
+place. It was great. And with this, this is even more noteworthy because this is not only something
+
+299
+00:33:46,490 --> 00:33:52,790
+that has to do with water treatment. It has to do with physics. It is a new physics. It's not
+
+300
+00:33:52,790 --> 00:33:56,950
+like Greeks getting into the water business. No, we're in the physics business now, baby,
+
+301
+00:33:57,430 --> 00:34:03,710
+because there's not a physicist. I assure you, there is not a physicist. Spell that F-I-Z-Z-Y-S-I-S-T.
+
+302
+00:34:04,250 --> 00:34:09,429
+They're very fizzy. If they're academic physicists, forget it. They're just have them stand by the
+
+303
+00:34:09,429 --> 00:34:13,790
+door. That's about. By the way, the academic physicists, this is how they operate their
+
+304
+00:34:13,790 --> 00:34:20,290
+whole lives. Once they get a degree, they have to find a place working in a corporation
+
+305
+00:34:20,889 --> 00:34:24,850
+and the corporations accommodate the academics. They have a little area
+
+306
+00:34:25,350 --> 00:34:28,770
+where the number of employees, it depends on how big the corporation,
+
+307
+00:34:28,909 --> 00:34:34,010
+some corporations could hire a thousand of them. And they sit in the corporation and do various
+
+308
+00:34:34,010 --> 00:34:37,830
+tasks, you know, review this, whatever, whatever, whatever, in their own little contained,
+
+309
+00:34:37,989 --> 00:34:43,989
+self-contained environment. And the only other contact they have is with other academic physicists
+
+310
+00:34:43,989 --> 00:34:48,290
+that are sitting in a similar environment in another corporation or a government.
+
+311
+00:34:48,909 --> 00:34:55,989
+So, they have this little self-contained society within a corporation or a government,
+
+312
+00:34:56,250 --> 00:35:02,250
+and they're very safe. They all pat each other on the back. They know absolutely nothing at all.
+
+313
+00:35:02,830 --> 00:35:07,270
+As a matter of fact, they've never built anything. They can't build anything. They have
+
+314
+00:35:07,270 --> 00:35:13,790
+no creativity. Harkens back to, can you name anything that was built by someone with academic
+
+315
+00:35:13,790 --> 00:35:20,110
+that is useful? No, you cannot. It's not possible because it's just the way that it is.
+
+316
+00:35:20,810 --> 00:35:25,310
+So, am I hating on them? No. Am I giving you the objective truth about it? Absolutely.
+
+317
+00:35:26,250 --> 00:35:31,170
+And this is across the board. I've even, look, I've even tried this scenario out in the pizza
+
+318
+00:35:31,170 --> 00:35:34,870
+parlor today and everybody was laughing. Yeah, we can't think of a damn thing an academic ever
+
+319
+00:35:34,870 --> 00:35:42,770
+came up with. So, all right. So, I wanted to just bring this up again. It's a long introduction
+
+320
+00:35:43,250 --> 00:35:48,710
+that this is something very important, but to say that it's more important in physics is irrelevant
+
+321
+00:35:49,450 --> 00:35:53,490
+because now we're going to be leaning towards the academic moronic side and that doesn't help
+
+322
+00:35:53,490 --> 00:35:58,990
+people at all. So, let's just see what, I don't, let's see, do I have something in the chat,
+
+323
+00:35:59,090 --> 00:36:06,410
+a question, what size magnet and photo number one? Oh, okay. That's a five and a quarter inch. I will
+
+324
+00:36:07,210 --> 00:36:13,870
+drop a link. Let me take, you want me to show you the exact, let's do this. What I will do,
+
+325
+00:36:15,250 --> 00:36:20,490
+George, is I'm going to open a file here and I'm going to do a screenshot of this,
+
+326
+00:36:20,570 --> 00:36:24,170
+the exact magnet, where you can get it and how much it costs and everything. Is that all right?
+
+327
+00:36:27,790 --> 00:36:34,150
+This is all about full disclosure. So, I'll show you exact supplier, everything about it.
+
+328
+00:36:34,150 --> 00:36:40,370
+Okay. The model number and how much I paid for it and everything. Here we go.
+
+329
+00:36:59,610 --> 00:37:11,200
+There we go. Now, the thing here is about, you must, I think also on the last Sonic,
+
+330
+00:37:11,300 --> 00:37:17,740
+I talked about how disgusting 3D printed things are to me, right? It would be like giving a rabbi
+
+331
+00:37:17,740 --> 00:37:23,800
+a piece of pork, you know, just out of courtesy. So, you know how I feel about it, but everybody
+
+332
+00:37:23,800 --> 00:37:29,540
+loves pork, right? But not a rabbi, right? So, I'm not a rabbi and I, but I know I don't eat
+
+333
+00:37:29,540 --> 00:37:36,160
+pork, but here's the idea. You show me anything 3D printed and it's like showing a rabbi or a
+
+334
+00:37:36,160 --> 00:37:44,520
+vampire a garlic or it's garbage to me. There is some aspects of 3D printing that are good.
+
+335
+00:37:45,260 --> 00:37:50,860
+I said some aspects, but not in this. If you have to 3D print this, you got problems.
+
+336
+00:37:51,460 --> 00:37:55,900
+This is totally, it's like saying, I don't know if you guys are familiar with the watch industry.
+
+337
+00:37:56,600 --> 00:38:03,080
+People are very much still up on collecting old Seiko's, Tag Heuer's, Patek Philippe's. That's
+
+338
+00:38:03,080 --> 00:38:09,780
+not more of a collection item. That's more of a status symbol or a Rolex is more of a status
+
+339
+00:38:09,780 --> 00:38:16,760
+symbol again. But imagine saying someone, you could go do a, by the way, a browser search and
+
+340
+00:38:16,760 --> 00:38:22,120
+go to images of Patek Philippe watch. Go browser search and look what the inside of that watch
+
+341
+00:38:22,120 --> 00:38:26,880
+looks like. Now, how exciting do you think it would be to someone who develops those watches
+
+342
+00:38:26,880 --> 00:38:32,160
+that you're going to 3D print one? He'll throw up right in your lap. He'll be like, get out of here,
+
+343
+00:38:32,400 --> 00:38:41,560
+disgusting human, right? Look at the workmanship and all that. So, this is again, the academics
+
+344
+00:38:41,560 --> 00:38:45,920
+do that. Everything 3D printed. And by the way, everyone that I've worked with so far was touting
+
+345
+00:38:45,920 --> 00:38:53,580
+3D printing. So, yeah. Does that make them bad? No. But does it make them good? Definitely not.
+
+346
+00:38:53,760 --> 00:39:02,330
+Not for this. All right. So, before I go on, I know there's a question about the magnet. I'm
+
+347
+00:39:02,330 --> 00:39:09,190
+just going to go on. Which direction? Anybody want to plug in? You want to hear first my experience
+
+348
+00:39:09,190 --> 00:39:14,250
+with the water industry and what they're all about? You can, if you presume that it's shit,
+
+349
+00:39:14,250 --> 00:39:18,010
+you've presumed well. So, maybe we could bypass the whole thing. I can give details
+
+350
+00:39:18,970 --> 00:39:25,410
+from experience for six months. We can bypass it or we can get into how this started and how
+
+351
+00:39:25,410 --> 00:39:32,450
+we discovered. You have a fork in the road. So, anybody want to give some feedback on that? I'd
+
+352
+00:39:32,450 --> 00:39:42,090
+be glad to take it. I was just going to ask, when you say the image is a scale right at mark one,
+
+353
+00:39:42,650 --> 00:39:50,710
+is that in, are you referring to the diameter of the tube? Yes, of the pipe, the conduit. Yeah. So,
+
+354
+00:39:50,750 --> 00:39:56,590
+that is what we call a one inch or 25.4 millimeter, two and a half centimeter metric.
+
+355
+00:39:58,670 --> 00:40:03,990
+If it were a two inch, you know, a 50 mil pipe, it would be the mark two.
+
+356
+00:40:05,450 --> 00:40:11,450
+The mark three would be a three inch pipe. Yeah. And we can make them that large. We can make
+
+357
+00:40:11,450 --> 00:40:16,870
+them that large. It's not a big deal. The magnet size becomes a big deal, but I figured that out.
+
+358
+00:40:16,970 --> 00:40:21,830
+We'll get into that. It's very advanced. We'll get into that later. What I want to get into more now
+
+359
+00:40:21,830 --> 00:40:28,330
+is my experience in the past six months with the water industry or how it all started and how it
+
+360
+00:40:28,330 --> 00:40:33,110
+could transfer that information to you to answer any questions that you might have or bypass one,
+
+361
+00:40:33,230 --> 00:40:38,090
+bypass the other, not talk about one or not talk about both, whatever. But the important thing
+
+362
+00:40:38,090 --> 00:40:43,870
+here is what I want to keep and I will keep referring to the way, the only way I see this
+
+363
+00:40:43,870 --> 00:40:49,830
+going down, down the line and being developed is with people that are workmen and true workmanship.
+
+364
+00:40:50,210 --> 00:40:55,990
+This is more in the line of a device that you would reckon as a fine set of golf clubs,
+
+365
+00:40:56,710 --> 00:41:05,610
+a fine racing bicycle, a fine umbrella, a fine watch, right? Now, I went and bought a fine set
+
+366
+00:41:05,610 --> 00:41:10,610
+of golf clubs and they're 3D printed. Ah, would you lay them down here so my dog could take a
+
+367
+00:41:10,610 --> 00:41:19,470
+crap on them? Right? How does that sound? Yeah. So none of that stuff applies here. If you, you know,
+
+368
+00:41:19,530 --> 00:41:23,070
+if you have an inkling that this thing has to be 3D printed in some way or another,
+
+369
+00:41:24,030 --> 00:41:28,550
+just you're going to piss me off, so leave the call. Yeah. It's not that it's bad, but it's
+
+370
+00:41:28,550 --> 00:41:34,230
+definitely not good. I keep saying that. Is the Greek so judgmental? Is 3D printing bad? No,
+
+371
+00:41:34,230 --> 00:41:40,930
+there is some 3D printing that can be done that is necessitates, but once people start going like
+
+372
+00:41:40,930 --> 00:41:45,370
+geeks, like Eric Dollard says to the computer, to 3D print everything that they could actually
+
+373
+00:41:45,890 --> 00:41:51,610
+improve their human quality by actually practicing some skills and developing a pipe bending skill,
+
+374
+00:41:52,230 --> 00:41:56,870
+jumping to a 3D printer for that. I have no respect for you as a human anymore. You're just a,
+
+375
+00:41:57,130 --> 00:42:02,990
+you can be replaced by the machine that you're going to. Why do I need you? I should just go
+
+376
+00:42:02,990 --> 00:42:08,090
+directly to the 3D printing machine. You see what I'm saying? If, if people that you meet
+
+377
+00:42:08,090 --> 00:42:14,010
+are constantly giving up, progressing their own talents for having a machine do it,
+
+378
+00:42:15,610 --> 00:42:22,030
+why do I even need them bypass them? Go right to the machine that they're using. I don't need them
+
+379
+00:42:22,030 --> 00:42:28,830
+at all. You see? So this is more of a human thing that I'd like to maintain again. Imagine someone
+
+380
+00:42:28,830 --> 00:42:33,990
+that collects fine watches and you say, oh yeah, I have a 3D printed version of your Patek Philippe.
+
+381
+00:42:34,550 --> 00:42:40,370
+By the way, if anyone's doesn't know what Patek Philippe is, put in Patek, P-A-T-E-K, Philippe,
+
+382
+00:42:41,230 --> 00:42:47,850
+and go to images. Could you imagine someone who is an enthusiast or collector of these
+
+383
+00:42:48,630 --> 00:42:52,150
+is presented with someone that says, I want to 3D print that. He's going to put it on the floor
+
+384
+00:42:52,150 --> 00:42:56,910
+so I could take a crap on it. My dog could take a crap on it too. Now this is the, this is the
+
+385
+00:42:56,910 --> 00:43:01,510
+level of humanity that we're at right now. And I want to avoid that like the plague completely,
+
+386
+00:43:01,990 --> 00:43:07,110
+say go the opposite direction. And Vandy, you just asked about the Mark I and all that. And
+
+387
+00:43:07,110 --> 00:43:11,190
+I want to commend you also for making efforts on bending pipe and all that. And we will get into
+
+388
+00:43:11,190 --> 00:43:16,990
+that. I have developed several techniques on how to be masterful in bending pipes and having them
+
+389
+00:43:16,990 --> 00:43:22,990
+stay thermally stable and how to bend them with precision. And there's nothing online about it
+
+390
+00:43:22,990 --> 00:43:27,430
+at all. I mean, the fine points that I will discuss, I'm the only one that's able to do that
+
+391
+00:43:27,430 --> 00:43:34,090
+seemingly. There's some other monkey somewhere, I'm sure, but he's not talking like I am. Right.
+
+392
+00:43:35,890 --> 00:43:42,030
+So this, I would like to stay and see define more of a high level hand craft.
+
+393
+00:43:43,810 --> 00:43:50,490
+Right. And to me, I'm beginning to sound like I hearken back from the 70s and 80s. And a lot
+
+394
+00:43:50,490 --> 00:43:55,690
+of musicians were complaining about drum machines. Right now, we need all the machines,
+
+395
+00:43:55,850 --> 00:44:01,690
+the synthesizers, because now we don't have musicians anymore. Right. But that didn't work
+
+396
+00:44:01,690 --> 00:44:08,290
+out that way. Because if you look at new movies, film scores, they still use 100 piece orchestras.
+
+397
+00:44:09,170 --> 00:44:16,250
+Right. If you ask me in the 80s, 40 years from now, would people still be using hiring, you know,
+
+398
+00:44:16,250 --> 00:44:23,170
+like John Williams making a film score for a new sci fi cowboy movie? Would he be employing
+
+399
+00:44:23,170 --> 00:44:29,870
+120 piece orchestra? I would say definitely not 40 years ago. But guess what? 40 years later,
+
+400
+00:44:29,930 --> 00:44:36,390
+they still are. Right. So there's no reason to get my panties in a twist about everybody around me
+
+401
+00:44:36,390 --> 00:44:41,730
+wanting to 3D print stuff, because that will go away. But right now it's I see it as an obstruction
+
+402
+00:44:41,730 --> 00:44:46,870
+and an annoyance. So I don't know if I think I'll leave that subject alone.
+
+403
+00:44:48,110 --> 00:44:55,030
+But thank you for putting that up. If you go to actually, I'll do a quick and feel free anyone
+
+404
+00:44:55,030 --> 00:45:01,070
+to post an image. And I do have some texts here. Okay. I assume there's a particular number of
+
+405
+00:45:01,070 --> 00:45:05,630
+magnets are in the array. Yes, we'll get into that water industry first, please. A bit of history
+
+406
+00:45:05,630 --> 00:45:13,970
+also find like a musical instrument. Yes. Now, if you go to the images and I protect Philippe,
+
+407
+00:45:13,970 --> 00:45:18,810
+you could look at the back of one and I'll put an image in just to satisfy
+
+408
+00:45:18,810 --> 00:45:25,650
+what my desire and my was to say about it. I put a link and also Greek.
+
+409
+00:45:26,790 --> 00:45:31,690
+Yeah, I'd rather just do images than links, by the way, I would just suggest that
+
+410
+00:45:31,690 --> 00:45:34,750
+because links get really messy and take you away from the page. Right.
+
+411
+00:45:35,430 --> 00:45:39,330
+So when you have an image, you could you could click on it and it expands and still keeps you
+
+412
+00:45:39,330 --> 00:45:44,110
+on the Skype group. Yeah, I want to avoid links. I even though I do put them up,
+
+413
+00:45:44,130 --> 00:45:51,150
+just too many links and we start. That's fine. Protect Philippe. Okay. And if you go to images.
+
+414
+00:45:54,330 --> 00:46:00,770
+On the back inside, I'll just put in Philippe inside and I'll post an image to give you
+
+415
+00:46:00,770 --> 00:46:21,200
+an idea of what I'm talking about. So the water industry, we do have someone up for the water
+
+416
+00:46:21,200 --> 00:46:25,240
+industry. Great. I want to get into it. I said I wasn't going to mention names like
+
+417
+00:46:25,240 --> 00:46:30,280
+Natural Action Technologies or Greenfield. You know, I'm famous for doing that. Right.
+
+418
+00:46:31,860 --> 00:46:35,300
+So I'll mention they're both the same. OK, I'll start off with this.
+
+419
+00:46:36,080 --> 00:46:40,340
+They're not bad people, but are they good people? No, they're not good people.
+
+420
+00:46:40,940 --> 00:46:46,260
+In my opinion, some other people's opinion, I could tell you what's going on. You could look
+
+421
+00:46:46,260 --> 00:46:51,420
+them up. You could find out what they're doing and they're exactly the same, but they're very
+
+422
+00:46:51,420 --> 00:46:58,540
+different. They're both try to be honorable, and I'll get to the last part first. They're more
+
+423
+00:46:59,360 --> 00:47:03,560
+there. This is more the airy, fairy structured water side of the water industry,
+
+424
+00:47:03,840 --> 00:47:08,900
+not the mainstream water industry, which is all chemicals and just big filtration and R.O.
+
+425
+00:47:08,900 --> 00:47:14,220
+I brought them up because they're more of the alternative side where they're not going to run
+
+426
+00:47:14,220 --> 00:47:19,680
+and ask you directly, you know, where is your degree from? Are you an engineer like a company
+
+427
+00:47:19,680 --> 00:47:27,040
+like Pentec or Halliburton would or other companies that are, you know, into big water treatment?
+
+428
+00:47:27,140 --> 00:47:32,320
+Right. So I brought up the two airy, fairy side ones where there's this thing called structure
+
+429
+00:47:32,320 --> 00:47:37,500
+water that was made more popular. You guys probably heard of it. What they do is they
+
+430
+00:47:37,500 --> 00:47:41,800
+both run 2013. There's this character. I call him a character because I can't watch more than 30
+
+431
+00:47:41,800 --> 00:47:47,760
+seconds of his mug, Clayton Nolte. I never met the guy. I got nothing against him. I just want
+
+432
+00:47:47,760 --> 00:47:53,740
+to basically he took a bunch of golf balls through him in a PVC pipe, ran water through and say this
+
+433
+00:47:53,740 --> 00:48:00,880
+is natural action for water. Right. And it was a big craze. Everyone jumped on it. These people
+
+434
+00:48:00,880 --> 00:48:05,620
+started companies. These two people, two companies that I mentioned, nothing special.
+
+435
+00:48:06,440 --> 00:48:09,340
+Both people with some corporate background, cookie cutter,
+
+436
+00:48:10,160 --> 00:48:15,640
+corporate cutouts, very easy. If you want to start a company, you could be 40, 50, 30 years old,
+
+437
+00:48:15,700 --> 00:48:21,200
+nine years old or 18 years old. Doesn't matter. The world, the fractional reserve banking system
+
+438
+00:48:21,200 --> 00:48:26,420
+is ready for you. There's ready. Tell someone I want to start a company. Oh, you got to get a
+
+439
+00:48:26,420 --> 00:48:30,620
+lawyer and you got to get an accountant. And they're both set up that way. Cookie cutter,
+
+440
+00:48:30,620 --> 00:48:35,520
+corporate cutout, they're enslaved to the fractional banking system. They don't know
+
+441
+00:48:35,520 --> 00:48:39,780
+anything about money. They don't know anything about business, anything about, you know,
+
+442
+00:48:39,820 --> 00:48:43,540
+whatever they do, whatever the accountants say, whatever the lawyer says, they think
+
+443
+00:48:43,540 --> 00:48:47,040
+there are good lawyers and they think there are good accountants. They don't know. There's no
+
+444
+00:48:47,040 --> 00:48:51,360
+such thing. There's competent lawyers and incompetent ones, but there's no such thing
+
+445
+00:48:51,360 --> 00:48:55,500
+as a good lawyer. And there's competent accountants and incompetent accountants.
+
+446
+00:48:55,600 --> 00:48:59,860
+There's no such thing as a good account. Okay. So that's the more of the Greek speak side.
+
+447
+00:49:00,620 --> 00:49:06,920
+By being harsh yet? No, being accurate. Extremely. So what they do though is they
+
+448
+00:49:06,920 --> 00:49:11,120
+sell devices. You can go on their websites, both of them, which I think are very tacky
+
+449
+00:49:11,640 --> 00:49:17,360
+and I've worked with both. And you will find out that they offer these airy ferry devices that,
+
+450
+00:49:17,600 --> 00:49:23,380
+you know, they're made out work. Basically it's tubes in a golf balls in a tube and the water
+
+451
+00:49:23,380 --> 00:49:28,600
+flows over these flow forms supposed to enliven the water. Now it depends on which way the wind
+
+452
+00:49:28,600 --> 00:49:34,120
+is blowing that day. That device might make the water better or not. And I'm laughing because
+
+453
+00:49:34,120 --> 00:49:38,100
+that's true. Now, one, one of the, they have two things that they keep them in business.
+
+454
+00:49:38,100 --> 00:49:43,540
+Both of these companies, two things that keep them in business is one, the perception
+
+455
+00:49:44,580 --> 00:49:50,880
+of good customer service. Meaning like if the, if you get the device and 99% of the time,
+
+456
+00:49:50,920 --> 00:49:55,040
+you'll notice no difference. It will give you all your money back. No questions asked
+
+457
+00:49:55,040 --> 00:50:02,880
+and take the device back. Right? So do they get 99% of the devices returned? No, about maybe 30%,
+
+458
+00:50:03,720 --> 00:50:07,540
+right? Or more. Cause most people don't care. Even though some of them are three, $4,000,
+
+459
+00:50:09,000 --> 00:50:13,980
+right? The other thing that keeps them in business is that they sell water filters
+
+460
+00:50:13,980 --> 00:50:20,900
+because they have to sell something that actually does something, right? A water filter is a screen.
+
+461
+00:50:20,900 --> 00:50:29,320
+It is a mechanical filter. It will do something, right? Every time it to based on its specifications.
+
+462
+00:50:29,920 --> 00:50:34,340
+It doesn't mean the water is going to taste better though. I have had water run through
+
+463
+00:50:34,340 --> 00:50:40,800
+various filtration types, media systems, whatever you name it. And they tout these filters as
+
+464
+00:50:40,800 --> 00:50:46,240
+cleaning the water down to 0.1 micron and without RO or this or that treatment and that. And the
+
+465
+00:50:46,240 --> 00:50:53,920
+water tastes like crap. Really does. In other words, I've gone through places in the East Coast
+
+466
+00:50:53,920 --> 00:51:00,580
+and just turned on the tap. I can Queens, New York or upstate New York, just turned on the regular
+
+467
+00:51:00,580 --> 00:51:05,540
+tap and send the water tastes better than these going through these filters. Cause I've through
+
+468
+00:51:05,540 --> 00:51:09,580
+long discussion discussion. One day we'll get into water does not like to be micro filtered
+
+469
+00:51:10,080 --> 00:51:15,720
+and it doesn't like to be steam distilled, right? So we will let you know by tasting like crap.
+
+470
+00:51:16,240 --> 00:51:23,200
+So these companies, what they do is this is the alternative water business, you know, the airy
+
+471
+00:51:23,200 --> 00:51:28,600
+fairy, the alternative, you know, they also, you know, they, they sell water filters to keep them
+
+472
+00:51:28,600 --> 00:51:32,440
+in and they hope they want to sell the water filters because it either works or it doesn't.
+
+473
+00:51:32,700 --> 00:51:37,020
+They sell these basically flow form things that don't work most of the time. Actually,
+
+474
+00:51:37,040 --> 00:51:40,480
+it's very subjective. Some people say they work. Other people don't.
+
+475
+00:51:41,660 --> 00:51:47,880
+Now, the irony when I came in is the scale orator, the Mark one compared to what they're doing,
+
+476
+00:51:48,080 --> 00:51:54,200
+even the filters is like a baseball bat across the head. Does it work? Are you fucking kidding me?
+
+477
+00:51:55,040 --> 00:52:00,320
+This is like your house is built near a mountainside and you come home one day and the
+
+478
+00:52:00,320 --> 00:52:07,280
+boulder just went through your roof and it's in your living room. Obvious. Does it work? Crazy.
+
+479
+00:52:07,280 --> 00:52:15,100
+Does it work? The thing about the scale orator that they've tried is that it must follow certain
+
+480
+00:52:15,100 --> 00:52:18,700
+directions in installation. And I'm going to bounce around here. This is again,
+
+481
+00:52:18,760 --> 00:52:24,500
+the experience with the water industry. Now one lab, this is the, the non-airy fairy side.
+
+482
+00:52:25,840 --> 00:52:31,260
+They took the thing and tested it. They put it on the end of a water source, like a nozzle,
+
+483
+00:52:31,820 --> 00:52:38,100
+just like you would have a nozzle on a garden hose. And it showed absolutely no change in the
+
+484
+00:52:38,100 --> 00:52:44,940
+water whatsoever. But guess what? It's not supposed to be used that way. By the way,
+
+485
+00:52:45,200 --> 00:52:49,860
+when I dreamt this up before any of them were even built or a pipe was ever wrapped around,
+
+486
+00:52:50,020 --> 00:52:55,420
+I had seen that it will reduce the TDS extremely. It will change the water quality in many, many
+
+487
+00:52:55,420 --> 00:53:02,640
+ways. And it would be very, before I even built a unit. So by the way, when I told people build
+
+488
+00:53:02,640 --> 00:53:07,960
+this and it will reduce the TDS, I had not yet taken any TDS measurements, but I was so confident
+
+489
+00:53:07,960 --> 00:53:16,960
+that it would. Right. How could I do that? Right. But anyway, the lab showed, I'll post a screenshot,
+
+490
+00:53:17,440 --> 00:53:22,080
+no change in the water, all these parameters. And I said, well, that's not, it's supposed to
+
+491
+00:53:22,080 --> 00:53:28,380
+have at least 10 to 50 feet of runner length in front of the unit. If you don't know what that
+
+492
+00:53:28,380 --> 00:53:36,040
+means, if you have a 100 foot length of hose, the device should go in the middle of the hose. You
+
+493
+00:53:36,040 --> 00:53:40,540
+have 50 feet behind it, 50 feet in front of it, or you could put the whole hundred feet in front of
+
+494
+00:53:40,540 --> 00:53:45,080
+it, but don't put the device on the end of the hundred foot hose, like a nozzle in water,
+
+495
+00:53:45,180 --> 00:53:51,140
+your garden, it will not do anything. It needs runner length in order to work. This is very
+
+496
+00:53:51,140 --> 00:53:57,940
+anti-material, anti-mechanical thinking, right? Because if I have a filter or one of these
+
+497
+00:53:58,400 --> 00:54:03,640
+airy-fairy flow form things, you put it on the end, like a nozzle, it's going to work.
+
+498
+00:54:03,740 --> 00:54:06,840
+If you put a filter on the end of a hose or beginning of the hose, it doesn't matter. It's
+
+499
+00:54:06,840 --> 00:54:11,800
+going to filter wherever it is, right? This is very, very, very location sensitive.
+
+500
+00:54:12,060 --> 00:54:17,780
+It reminds me very much of the Joseph Newman machine, where he was able to do 800%,
+
+501
+00:54:17,780 --> 00:54:23,280
+you know, eight times more energy output, and whoever tested it, he said,
+
+502
+00:54:23,520 --> 00:54:28,440
+do not ground the device, because if you ground the device, that extra 700% goes under this
+
+503
+00:54:28,440 --> 00:54:32,420
+to the ground. What did they do? Oh, your device doesn't work. Did you ground it? Yes,
+
+504
+00:54:32,460 --> 00:54:40,200
+we have to ground it, but I told you not to ground it, right? You could still do safety
+
+505
+00:54:40,200 --> 00:54:45,100
+parameters without grounding, but anyway, they just didn't want to do it. So whoever takes this
+
+506
+00:54:45,100 --> 00:54:50,380
+device, I had another academic and an engineer do this, say, it doesn't do anything. I built it,
+
+507
+00:54:50,400 --> 00:54:53,280
+it doesn't do anything. I said, show me a picture of what you did, and he said, you just see it on
+
+508
+00:54:53,280 --> 00:54:56,980
+the end of a hose, like a nozzle. They said, no, it's not supposed to work that way. I spent the
+
+509
+00:54:56,980 --> 00:55:02,100
+past month discussing with you, it's not supposed to go that way. What are you doing? Oh, but I
+
+510
+00:55:03,360 --> 00:55:09,440
+thought it would go, right? I'm like, okay, all right. Okay, so while all this was going on,
+
+511
+00:55:09,440 --> 00:55:13,160
+in the back of my mind, months ago, I'm thinking, you know, one day,
+
+512
+00:55:14,380 --> 00:55:18,340
+probably in late winter, you know, or early spring, I'm going to do a seminar and talk
+
+513
+00:55:18,340 --> 00:55:22,900
+about all this, right? This is what I was thinking six months ago, and here we are,
+
+514
+00:55:23,340 --> 00:55:29,720
+right? So I'm so glad, it's very important. So I'm going to take a pause right there. Now,
+
+515
+00:55:29,860 --> 00:55:33,040
+I can get, oh, by the way, I can get into more of the conventional water industry,
+
+516
+00:55:33,520 --> 00:55:37,060
+but what I just told you about them using it, they will not follow directions.
+
+517
+00:55:37,540 --> 00:55:42,640
+They say, we test devices, we bring the water source to the device, and we do not add anything
+
+518
+00:55:42,640 --> 00:55:49,020
+after the device. That's how we test things. Fuck you, if you don't like it. And they refuse to do
+
+519
+00:55:49,020 --> 00:55:56,780
+it any other way. And that's the regular water engineer, right? So there's not much to talk
+
+520
+00:55:56,780 --> 00:56:01,560
+about them. They're just as useless as the rest, but in another way. Now, let me get a little more
+
+521
+00:56:01,560 --> 00:56:07,660
+how the Erie Ferry side, the structured water ones are not useful either, a little bit more.
+
+522
+00:56:07,960 --> 00:56:14,240
+They don't follow directions either. I'll put in some photographs of installations that were
+
+523
+00:56:14,240 --> 00:56:21,080
+done by one of them, and they're both incorrect. They did not follow protocol. But guess what?
+
+524
+00:56:21,780 --> 00:56:28,380
+It still worked. Not as well, but it still worked. And both of them were not the right application.
+
+525
+00:56:28,380 --> 00:56:35,180
+On one of the applications, I was so upset when I found out what they were trying to do
+
+526
+00:56:35,180 --> 00:56:41,040
+with the device. I said, if I knew that, I wouldn't be talking to you. I would go out
+
+527
+00:56:41,040 --> 00:56:49,000
+to San Diego and desalinate the entire fucking Pacific Ocean. This is how ridiculous it gets,
+
+528
+00:56:49,060 --> 00:56:55,220
+right? So in other words, they thought for some reason they could desalinate
+
+529
+00:56:55,220 --> 00:57:02,580
+well water with it. I never made such a claim. And it did not have any runner length in front
+
+530
+00:57:02,580 --> 00:57:07,680
+of it. It was right in the utility room. I'll drop a photo. And the unit was spent a month in
+
+531
+00:57:07,680 --> 00:57:11,520
+the back of a pickup truck being kicked around, and the support tabs had fallen off, and I wasn't
+
+532
+00:57:11,520 --> 00:57:20,700
+told about it. So are these people bad? No. But are they good? I'll let you answer that.
+
+533
+00:57:21,240 --> 00:57:27,260
+See? So again, this was months ago, and I said, one day, pretty soon, a few months,
+
+534
+00:57:27,360 --> 00:57:33,820
+I'm going to organize a Skype seminar group and talk about this, right? So this is where we are
+
+535
+00:57:33,820 --> 00:57:37,500
+so far with that. I'm going to take a pause and have some coffee if anybody wants to ask anything.
+
+536
+00:57:41,500 --> 00:57:46,340
+Is it scalable, Greek, the runner length and the size of the magnet?
+
+537
+00:57:48,020 --> 00:58:00,450
+Mm-hmm. Mm-hmm. It is. It's very scalable. But I can't say, I can only, it's like cooking rice.
+
+538
+00:58:01,270 --> 00:58:06,050
+You know, when you get a rice recipe, it's usually for someone making it for themselves or a family.
+
+539
+00:58:06,670 --> 00:58:10,710
+But if you go to a mess where you're going to cook for a thousand sailors on a ship,
+
+540
+00:58:11,410 --> 00:58:16,050
+you don't use a pot that you would use for cooking for five. We use a big vat, right?
+
+541
+00:58:16,810 --> 00:58:18,270
+Right. A thousand people to eat rice,
+
+542
+00:58:18,270 --> 00:58:22,670
+a thousand cups of rice, right, at least. Well, what happens then? Is it scalable? Yes,
+
+543
+00:58:22,750 --> 00:58:25,250
+but the proportions change, don't they? Of course.
+
+544
+00:58:25,250 --> 00:58:29,970
+It's no more one to one. Yeah. You have to change it because something takes place,
+
+545
+00:58:30,050 --> 00:58:35,150
+something takes hold, even the same rice. When you get to a certain scale, certain things change.
+
+546
+00:58:35,230 --> 00:58:41,450
+So is it scalable? Yes, I've scaled them, not too much larger because the liability for me to go,
+
+547
+00:58:41,570 --> 00:58:45,170
+I would rather do the one inch ones right now, the smaller ones in the three quarter,
+
+548
+00:58:45,170 --> 00:58:49,530
+then go to someplace that has a two inch line. And right, the liability, because
+
+549
+00:58:50,030 --> 00:58:55,910
+if you build a two inch diameter one, which is four times the one inch in volume and rate,
+
+550
+00:58:56,390 --> 00:59:00,570
+and you install it somewhere and there's a problem or it's ineffective, that's a lot invested
+
+551
+00:59:00,570 --> 00:59:05,430
+because the two inch lines are not so, you know, they're much more serious than a one inch line.
+
+552
+00:59:05,510 --> 00:59:12,710
+Right. So I'd rather keep, I'd like to see at least a hundred of them out there in the three
+
+553
+00:59:12,710 --> 00:59:17,590
+quarter, one inch models, gather data. They have to be properly installed. Now that's what,
+
+554
+00:59:17,690 --> 00:59:24,030
+what I'm doing now is I've halted sending these out to anyone, whether it's a mainstream lad people,
+
+555
+00:59:24,110 --> 00:59:29,830
+the airy fairy structured water people, or someone that wants one. No, no. All of them from now on,
+
+556
+00:59:29,850 --> 00:59:34,430
+at least for the next six months or a year are going to be done by me here locally within driving
+
+557
+00:59:34,430 --> 00:59:40,090
+distance. Driving distances, I'll drive a few hours to you. I'll drive even four hours to you,
+
+558
+00:59:40,090 --> 00:59:45,090
+200 mile radius from Tucson. That's all. That's the only one. And I'll put in some
+
+559
+00:59:45,090 --> 00:59:51,990
+testimonials of one that went in last week. The woman just can't stop mentioning how she had
+
+560
+00:59:51,990 --> 00:59:57,210
+problems with her hair and skin and water filters. And immediately, as soon as we put the device in,
+
+561
+00:59:57,270 --> 01:00:01,330
+immediately, a minute later, everything, she just went and washed. Everything was sparkling.
+
+562
+01:00:01,470 --> 01:00:03,390
+The water tasted better right out of the tap.

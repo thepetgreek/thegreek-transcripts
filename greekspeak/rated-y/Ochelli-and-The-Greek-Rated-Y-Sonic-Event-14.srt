@@ -1,0 +1,5027 @@
+1
+00:00:01,280 --> 00:00:11,540
+Sonic Event 14, Oteli in the Greek, welcome to it.
+
+2
+00:00:12,240 --> 00:00:18,420
+You know, this is, this is going to be yet another diverse discussion, I think.
+
+3
+00:00:18,520 --> 00:00:22,020
+But I don't know, I don't know how much input I'm going to have on this one, Greg, how you
+
+4
+00:00:22,020 --> 00:00:23,000
+doing today?
+
+5
+00:00:24,700 --> 00:00:25,680
+Doing all right.
+
+6
+00:00:25,860 --> 00:00:28,720
+It's about what the second week, I think.
+
+7
+00:00:28,720 --> 00:00:32,100
+We're just starting the second week of the second month, 2.2.
+
+8
+00:00:33,200 --> 00:00:38,320
+You know, it's funny, I was listening to somebody that, they got these YouTube channels called,
+
+9
+00:00:39,200 --> 00:00:43,500
+actually, if I say what they do, it's in their title, but they call themselves decoders.
+
+10
+00:00:44,080 --> 00:00:46,100
+And they're supposedly so smart.
+
+11
+00:00:46,480 --> 00:00:50,680
+And it's funny, because they recently put up a two and a half hour video, had it on
+
+12
+00:00:50,680 --> 00:00:55,140
+in the background while I was working on a class D amplifier, just redoing the terminals
+
+13
+00:00:55,140 --> 00:00:59,720
+and stuff, running silver wire, taking the copper out and stuff like that.
+
+14
+00:00:59,920 --> 00:01:02,320
+But anyway, I was listening to that.
+
+15
+00:01:02,800 --> 00:01:06,900
+And it was funny, like the first half hour, they're talking about calendars, and oh, my
+
+16
+00:01:06,900 --> 00:01:12,480
+goodness, the presumptions and the, what, you know, which, oh, this one's, this Hebrew
+
+17
+00:01:12,480 --> 00:01:15,100
+calendar is really, yeah, because it's 13 lunar months.
+
+18
+00:01:15,200 --> 00:01:19,740
+You're always like, oh, my goodness, oh, my goodness, and hey, I'm not going to contact
+
+19
+00:01:19,740 --> 00:01:20,140
+them.
+
+20
+00:01:20,480 --> 00:01:24,860
+No, if you guys want to contact them, you know, whoever's, thinks they got hot pants
+
+21
+00:01:24,860 --> 00:01:30,000
+on for timekeeping, I would suggest you go and contact them and lay it out for them if
+
+22
+00:01:30,000 --> 00:01:30,400
+you can.
+
+23
+00:01:30,720 --> 00:01:35,200
+Because let me tell you, man, YouTube, I call it you, you know, when people want to change
+
+24
+00:01:35,200 --> 00:01:39,420
+a water pump or something, or want to learn how to do dovetail joints, they go to YouTube
+
+25
+00:01:39,420 --> 00:01:40,020
+University.
+
+26
+00:01:40,900 --> 00:01:46,060
+And one guy, one time on a call, Greek man, I can't find this YouTube University online.
+
+27
+00:01:46,200 --> 00:01:47,980
+I said, Oh, no, no, no, that's what I call it.
+
+28
+00:01:48,240 --> 00:01:53,780
+In other words, when you want to learn how to do something, like physical or whatever,
+
+29
+00:01:53,780 --> 00:01:58,760
+you know, in terms of like real basic rudimentary based stuff, I call it go to YouTube, watch
+
+30
+00:01:58,760 --> 00:02:00,440
+YouTube video, call it YouTube University.
+
+31
+00:02:00,820 --> 00:02:01,100
+Right?
+
+32
+00:02:01,180 --> 00:02:05,020
+Like I saw a guy the other day, which I thought was perfectly acceptable, teaching you how
+
+33
+00:02:05,020 --> 00:02:05,680
+to play a keyboard.
+
+34
+00:02:05,680 --> 00:02:10,700
+He says, Listen, if you can learn four chords, I can teach you to play about 500 songs.
+
+35
+00:02:11,560 --> 00:02:11,920
+Sure.
+
+36
+00:02:12,100 --> 00:02:12,820
+Yeah, pop music.
+
+37
+00:02:12,980 --> 00:02:13,140
+Yeah.
+
+38
+00:02:13,160 --> 00:02:14,880
+And I said, Okay, fair enough.
+
+39
+00:02:14,920 --> 00:02:17,460
+And then I took a little look, you look at his demonstration.
+
+40
+00:02:17,460 --> 00:02:19,700
+I said, Yeah, that's about right.
+
+41
+00:02:20,740 --> 00:02:24,020
+Because there's common elements to commonly known songs.
+
+42
+00:02:24,540 --> 00:02:28,640
+Again, you know, if you want to learn how to change a pipe in your sink, if you want
+
+43
+00:02:28,640 --> 00:02:33,460
+to learn how to change the oil in your car, if you want to learn a little bit about maybe
+
+44
+00:02:33,460 --> 00:02:37,220
+how to work with some wood or whatever, you may find different qualities of individuals
+
+45
+00:02:37,220 --> 00:02:39,560
+on there, but plenty of how to's.
+
+46
+00:02:39,960 --> 00:02:40,540
+Yeah, yeah.
+
+47
+00:02:40,860 --> 00:02:41,000
+Yeah.
+
+48
+00:02:41,140 --> 00:02:45,100
+I'll tell you the only thing like being completely forthright.
+
+49
+00:02:45,380 --> 00:02:48,100
+I'm kind of glad archaics came around Jason Breshears.
+
+50
+00:02:48,100 --> 00:02:49,300
+Because I don't subscribe to him.
+
+51
+00:02:49,580 --> 00:02:51,600
+I mean, literally, I've never I don't subscribe.
+
+52
+00:02:52,160 --> 00:02:54,760
+I haven't subscribed to his channel, or I endorse what he says.
+
+53
+00:02:55,140 --> 00:02:57,740
+But he's a breath of fresh air, because he's reasonably intelligent.
+
+54
+00:02:58,100 --> 00:03:03,460
+And he actually cites, let me just put it this way, for years, like when I was started
+
+55
+00:03:03,460 --> 00:03:09,400
+on Revolution Radio speaking publicly in Santos Bonacci back in 2010, 2011, and all that my
+
+56
+00:03:09,400 --> 00:03:13,100
+whole thing was, look, if you want a new idea, read an old book, you got to go back to stuff
+
+57
+00:03:13,100 --> 00:03:16,140
+from before 1920 and 1800s is fine.
+
+58
+00:03:16,140 --> 00:03:21,440
+You don't have to go back before, because they did in the 1800s, they did so many anthologies
+
+59
+00:03:21,440 --> 00:03:22,520
+and all the ancient writs.
+
+60
+00:03:22,660 --> 00:03:26,980
+If you're reading something about, let's say, the book of the Egyptian Book of the Dead
+
+61
+00:03:26,980 --> 00:03:32,220
+that was written in the 1800s, it's good, trust me, it's fine, it's trustworthy, right?
+
+62
+00:03:32,260 --> 00:03:36,480
+But if you read something about the Egyptian Book of the Dead, published 1920s and later,
+
+63
+00:03:36,700 --> 00:03:39,420
+no good, no good, right?
+
+64
+00:03:41,180 --> 00:03:44,240
+So he's always hearkening back to the old stuff.
+
+65
+00:03:44,240 --> 00:03:49,360
+But the rest, I don't know, and I got to tip my hat, because he gave me something I didn't
+
+66
+00:03:49,360 --> 00:03:54,060
+have, which was the 138-year cycle, which is contemplative.
+
+67
+00:03:54,340 --> 00:03:57,820
+I don't see diehard proof of the 138-year period.
+
+68
+00:03:57,980 --> 00:04:01,800
+I think he's reading into it more than he's reading out of it, you know what I mean?
+
+69
+00:04:02,620 --> 00:04:04,720
+And that was Santos on that, huh?
+
+70
+00:04:04,740 --> 00:04:06,620
+Because I used to speak with him a bit.
+
+71
+00:04:07,440 --> 00:04:11,480
+This was Jason of Archaic, that's my critique, and I'm glad he came around.
+
+72
+00:04:11,580 --> 00:04:13,860
+Santos is too airy-fairy for me.
+
+73
+00:04:13,860 --> 00:04:15,519
+Yeah, that's why I was surprised.
+
+74
+00:04:16,800 --> 00:04:21,320
+Yeah, he was intrigued, you know, because we were on American Freedom Radio, I used to
+
+75
+00:04:21,320 --> 00:04:25,700
+call in American Freedom Radio all the time, and Danny says, you need to get a show here.
+
+76
+00:04:25,780 --> 00:04:28,880
+This was back in 2010, and I was calling Vinnie Eastwood all the time.
+
+77
+00:04:29,880 --> 00:04:32,380
+And I said, no, no, no, stuff I have to say, it's not time yet.
+
+78
+00:04:32,700 --> 00:04:37,220
+People are too excited, you know, it's too free, they're not, they have no, I don't see
+
+79
+00:04:37,220 --> 00:04:40,480
+enough evidence of people looking back far enough to understand what the hell I'm going
+
+80
+00:04:40,480 --> 00:04:40,820
+to say.
+
+81
+00:04:41,520 --> 00:04:42,640
+Everything is too new.
+
+82
+00:04:43,060 --> 00:04:48,620
+I want other people to crack the ice, you know, about going back to old books and stuff.
+
+83
+00:04:48,700 --> 00:04:50,700
+I don't want to be the one to break the ice on stuff.
+
+84
+00:04:51,380 --> 00:04:55,080
+But not until we did the ONG, I said, okay, it's time to start breaking the ice.
+
+85
+00:04:55,960 --> 00:04:56,680
+Or trailblazing.
+
+86
+00:04:56,880 --> 00:04:58,720
+Because it ain't happening, you know?
+
+87
+00:04:59,340 --> 00:05:04,360
+It was, we started 2015-16 on the Pope's work schedule, something like that, 2015.
+
+88
+00:05:04,640 --> 00:05:06,460
+Yeah, I think it was 2015, the first ones.
+
+89
+00:05:06,460 --> 00:05:11,460
+You know what's interesting is that a bunch of people that I'm not sure ever heard you,
+
+90
+00:05:13,160 --> 00:05:18,020
+I hear little bits and pieces of things that were lifted from some of those on occasion.
+
+91
+00:05:19,420 --> 00:05:24,160
+Just in passing, you know, and it just, it catches my attention because I realize how
+
+92
+00:05:24,160 --> 00:05:26,000
+different that was at the time.
+
+93
+00:05:26,960 --> 00:05:30,880
+But over the years, I've noticed a couple of people, it's like, wait a minute, that sounds
+
+94
+00:05:30,880 --> 00:05:32,220
+really familiar.
+
+95
+00:05:33,420 --> 00:05:34,380
+And yeah.
+
+96
+00:05:34,440 --> 00:05:35,780
+You mean like Greek speak?
+
+97
+00:05:35,780 --> 00:05:37,080
+Yeah, like Greek speak.
+
+98
+00:05:37,200 --> 00:05:38,620
+Oh, like, this thing about the books.
+
+99
+00:05:39,540 --> 00:05:40,060
+Oh, yeah, yeah.
+
+100
+00:05:40,180 --> 00:05:45,280
+It started, because at the time when I was yelling about it, and timekeeping and how
+
+101
+00:05:45,280 --> 00:05:48,820
+the human body works and stuff, people were like, huh, what?
+
+102
+00:05:50,240 --> 00:05:56,160
+And so I said, no, no, no, I need, I'm not the type of person to break the ice on this
+
+103
+00:05:56,160 --> 00:05:57,380
+or be the first one, you know?
+
+104
+00:05:57,800 --> 00:06:01,520
+I'm not going to pop anyone's intellectual cherry, so to speak.
+
+105
+00:06:01,580 --> 00:06:02,340
+I'm not into that.
+
+106
+00:06:02,900 --> 00:06:05,780
+Virgins are boring, by the way.
+
+107
+00:06:08,020 --> 00:06:11,080
+So anyway, yeah, yeah.
+
+108
+00:06:11,160 --> 00:06:12,920
+So anyway, I just wanted to put that out.
+
+109
+00:06:14,940 --> 00:06:17,460
+And you know, I've been saying, look, I've run into people.
+
+110
+00:06:17,780 --> 00:06:18,440
+Yeah, well, fair enough.
+
+111
+00:06:18,480 --> 00:06:22,200
+I want to bring up something from the chat, because you just mentioned this 138 year time
+
+112
+00:06:22,740 --> 00:06:23,100
+period.
+
+113
+00:06:23,820 --> 00:06:27,320
+And I noticed in the chat that somebody had asked about these time periods, which you
+
+114
+00:06:27,320 --> 00:06:28,560
+mentioned in a previous Sonic.
+
+115
+00:06:29,800 --> 00:06:33,900
+I think it was the 30, 40, and, wait a minute, no, no, no, 120.
+
+116
+00:06:34,360 --> 00:06:35,160
+Yeah, 70.
+
+117
+00:06:35,360 --> 00:06:38,560
+But the big ones are 20, 40, 70, and 120.
+
+118
+00:06:39,380 --> 00:06:40,980
+And they're close enough.
+
+119
+00:06:41,280 --> 00:06:45,700
+Like, if you look at, for example, the biblical chronology of 70 years in Babylon, it was
+
+120
+00:06:45,700 --> 00:06:46,400
+really 71.
+
+121
+00:06:47,540 --> 00:06:52,040
+And if you count the entire thing with the getting to Babylon and getting out, it was
+
+122
+00:06:52,040 --> 00:06:53,580
+closer to 73, 74.
+
+123
+00:06:54,640 --> 00:06:56,640
+So that's how the chronologies work, you know?
+
+124
+00:06:57,540 --> 00:06:59,200
+But it's not like the moon landings.
+
+125
+00:06:59,320 --> 00:07:01,380
+Remember, Bush says we're going to be going to the moon in 2014.
+
+126
+00:07:01,600 --> 00:07:02,540
+He said that in 2000.
+
+127
+00:07:02,800 --> 00:07:05,340
+And then in 2014, so we'll be going by 2022.
+
+128
+00:07:06,240 --> 00:07:07,660
+And now they're saying they're going to go by 20.
+
+129
+00:07:07,760 --> 00:07:08,280
+You see what I mean?
+
+130
+00:07:08,760 --> 00:07:09,840
+It's not like that.
+
+131
+00:07:10,280 --> 00:07:15,940
+We're talking about stuff that is mentioned to happen and then when it actually happens.
+
+132
+00:07:17,040 --> 00:07:21,600
+Well, it's interesting to me because, look, 40 years is like a full generation having
+
+133
+00:07:21,600 --> 00:07:22,300
+come and gone.
+
+134
+00:07:23,080 --> 00:07:27,500
+You know, 70 years, you have that cleansing, that time for perspective.
+
+135
+00:07:28,480 --> 00:07:29,600
+Psychologically, I look at this.
+
+136
+00:07:30,020 --> 00:07:35,120
+And 120 years, you're completely removed from what came before, right?
+
+137
+00:07:35,640 --> 00:07:37,640
+Well, I think you could do it today.
+
+138
+00:07:37,760 --> 00:07:38,900
+You can do it in two weeks.
+
+139
+00:07:39,480 --> 00:07:39,680
+No.
+
+140
+00:07:39,780 --> 00:07:40,340
+Well, see now.
+
+141
+00:07:40,400 --> 00:07:41,060
+It's not 120.
+
+142
+00:07:41,300 --> 00:07:42,680
+I mean, not two weeks, but two years.
+
+143
+00:07:43,000 --> 00:07:43,940
+Well, things disappear.
+
+144
+00:07:44,200 --> 00:07:45,060
+11, 20 years.
+
+145
+00:07:45,380 --> 00:07:45,620
+Yeah.
+
+146
+00:07:45,780 --> 00:07:50,780
+I mean, see, that's the thing is that I've noted an acceleration, but the natural flow
+
+147
+00:07:50,780 --> 00:07:55,300
+of things seems to be more like this, where over the course of a lifetime, you have people's
+
+148
+00:07:55,300 --> 00:07:56,400
+memories that shift.
+
+149
+00:07:56,620 --> 00:07:59,240
+Now, like you said, nowadays, yeah, it happens faster.
+
+150
+00:07:59,360 --> 00:08:03,500
+You kind of stole my punchline because I was going to say that, you know, that requires
+
+151
+00:08:03,500 --> 00:08:09,140
+people to have an attention span and to retain knowledge, which is almost unheard of anymore.
+
+152
+00:08:09,420 --> 00:08:09,520
+Yeah.
+
+153
+00:08:09,580 --> 00:08:11,520
+If we, okay, this is how I look at it.
+
+154
+00:08:11,520 --> 00:08:15,060
+This is my kind of from the Victor Schauberger point of view, trees and rocks.
+
+155
+00:08:15,620 --> 00:08:22,240
+You know, people call rocks inanimate or whatever, but, you know, it's not fair because I'm suggesting
+
+156
+00:08:22,240 --> 00:08:27,020
+that rocks have one thought for a few seconds every few thousand years or a thousand years.
+
+157
+00:08:28,100 --> 00:08:30,160
+So the rock has a five-second thought.
+
+158
+00:08:30,200 --> 00:08:32,120
+I'd like to be closer to that rock right there.
+
+159
+00:08:32,159 --> 00:08:32,919
+She's real pretty.
+
+160
+00:08:33,419 --> 00:08:36,980
+And a thousand years later, he has another thought, oh, what happened to that rock?
+
+161
+00:08:37,700 --> 00:08:37,919
+Right?
+
+162
+00:08:38,280 --> 00:08:38,720
+Right?
+
+163
+00:08:38,840 --> 00:08:39,720
+So, okay.
+
+164
+00:08:40,120 --> 00:08:41,840
+So that's one way of time.
+
+165
+00:08:41,900 --> 00:08:42,980
+And then trees are the other.
+
+166
+00:08:42,980 --> 00:08:48,480
+If you want to know really how the generations in terms of the earth is concerned, look at
+
+167
+00:08:48,480 --> 00:08:50,520
+how long it takes for forests to grow.
+
+168
+00:08:50,840 --> 00:08:54,260
+I'm not talking just trees, but a forest, which is a community of trees, let's say.
+
+169
+00:08:54,780 --> 00:08:58,360
+And then you have these aspens, which they look like a forest, but it's really one organism.
+
+170
+00:08:58,560 --> 00:08:59,420
+They're all connected, right?
+
+171
+00:08:59,840 --> 00:09:02,660
+So just like society becomes all connected.
+
+172
+00:09:02,880 --> 00:09:08,200
+So in the sense of 120 years for a tree, well, it's not very long, is it?
+
+173
+00:09:08,360 --> 00:09:09,800
+You know, no, not very long.
+
+174
+00:09:09,800 --> 00:09:12,680
+And again, you have various things that interact.
+
+175
+00:09:12,920 --> 00:09:16,340
+And by the way, I don't think it's just the one kind of forest that's like that.
+
+176
+00:09:16,380 --> 00:09:20,400
+I think all forests sort of interact in that way, but some of them are more cohesive than
+
+177
+00:09:20,400 --> 00:09:23,220
+others because they're all interdependent.
+
+178
+00:09:23,280 --> 00:09:23,900
+Even the animals.
+
+179
+00:09:24,660 --> 00:09:25,460
+They need shade.
+
+180
+00:09:25,780 --> 00:09:29,960
+Some trees, trees that need shade have to grow near trees that are taller.
+
+181
+00:09:30,280 --> 00:09:34,800
+Well, even their death, the death of the animal, when the animal dies, decays, and some of
+
+182
+00:09:34,800 --> 00:09:41,100
+it sinks into the earth, that literally does put a nutrient in the soil that allows other
+
+183
+00:09:41,100 --> 00:09:41,840
+things to grow.
+
+184
+00:09:42,300 --> 00:09:45,440
+So, you know, sort of sinks into the soil.
+
+185
+00:09:45,960 --> 00:09:47,400
+You haven't been around dead animals.
+
+186
+00:09:47,520 --> 00:09:51,040
+They get eaten up or picked up by others before it sinks into the soil.
+
+187
+00:09:51,060 --> 00:09:51,960
+But I got you, though.
+
+188
+00:09:52,020 --> 00:09:52,680
+That's a good point.
+
+189
+00:09:52,760 --> 00:09:54,300
+But eventually some part of it does.
+
+190
+00:09:54,920 --> 00:09:55,100
+Yeah.
+
+191
+00:09:55,500 --> 00:09:55,780
+Yeah.
+
+192
+00:09:56,320 --> 00:09:57,440
+It's more processed.
+
+193
+00:09:57,700 --> 00:09:58,520
+It's not as direct.
+
+194
+00:09:59,020 --> 00:09:59,360
+But yeah.
+
+195
+00:09:59,420 --> 00:10:04,320
+No, I mean, well, even soaking the soil with blood, which typically happens if something
+
+196
+00:10:04,320 --> 00:10:06,180
+is attacked and actually taken down, right?
+
+197
+00:10:06,800 --> 00:10:07,300
+If it's being...
+
+198
+00:10:07,300 --> 00:10:07,500
+It's a symbol.
+
+199
+00:10:08,120 --> 00:10:09,160
+It's definitely a symbol.
+
+200
+00:10:09,660 --> 00:10:13,300
+Well, more than a symbol, though, because doesn't it literally feed the ground a bit?
+
+201
+00:10:13,900 --> 00:10:14,440
+Not really.
+
+202
+00:10:14,820 --> 00:10:14,980
+No?
+
+203
+00:10:15,380 --> 00:10:15,580
+No.
+
+204
+00:10:16,000 --> 00:10:16,360
+Okay.
+
+205
+00:10:17,100 --> 00:10:18,060
+Misconception on my part.
+
+206
+00:10:18,220 --> 00:10:23,560
+But back to this 40-70-120, what does that, you know, some people start going into it
+
+207
+00:10:23,560 --> 00:10:26,580
+and you get the, like you said, airy-fairy with Santos there.
+
+208
+00:10:26,740 --> 00:10:27,620
+And I like Santos.
+
+209
+00:10:27,760 --> 00:10:28,580
+He's not a bad guy.
+
+210
+00:10:28,680 --> 00:10:28,980
+Oh, no.
+
+211
+00:10:29,040 --> 00:10:29,300
+He's not.
+
+212
+00:10:29,580 --> 00:10:30,060
+He's not.
+
+213
+00:10:30,880 --> 00:10:31,760
+He's actually...
+
+214
+00:10:31,760 --> 00:10:34,880
+It'd be a lot of fun to tell him to bring his guitar, hang out.
+
+215
+00:10:34,980 --> 00:10:35,320
+Absolutely.
+
+216
+00:10:35,320 --> 00:10:36,240
+So you have a blast.
+
+217
+00:10:36,560 --> 00:10:36,800
+Yeah.
+
+218
+00:10:37,440 --> 00:10:37,880
+Absolutely.
+
+219
+00:10:38,100 --> 00:10:40,960
+But some people might go, well, those are frequencies.
+
+220
+00:10:41,180 --> 00:10:44,620
+And I'm like, no, they're not frequencies, but...
+
+221
+00:10:44,620 --> 00:10:45,460
+They're vibrations.
+
+222
+00:10:46,000 --> 00:10:46,240
+Yeah.
+
+223
+00:10:46,780 --> 00:10:49,600
+You know, but here's the thing with Santos and Jason.
+
+224
+00:10:49,720 --> 00:10:51,400
+He's taking advantage of ignorant people.
+
+225
+00:10:51,500 --> 00:10:58,340
+In other words, from two points of view, if you read the comments section, oh, my gosh.
+
+226
+00:10:58,700 --> 00:10:59,660
+Oh, my gosh.
+
+227
+00:10:59,660 --> 00:11:01,480
+These people are...
+
+228
+00:11:01,480 --> 00:11:01,740
+Anyway.
+
+229
+00:11:04,680 --> 00:11:08,060
+What I mean taking advantage of ignorant people is he makes a lot of mistakes.
+
+230
+00:11:08,200 --> 00:11:09,560
+So do everyone that makes mistakes.
+
+231
+00:11:10,120 --> 00:11:11,220
+But some of them are big.
+
+232
+00:11:11,380 --> 00:11:16,040
+And I'm not being light and fair here because, sorry, you're going to have to know Greek
+
+233
+00:11:16,040 --> 00:11:18,820
+speak to see the mistakes.
+
+234
+00:11:19,640 --> 00:11:25,380
+Because no one really looks there where I've looked, you know, and usually in most cases.
+
+235
+00:11:25,740 --> 00:11:26,800
+So I look at the comments.
+
+236
+00:11:26,800 --> 00:11:30,160
+So let's say, for example, you know, you'll have a thing with 400 comments and I go through
+
+237
+00:11:30,160 --> 00:11:31,620
+most of them, if not all of them.
+
+238
+00:11:32,100 --> 00:11:33,660
+We'll get into speed reading one day.
+
+239
+00:11:34,260 --> 00:11:37,580
+You know, you actually look at something and then look away and see if you could read it
+
+240
+00:11:37,580 --> 00:11:39,560
+while you're looking away, like you're taking a picture of it.
+
+241
+00:11:39,660 --> 00:11:41,700
+You know, that's another form of speed reading.
+
+242
+00:11:42,500 --> 00:11:45,800
+So anyway, I look at all these comments and I'm like, wow, okay, no one here brought up
+
+243
+00:11:45,800 --> 00:11:46,360
+timekeeping.
+
+244
+00:11:46,500 --> 00:11:48,380
+No one here brought up this part of this.
+
+245
+00:11:48,480 --> 00:11:49,320
+No one brought up that.
+
+246
+00:11:49,880 --> 00:11:53,240
+There's 400 people commenting and no one picked it up.
+
+247
+00:11:54,260 --> 00:11:54,600
+Wow.
+
+248
+00:11:55,120 --> 00:11:55,480
+You know?
+
+249
+00:11:56,060 --> 00:12:01,660
+So, you know, what was one of my mottos for a while has been, why bother?
+
+250
+00:12:04,680 --> 00:12:06,140
+I mean, but they mean well.
+
+251
+00:12:06,540 --> 00:12:08,040
+Here's the, you know, intent.
+
+252
+00:12:09,120 --> 00:12:13,020
+If you pick up on someone's intent, right, like people don't like attorneys even though
+
+253
+00:12:13,020 --> 00:12:17,440
+they don't understand the legal system because it's not because of anything other that they
+
+254
+00:12:17,440 --> 00:12:19,560
+know the intent of the attorney is to cheat and lie.
+
+255
+00:12:20,080 --> 00:12:21,840
+Even the attorney doesn't even know that.
+
+256
+00:12:21,940 --> 00:12:23,360
+He's just in that culture.
+
+257
+00:12:23,520 --> 00:12:24,460
+It's part of his culture.
+
+258
+00:12:24,460 --> 00:12:26,760
+He doesn't even know, most of them don't know that they're doing it.
+
+259
+00:12:27,220 --> 00:12:34,280
+So, people don't like attorneys and now doctors specifically because they don't know anything
+
+260
+00:12:34,280 --> 00:12:36,580
+about what they're doing, but they know that they're going to cheat and lie.
+
+261
+00:12:36,780 --> 00:12:40,000
+So, these guys that we mentioned are not like that.
+
+262
+00:12:40,560 --> 00:12:41,460
+Their intent is good.
+
+263
+00:12:43,020 --> 00:12:50,160
+But at the same time, if the people don't know, it grows and grows, you know, and it
+
+264
+00:12:50,160 --> 00:12:55,740
+becomes a certain cult, as I should say, kind of thing, cult of personality.
+
+265
+00:12:57,080 --> 00:13:02,720
+So, and this is not to mention any more names like Cliff High or someone like that.
+
+266
+00:13:03,840 --> 00:13:07,600
+You wouldn't believe like every few months, oh, Greek, you got to go listen to Cliff High.
+
+267
+00:13:07,660 --> 00:13:11,400
+I said, okay, Cliff High, all right, he means well.
+
+268
+00:13:11,600 --> 00:13:12,940
+Actually, he means very well.
+
+269
+00:13:13,020 --> 00:13:14,820
+He doesn't have to be doing what he's doing.
+
+270
+00:13:15,480 --> 00:13:16,840
+A lot of people might have heard of him.
+
+271
+00:13:17,350 --> 00:13:22,100
+He's a perfect example of someone who sounds smart and is not, right?
+
+272
+00:13:22,480 --> 00:13:27,740
+And someone, if you're making hardcore predictions with dates and they don't come true, you only
+
+273
+00:13:27,740 --> 00:13:28,860
+get one or two chances.
+
+274
+00:13:29,060 --> 00:13:32,280
+This guy who's making predictions every six months with dates and everything for like
+
+275
+00:13:32,280 --> 00:13:36,880
+the past five years and nothing ever comes through, ever, and he still has a growing
+
+276
+00:13:36,880 --> 00:13:37,240
+following.
+
+277
+00:13:37,960 --> 00:13:39,500
+So, is he doing anything wrong?
+
+278
+00:13:40,200 --> 00:13:40,480
+No.
+
+279
+00:13:40,640 --> 00:13:46,040
+Actually, it's kind of like when Fox, some businessmen try to sue Fox News back in the
+
+280
+00:13:46,040 --> 00:13:49,640
+day and went to court and they dismissed the case because they said you can't sue Fox News
+
+281
+00:13:49,640 --> 00:13:51,120
+for libel because they're entertainment.
+
+282
+00:13:51,940 --> 00:13:52,080
+Yeah, right.
+
+283
+00:13:52,260 --> 00:13:52,440
+You know.
+
+284
+00:13:53,320 --> 00:13:53,720
+Right.
+
+285
+00:13:54,180 --> 00:13:57,700
+Which, yeah, they're currently going through a lawsuit, too, and I'm waiting for that to
+
+286
+00:13:57,700 --> 00:13:58,240
+come out again.
+
+287
+00:13:58,800 --> 00:13:58,980
+Yeah.
+
+288
+00:13:58,980 --> 00:13:59,760
+It's all entertainment.
+
+289
+00:13:59,940 --> 00:14:01,540
+So, this is all entertainment at the end of the day.
+
+290
+00:14:02,100 --> 00:14:06,480
+At the end of the day, if you're listening to these guys and it's more fun than being
+
+291
+00:14:06,480 --> 00:14:12,500
+with whoever you're usually with or your job or job, you know the difference between a job
+
+292
+00:14:12,500 --> 00:14:13,000
+and a job?
+
+293
+00:14:14,200 --> 00:14:14,600
+Okay.
+
+294
+00:14:14,820 --> 00:14:15,100
+Go ahead.
+
+295
+00:14:15,100 --> 00:14:20,540
+So, a job is usually, you know, you do an application, which is you do a pledging, begging
+
+296
+00:14:20,540 --> 00:14:20,900
+form.
+
+297
+00:14:20,980 --> 00:14:23,600
+To apply means to beg, by the way, to plead.
+
+298
+00:14:25,700 --> 00:14:33,620
+And they pay you a usually prevailing wage of some kind with some kind of ancillary compensation
+
+299
+00:14:33,620 --> 00:14:34,600
+they call benefits.
+
+300
+00:14:35,660 --> 00:14:40,160
+And by the way, if you know anyone that works in the military for a career military or airman
+
+301
+00:14:40,160 --> 00:14:41,520
+job, like I said, how's your job?
+
+302
+00:14:41,620 --> 00:14:42,320
+Oh, I love it.
+
+303
+00:14:42,320 --> 00:14:43,280
+It's got a lot of bennies.
+
+304
+00:14:43,380 --> 00:14:44,220
+They call it the bennies.
+
+305
+00:14:44,220 --> 00:14:44,760
+Yeah, right.
+
+306
+00:14:45,360 --> 00:14:45,460
+Yeah.
+
+307
+00:14:45,560 --> 00:14:46,800
+So, I'm like, oh my gosh.
+
+308
+00:14:46,820 --> 00:14:49,520
+When I hear that, that's like, you know, borderline, this person's an NPC.
+
+309
+00:14:49,740 --> 00:14:52,580
+But anyway, that's a job.
+
+310
+00:14:52,700 --> 00:14:57,460
+You know, they file, you have to file a return to the revenue department.
+
+311
+00:14:57,660 --> 00:14:58,940
+You notice I didn't say pay taxes?
+
+312
+00:14:59,180 --> 00:14:59,440
+Right.
+
+313
+00:14:59,920 --> 00:15:00,160
+Right?
+
+314
+00:15:01,040 --> 00:15:03,880
+Because I don't know anyone who's ever paid any taxes.
+
+315
+00:15:04,280 --> 00:15:06,540
+I've never met anyone or really heard.
+
+316
+00:15:06,680 --> 00:15:07,720
+People say they do.
+
+317
+00:15:08,240 --> 00:15:11,680
+So, when people say they do something and they're really not, what do you call them?
+
+318
+00:15:12,620 --> 00:15:13,020
+Crazy.
+
+319
+00:15:13,020 --> 00:15:13,140
+Crazy?
+
+320
+00:15:13,800 --> 00:15:14,160
+Anyway.
+
+321
+00:15:15,540 --> 00:15:16,480
+So, okay.
+
+322
+00:15:16,840 --> 00:15:21,300
+So, you file with the revenue department, you know, return, right, because you're using
+
+323
+00:15:21,300 --> 00:15:21,940
+private credit.
+
+324
+00:15:22,040 --> 00:15:26,340
+You can't just go and rent a chainsaw and bring it back and wave goodbye and say there's
+
+325
+00:15:26,340 --> 00:15:27,740
+no law that I have to pay you.
+
+326
+00:15:28,000 --> 00:15:29,440
+That's going to cause a lot of trouble.
+
+327
+00:15:29,940 --> 00:15:31,120
+You're using private credit.
+
+328
+00:15:31,220 --> 00:15:34,760
+So, you have to tell them how much of the private credit you use and you have to give them a
+
+329
+00:15:34,760 --> 00:15:36,700
+cutback, a kickback.
+
+330
+00:15:37,020 --> 00:15:37,800
+That's all it is.
+
+331
+00:15:37,820 --> 00:15:39,280
+And if you don't do it, you get in big trouble.
+
+332
+00:15:39,380 --> 00:15:41,860
+This happens with the mob also, by the way, guys.
+
+333
+00:15:42,540 --> 00:15:45,800
+It happens with any organization, legal or not.
+
+334
+00:15:45,820 --> 00:15:49,500
+I had a hard time trying to explain that to somebody recently where I was like, look, what
+
+335
+00:15:49,500 --> 00:15:57,000
+it's really about is you can do whatever you want as long as you operate and you pay the
+
+336
+00:15:57,000 --> 00:15:57,440
+person who...
+
+337
+00:15:57,440 --> 00:15:58,020
+Or return.
+
+338
+00:15:58,320 --> 00:15:58,800
+Yeah.
+
+339
+00:15:59,100 --> 00:16:05,020
+You pay, the term I use, but what you're doing is you're giving them a cut.
+
+340
+00:16:05,420 --> 00:16:05,860
+Right.
+
+341
+00:16:06,100 --> 00:16:06,540
+Of what you're doing.
+
+342
+00:16:06,540 --> 00:16:12,220
+They do this all the time when you go to a cherry or apple picking thing, co-op, you
+
+343
+00:16:12,220 --> 00:16:16,020
+pick apples, you have to give so much back and you keep a certain amount.
+
+344
+00:16:16,860 --> 00:16:17,000
+You know?
+
+345
+00:16:17,660 --> 00:16:19,460
+So, okay.
+
+346
+00:16:19,680 --> 00:16:19,980
+That's...
+
+347
+00:16:19,980 --> 00:16:20,260
+Okay.
+
+348
+00:16:20,420 --> 00:16:22,040
+So, anyway, that's a job.
+
+349
+00:16:22,160 --> 00:16:23,400
+You know, the basic stuff.
+
+350
+00:16:23,500 --> 00:16:24,440
+You get retirement pension.
+
+351
+00:16:24,680 --> 00:16:24,920
+Okay.
+
+352
+00:16:25,260 --> 00:16:25,600
+Okay.
+
+353
+00:16:25,960 --> 00:16:27,780
+A yob, like I got a yob, man.
+
+354
+00:16:28,540 --> 00:16:31,740
+A yob is there's no application.
+
+355
+00:16:32,360 --> 00:16:33,520
+There's no return.
+
+356
+00:16:34,120 --> 00:16:38,260
+Usually, you get paid with bank notes, Federal Reserve notes or some kind of barter.
+
+357
+00:16:39,620 --> 00:16:40,580
+There's no retirement.
+
+358
+00:16:40,740 --> 00:16:40,960
+Anyway.
+
+359
+00:16:41,220 --> 00:16:42,220
+Anyway, it's a bad joke.
+
+360
+00:16:43,080 --> 00:16:43,260
+Anyway.
+
+361
+00:16:43,680 --> 00:16:44,040
+I got you.
+
+362
+00:16:44,060 --> 00:16:46,040
+It's not racist or ethnic, but it's a yob, man.
+
+363
+00:16:46,120 --> 00:16:46,720
+I got a yob.
+
+364
+00:16:46,860 --> 00:16:47,020
+Okay?
+
+365
+00:16:48,100 --> 00:16:48,820
+I totally understand.
+
+366
+00:16:48,820 --> 00:16:50,220
+That's the difference between a yob and a job.
+
+367
+00:16:50,400 --> 00:16:51,100
+I've had both.
+
+368
+00:16:51,520 --> 00:16:51,880
+Okay.
+
+369
+00:16:51,940 --> 00:16:52,540
+By the way.
+
+370
+00:16:52,920 --> 00:16:53,780
+But, yeah, go ahead.
+
+371
+00:16:55,800 --> 00:16:56,580
+I've had both.
+
+372
+00:16:56,780 --> 00:16:57,440
+But, yeah, go ahead.
+
+373
+00:16:58,080 --> 00:16:58,440
+Yeah.
+
+374
+00:16:58,580 --> 00:16:59,000
+All right.
+
+375
+00:16:59,060 --> 00:16:59,980
+So, that's basically...
+
+376
+00:16:59,980 --> 00:17:01,380
+We drifted away from this and that.
+
+377
+00:17:01,380 --> 00:17:04,000
+And I just wanted to say that, yeah, the internet is funny.
+
+378
+00:17:04,579 --> 00:17:06,400
+I do like YouTube University.
+
+379
+00:17:07,200 --> 00:17:11,339
+We also spoke just briefly before you hit the red button or record about debating.
+
+380
+00:17:11,700 --> 00:17:12,020
+Yes.
+
+381
+00:17:12,319 --> 00:17:15,859
+And I wanted to bring this up because I've always been challenged, not recently because
+
+382
+00:17:15,859 --> 00:17:18,599
+I try to keep to myself now as much as possible.
+
+383
+00:17:20,200 --> 00:17:24,380
+The academics used to want to debate me and I used to tell the academics and say, okay,
+
+384
+00:17:25,280 --> 00:17:29,560
+you just got professorship and you want to debate me on the medical stuff.
+
+385
+00:17:30,040 --> 00:17:30,400
+Okay.
+
+386
+00:17:30,400 --> 00:17:34,160
+You're going to need to go and find your professor and his professor, if he's still
+
+387
+00:17:34,160 --> 00:17:39,140
+alive, all the whole department, the physics department, hydrology department and chemistry
+
+388
+00:17:39,140 --> 00:17:43,200
+department, the entire department, all of the authors, if they're still alive, of all
+
+389
+00:17:43,200 --> 00:17:46,320
+the books you've ever read on all of these subjects and you're still going to lose.
+
+390
+00:17:48,860 --> 00:17:54,740
+And that was like, I didn't mean that to be an intimidation tactic to them, but they got
+
+391
+00:17:54,740 --> 00:17:55,260
+intimidated.
+
+392
+00:17:55,400 --> 00:17:58,040
+They said, oh, no, I won't debate you then.
+
+393
+00:17:58,040 --> 00:18:00,960
+They actually believed what I said and I wasn't joking, by the way.
+
+394
+00:18:01,560 --> 00:18:06,500
+Another time I went and someone wanted to debate me, a similar subject was on physics.
+
+395
+00:18:06,700 --> 00:18:12,860
+I said, okay, someone was there with their daughter, with me, had their 12-year-old daughter.
+
+396
+00:18:12,980 --> 00:18:14,600
+I said, I'm not going to debate you on physics.
+
+397
+00:18:14,840 --> 00:18:16,620
+I need 20 minutes because I'm going to coach her.
+
+398
+00:18:16,700 --> 00:18:18,380
+She knows nothing on the subject for 20 minutes.
+
+399
+00:18:18,780 --> 00:18:21,000
+She's going to debate you and you're still going to lose.
+
+400
+00:18:21,860 --> 00:18:25,100
+And this was like a master's degree, whatever, physics person.
+
+401
+00:18:25,100 --> 00:18:35,600
+So, this is the problem with debating and why am I so confident about that confidence?
+
+402
+00:18:36,760 --> 00:18:38,320
+And I can prove it.
+
+403
+00:18:38,740 --> 00:18:39,680
+I can do it.
+
+404
+00:18:40,360 --> 00:18:43,340
+This is what happens in debates that's a big flaw and no one notices.
+
+405
+00:18:43,920 --> 00:18:48,220
+There's a saying that says, never correct your opponent when they're making mistakes.
+
+406
+00:18:48,440 --> 00:18:52,140
+Actually, it's more like, never correct your enemy when they're making mistakes.
+
+407
+00:18:52,140 --> 00:18:56,700
+See, I don't see anyone as an enemy, but your opponent, your adversary.
+
+408
+00:18:56,820 --> 00:18:59,320
+Never correct your adversary when they're making mistakes.
+
+409
+00:19:00,020 --> 00:19:01,120
+What do you hear, Chuck?
+
+410
+00:19:01,140 --> 00:19:05,040
+You've seen debates on various subjects, probably the one that you research.
+
+411
+00:19:05,420 --> 00:19:05,680
+Yeah.
+
+412
+00:19:05,960 --> 00:19:07,040
+What do they do?
+
+413
+00:19:07,300 --> 00:19:08,000
+What do they do?
+
+414
+00:19:08,180 --> 00:19:08,440
+Always.
+
+415
+00:19:08,940 --> 00:19:12,360
+One guy finishes and the other guy starts to correct the other guy.
+
+416
+00:19:12,420 --> 00:19:12,680
+Right.
+
+417
+00:19:12,760 --> 00:19:17,180
+That's not how you gain any ground on the battlefield at all.
+
+418
+00:19:17,180 --> 00:19:23,860
+And typically, by the way, before you even discussed this with me, before I pressed record,
+
+419
+00:19:24,860 --> 00:19:26,000
+I recognize that.
+
+420
+00:19:26,800 --> 00:19:29,280
+That's why people say, you should debate this.
+
+421
+00:19:29,320 --> 00:19:30,440
+I don't debate these people.
+
+422
+00:19:31,220 --> 00:19:32,520
+It is so pointless.
+
+423
+00:19:32,520 --> 00:19:33,140
+Well, you can.
+
+424
+00:19:33,540 --> 00:19:34,200
+Oh, I can.
+
+425
+00:19:34,240 --> 00:19:35,260
+But you've got to show up.
+
+426
+00:19:35,360 --> 00:19:40,160
+You don't show up to a knife fight with a knife, because then you're going to try to
+
+427
+00:19:40,160 --> 00:19:43,380
+prove that you're a better knife fighter and you might get cut in the process.
+
+428
+00:19:43,540 --> 00:19:45,700
+And you don't show up with a gun, you show up with a nuke.
+
+429
+00:19:46,720 --> 00:19:49,600
+So everyone within a five-mile radius is done.
+
+430
+00:19:50,400 --> 00:19:53,820
+See, because the debates are not between the two debaters.
+
+431
+00:19:54,120 --> 00:19:55,180
+It's to educate the audience.
+
+432
+00:19:55,280 --> 00:19:57,460
+It's an excellent Socratic education tool.
+
+433
+00:19:57,840 --> 00:20:06,560
+Even though the debates in a Socrates-type setting only last ten seconds, you see, they
+
+434
+00:20:06,560 --> 00:20:07,680
+don't go on and on and on.
+
+435
+00:20:07,860 --> 00:20:08,740
+Oh, no, I agree with you.
+
+436
+00:20:08,800 --> 00:20:10,580
+It's an excellent tool, but the execution...
+
+437
+00:20:15,680 --> 00:20:20,320
+That it's just exactly as you described, by the way, where it's just, oh, well, let me
+
+438
+00:20:20,320 --> 00:20:21,760
+tell you what you just said wrong.
+
+439
+00:20:22,360 --> 00:20:25,420
+That doesn't help you, and it doesn't help...
+
+440
+00:20:25,420 --> 00:20:26,500
+No, it gives me a headache.
+
+441
+00:20:26,840 --> 00:20:27,620
+It actually helps them.
+
+442
+00:20:27,720 --> 00:20:32,340
+It gives me a headache, because, yeah, I'm watching this, and yeah, I could maybe learn
+
+443
+00:20:32,340 --> 00:20:38,280
+something from it, possibly, but it's not effective.
+
+444
+00:20:38,620 --> 00:20:44,560
+I mean, you know, please read Sun Tzu, at least, before you do this.
+
+445
+00:20:44,560 --> 00:20:49,900
+You know, we were talking about maybe there should be a video start here for Greek-speak.
+
+446
+00:20:50,340 --> 00:20:57,320
+Anyone who's listened to what I call primary or fundamental Greek-speak, the basic, basic
+
+447
+00:20:57,320 --> 00:21:02,480
+rants that I go on, I cover timekeeping, the human body, water, a bunch of other stuff.
+
+448
+00:21:02,580 --> 00:21:06,540
+Okay, those simple analogies that I give on fundamental Greek-speak, like if I had
+
+449
+00:21:06,540 --> 00:21:10,720
+just 15 minutes to say what Greek-speak is about, that is what I use in the debates.
+
+450
+00:21:11,420 --> 00:21:12,160
+Strictly that.
+
+451
+00:21:13,680 --> 00:21:14,540
+And that's it.
+
+452
+00:21:14,840 --> 00:21:18,480
+Never address what they're saying, because how can you address what they're saying?
+
+453
+00:21:18,540 --> 00:21:21,320
+Why would you address what the opponent is saying if it's false?
+
+454
+00:21:22,660 --> 00:21:27,080
+You would just be... if you're looking not to correct him, because that would be a disadvantage
+
+455
+00:21:27,080 --> 00:21:27,640
+to you, right?
+
+456
+00:21:27,680 --> 00:21:31,120
+Remember, never correct your enemy when they're making mistakes.
+
+457
+00:21:31,400 --> 00:21:38,100
+So you cannot address what they're saying to correct it, and you cannot...
+
+458
+00:21:38,100 --> 00:21:41,280
+you shouldn't really repeat what they said, because then it's redundancy.
+
+459
+00:21:42,320 --> 00:21:47,840
+So you have to rise above it and give an overall perspective that a five-year-old...
+
+460
+00:21:47,840 --> 00:21:54,700
+I like to keep the perspective within eight-year-old comprehension, eight to twelve-year-old,
+
+461
+00:21:54,780 --> 00:21:56,640
+which is Victorian grammar school.
+
+462
+00:21:57,420 --> 00:21:58,360
+People don't know.
+
+463
+00:21:58,840 --> 00:22:00,080
+I think I've mentioned this before.
+
+464
+00:22:00,560 --> 00:22:04,780
+If you go study like the, quote-unquote, intellectual giants of the 19th century,
+
+465
+00:22:04,880 --> 00:22:06,680
+there was something called Victorian grammar school.
+
+466
+00:22:06,680 --> 00:22:09,500
+It was more of a formalized type of education.
+
+467
+00:22:09,640 --> 00:22:12,560
+Later on, the formal education that exists now came from Prussia.
+
+468
+00:22:12,720 --> 00:22:16,560
+But in Victorian grammar school, you went to school, basically.
+
+469
+00:22:16,560 --> 00:22:20,940
+You had the primer, basic, and then your schooling, which would be, let's say,
+
+470
+00:22:20,960 --> 00:22:27,180
+considered high school and college, would be between the years of seven and thirteen years old.
+
+471
+00:22:27,600 --> 00:22:33,900
+And your bachelor degree would be between, let's say, twelve and fifteen years old.
+
+472
+00:22:33,900 --> 00:22:37,680
+That's why when you look up people from the 19th century,
+
+473
+00:22:38,640 --> 00:22:45,180
+like this one guy was at Cambridge, right, or Oxford, and he was in this year.
+
+474
+00:22:45,900 --> 00:22:50,500
+Well, you go back and see when he was born and what year he's at Oxford,
+
+475
+00:22:50,620 --> 00:22:53,000
+and he's 20 years old as a professor.
+
+476
+00:22:54,040 --> 00:22:58,040
+He's like, wait a second, because 20 years old, I'm basically not even...
+
+477
+00:22:58,040 --> 00:22:59,640
+I have another two years to get a bachelor's degree.
+
+478
+00:22:59,780 --> 00:23:00,840
+Well, how could I... you see?
+
+479
+00:23:00,840 --> 00:23:04,960
+So you'll see evidence of people having all their education done by 15 or 16,
+
+480
+00:23:05,060 --> 00:23:07,000
+completely college... you see what I mean?
+
+481
+00:23:07,380 --> 00:23:07,500
+Right.
+
+482
+00:23:07,960 --> 00:23:10,100
+Back then, that's basically how it was.
+
+483
+00:23:10,200 --> 00:23:11,740
+I got off the subject.
+
+484
+00:23:11,860 --> 00:23:15,040
+Let's reel this back into what we wanted to talk about.
+
+485
+00:23:15,220 --> 00:23:19,860
+Well, I started with the time periods, and then we kind of went into debating and all that,
+
+486
+00:23:20,300 --> 00:23:22,740
+which I think you should...
+
+487
+00:23:22,740 --> 00:23:23,260
+Oh, the chat.
+
+488
+00:23:23,480 --> 00:23:26,620
+The essence of the chat is good, usually.
+
+489
+00:23:26,620 --> 00:23:33,360
+In this Rated Y chat, I've noticed that it's hopping enough and pertinent enough to address,
+
+490
+00:23:33,460 --> 00:23:33,940
+and we will.
+
+491
+00:23:34,240 --> 00:23:39,340
+I asked about what subjects to get deep and solo, or solo and deep,
+
+492
+00:23:39,800 --> 00:23:43,940
+and there are quite a few, and I think you brought up orally earlier
+
+493
+00:23:43,940 --> 00:23:48,760
+about the farming and the ether and all that, that Vandy brought up in the chat,
+
+494
+00:23:49,000 --> 00:23:55,820
+and that's a really big subject because we want to keep the little guys happy,
+
+495
+00:23:55,820 --> 00:23:58,220
+which are the plants, and some of them are big, too.
+
+496
+00:23:59,640 --> 00:24:03,780
+And the easiest thing, just like people...
+
+497
+00:24:03,780 --> 00:24:09,640
+Okay, we'll get into that on another sonic, but this is how I approach plants.
+
+498
+00:24:09,780 --> 00:24:11,600
+They're organisms, living organisms.
+
+499
+00:24:11,840 --> 00:24:12,060
+Of course.
+
+500
+00:24:16,500 --> 00:24:21,940
+Eating just plants is vegetarian and plant-based, but they're still a living organism.
+
+501
+00:24:23,440 --> 00:24:28,220
+Okay, I've gone over this loosely, but plants are always in a dream state.
+
+502
+00:24:28,860 --> 00:24:34,840
+So imagine you're in a dream, and your arm gets cut off, and you're like,
+
+503
+00:24:34,900 --> 00:24:35,440
+oh, I'm in a dream.
+
+504
+00:24:35,520 --> 00:24:36,320
+My arm got cut off.
+
+505
+00:24:36,360 --> 00:24:37,260
+Big deal, right?
+
+506
+00:24:37,560 --> 00:24:37,800
+Right.
+
+507
+00:24:38,200 --> 00:24:41,580
+Well, that's why you can go up to a plant and break off a leaf and eat it or whatever,
+
+508
+00:24:42,040 --> 00:24:43,740
+or get chewed up.
+
+509
+00:24:44,640 --> 00:24:50,040
+By the way, other than frogs, all hallucinogenics are gotten from what source?
+
+510
+00:24:50,800 --> 00:24:51,240
+Plants.
+
+511
+00:24:52,360 --> 00:24:52,640
+You see?
+
+512
+00:24:52,900 --> 00:24:53,560
+It's very simple.
+
+513
+00:24:53,900 --> 00:24:58,300
+Well, plants are the decaying plants because the mushrooms are different.
+
+514
+00:24:59,620 --> 00:25:02,020
+Yeah, well, mushrooms are not plants, and they're not animals.
+
+515
+00:25:02,140 --> 00:25:02,780
+They're something else.
+
+516
+00:25:02,840 --> 00:25:03,520
+Well, that's what I said.
+
+517
+00:25:03,520 --> 00:25:04,200
+It's different.
+
+518
+00:25:04,540 --> 00:25:07,940
+Yeah, just like spiders are not insects.
+
+519
+00:25:09,060 --> 00:25:11,700
+The other thing about spiders, we'll get back to plants real quick,
+
+520
+00:25:11,880 --> 00:25:15,120
+is spiders are incredible.
+
+521
+00:25:15,500 --> 00:25:17,740
+They can turn off their psyche.
+
+522
+00:25:17,740 --> 00:25:21,180
+In other words, there is no psychic perception of spiders.
+
+523
+00:25:21,940 --> 00:25:24,420
+You know you have a psychic perception if there's a bug around,
+
+524
+00:25:25,680 --> 00:25:27,120
+if you're tuned into it?
+
+525
+00:25:27,520 --> 00:25:30,440
+But a spider could crawl on your shoulder, and you won't even know it's there
+
+526
+00:25:30,440 --> 00:25:32,880
+until you see it, if it wants to hide itself psychically.
+
+527
+00:25:34,020 --> 00:25:37,800
+So anyway, I think David Bowie sung about the spiders on Mars at one point, didn't he?
+
+528
+00:25:38,480 --> 00:25:39,200
+Yeah, he did.
+
+529
+00:25:39,260 --> 00:25:42,560
+But I've taken notice of that before, that spiders are one of those things.
+
+530
+00:25:42,620 --> 00:25:44,800
+The way I've always put it is spiders are one of the creatures
+
+531
+00:25:44,800 --> 00:25:47,240
+that can really, truly sneak up on you.
+
+532
+00:25:48,100 --> 00:25:50,060
+Right, because of their psychic ability.
+
+533
+00:25:50,780 --> 00:25:51,940
+In other words, within the ether.
+
+534
+00:25:52,360 --> 00:25:53,460
+So back to plants.
+
+535
+00:25:54,520 --> 00:25:58,020
+I gave the person an analogy, and the human body is like an upside-down plant.
+
+536
+00:25:58,120 --> 00:25:59,680
+You have the limbs, which are the arms.
+
+537
+00:25:59,820 --> 00:26:03,420
+You have the seed, which is the ovum and the sperm.
+
+538
+00:26:03,700 --> 00:26:07,100
+And you have the flower, which is the genitalia.
+
+539
+00:26:07,220 --> 00:26:09,580
+And you have the root ball, which is the brain.
+
+540
+00:26:09,980 --> 00:26:11,980
+So if you turn a human upside down, stick him in the ground,
+
+541
+00:26:12,660 --> 00:26:14,200
+he basically resembles a plant.
+
+542
+00:26:15,480 --> 00:26:17,200
+Okay, so we have an ethereal flip.
+
+543
+00:26:18,200 --> 00:26:21,420
+But basically, I said you want to keep the little guys happy.
+
+544
+00:26:21,780 --> 00:26:24,920
+I have a primrose bush here.
+
+545
+00:26:25,160 --> 00:26:28,580
+It makes these little roses, and just because they're little,
+
+546
+00:26:29,960 --> 00:26:32,420
+the plant is large, the shrub is large,
+
+547
+00:26:32,620 --> 00:26:36,300
+and it's full of maybe 2,000 roses right now, maybe more.
+
+548
+00:26:37,160 --> 00:26:38,380
+It's a beautiful primrose.
+
+549
+00:26:39,400 --> 00:26:42,660
+They're not really roses, but they kind of resemble a rose bush.
+
+550
+00:26:43,380 --> 00:26:43,940
+I guess it is.
+
+551
+00:26:44,500 --> 00:26:48,860
+So anyway, these guys, the plants, you want to keep them happy.
+
+552
+00:26:49,420 --> 00:26:51,720
+So let's go back to the people analogy.
+
+553
+00:26:51,800 --> 00:26:54,080
+I've been giving people analogies here with the dream state
+
+554
+00:26:54,080 --> 00:26:55,800
+and the upside-down nature and this and that.
+
+555
+00:26:56,300 --> 00:26:57,960
+Okay, Chuck, we've got a group of people.
+
+556
+00:26:58,920 --> 00:27:03,400
+We can make them happy by internally making them feel,
+
+557
+00:27:04,840 --> 00:27:07,900
+and also giving them good food and drink, let's say.
+
+558
+00:27:07,900 --> 00:27:11,720
+A good party, so they're gratified, right?
+
+559
+00:27:12,280 --> 00:27:13,460
+Let's say you make people happy.
+
+560
+00:27:13,700 --> 00:27:16,700
+Or you could break out a whole bunch of drugs, get them high.
+
+561
+00:27:17,760 --> 00:27:19,620
+That's another way to make people happy, isn't it?
+
+562
+00:27:20,160 --> 00:27:21,300
+It'll work, yeah.
+
+563
+00:27:21,840 --> 00:27:26,760
+But usually when you have good food and drink and gratification from that,
+
+564
+00:27:26,800 --> 00:27:29,160
+it lasts a long time, and you come off of it good.
+
+565
+00:27:29,560 --> 00:27:31,940
+What happens when you get people happy when you give them drugs?
+
+566
+00:27:33,820 --> 00:27:36,380
+Some of them come off of it not so well,
+
+567
+00:27:36,380 --> 00:27:38,200
+but everybody's going to say,
+
+568
+00:27:38,580 --> 00:27:41,300
+it was better when I was high, right?
+
+569
+00:27:41,380 --> 00:27:45,120
+I'm not high now, and I've got to go on with the rest of it.
+
+570
+00:27:45,520 --> 00:27:45,920
+Whatever.
+
+571
+00:27:46,620 --> 00:27:48,860
+Well, it's either that or you get them caught in a cycle of,
+
+572
+00:27:48,900 --> 00:27:52,200
+they continuously go back to getting high, in which case, you know.
+
+573
+00:27:52,280 --> 00:27:54,360
+Sure, and that's what's going on with plants.
+
+574
+00:27:54,600 --> 00:27:56,260
+So you live in a society,
+
+575
+00:27:56,560 --> 00:27:58,380
+and by the way, this is Greek-speak.
+
+576
+00:27:58,480 --> 00:28:00,740
+You're not going to probably have anyone else hear this.
+
+577
+00:28:00,980 --> 00:28:02,620
+I'll say this this way, very simply.
+
+578
+00:28:03,660 --> 00:28:06,240
+All these fertilizers, chemical or whatever,
+
+579
+00:28:06,940 --> 00:28:07,820
+you know what they're doing?
+
+580
+00:28:08,020 --> 00:28:09,400
+They're getting the plants high,
+
+581
+00:28:09,600 --> 00:28:11,840
+and when you get them high, they do what they do.
+
+582
+00:28:11,920 --> 00:28:13,660
+Just like if you got a crowd, and you got them high,
+
+583
+00:28:13,720 --> 00:28:16,160
+and you put on some music, they're all going to want to jump up and dance,
+
+584
+00:28:16,240 --> 00:28:17,620
+take their clothes off, whatever, right?
+
+585
+00:28:18,540 --> 00:28:21,140
+So you give plants these drugs, what do they do?
+
+586
+00:28:22,780 --> 00:28:25,260
+They spurt out leaves and buds and bloom
+
+587
+00:28:25,260 --> 00:28:27,660
+and put out veg and fruit and whatever, right?
+
+588
+00:28:28,120 --> 00:28:29,020
+But they're high.
+
+589
+00:28:29,940 --> 00:28:31,360
+So it's not going to be that great.
+
+590
+00:28:32,060 --> 00:28:36,040
+A musician knows that if you do a session,
+
+591
+00:28:36,280 --> 00:28:37,460
+and you get really high,
+
+592
+00:28:37,800 --> 00:28:40,040
+you think you're playing the best stuff ever,
+
+593
+00:28:40,180 --> 00:28:42,300
+and you go the next day, and when you sober up,
+
+594
+00:28:42,380 --> 00:28:43,320
+listen to the recording,
+
+595
+00:28:44,220 --> 00:28:45,260
+oh, that sounds like shit.
+
+596
+00:28:45,800 --> 00:28:49,220
+I have tried so many times to explain that,
+
+597
+00:28:49,340 --> 00:28:51,940
+and I'll tell you it takes so many times.
+
+598
+00:28:52,360 --> 00:28:53,980
+I was a musician for a while,
+
+599
+00:28:54,120 --> 00:28:57,140
+and I can't tell you how many times I've had to have that conversation
+
+600
+00:28:57,140 --> 00:29:00,380
+where it's like, I realize you're enjoying playing
+
+601
+00:29:00,380 --> 00:29:01,340
+when you're high.
+
+602
+00:29:02,120 --> 00:29:04,420
+And you think that you're doing a great set,
+
+603
+00:29:04,520 --> 00:29:06,720
+or it came out really, you played it really well this time.
+
+604
+00:29:07,000 --> 00:29:08,780
+Yeah, because you think it's great,
+
+605
+00:29:08,960 --> 00:29:09,560
+because it sounds great to you.
+
+606
+00:29:09,560 --> 00:29:10,840
+Make sure you're recording it, though.
+
+607
+00:29:12,020 --> 00:29:14,520
+Yeah, right, because when I listen back,
+
+608
+00:29:14,580 --> 00:29:15,120
+I go, ooh.
+
+609
+00:29:15,940 --> 00:29:16,740
+That was really bad.
+
+610
+00:29:16,840 --> 00:29:18,440
+This is exactly what's going on.
+
+611
+00:29:18,480 --> 00:29:21,200
+So when you get a fruit or a veg from plants
+
+612
+00:29:21,200 --> 00:29:22,820
+that grew that while they were high,
+
+613
+00:29:23,520 --> 00:29:25,280
+it might look good, but it has no flavor,
+
+614
+00:29:25,400 --> 00:29:26,580
+no taste, and no nutrition.
+
+615
+00:29:26,580 --> 00:29:28,540
+I'm giving this analogy
+
+616
+00:29:29,160 --> 00:29:32,060
+because what I'm trying to do is pair up our existence
+
+617
+00:29:32,060 --> 00:29:34,060
+with everything that exists around us, right?
+
+618
+00:29:34,760 --> 00:29:36,600
+And this pairing, what it does is
+
+619
+00:29:36,600 --> 00:29:39,300
+it allows one to understand the flow
+
+620
+00:29:40,220 --> 00:29:42,340
+of when to give, when not to give,
+
+621
+00:29:42,420 --> 00:29:43,780
+what to do, what not to do,
+
+622
+00:29:44,400 --> 00:29:46,000
+instead of, oh, I read it somewhere,
+
+623
+00:29:46,060 --> 00:29:47,140
+and I think this might work.
+
+624
+00:29:47,680 --> 00:29:49,220
+So we'll get into that.
+
+625
+00:29:49,280 --> 00:29:51,120
+But essentially, I did give an answer there
+
+626
+00:29:51,120 --> 00:29:52,900
+that most of the vegetative layer
+
+627
+00:29:52,900 --> 00:29:55,880
+is slightly below the earth and slightly above the earth.
+
+628
+00:29:55,880 --> 00:29:59,000
+That's where you want to make ethereal adjustments.
+
+629
+00:29:59,400 --> 00:30:01,280
+And I'll have to think about that a little more
+
+630
+00:30:01,280 --> 00:30:03,140
+because on the solo sonics,
+
+631
+00:30:03,220 --> 00:30:05,000
+I think I'm going to go really, really deep
+
+632
+00:30:05,000 --> 00:30:06,200
+and give a lot of information.
+
+633
+00:30:06,660 --> 00:30:09,060
+So I'm going to need an outline for that.
+
+634
+00:30:09,180 --> 00:30:10,600
+So all that stuff's being worked on.
+
+635
+00:30:11,940 --> 00:30:12,400
+Fair enough.
+
+636
+00:30:13,040 --> 00:30:16,180
+But also that brings us to water
+
+637
+00:30:16,180 --> 00:30:18,160
+and the subject that we neglected
+
+638
+00:30:18,160 --> 00:30:20,720
+in the last sonic, which is hygiene.
+
+639
+00:30:21,660 --> 00:30:23,140
+But no one knows we neglected it
+
+640
+00:30:23,140 --> 00:30:25,520
+because we never even brought it up on the sonics.
+
+641
+00:30:25,520 --> 00:30:27,460
+I thought we brought it up for a moment
+
+642
+00:30:27,460 --> 00:30:29,640
+and then just spun away.
+
+643
+00:30:29,700 --> 00:30:30,680
+I think in the end, yeah, cutting it off.
+
+644
+00:30:30,840 --> 00:30:33,780
+So the water, which one should do first?
+
+645
+00:30:33,880 --> 00:30:35,120
+They both go together because
+
+646
+00:30:35,120 --> 00:30:36,980
+to have something spiritually clean,
+
+647
+00:30:37,040 --> 00:30:38,320
+it has to be cleaned with water.
+
+648
+00:30:38,560 --> 00:30:41,520
+Are you familiar with that, even from pagan rituals?
+
+649
+00:30:41,780 --> 00:30:42,580
+Yes, practical.
+
+650
+00:30:42,740 --> 00:30:44,700
+I was just going to say, in a very practical way,
+
+651
+00:30:45,100 --> 00:30:48,080
+there is nothing that gets cleaned either.
+
+652
+00:30:48,500 --> 00:30:49,800
+And again, think about the practices.
+
+653
+00:30:50,240 --> 00:30:52,520
+All right, I'm going to bring up something really bad here,
+
+654
+00:30:52,520 --> 00:30:55,800
+but even the idea where they do the baptisms, right?
+
+655
+00:30:56,220 --> 00:30:57,860
+There is water involved.
+
+656
+00:30:58,600 --> 00:31:00,940
+Anytime you're cleaning, resetting,
+
+657
+00:31:01,300 --> 00:31:03,840
+anytime you're transferring energy,
+
+658
+00:31:04,960 --> 00:31:07,760
+all of these processes involve water.
+
+659
+00:31:08,180 --> 00:31:09,640
+Now, somebody might say, well, obviously,
+
+660
+00:31:09,860 --> 00:31:11,420
+because you're on planet Earth, dummy,
+
+661
+00:31:11,840 --> 00:31:14,360
+and the majority of what happens on this planet
+
+662
+00:31:14,360 --> 00:31:16,180
+is dictated to by water.
+
+663
+00:31:16,620 --> 00:31:19,600
+Water is a part of everything that occurs, right?
+
+664
+00:31:20,160 --> 00:31:21,860
+Right, but from a spiritual point of view,
+
+665
+00:31:21,860 --> 00:31:22,760
+it's not chemical.
+
+666
+00:31:23,060 --> 00:31:23,980
+Like, give an example.
+
+667
+00:31:25,240 --> 00:31:28,420
+You can have something that's deemed unclean
+
+668
+00:31:28,980 --> 00:31:32,500
+and then have it cleaned just by washing it, right?
+
+669
+00:31:32,500 --> 00:31:32,640
+Right.
+
+670
+00:31:32,640 --> 00:31:36,540
+But if you were to scan it with all the men's materialistic stuff,
+
+671
+00:31:36,580 --> 00:31:37,860
+you won't find anything unclean.
+
+672
+00:31:38,480 --> 00:31:41,020
+It's just a spiritual, it's part of a process
+
+673
+00:31:41,480 --> 00:31:43,080
+because the memory of the thing,
+
+674
+00:31:43,140 --> 00:31:45,000
+I think it's like synesthesia or being synesthetic,
+
+675
+00:31:45,580 --> 00:31:47,820
+like certain people, I don't think it's the correct term.
+
+676
+00:31:48,840 --> 00:31:50,260
+This is where you can have sex.
+
+677
+00:31:50,260 --> 00:31:52,240
+If you give an axe to someone that was very psychic
+
+678
+00:31:52,240 --> 00:31:53,820
+and that axe was used to kill someone,
+
+679
+00:31:53,900 --> 00:31:55,940
+they'll pick up on that, where an average person won't.
+
+680
+00:31:56,620 --> 00:32:01,740
+Yeah, I have experienced that with metallic objects myself,
+
+681
+00:32:02,780 --> 00:32:04,320
+but only metallic objects.
+
+682
+00:32:04,360 --> 00:32:04,620
+Sure.
+
+683
+00:32:04,940 --> 00:32:07,400
+So I want to get into the more important part
+
+684
+00:32:07,400 --> 00:32:09,000
+because, you know, I always say if you're giving,
+
+685
+00:32:09,200 --> 00:32:11,360
+got something important to say and your battery's low,
+
+686
+00:32:11,800 --> 00:32:13,220
+just get the important part out
+
+687
+00:32:13,220 --> 00:32:15,460
+so when the battery dies, at least you got, right?
+
+688
+00:32:15,600 --> 00:32:15,760
+You see?
+
+689
+00:32:15,980 --> 00:32:16,140
+Yeah.
+
+690
+00:32:16,140 --> 00:32:21,380
+So, water, okay.
+
+691
+00:32:21,840 --> 00:32:24,840
+I think on the page you have the water thing
+
+692
+00:32:24,840 --> 00:32:27,100
+that we did a few years ago, quite a few years ago now,
+
+693
+00:32:27,260 --> 00:32:27,860
+more than a few.
+
+694
+00:32:28,040 --> 00:32:29,840
+I added that to the playlist, yeah, I did.
+
+695
+00:32:30,060 --> 00:32:32,360
+Okay, so I think I remember what we spoke about there.
+
+696
+00:32:32,480 --> 00:32:33,940
+So all that holds true.
+
+697
+00:32:34,680 --> 00:32:36,420
+But what I've been working on lately,
+
+698
+00:32:36,800 --> 00:32:40,680
+and if anyone is familiar with Ken Wheeler's talk on magnetism,
+
+699
+00:32:42,440 --> 00:32:46,760
+and if you're familiar, not just glossed by,
+
+700
+00:32:47,160 --> 00:32:50,440
+when I say the inertial plane or the block wall of a magnet,
+
+701
+00:32:50,680 --> 00:32:53,020
+okay, what is that?
+
+702
+00:32:53,160 --> 00:32:55,980
+Okay, so if you look up in standard, you know,
+
+703
+00:32:56,000 --> 00:32:58,600
+the guys who are major league bullshitters,
+
+704
+00:32:58,720 --> 00:32:59,900
+you know, the academics.
+
+705
+00:33:00,260 --> 00:33:00,400
+Right.
+
+706
+00:33:00,880 --> 00:33:03,520
+Even if you go to their diagrams, everything's incorrect,
+
+707
+00:33:03,700 --> 00:33:06,280
+but they do, if you put in block wall in a search,
+
+708
+00:33:06,280 --> 00:33:12,020
+B-L-O-C-H, it's with an H instead of a K for block,
+
+709
+00:33:12,280 --> 00:33:14,660
+you're going to see a line going through between the poles
+
+710
+00:33:15,120 --> 00:33:16,300
+along the body of the magnet.
+
+711
+00:33:16,460 --> 00:33:18,800
+When I mean the body of the magnet, typically,
+
+712
+00:33:19,720 --> 00:33:22,420
+now a lot of refrigerator magnets and magnetic tape
+
+713
+00:33:22,420 --> 00:33:24,380
+are not magnetized this way, but your basic,
+
+714
+00:33:26,620 --> 00:33:28,780
+except for horseshoe magnets on the left and right,
+
+715
+00:33:28,840 --> 00:33:31,480
+but your basic magnet, you'll notice one side,
+
+716
+00:33:31,560 --> 00:33:34,040
+it can be marked north pole, right,
+
+717
+00:33:34,040 --> 00:33:37,320
+counterclockwise, and the other side is south pole,
+
+718
+00:33:37,400 --> 00:33:38,080
+if you look at it.
+
+719
+00:33:38,360 --> 00:33:40,760
+It's still counterclockwise, but because you flipped it over,
+
+720
+00:33:40,860 --> 00:33:42,040
+it looks clockwise, right?
+
+721
+00:33:42,420 --> 00:33:42,560
+Okay.
+
+722
+00:33:43,180 --> 00:33:45,300
+There's no pole, just a vortex going through,
+
+723
+00:33:45,740 --> 00:33:47,420
+just like if you work at a hardware store,
+
+724
+00:33:47,900 --> 00:33:50,100
+you know that all your screws or most of them
+
+725
+00:33:50,100 --> 00:33:53,240
+are right-hand threaded, but you have a drawer somewhere
+
+726
+00:33:53,240 --> 00:33:54,040
+for what?
+
+727
+00:33:54,280 --> 00:33:54,780
+Left-handed.
+
+728
+00:33:54,880 --> 00:33:56,860
+L-H, left-hand threaded, so, you know,
+
+729
+00:33:56,880 --> 00:33:58,700
+you try to screw it in, it goes the other way, right?
+
+730
+00:33:58,860 --> 00:34:03,180
+Okay, so it's kind of, that's what happens when you put
+
+731
+00:34:03,180 --> 00:34:04,800
+like poles with like poles, okay.
+
+732
+00:34:07,040 --> 00:34:10,000
+So let's say you take a ring magnet or a bar magnet
+
+733
+00:34:10,000 --> 00:34:11,860
+or something, so let's say the north pole,
+
+734
+00:34:12,260 --> 00:34:14,420
+which is going towards the south, right,
+
+735
+00:34:14,480 --> 00:34:16,520
+attracted really, if you use a compass,
+
+736
+00:34:17,100 --> 00:34:18,480
+we're not going to get into how to determine
+
+737
+00:34:18,480 --> 00:34:20,199
+north and south pole, it doesn't matter,
+
+738
+00:34:20,300 --> 00:34:21,840
+but I'm just saying you paint, usually you paint
+
+739
+00:34:21,840 --> 00:34:25,639
+the north pole red on a magnet and white on the south pole,
+
+740
+00:34:25,719 --> 00:34:27,320
+that's the typical nomenclature.
+
+741
+00:34:28,060 --> 00:34:30,000
+Okay, so when you paint those two faces,
+
+742
+00:34:30,100 --> 00:34:32,780
+or you determine the two faces where the poles are,
+
+743
+00:34:32,780 --> 00:34:36,460
+what are called poles, that block wall is equidistant
+
+744
+00:34:36,460 --> 00:34:40,040
+between the two poles along the body of the magnet, okay.
+
+745
+00:34:40,600 --> 00:34:43,340
+All right, so I want to jump over to another notion.
+
+746
+00:34:43,560 --> 00:34:48,179
+You could look up fuel magnetizers or water magnetizers
+
+747
+00:34:48,179 --> 00:34:53,400
+and you're going to see thousands if not millions
+
+748
+00:34:53,400 --> 00:34:55,400
+of images of people selling you magnets
+
+749
+00:34:55,400 --> 00:34:58,000
+to strap onto your fuel line for better gas mileage
+
+750
+00:34:58,000 --> 00:35:00,580
+or strap onto your water pipes to reduce scale
+
+751
+00:35:00,580 --> 00:35:01,960
+and other things like that, right.
+
+752
+00:35:01,960 --> 00:35:03,380
+They're all wrong.
+
+753
+00:35:03,940 --> 00:35:07,760
+What they're doing is they're taking the two magnets,
+
+754
+00:35:07,940 --> 00:35:10,580
+two separate magnets, and sandwiching them pole to pole
+
+755
+00:35:11,240 --> 00:35:16,720
+over a tube or a pipe for fuel or water, okay.
+
+756
+00:35:17,680 --> 00:35:20,220
+And to add insult to injury, there are websites
+
+757
+00:35:20,220 --> 00:35:23,320
+that have had debates, oh, should we put two like poles,
+
+758
+00:35:23,460 --> 00:35:24,600
+you know, the poles that push away,
+
+759
+00:35:24,960 --> 00:35:26,040
+give the appearance of pushing away,
+
+760
+00:35:26,220 --> 00:35:27,560
+or the ones that attract.
+
+761
+00:35:27,680 --> 00:35:29,140
+There's a big debate on that.
+
+762
+00:35:29,140 --> 00:35:31,440
+They're both wrong because you shouldn't be doing that anyway
+
+763
+00:35:32,140 --> 00:35:35,180
+for this treatment of water because we're still speaking
+
+764
+00:35:35,180 --> 00:35:38,760
+on water even though this is a magnetic treatment of water.
+
+765
+00:35:39,680 --> 00:35:43,940
+So what you would like to have done is have the water flow
+
+766
+00:35:43,940 --> 00:35:45,620
+because this is not for static water.
+
+767
+00:35:45,740 --> 00:35:49,160
+Most of it, 99% of it is for flowing water,
+
+768
+00:35:50,000 --> 00:35:51,880
+is when you have a conduit of water, a tube,
+
+769
+00:35:51,980 --> 00:35:55,600
+a pipe or something, in this case it would be better
+
+770
+00:35:55,600 --> 00:35:56,460
+if it were flexible.
+
+771
+00:35:57,400 --> 00:35:59,340
+You want, yes, you do want this,
+
+772
+00:35:59,440 --> 00:36:03,960
+and you need to have the water pipe or the conduit wrap
+
+773
+00:36:03,960 --> 00:36:06,020
+around the block wall of the magnet
+
+774
+00:36:06,020 --> 00:36:09,200
+and avoid the poles as much as possible.
+
+775
+00:36:10,240 --> 00:36:13,420
+Now this is very unintuitive because if you show someone
+
+776
+00:36:13,420 --> 00:36:17,020
+a magnet, it sticks to the refrigerator really, you know,
+
+777
+00:36:17,060 --> 00:36:18,760
+let's say it's a good strong magnet, ring magnet,
+
+778
+00:36:18,900 --> 00:36:21,440
+square magnet, bar magnet, boom, it sticks on the fridge,
+
+779
+00:36:21,500 --> 00:36:23,200
+oh, it's a really strong magnet, flip it around, boom,
+
+780
+00:36:23,260 --> 00:36:25,300
+it sticks to the fridge, okay, it's a really strong magnet.
+
+781
+00:36:25,300 --> 00:36:27,640
+But now try the block wall against the fridge,
+
+782
+00:36:27,800 --> 00:36:28,700
+eh, it doesn't stick at all.
+
+783
+00:36:29,040 --> 00:36:32,020
+So if we're going to magnetize water, we've got to put it,
+
+784
+00:36:32,560 --> 00:36:34,440
+put the part of the magnet that's really strong
+
+785
+00:36:35,020 --> 00:36:36,480
+against the water, right?
+
+786
+00:36:36,680 --> 00:36:37,540
+This is the mentality.
+
+787
+00:36:37,680 --> 00:36:40,000
+This is typical human thinking, you see?
+
+788
+00:36:40,460 --> 00:36:42,900
+Well, obviously you've got to apply force to make a change.
+
+789
+00:36:43,060 --> 00:36:44,040
+So you're thinking to yourself,
+
+790
+00:36:44,200 --> 00:36:46,600
+this is what gives the appearance of force.
+
+791
+00:36:47,440 --> 00:36:48,240
+Yeah, exactly.
+
+792
+00:36:49,400 --> 00:36:52,060
+So, yeah, that's why, you know, your starter toolkit
+
+793
+00:36:52,060 --> 00:36:55,540
+is just three hammers, large, medium, and small,
+
+794
+00:36:56,260 --> 00:36:58,280
+for everything, right?
+
+795
+00:36:58,600 --> 00:37:04,220
+Anyway, yeah, so, okay, so this is the human,
+
+796
+00:37:04,640 --> 00:37:06,580
+everyone's stuck on this, everyone's stuck on this.
+
+797
+00:37:06,580 --> 00:37:08,700
+So you want the water, and you need to have the water
+
+798
+00:37:08,700 --> 00:37:10,220
+running along the block wall.
+
+799
+00:37:12,140 --> 00:37:15,100
+Okay, and you want to increase the area to that block wall,
+
+800
+00:37:15,120 --> 00:37:17,580
+so it's good to have two like magnets stacked on each other
+
+801
+00:37:17,580 --> 00:37:19,940
+as they normally would stick, and it gives you a little more
+
+802
+00:37:19,940 --> 00:37:22,720
+area along that block wall, and it also sets the poles apart.
+
+803
+00:37:23,180 --> 00:37:24,360
+A little more talk about magnets.
+
+804
+00:37:25,200 --> 00:37:27,000
+Another thing people are distracted about,
+
+805
+00:37:28,060 --> 00:37:30,520
+if anyone says, oh, these hard drive magnets,
+
+806
+00:37:30,700 --> 00:37:34,760
+these neomagnets, you know, number 52, 48, whatever,
+
+807
+00:37:35,180 --> 00:37:37,960
+oh, they've got these really strong neomagnets, right?
+
+808
+00:37:38,100 --> 00:37:39,740
+Wrong, you don't want to use a neomagnet.
+
+809
+00:37:39,800 --> 00:37:43,340
+You want to use an iron ferrite or strontium, you know,
+
+810
+00:37:43,360 --> 00:37:46,120
+the basic barium strontium, iron ferrite,
+
+811
+00:37:46,220 --> 00:37:48,040
+cheap speaker magnets or whatever, you know,
+
+812
+00:37:48,040 --> 00:37:51,240
+the black colored ones, not the shiny neos.
+
+813
+00:37:51,540 --> 00:37:52,860
+Why? Well, it's Greek.
+
+814
+00:37:53,000 --> 00:37:54,920
+The neomagnets are really strong.
+
+815
+00:37:54,980 --> 00:37:55,920
+The other ones are junk.
+
+816
+00:37:56,040 --> 00:37:56,800
+I'm like, well, okay.
+
+817
+00:37:57,740 --> 00:37:59,980
+When you make a magnet really strong like that,
+
+818
+00:38:00,200 --> 00:38:02,720
+it has a very high magnetic density,
+
+819
+00:38:03,340 --> 00:38:06,500
+and that field wraps around into the block wall,
+
+820
+00:38:06,640 --> 00:38:08,600
+and it's much smaller of a field.
+
+821
+00:38:09,200 --> 00:38:10,500
+Yes, it's a stronger field.
+
+822
+00:38:10,580 --> 00:38:14,300
+Yes, I'm not going to say that it's not good because it's weak.
+
+823
+00:38:14,540 --> 00:38:16,700
+It's not good because it's too strong.
+
+824
+00:38:16,700 --> 00:38:19,360
+As you increase the magnetism of the object,
+
+825
+00:38:19,880 --> 00:38:22,560
+the field gets denser and denser and denser.
+
+826
+00:38:22,600 --> 00:38:24,300
+That's what you're really measuring, more density,
+
+827
+00:38:24,880 --> 00:38:28,500
+and it ends up wrapping around the block wall,
+
+828
+00:38:28,620 --> 00:38:30,800
+the area where you want to affect your fluids,
+
+829
+00:38:31,980 --> 00:38:34,100
+and it doesn't give you a lot of room,
+
+830
+00:38:34,610 --> 00:38:37,900
+where the magnet that doesn't appear to have such a high density,
+
+831
+00:38:38,060 --> 00:38:39,880
+and it's like the regular magnet, let's say,
+
+832
+00:38:40,860 --> 00:38:44,100
+that works much better because there's more room for the block wall
+
+833
+00:38:44,100 --> 00:38:49,560
+to adjust and affect whatever liquid that's going to be passing by it.
+
+834
+00:38:49,780 --> 00:38:51,980
+So the neomagnets don't work. I've tried them.
+
+835
+00:38:52,140 --> 00:38:54,840
+So the vortex itself has a greater amount of space,
+
+836
+00:38:55,760 --> 00:38:57,380
+even though it's less intense.
+
+837
+00:38:57,940 --> 00:38:59,620
+Is that about the way to put it?
+
+838
+00:38:59,640 --> 00:39:03,060
+Yes, like on a neomagnet, the vortex is more upright and skinny,
+
+839
+00:39:03,200 --> 00:39:04,160
+like a skinny tornado,
+
+840
+00:39:04,480 --> 00:39:10,060
+and the vortex on a regular magnet, a ferrite magnet,
+
+841
+00:39:10,060 --> 00:39:13,040
+is really wide, almost like an upside-down pyramid.
+
+842
+00:39:14,220 --> 00:39:16,220
+Okay, so you need that clearance.
+
+843
+00:39:16,600 --> 00:39:18,700
+Well, thinking of a tornado, you're talking about the difference
+
+844
+00:39:18,700 --> 00:39:20,920
+between the type of tornado that wrecks a whole town,
+
+845
+00:39:21,340 --> 00:39:24,220
+but does it pretty slowly and does a lot of damage?
+
+846
+00:39:24,440 --> 00:39:27,740
+No, in terms of shape, because the neomagnets will wreck a whole town.
+
+847
+00:39:27,900 --> 00:39:33,200
+If you have a four-inch by four-inch by one-inch-thick neomagnet,
+
+848
+00:39:33,860 --> 00:39:35,600
+and you walk by something in your hand,
+
+849
+00:39:35,660 --> 00:39:38,560
+and something, iron or steel, about a foot away,
+
+850
+00:39:38,560 --> 00:39:39,640
+it will tear your hand off.
+
+851
+00:39:39,740 --> 00:39:43,000
+It will crush your hand, and you might have to have it removed.
+
+852
+00:39:43,180 --> 00:39:45,580
+Even doing pressure and wrapping,
+
+853
+00:39:46,180 --> 00:39:48,400
+biological vacuum goes out the window at this point,
+
+854
+00:39:48,460 --> 00:39:49,620
+because it will shatter everything.
+
+855
+00:39:50,400 --> 00:39:50,500
+Right?
+
+856
+00:39:50,700 --> 00:39:50,860
+Wow.
+
+857
+00:39:50,860 --> 00:39:52,380
+Yeah, no, it's pretty strong, yeah.
+
+858
+00:39:52,580 --> 00:39:54,960
+But the thing is, we're not looking for the strength.
+
+859
+00:39:55,540 --> 00:39:55,860
+Right.
+
+860
+00:39:55,940 --> 00:39:57,380
+We're looking for the block wall.
+
+861
+00:39:57,880 --> 00:40:00,040
+So there are ways to accentuate the block wall.
+
+862
+00:40:00,180 --> 00:40:03,920
+Okay, so I've been experimenting this for a while and developing it.
+
+863
+00:40:03,960 --> 00:40:06,760
+I started this a few years ago, and recently, the past few months,
+
+864
+00:40:06,760 --> 00:40:10,400
+I've developed it to the point where I can now talk about it with confidence
+
+865
+00:40:10,400 --> 00:40:13,400
+that it will work for anyone and everyone, anywhere.
+
+866
+00:40:14,540 --> 00:40:15,480
+And I'll give you an example.
+
+867
+00:40:15,760 --> 00:40:18,900
+I'm in Tucson, near Tucson, Arizona, or in the middle of Tucson, Arizona,
+
+868
+00:40:19,080 --> 00:40:20,360
+on Tucson, not in Tucson.
+
+869
+00:40:20,540 --> 00:40:21,200
+I'm not dead yet.
+
+870
+00:40:21,420 --> 00:40:21,940
+Right, okay.
+
+871
+00:40:23,120 --> 00:40:24,820
+And we have scaled water here.
+
+872
+00:40:24,920 --> 00:40:28,360
+In other words, you take a shower with clear glass doors, and it leaves a fog.
+
+873
+00:40:28,640 --> 00:40:34,080
+When it dries, if you wash the car, it ends up leaving this white scale on the car.
+
+874
+00:40:34,080 --> 00:40:38,640
+If you have a top-loading or a washing machine,
+
+875
+00:40:38,740 --> 00:40:42,200
+have one of these newer very deep drum washing machines
+
+876
+00:40:42,200 --> 00:40:44,040
+with a highly polished stainless steel drum,
+
+877
+00:40:44,440 --> 00:40:49,200
+the clothesline usually where the clothes are usually agitated is really highly polished,
+
+878
+00:40:49,320 --> 00:40:53,520
+but everything above that has like a powdery white finish that's stuck on there
+
+879
+00:40:53,520 --> 00:40:55,400
+that you really have to use acid to get it off.
+
+880
+00:40:55,540 --> 00:41:00,360
+Okay, the toilet bowl will develop a very strong calcium ring where the water level is.
+
+881
+00:41:00,520 --> 00:41:01,880
+Okay, I don't have any of that.
+
+882
+00:41:01,880 --> 00:41:03,580
+I used to, to a certain point.
+
+883
+00:41:04,040 --> 00:41:08,980
+What I did was I used these large 3- and 4-inch magnets, and I stacked them.
+
+884
+00:41:09,260 --> 00:41:11,740
+Two of them, they're half-inch thick, so I stacked them so they're an inch thick.
+
+885
+00:41:12,400 --> 00:41:15,200
+And I got a flexible tube, a flexible connector.
+
+886
+00:41:15,320 --> 00:41:18,020
+If you go to a hardware store or whatever, it looks like a hose,
+
+887
+00:41:18,260 --> 00:41:22,780
+but it has a stainless steel braid over it usually to prevent mechanical damage.
+
+888
+00:41:23,300 --> 00:41:25,500
+The thing is if you use the one with the stainless steel braid,
+
+889
+00:41:25,580 --> 00:41:28,200
+you must make sure the magnets don't stick to the stainless steel,
+
+890
+00:41:28,200 --> 00:41:29,280
+that it's a non-magnetic.
+
+891
+00:41:29,440 --> 00:41:35,560
+It's a martensistic stainless steel, which is a fancy way.
+
+892
+00:41:36,120 --> 00:41:38,640
+He's the guy that came up with stainless steel that was non-magnetic.
+
+893
+00:41:39,880 --> 00:41:42,040
+So martensistic, anyway, one of those words.
+
+894
+00:41:42,640 --> 00:41:46,660
+So what I did was I did it around, the easiest thing is a garden hose,
+
+895
+00:41:47,040 --> 00:41:50,880
+but you need to put a spring or a wire around it because you shouldn't have it kinking.
+
+896
+00:41:51,600 --> 00:41:55,740
+What I do is I wind a piece of stainless steel that fits inside the hose.
+
+897
+00:41:55,740 --> 00:41:58,100
+It looks like a spring, and I slide it in there,
+
+898
+00:41:58,180 --> 00:42:02,800
+and when you bend the coil or coil the hose around the magnet, it won't kink.
+
+899
+00:42:02,900 --> 00:42:03,440
+It'll be even.
+
+900
+00:42:03,980 --> 00:42:04,760
+Usually you see this.
+
+901
+00:42:04,880 --> 00:42:08,780
+It's called a tension relief on hoses, something that looks like a spring
+
+902
+00:42:08,780 --> 00:42:09,760
+where you connect the hose.
+
+903
+00:42:10,140 --> 00:42:13,120
+But I do this on the inside with stainless, which, again, is non-magnetic.
+
+904
+00:42:14,440 --> 00:42:16,280
+All right, so I've been experimenting with this,
+
+905
+00:42:16,300 --> 00:42:21,420
+and recently I discovered that you put a center magnet and three magnets total,
+
+906
+00:42:21,480 --> 00:42:24,380
+one on the outside, one on the inside, stacked, just a stack of magnets.
+
+907
+00:42:24,380 --> 00:42:29,980
+They're slightly smaller as they get further away, kind of stretch out that block wall.
+
+908
+00:42:30,700 --> 00:42:34,420
+And remember, if you go to it with a piece of iron, when this is set up,
+
+909
+00:42:34,920 --> 00:42:37,620
+it won't go anywhere near where the water is running.
+
+910
+00:42:37,800 --> 00:42:40,200
+The iron won't stick where the hose is.
+
+911
+00:42:40,280 --> 00:42:41,700
+It'll only stick away from the hose.
+
+912
+00:42:41,920 --> 00:42:44,940
+It'll stick to one of the ends, which are away from the hose.
+
+913
+00:42:45,860 --> 00:42:49,700
+Yeah, so you're like, hey, man, I've got a nail here,
+
+914
+00:42:49,860 --> 00:42:53,540
+and where your hose is on the magnet, there's no magnetism there at all.
+
+915
+00:42:53,540 --> 00:42:55,660
+I'm like, yeah, exactly, that's why it works so well.
+
+916
+00:42:56,600 --> 00:43:00,340
+So recently, well, anyway, I've been running this for a while,
+
+917
+00:43:00,500 --> 00:43:04,780
+and I've noticed that there is absolutely no toilet ring at all, calcium at all.
+
+918
+00:43:05,240 --> 00:43:09,460
+There is no – the stainless steel tub is completely polished all the way up running.
+
+919
+00:43:09,640 --> 00:43:10,300
+We use it every day.
+
+920
+00:43:12,000 --> 00:43:16,240
+Washing the cars here is hard because you want to – as soon as you're done washing,
+
+921
+00:43:16,940 --> 00:43:19,660
+you want to dry it right away, otherwise you get these spots, you know,
+
+922
+00:43:19,700 --> 00:43:22,400
+like if you don't live in a place where there's hard water.
+
+923
+00:43:22,400 --> 00:43:28,320
+If you have a dishwasher, one of the big things about marketing soap is it doesn't leave spots, right,
+
+924
+00:43:28,520 --> 00:43:29,620
+on the glasses, right?
+
+925
+00:43:30,140 --> 00:43:33,520
+Okay, well, you get these spots on everything, and when they dry,
+
+926
+00:43:33,640 --> 00:43:37,220
+they just look like very benign water spots, but they don't rub off, you know,
+
+927
+00:43:38,680 --> 00:43:42,000
+because it's a hard mineral, not an argonite.
+
+928
+00:43:42,080 --> 00:43:45,540
+An argonite is when the mineral hardens, and it's a large molecule,
+
+929
+00:43:45,540 --> 00:43:48,520
+and it breaks off easily, very, very fine.
+
+930
+00:43:48,520 --> 00:43:52,840
+Okay, so also the water heater would start making noise with scale buildup.
+
+931
+00:43:53,000 --> 00:43:54,480
+Well, it comes on a gas water heater.
+
+932
+00:43:54,620 --> 00:43:55,060
+Now it doesn't.
+
+933
+00:43:55,260 --> 00:44:01,080
+So what I found out was where is all this scale going?
+
+934
+00:44:02,180 --> 00:44:05,180
+It's not being deposited on any surface.
+
+935
+00:44:05,400 --> 00:44:07,080
+By the way, you use a tiny amount of soap.
+
+936
+00:44:07,220 --> 00:44:09,920
+The clothing is coming out much cleaner, right?
+
+937
+00:44:10,060 --> 00:44:12,720
+I do water processing to drink.
+
+938
+00:44:12,800 --> 00:44:13,880
+The water is much better.
+
+939
+00:44:13,880 --> 00:44:18,720
+It's like if I give anyone a sample of the water that I process here for drinking,
+
+940
+00:44:19,740 --> 00:44:23,960
+one of the comments is, it tastes like melted snow, right?
+
+941
+00:44:24,700 --> 00:44:26,460
+I thought that was really cute.
+
+942
+00:44:26,780 --> 00:44:28,840
+But I do remember melted snow being delicious.
+
+943
+00:44:29,680 --> 00:44:30,880
+At one time, yeah.
+
+944
+00:44:31,280 --> 00:44:32,640
+Yeah, this is before chemtrails.
+
+945
+00:44:33,080 --> 00:44:35,000
+All right, so what is the takeaway on this?
+
+946
+00:44:35,080 --> 00:44:35,980
+Why am I saying this?
+
+947
+00:44:36,020 --> 00:44:39,720
+If anyone, I think we mentioned last time, I like to see people develop more skill.
+
+948
+00:44:39,880 --> 00:44:42,820
+Many of the people I discuss about this, they kind of look at you cross-eyed
+
+949
+00:44:42,820 --> 00:44:46,400
+when you bring up building or making something.
+
+950
+00:44:46,640 --> 00:44:51,040
+And now I just ask people, I said, you might be interested in building this.
+
+951
+00:44:51,120 --> 00:44:54,100
+But by the way, before I get into it, do you know how to operate a screwdriver?
+
+952
+00:44:57,400 --> 00:45:00,040
+Depending on that answer is whether I continue or not.
+
+953
+00:45:00,600 --> 00:45:01,380
+So here's the thing.
+
+954
+00:45:01,880 --> 00:45:02,760
+This also works.
+
+955
+00:45:02,820 --> 00:45:04,620
+I haven't done it with the fuel treatment.
+
+956
+00:45:05,920 --> 00:45:08,480
+But I'll give you an example of what I do with that.
+
+957
+00:45:08,560 --> 00:45:10,740
+I don't talk about this much.
+
+958
+00:45:12,220 --> 00:45:17,820
+It's a 1998 Dodge Caravan with a Mitsubishi 3.0 six-cylinder engine.
+
+959
+00:45:19,140 --> 00:45:24,940
+It's supposed to get 17 miles per gallon in the city and like 21, 22, 23 on the highway,
+
+960
+00:45:25,120 --> 00:45:25,800
+if you're fortunate.
+
+961
+00:45:26,700 --> 00:45:30,380
+Well, I drive around in the city here, and I have a computer that gives me the mileage.
+
+962
+00:45:30,740 --> 00:45:35,360
+And I think the last route I went, I got 33.5 miles per gallon in the city.
+
+963
+00:45:35,780 --> 00:45:36,140
+Nice.
+
+964
+00:45:37,700 --> 00:45:39,920
+Is that with a fair amount of, like, stopping and starting?
+
+965
+00:45:40,620 --> 00:45:42,080
+Yeah, a fair amount of stopping.
+
+966
+00:45:42,460 --> 00:45:55,680
+So, in other words, if I put in 16 gallons of gas, I get 484 miles out of that on a gas tank.
+
+967
+00:45:55,740 --> 00:45:56,580
+So I've done it both ways.
+
+968
+00:45:57,020 --> 00:45:58,060
+It's a scan gauge.
+
+969
+00:45:58,140 --> 00:46:01,320
+It tells you your actual MPG, your average MPG, engine temperature, all this.
+
+970
+00:46:01,420 --> 00:46:02,300
+It's called a scan gauge.
+
+971
+00:46:02,340 --> 00:46:04,080
+You plug it into where the USB computer goes.
+
+972
+00:46:04,080 --> 00:46:09,840
+So it's very unusual what's going on here because it's not just – I'm doing a bunch of other things, right?
+
+973
+00:46:10,500 --> 00:46:14,580
+And there's actually, I think, some people that are subbed here that are familiar with what I'm talking about
+
+974
+00:46:14,580 --> 00:46:18,060
+because I've helped them out with their own cars on things.
+
+975
+00:46:18,200 --> 00:46:20,500
+I've made things and sent them back and forth.
+
+976
+00:46:21,420 --> 00:46:22,600
+Wes, you know who you are.
+
+977
+00:46:25,000 --> 00:46:30,520
+So I just wanted to bring up the thing about the magnets because something –
+
+978
+00:46:30,520 --> 00:46:35,360
+when I started seeing this working before I got to the triple one, it worked really well with the single magnet.
+
+979
+00:46:36,320 --> 00:46:38,400
+I was like, oh, how cute, how cute.
+
+980
+00:46:38,560 --> 00:46:43,800
+I've got a real efficient way to prevent scale from building up, right, on things,
+
+981
+00:46:43,880 --> 00:46:45,900
+which is annoyance in a place that has hard water.
+
+982
+00:46:46,540 --> 00:46:48,360
+Yeah, but you said before, where does it go?
+
+983
+00:46:48,600 --> 00:46:50,540
+That is a big question.
+
+984
+00:46:50,920 --> 00:46:53,740
+This is the history of where does it go because that's what I said, how cute.
+
+985
+00:46:53,880 --> 00:46:59,960
+I figured out a really efficient way by just approaching the block wall with the fluid instead of the poles
+
+986
+00:46:59,960 --> 00:47:04,640
+like everyone else, and it's really cute that the scale has gone away or going away.
+
+987
+00:47:04,760 --> 00:47:09,320
+When I did the triple magnet, it went away away, but this is the part where it got really serious.
+
+988
+00:47:10,460 --> 00:47:12,220
+I'm going to go back to the car part.
+
+989
+00:47:12,940 --> 00:47:14,320
+Well, here it's very dusty.
+
+990
+00:47:14,460 --> 00:47:18,140
+If you drive into Tucson, Arizona or from any other part of the world other than New Mexico,
+
+991
+00:47:18,600 --> 00:47:20,200
+it feels like you're driving into Mars.
+
+992
+00:47:20,440 --> 00:47:22,920
+It's like, you know when they show photographs of supposedly Mars,
+
+993
+00:47:23,000 --> 00:47:25,600
+everything's got a red or brownish, tannish tinge to it, right?
+
+994
+00:47:25,660 --> 00:47:25,920
+Oh, yeah.
+
+995
+00:47:25,920 --> 00:47:28,200
+Well, that's what you start noticing when you're driving into Tucson.
+
+996
+00:47:28,260 --> 00:47:30,020
+Everything's got a tannish tinge to it.
+
+997
+00:47:30,080 --> 00:47:30,640
+It's not ugly.
+
+998
+00:47:31,080 --> 00:47:33,260
+It just has a tannish tinge, right?
+
+999
+00:47:34,340 --> 00:47:39,720
+Okay, so when you have a car washed or polished and you park it out for four hours, eight hours or overnight,
+
+1000
+00:47:39,880 --> 00:47:45,280
+you come back and you can almost write your name on the hood from the fine dust, very fine dust.
+
+1001
+00:47:45,360 --> 00:47:46,420
+You don't really see it.
+
+1002
+00:47:47,000 --> 00:47:50,520
+It's so fine, but if you, let's say, lean on the car or move it, you know what I mean?
+
+1003
+00:47:50,700 --> 00:47:54,640
+Like a car may not look that dirty, but you run your finger across and then you kind of see where your finger was.
+
+1004
+00:47:54,640 --> 00:47:57,000
+Oh, it is dusty or dirty, right?
+
+1005
+00:47:57,280 --> 00:47:57,400
+Right.
+
+1006
+00:47:57,520 --> 00:47:57,820
+You don't know.
+
+1007
+00:47:57,880 --> 00:48:03,100
+It's fine enough so that it's not noticeable until you actually like make a clear mark away.
+
+1008
+00:48:03,340 --> 00:48:04,260
+Yeah, until you clear it away.
+
+1009
+00:48:04,380 --> 00:48:06,240
+In other words, when you look at it, oh, the car's dirty.
+
+1010
+00:48:06,300 --> 00:48:06,820
+It's not dirty.
+
+1011
+00:48:07,000 --> 00:48:09,520
+It's just you don't, because also because you're used to it.
+
+1012
+00:48:09,680 --> 00:48:14,460
+But if you run your finger along the hood or any part, now if the car is out and about
+
+1013
+00:48:14,940 --> 00:48:19,260
+and then you rush it into a garage and close the door and you've got a good seal on the door, yeah, probably not.
+
+1014
+00:48:19,680 --> 00:48:20,980
+But this is typically here.
+
+1015
+00:48:20,980 --> 00:48:28,380
+Okay, so this is the part that got me, got really serious and noticed that something more than just treating the scale,
+
+1016
+00:48:28,880 --> 00:48:34,960
+turning it into argonite crystals, which is their academic way of saying fine minerals make scale,
+
+1017
+00:48:35,100 --> 00:48:41,560
+but when you magnetize it or treat it with ions, the fine minerals clump together, become larger,
+
+1018
+00:48:41,740 --> 00:48:43,780
+and it's called argonite, and it won't bond.
+
+1019
+00:48:43,880 --> 00:48:45,080
+It breaks off very easy.
+
+1020
+00:48:45,560 --> 00:48:47,040
+Okay, I thought that was going on.
+
+1021
+00:48:47,060 --> 00:48:47,780
+How cute, you know?
+
+1022
+00:48:48,200 --> 00:48:48,420
+Okay.
+
+1023
+00:48:48,420 --> 00:48:58,680
+But this got serious when I washed the car, okay, or cars, and at the end of the next day, I told my wife,
+
+1024
+00:48:58,780 --> 00:49:00,280
+hey, you notice something weird here?
+
+1025
+00:49:00,440 --> 00:49:02,020
+I pointed at the car, really shiny.
+
+1026
+00:49:02,720 --> 00:49:03,720
+I washed these cars yesterday.
+
+1027
+00:49:03,800 --> 00:49:07,380
+There's no dust on them, no dust at all.
+
+1028
+00:49:08,080 --> 00:49:10,860
+And the next day, hey, it's been two days.
+
+1029
+00:49:10,920 --> 00:49:12,380
+Look, there's no dust on the car.
+
+1030
+00:49:12,560 --> 00:49:13,700
+How is that possible?
+
+1031
+00:49:14,400 --> 00:49:21,800
+So what's going on here is the water became so negatively charged that anything that it touched became positively charged,
+
+1032
+00:49:21,920 --> 00:49:23,900
+which became an anode.
+
+1033
+00:49:24,440 --> 00:49:25,300
+So it repels it.
+
+1034
+00:49:25,720 --> 00:49:28,440
+Things will not, yeah, well, sort of repels it, yeah.
+
+1035
+00:49:28,500 --> 00:49:29,820
+It's not going to feel at home.
+
+1036
+00:49:30,020 --> 00:49:34,280
+Well, much like what happens when you try and put, like you said, you put the North and the South Pole together,
+
+1037
+00:49:34,640 --> 00:49:37,360
+it appears as though they're pushing away from each other.
+
+1038
+00:49:37,440 --> 00:49:38,700
+It won't merge, yeah.
+
+1039
+00:49:38,900 --> 00:49:39,360
+It won't merge.
+
+1040
+00:49:39,600 --> 00:49:41,200
+It's something dissimilar, yeah.
+
+1041
+00:49:41,200 --> 00:49:43,740
+Let's just say it puts a positive charge on it, right?
+
+1042
+00:49:43,940 --> 00:49:44,120
+Okay.
+
+1043
+00:49:44,460 --> 00:49:51,760
+The other thing is when you boil down the water, the amount of scale that you have in there is almost nonexistent also.
+
+1044
+00:49:51,920 --> 00:49:53,660
+So it's going somewhere else.
+
+1045
+00:49:54,840 --> 00:49:56,380
+It's going somewhere else.
+
+1046
+00:49:56,440 --> 00:49:57,540
+Now, here's the interesting part.
+
+1047
+00:49:58,140 --> 00:50:04,220
+You know when you walk in front of a shop like Macy's and there's a piece of glass and you see the furniture or the mannequins,
+
+1048
+00:50:04,320 --> 00:50:06,560
+you know, and you have this piece of glass between you?
+
+1049
+00:50:06,900 --> 00:50:10,260
+Okay, I've always discussed that everything comes from water.
+
+1050
+00:50:10,260 --> 00:50:16,500
+By the way, one of the tasks that I have, it's kind of a secret in terms of outcome, but it's not secret to talk about.
+
+1051
+00:50:16,580 --> 00:50:21,220
+I'm tasked with taking hydrogen and helium and turning it into lithium.
+
+1052
+00:50:21,940 --> 00:50:22,040
+Okay.
+
+1053
+00:50:22,320 --> 00:50:22,720
+Right?
+
+1054
+00:50:23,320 --> 00:50:23,520
+Okay.
+
+1055
+00:50:23,640 --> 00:50:25,240
+It's actually very simple.
+
+1056
+00:50:25,560 --> 00:50:27,360
+You just have to find the right way to do it.
+
+1057
+00:50:28,180 --> 00:50:29,620
+Hydrogen is very abundant.
+
+1058
+00:50:30,180 --> 00:50:35,800
+Well, there's 20 different types of hydrogen, but also helium is not that abundant.
+
+1059
+00:50:35,800 --> 00:50:39,820
+It's a byproduct of the petrol gas and oil industry.
+
+1060
+00:50:40,860 --> 00:50:46,500
+But anyway, they could be combined to produce lithium, which is something that supposedly they're fighting wars for,
+
+1061
+00:50:46,640 --> 00:50:50,480
+or it's a metal that, you know, to get into it.
+
+1062
+00:50:50,560 --> 00:50:52,020
+It's all about the batteries right now.
+
+1063
+00:50:52,380 --> 00:50:54,700
+Yeah, yeah, exactly, yeah, and whatever.
+
+1064
+00:50:54,960 --> 00:50:57,220
+So we can make it from hydrogen and helium.
+
+1065
+00:50:58,100 --> 00:51:02,720
+We're in a different – at least when I succeed at this, it'll be real fun to talk about it.
+
+1066
+00:51:02,740 --> 00:51:04,100
+It's going to get some people mad.
+
+1067
+00:51:04,100 --> 00:51:07,300
+But you guys will know first.
+
+1068
+00:51:07,660 --> 00:51:09,940
+Once it's done, I'm going to try to monetize it.
+
+1069
+00:51:10,000 --> 00:51:11,240
+That's why I'm not going to talk about it.
+
+1070
+00:51:11,340 --> 00:51:12,220
+If it's done, we'll see.
+
+1071
+00:51:12,360 --> 00:51:16,240
+And if it's monetized and done, I may not – I might say, hey, it got monetized.
+
+1072
+00:51:16,380 --> 00:51:18,180
+Part of the agreement is I can't talk about it.
+
+1073
+00:51:18,580 --> 00:51:25,140
+I'm assuming that that might happen, to be honest with you, because I cannot foresee anybody discovering that,
+
+1074
+00:51:25,880 --> 00:51:32,040
+having that in their hands, and wishing to allow anybody to really know for a long time.
+
+1075
+00:51:32,220 --> 00:51:32,440
+Yeah.
+
+1076
+00:51:32,440 --> 00:51:40,880
+Well, look, the Germans, the Germans, World War I got in trouble for synthesizing oil from carbon dioxide and water.
+
+1077
+00:51:41,600 --> 00:51:42,600
+That's all you need.
+
+1078
+00:51:42,760 --> 00:51:44,660
+Well, you need a catalyst.
+
+1079
+00:51:44,820 --> 00:51:50,920
+You need the right set grouping of catalysts because hydrocarbons, hydrocarbon literally means water carbon, right?
+
+1080
+00:51:51,600 --> 00:52:00,220
+And if you look at a hydrocarbon petroleum molecule, with CO2 gas, which is abundant and it's a byproduct, it's cheap,
+
+1081
+00:52:00,220 --> 00:52:05,020
+and water, you have to get the right kind of water and the right kind of catalyst, just like, you know,
+
+1082
+00:52:05,140 --> 00:52:06,780
+vegetable shortening, Crisco, right?
+
+1083
+00:52:06,820 --> 00:52:09,100
+They use it for baking, whatever.
+
+1084
+00:52:10,160 --> 00:52:16,380
+I'm not going to get lascivious on this one, but it's oil and water.
+
+1085
+00:52:17,460 --> 00:52:24,560
+Well, you have to – you can't mix oil and water, but you can if you run it through – the process goes through nickel beads over nickel.
+
+1086
+00:52:25,080 --> 00:52:28,140
+Now, the nickel is a catalyst, and it will change both of them.
+
+1087
+00:52:28,140 --> 00:52:30,420
+There's no nickel content at all in it.
+
+1088
+00:52:30,560 --> 00:52:31,420
+It's just a catalyst.
+
+1089
+00:52:32,120 --> 00:52:34,380
+By the way, when you – I could say this much.
+
+1090
+00:52:35,080 --> 00:52:43,340
+Yeah, well, if you synthesize oil from water and CO2 gas and the right catalyst, the oil ends up looking more like a transmission fluid.
+
+1091
+00:52:43,560 --> 00:52:48,360
+It's a dark pink color, almost – yeah, and it has a wonderful smell.
+
+1092
+00:52:49,100 --> 00:52:51,780
+I don't know if you ever have a pleasant smell from petroleum.
+
+1093
+00:52:52,000 --> 00:52:52,580
+It's possible.
+
+1094
+00:52:53,400 --> 00:52:54,960
+I've never experienced that.
+
+1095
+00:52:55,020 --> 00:52:56,800
+I worked with gas, and I never –
+
+1096
+00:52:57,160 --> 00:52:58,080
+Well, that's refined.
+
+1097
+00:52:58,260 --> 00:53:02,860
+That's got – okay, the gasolines, what they do, just like with the food industry with fluoride, right,
+
+1098
+00:53:03,760 --> 00:53:09,100
+is when they have toxic chemicals that they can't get rid of, they just put them in gasoline.
+
+1099
+00:53:10,120 --> 00:53:10,920
+Yeah, or the diesel.
+
+1100
+00:53:10,920 --> 00:53:11,500
+To burn them off.
+
+1101
+00:53:11,640 --> 00:53:12,120
+Or the diesel.
+
+1102
+00:53:12,980 --> 00:53:13,160
+Right.
+
+1103
+00:53:13,820 --> 00:53:15,840
+Someone says, oh, I'm a believer in fluoride and toothpaste.
+
+1104
+00:53:16,020 --> 00:53:17,440
+That's sodium fluoride, dummy.
+
+1105
+00:53:18,540 --> 00:53:21,760
+Calcium fluoride is what the teeth have, and they say, oh, does it make a difference?
+
+1106
+00:53:21,880 --> 00:53:24,820
+Okay, so you're drinking a cola right now.
+
+1107
+00:53:24,820 --> 00:53:27,760
+That's – you like it because it's – you don't like it when it's flat.
+
+1108
+00:53:27,800 --> 00:53:29,040
+You like it when it's bubbly, right?
+
+1109
+00:53:29,100 --> 00:53:31,440
+That's CO2 gas, carbon dioxide.
+
+1110
+00:53:31,600 --> 00:53:36,820
+What if I replaced that carbon dioxide in your soda with carbon monoxide and you drank that often?
+
+1111
+00:53:37,360 --> 00:53:38,340
+Would you like that?
+
+1112
+00:53:38,560 --> 00:53:39,300
+What's the difference?
+
+1113
+00:53:39,940 --> 00:53:42,360
+Well, I'm pretty sure the carbon monoxide will kill you.
+
+1114
+00:53:42,960 --> 00:53:46,160
+Well, what's the – well, the sodium fluoride will do, too.
+
+1115
+00:53:46,200 --> 00:53:48,700
+This is – by the way, I've never heard this analogy.
+
+1116
+00:53:48,980 --> 00:53:50,060
+Feel free to use it.
+
+1117
+00:53:50,060 --> 00:53:57,180
+If you're one of these fluoride whatever people, just tell them calcium fluoride, not sodium fluoride that they put out, right?
+
+1118
+00:53:57,220 --> 00:54:00,580
+Because carbon monoxide and carbon dioxide, big difference.
+
+1119
+00:54:00,700 --> 00:54:06,100
+And if they don't see that, just keep walking because they're just – they're just repeating a thing.
+
+1120
+00:54:06,660 --> 00:54:08,300
+Okay, so here's the important part of it.
+
+1121
+00:54:08,800 --> 00:54:17,560
+When you see the water, like the glass and the things behind it, you know, like maybe it's not a great analogy,
+
+1122
+00:54:17,560 --> 00:54:22,280
+but in a showcase, you know, the glass is between you and the object, right?
+
+1123
+00:54:22,720 --> 00:54:29,900
+What's happening is it's creating the water between – whatever the water is carrying stays in the flow of the water.
+
+1124
+00:54:30,140 --> 00:54:32,120
+It stays in the water body.
+
+1125
+00:54:32,220 --> 00:54:38,480
+The water body, after it's been treated with the block wall of the magnet, stays within the water body,
+
+1126
+00:54:38,720 --> 00:54:42,980
+and it changes it enough that it wants to become water.
+
+1127
+00:54:43,180 --> 00:54:45,640
+So it won't stick to the washing machine tub.
+
+1128
+00:54:45,640 --> 00:54:49,460
+It won't stick to the car, meaning what's in the water, okay?
+
+1129
+00:54:49,920 --> 00:54:50,160
+Okay.
+
+1130
+00:54:50,580 --> 00:54:58,320
+And it stays in the water, and it wants to be – so the minerals and the stuff in the water want to become water once it goes over the magnetic part.
+
+1131
+00:54:58,440 --> 00:55:05,580
+Now, I've been – what I'm experimenting with now is degassing the water.
+
+1132
+00:55:05,700 --> 00:55:10,020
+Well, not now, but the next step – not now as we're recording this,
+
+1133
+00:55:10,020 --> 00:55:18,400
+but the next step is to treat the water with some implosion, which is water under a vacuum, right, to degas the water.
+
+1134
+00:55:18,460 --> 00:55:24,880
+By the way, most water has at least 5% to 10%, depending on your altitude, dissolved gases in it.
+
+1135
+00:55:25,380 --> 00:55:31,580
+Have you ever go to your tap or whatever and pour a glass of water and leave it on the counter?
+
+1136
+00:55:31,720 --> 00:55:32,540
+You come back five minutes.
+
+1137
+00:55:32,580 --> 00:55:33,800
+What do you see all over the glass?
+
+1138
+00:55:33,800 --> 00:55:37,080
+Little tiny bubbles all over the glass, on the bottom, top, sides, right?
+
+1139
+00:55:37,660 --> 00:55:40,600
+What that is is the gases that are in the water coming out.
+
+1140
+00:55:40,680 --> 00:55:45,960
+So part of the implosion process of water is to degas the water, which is very simple.
+
+1141
+00:55:46,280 --> 00:55:55,940
+You just need to build some apparatus to do that for a given volume, let's say, or you could do it while it's moving, and then affect it with that field.
+
+1142
+00:55:55,940 --> 00:56:08,320
+Now, if you're going to set up these magnets, do me a favor and what's called the north side of the magnet goes towards the north and south towards the south.
+
+1143
+00:56:08,440 --> 00:56:09,240
+You orientate.
+
+1144
+00:56:09,600 --> 00:56:09,780
+Okay.
+
+1145
+00:56:10,440 --> 00:56:17,100
+And if you can't – if it's not vertical like that, if it's horizontal, so the magnet is either going to the ceiling or the floor,
+
+1146
+00:56:17,200 --> 00:56:20,620
+make sure that the south side of the magnet is pointing towards the floor.
+
+1147
+00:56:20,840 --> 00:56:23,560
+Then you're safe there as well, north towards the sky.
+
+1148
+00:56:23,720 --> 00:56:24,100
+Okay.
+
+1149
+00:56:24,100 --> 00:56:30,720
+Because that gives you a counterclockwise spin, just like, for example, when water goes down a drain, most likely it's counterclockwise.
+
+1150
+00:56:31,140 --> 00:56:32,740
+So that's the orientation.
+
+1151
+00:56:32,960 --> 00:56:44,240
+I wanted to bring this up because this is going to lead into transmutation aspects that are – they call it low-energy transmutation or something like that, right?
+
+1152
+00:56:44,340 --> 00:56:46,900
+We're taught that you need high-energy bombarding.
+
+1153
+00:56:47,460 --> 00:56:51,240
+What they say in a nuclear power plant, the lead turns to gold and all this stuff,
+
+1154
+00:56:51,240 --> 00:56:54,400
+but you don't have a nuclear power plant, so you can't make lead into gold.
+
+1155
+00:56:55,060 --> 00:56:56,000
+Anyway, that kind of stuff.
+
+1156
+00:56:56,440 --> 00:57:01,680
+But the way you make lead into gold, by the way, is by removing a hydrogen atom, right?
+
+1157
+00:57:02,040 --> 00:57:03,480
+So out of the lead.
+
+1158
+00:57:03,600 --> 00:57:04,860
+But what are you talking about, Greg?
+
+1159
+00:57:04,860 --> 00:57:05,620
+Lead is lead.
+
+1160
+00:57:05,660 --> 00:57:06,200
+There's no hydrogen.
+
+1161
+00:57:06,600 --> 00:57:06,960
+Okay.
+
+1162
+00:57:07,140 --> 00:57:08,120
+That's another discussion.
+
+1163
+00:57:09,820 --> 00:57:14,900
+So if you get something to look like a duck and smell like a duck and act like a duck, it must be a duck.
+
+1164
+00:57:14,900 --> 00:57:18,600
+But not always because you can make a robotic duck that looks just like a duck.
+
+1165
+00:57:18,600 --> 00:57:27,160
+I think they even had – in some recent films, they were going to do a real lion, a CG lion, or a robotic lion.
+
+1166
+00:57:28,200 --> 00:57:29,920
+That's how good the robots are getting, right?
+
+1167
+00:57:30,340 --> 00:57:30,580
+Right.
+
+1168
+00:57:32,380 --> 00:57:38,120
+I think they did the Lion King and they were merging these things, trying to figure out which one was the best.
+
+1169
+00:57:38,360 --> 00:57:39,620
+Wasn't that the one you were doing?
+
+1170
+00:57:39,680 --> 00:57:40,660
+Yeah, something like that.
+
+1171
+00:57:41,080 --> 00:57:41,260
+Yeah.
+
+1172
+00:57:41,760 --> 00:57:47,300
+So what I'm saying is you get some of the lead to act like hydrogen, smell like hydrogen, look like hydrogen.
+
+1173
+00:57:47,300 --> 00:57:48,200
+It's hydrogen, right?
+
+1174
+00:57:48,300 --> 00:57:52,000
+And then in that process is where you have the rest of it turning.
+
+1175
+00:57:52,240 --> 00:57:56,760
+By the way, when you start doing transmuting metals in ingot form like that,
+
+1176
+00:57:56,820 --> 00:58:03,940
+let's say you have a hunk of copper and you want to start turning it to gold, it looks – it's very strange when you see the appearance.
+
+1177
+00:58:04,400 --> 00:58:11,980
+And whenever the gold starts to appear on a piece of metal that you're transmuting and something that's not in solution,
+
+1178
+00:58:11,980 --> 00:58:19,280
+something that's on a piece of metal, an ingot or a bar or something, always – as the gold starts to make its appearance,
+
+1179
+00:58:19,480 --> 00:58:24,520
+it always looks like it's growing organically or it looks like raindrops.
+
+1180
+00:58:25,020 --> 00:58:27,380
+You ever see when raindrops initially fall and they spatter?
+
+1181
+00:58:28,400 --> 00:58:32,360
+So you'll have the drop section where it made contact and then a spatter marks all around.
+
+1182
+00:58:33,080 --> 00:58:39,560
+It's as if the gold is falling or the elements that you're changing it to are falling in here from somewhere else.
+
+1183
+00:58:39,560 --> 00:58:43,300
+It looks identical to raindrops on a sidewalk when they start forming.
+
+1184
+00:58:44,340 --> 00:58:46,740
+So it's very – it's like it's – yeah.
+
+1185
+00:58:47,560 --> 00:58:53,440
+You know there's a ratio, by the way, of how a rock falls, right, from a certain height and it reaches terminal velocity,
+
+1186
+00:58:53,500 --> 00:58:56,520
+I think 140 miles per hour, and how it accelerates.
+
+1187
+00:58:57,180 --> 00:59:01,940
+There's a proportion of the acceleration of a rock as it's falling.
+
+1188
+00:59:02,820 --> 00:59:07,220
+Someone did a study on the growth of a human embryo in the human body.
+
+1189
+00:59:08,980 --> 00:59:14,960
+As the embryo or the egg that's been conceived, the zygote and all that, goes to an embryo fetus,
+
+1190
+00:59:15,660 --> 00:59:19,980
+the proportion of its growth over nine months is exactly the proportion of a rock falling.
+
+1191
+00:59:20,800 --> 00:59:25,520
+It's as if the body has the same proportions of something falling.
+
+1192
+00:59:27,100 --> 00:59:29,060
+So you know the fall of man, get it?
+
+1193
+00:59:29,460 --> 00:59:29,880
+I get it.
+
+1194
+00:59:29,880 --> 00:59:31,300
+Anyway, yeah, yeah.
+
+1195
+00:59:31,620 --> 00:59:37,100
+So you could find – and what I'm trying to say is you could find similarities in many, many things,
+
+1196
+00:59:37,160 --> 00:59:39,560
+but you have to read out of it.
+
+1197
+00:59:39,620 --> 00:59:44,240
+Don't read into it what you want, like the sun of God doesn't mean the sun in the sky.
+
+1198
+00:59:44,540 --> 00:59:45,900
+You ever hear people say that all the time?
+
+1199
+00:59:46,060 --> 00:59:46,320
+Yes.
+
+1200
+00:59:46,600 --> 00:59:51,540
+Because in Hebrew it would be ben, not sun, right?
+
+1201
+00:59:51,580 --> 00:59:53,580
+And in Greek it would be yos, right?
+
+1202
+00:59:53,640 --> 00:59:54,760
+Or iko in Spanish.
+
+1203
+00:59:54,880 --> 00:59:55,740
+It wouldn't be sun.
+
+1204
+00:59:56,220 --> 01:00:00,160
+See, so you know what I mean, the difference between reading out sort of reading in, right?
+
+1205
+01:00:00,260 --> 01:00:01,860
+So you've got to always read out of these things.
+
+1206
+01:00:02,880 --> 01:00:09,100
+All right, the magnet, very, very, very crucial, very simple, very easy to do.
+
+1207
+01:00:09,460 --> 01:00:13,480
+The main point, the main takeaway here, this is part of a water discussion,
+
+1208
+01:00:15,120 --> 01:00:18,920
+because when we do get into a more concerted, deep discussion on water,
+
+1209
+01:00:19,020 --> 01:00:22,700
+we'll be talking more about the effects and not the setup, but referring to the setup.
+
+1210
+01:00:23,120 --> 01:00:24,620
+I think we gave enough about the setup.
+
+1211
+01:00:24,620 --> 01:00:25,280
+What do you think?
+
+1212
+01:00:25,560 --> 01:00:26,220
+I think so.
+
+1213
+01:00:26,320 --> 01:00:32,320
+I think it's very important to remember, though, that lining things up with its natural orientation,
+
+1214
+01:00:33,180 --> 01:00:35,900
+because that's the way I take it when you're telling me to either, you know,
+
+1215
+01:00:35,940 --> 01:00:39,820
+look, if it happens to be vertical, put the south pole to the floor,
+
+1216
+01:00:40,500 --> 01:00:46,380
+and if not, try to put north to north and south to south if it is vertical, right?
+
+1217
+01:00:48,080 --> 01:00:51,180
+But here's the thing, if you could only turn the magnet east-west,
+
+1218
+01:00:51,180 --> 01:00:55,700
+I would rather have the floor go to the south than crisscrossing, right?
+
+1219
+01:00:56,240 --> 01:00:59,300
+So, like, for example, in the bathroom under the toilet tank,
+
+1220
+01:00:59,440 --> 01:01:01,820
+the way the tube only allows for it to go east-west,
+
+1221
+01:01:01,940 --> 01:01:04,720
+so I'd rather turn it horizontal and have the south go towards the floor.
+
+1222
+01:01:05,320 --> 01:01:08,020
+So sometimes you do have to make, what do you call it, a compensation,
+
+1223
+01:01:08,300 --> 01:01:11,120
+or you have to make the call yourself, right?
+
+1224
+01:01:11,180 --> 01:01:14,680
+And then there's magnetic north and true north, which will give you 10 or 15 degrees.
+
+1225
+01:01:14,800 --> 01:01:15,240
+That's fine.
+
+1226
+01:01:15,820 --> 01:01:18,820
+If you could be within 30 degrees of north, do it.
+
+1227
+01:01:18,820 --> 01:01:20,540
+Otherwise, just turn the south towards the floor.
+
+1228
+01:01:20,640 --> 01:01:23,740
+You'll be safe in almost all cases, especially if it's something that's movable.
+
+1229
+01:01:25,180 --> 01:01:29,720
+Now, this is very, very important to me because I'm noticing that there is a change in mass
+
+1230
+01:01:29,720 --> 01:01:31,820
+of the things that are dissolved in the water,
+
+1231
+01:01:32,100 --> 01:01:37,000
+and there's also a change in properties of the things that are being affected by the water.
+
+1232
+01:01:38,120 --> 01:01:44,960
+Now, the next thing is to affect this in other ways, like I said, and also in other places,
+
+1233
+01:01:44,960 --> 01:01:49,960
+but it's so drastic here where I'm doing it, where I dwell, where I inhabit.
+
+1234
+01:01:52,360 --> 01:01:54,780
+It's such a big difference. It's not like a slight difference.
+
+1235
+01:01:54,900 --> 01:01:58,900
+It's so, like, in-your-face noticeable and, like, what the hell is going on kind of noticeable
+
+1236
+01:01:58,900 --> 01:02:02,860
+that I wanted to bring that up, and it's ironclad at this point.
+
+1237
+01:02:03,260 --> 01:02:05,800
+It's like an iron law kind of thing.
+
+1238
+01:02:08,140 --> 01:02:12,380
+The magnetic treatment of fluids must be along the block wall, case closed.
+
+1239
+01:02:12,380 --> 01:02:14,560
+There's no debate or no option to that.
+
+1240
+01:02:15,100 --> 01:02:17,380
+So if you go to magnetic treatment of fluids online,
+
+1241
+01:02:17,540 --> 01:02:21,440
+it's all they're sandwiching the lines in between the poles of the magnets.
+
+1242
+01:02:22,200 --> 01:02:23,000
+So anyway.
+
+1243
+01:02:23,360 --> 01:02:28,120
+Yeah, well, they're creating a different effect, and it's not the one that you're creating with this.
+
+1244
+01:02:28,440 --> 01:02:32,020
+They're creating the effect that they were impressed with when they stuck the magnet
+
+1245
+01:02:32,020 --> 01:02:33,900
+to a bag of nails or the refrigerator,
+
+1246
+01:02:34,280 --> 01:02:37,660
+but whatever fluid is going through there is not impressed at all.
+
+1247
+01:02:37,680 --> 01:02:38,920
+As a matter of fact, it ignores it.
+
+1248
+01:02:40,720 --> 01:02:44,220
+Okay, so this is a really, really big deal,
+
+1249
+01:02:45,960 --> 01:02:49,460
+because if you don't have hard water and you have other things in the water,
+
+1250
+01:02:49,560 --> 01:02:51,740
+it will affect those as well, right?
+
+1251
+01:02:52,360 --> 01:02:53,340
+So, yeah.
+
+1252
+01:02:53,560 --> 01:02:55,120
+So I just wanted to bring that up on the water.
+
+1253
+01:02:55,540 --> 01:02:57,420
+It's very, very, very important to me,
+
+1254
+01:02:58,140 --> 01:03:02,460
+and many people here might care about what I consider to be important,
+
+1255
+01:03:02,580 --> 01:03:04,220
+want to know what does the Greek think is important,
+
+1256
+01:03:04,400 --> 01:03:06,360
+and this is one of the most important discoveries
+
+1257
+01:03:06,980 --> 01:03:09,080
+and workings that I've done in the past year.

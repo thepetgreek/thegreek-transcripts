@@ -1,0 +1,2863 @@
+1
+00:00:07,900 --> 00:00:15,780
+Rated Y, Sonic Event 97, and here we are, and here you are, wherever you are, listening
+
+2
+00:00:15,780 --> 00:00:16,440
+to us.
+
+3
+00:00:16,620 --> 00:00:19,140
+Anyway, do I want to get into that?
+
+4
+00:00:19,220 --> 00:00:21,980
+There's been a couple of new members that have joined over at the Patreon.
+
+5
+00:00:22,320 --> 00:00:23,120
+Welcome to you.
+
+6
+00:00:23,900 --> 00:00:25,100
+Happy to have you along.
+
+7
+00:00:25,160 --> 00:00:28,280
+If you've gotten this far, I don't know if you're going to listen to 97 first and then
+
+8
+00:00:28,280 --> 00:00:34,260
+go back over the old stuff if you haven't already heard it, but a lot has been covered.
+
+9
+00:00:34,540 --> 00:00:36,220
+Anyways, Greg, how are you doing tonight?
+
+10
+00:00:36,880 --> 00:00:37,440
+Doing good.
+
+11
+00:00:37,700 --> 00:00:42,820
+For anyone new or old or whatever, Greek speak has always been pre-calibrated for the lowest
+
+12
+00:00:42,820 --> 00:00:43,820
+common denominator.
+
+13
+00:00:44,800 --> 00:00:51,220
+In civil engineering, when you design a highway off-ramp, the curve and the drop and the slope
+
+14
+00:00:51,220 --> 00:00:57,060
+and all that has to be for, let's say, a Ford Pinto or a car that's not a performance car,
+
+15
+00:00:57,060 --> 00:01:01,540
+like what would be the cheapest car you can buy with an 80-year-old driver?
+
+16
+00:01:01,720 --> 00:01:07,300
+Most likely, on average, the oldest people are when they're driving is around 80, 75,
+
+17
+00:01:07,440 --> 00:01:07,660
+80.
+
+18
+00:01:08,040 --> 00:01:09,760
+You don't see too many 95 or 100.
+
+19
+00:01:09,840 --> 00:01:15,340
+You have to design the off-ramp and on-ramp of a highway for the worst driver and the
+
+20
+00:01:15,340 --> 00:01:16,000
+worst car.
+
+21
+00:01:16,100 --> 00:01:22,500
+That's allowable, typically, but not strictly because most ... What I'm saying is Greek
+
+22
+00:01:22,500 --> 00:01:24,800
+speak has always been pre-calibrated for that.
+
+23
+00:01:24,800 --> 00:01:31,020
+In other words, if you give this to your mother-in-law, it's pretty clean or, let's say, your fourth-grade
+
+24
+00:01:31,020 --> 00:01:31,380
+teacher.
+
+25
+00:01:32,440 --> 00:01:35,000
+It's clean enough and I bring up the topics.
+
+26
+00:01:35,080 --> 00:01:40,640
+Topics for, let's just say, not just me, others also that are on the sonic, will bring up
+
+27
+00:01:40,640 --> 00:01:47,320
+the topic in a very commonly, in a classically common way, let's just say that, classically
+
+28
+00:01:47,320 --> 00:01:51,220
+common, the way that they're used to hearing things brought up commonly.
+
+29
+00:01:52,020 --> 00:01:58,480
+So you use common speak in order to make it accessible where you're going to go next, which
+
+30
+00:01:58,480 --> 00:01:59,360
+is uncommon.
+
+31
+00:02:00,480 --> 00:02:00,800
+Answer.
+
+32
+00:02:00,960 --> 00:02:05,500
+We'll pose a question in a way that we have the answer, but you should have the ... It's
+
+33
+00:02:05,500 --> 00:02:07,820
+kind of like when someone gives you something, you want to guess what it is.
+
+34
+00:02:08,100 --> 00:02:10,380
+They wrap up something, what they call a gift.
+
+35
+00:02:10,720 --> 00:02:11,760
+Hey, guess what?
+
+36
+00:02:11,840 --> 00:02:12,160
+Here.
+
+37
+00:02:12,460 --> 00:02:12,620
+Here.
+
+38
+00:02:12,660 --> 00:02:14,120
+This is for you, but guess what it is.
+
+39
+00:02:14,380 --> 00:02:16,540
+They used to do that more back in the days, right?
+
+40
+00:02:16,620 --> 00:02:17,200
+Yeah, true.
+
+41
+00:02:17,200 --> 00:02:21,920
+And the limitation immediately is, okay, so since you can hand it to me, it's clearly
+
+42
+00:02:21,920 --> 00:02:22,580
+not a car.
+
+43
+00:02:23,320 --> 00:02:25,320
+Although there could be a set of keys in here.
+
+44
+00:02:25,500 --> 00:02:26,600
+It could be something like that.
+
+45
+00:02:26,700 --> 00:02:27,180
+Well, whatever.
+
+46
+00:02:27,360 --> 00:02:28,020
+Yeah, just guess what it is.
+
+47
+00:02:28,040 --> 00:02:28,720
+But here's the thing.
+
+48
+00:02:28,840 --> 00:02:30,380
+Is it bigger than a bread box?
+
+49
+00:02:31,720 --> 00:02:36,200
+Very rapidly, even though it's very common and easy to comprehend, remember comprehend,
+
+50
+00:02:37,680 --> 00:02:41,240
+is very rapidly it starts swinging.
+
+51
+00:02:41,240 --> 00:02:49,620
+It goes very, very deep, but with precaution, in other words, in steps, and it seems like
+
+52
+00:02:50,140 --> 00:02:51,580
+that's the filter moment.
+
+53
+00:02:51,700 --> 00:02:56,940
+That's the moment right there, and it's not ... I would say it's subtle enough that anyone
+
+54
+00:02:56,940 --> 00:03:02,200
+can listen to it, but once you show how simple it is, it's not easy for them.
+
+55
+00:03:02,320 --> 00:03:04,340
+I always say things are simple.
+
+56
+00:03:04,600 --> 00:03:07,200
+Just because something is simple doesn't mean it's easy, right?
+
+57
+00:03:07,660 --> 00:03:12,860
+Well, like when somebody takes a children's book, which is actually 10 pages long, and
+
+58
+00:03:12,860 --> 00:03:16,660
+tells you about the deeper meaning of it, you could take it on the surface level and
+
+59
+00:03:16,660 --> 00:03:20,400
+say, okay, it's three pigs, and here comes the wolf, whatever.
+
+60
+00:03:20,680 --> 00:03:23,180
+I'm just using that as an example, but there's a lesson.
+
+61
+00:03:23,440 --> 00:03:28,040
+No, actually, here, you should have the entire story on the illustration on the cover and
+
+62
+00:03:28,040 --> 00:03:29,160
+in pictures, right?
+
+63
+00:03:29,240 --> 00:03:34,700
+Because if you're writing something, the most important ... If you see pictures, illustrations,
+
+64
+00:03:34,700 --> 00:03:38,080
+the reason the effort was put into those is because they're important.
+
+65
+00:03:38,880 --> 00:03:39,100
+Of course.
+
+66
+00:03:40,020 --> 00:03:45,240
+Yeah, so the picture here ... Okay, there's a picture here to be painted constantly, and
+
+67
+00:03:45,240 --> 00:03:52,540
+it's about you, whoever you is, and where you are, and when you are, and that's basically
+
+68
+00:03:52,540 --> 00:03:53,200
+the simple thing.
+
+69
+00:03:53,300 --> 00:03:55,860
+But basically, here, let's do a big tangent segue.
+
+70
+00:03:56,480 --> 00:04:00,860
+I've been excited about what I've been preparing to eat for the past couple of months, maybe
+
+71
+00:04:00,860 --> 00:04:02,300
+less, but let's say a month and a half.
+
+72
+00:04:06,180 --> 00:04:11,860
+I've nicknamed these things cabbage pot roast, and the other one, the other dish is broccoli
+
+73
+00:04:11,860 --> 00:04:17,620
+steak, and it sounds just like, no, I didn't say pot roast and cabbage, and I didn't say
+
+74
+00:04:17,620 --> 00:04:18,860
+broccoli and steak.
+
+75
+00:04:19,200 --> 00:04:23,160
+It's cabbage pot roast and broccoli steak.
+
+76
+00:04:23,480 --> 00:04:26,220
+Okay, so let's do ... I'm very excited because I'm actually preparing more.
+
+77
+00:04:27,320 --> 00:04:32,240
+Before I get into it, I'm going through about two full, large heads of cabbage a week.
+
+78
+00:04:33,480 --> 00:04:38,260
+Most people buy cabbage, and it goes bad before they eat it, unless they're making coleslaw
+
+79
+00:04:38,260 --> 00:04:39,540
+for a party of 10, right?
+
+80
+00:04:39,800 --> 00:04:40,400
+Right, okay.
+
+81
+00:04:40,480 --> 00:04:43,640
+Or boiling up the whole thing for a big family.
+
+82
+00:04:45,020 --> 00:04:49,520
+This is basically the preparation, and you'll see why it's called pot roast and steak.
+
+83
+00:04:49,720 --> 00:04:50,540
+Very simple.
+
+84
+00:04:50,980 --> 00:04:51,780
+Very simple.
+
+85
+00:04:52,140 --> 00:04:55,380
+You've never been in a room when cabbage is being boiled or cooked that smells like baby
+
+86
+00:04:55,380 --> 00:04:56,600
+diapers, right, on occasion?
+
+87
+00:04:56,600 --> 00:04:56,800
+Of course.
+
+88
+00:04:56,860 --> 00:04:57,380
+Same with broccoli.
+
+89
+00:04:57,500 --> 00:04:58,280
+A lot of greens do that.
+
+90
+00:04:58,300 --> 00:04:59,120
+Of course they do.
+
+91
+00:04:59,160 --> 00:05:04,120
+A lot of greens have this odd, foul, almost poop smell to them, but you know ...
+
+92
+00:05:04,120 --> 00:05:05,360
+No, no, they don't, actually.
+
+93
+00:05:05,560 --> 00:05:09,420
+They do, but it comes out because of the cooking process.
+
+94
+00:05:10,680 --> 00:05:16,200
+You take note of this a lot right around now because of St. Patrick's Day, right, in America.
+
+95
+00:05:16,420 --> 00:05:17,280
+That's the thing about it.
+
+96
+00:05:17,280 --> 00:05:17,760
+There's a meme.
+
+97
+00:05:17,960 --> 00:05:23,320
+The Irish really know their drink, but the Greeks got much better food, right?
+
+98
+00:05:23,480 --> 00:05:23,800
+Mm-hmm.
+
+99
+00:05:23,800 --> 00:05:24,380
+There you go.
+
+100
+00:05:25,420 --> 00:05:26,500
+Okay, so let's get into it.
+
+101
+00:05:26,560 --> 00:05:31,460
+So what you do is you go get a head of cabbage and you, let's say for two people, half a
+
+102
+00:05:31,460 --> 00:05:35,660
+head of cabbage, even large head is not that much, what you do is you cut it in half.
+
+103
+00:05:35,840 --> 00:05:42,360
+Try to cut it on an angle, so one will be a little bigger than the other, or three pieces
+
+104
+00:05:42,360 --> 00:05:42,880
+on an angle.
+
+105
+00:05:43,040 --> 00:05:47,660
+And the root, don't cut against the root until you've cut your pieces, and if you cut a piece
+
+106
+00:05:47,660 --> 00:05:51,660
+and the root end happens to be there, carve around it and leave some of it intact.
+
+107
+00:05:52,340 --> 00:05:57,980
+Next thing you do is you get yourself a pot, a medium sauce pan that would be, a sauce pot
+
+108
+00:05:57,980 --> 00:06:00,860
+that would be the height of the cabbage, because you're going to need to seal it with a lid.
+
+109
+00:06:01,800 --> 00:06:07,460
+So then what you do is you get some heat under that pot while it's dry, and I do butter.
+
+110
+00:06:07,620 --> 00:06:09,540
+I do a salted butter, an organic butter.
+
+111
+00:06:10,460 --> 00:06:13,160
+You don't have to do that if you don't want to use animal.
+
+112
+00:06:13,740 --> 00:06:15,180
+You can use sesame oil.
+
+113
+00:06:15,520 --> 00:06:16,480
+Don't use olive oil.
+
+114
+00:06:16,880 --> 00:06:18,040
+It's not high enough heat.
+
+115
+00:06:18,160 --> 00:06:19,620
+I was just going to ask about olive oil.
+
+116
+00:06:19,760 --> 00:06:20,140
+Okay, go ahead.
+
+117
+00:06:20,140 --> 00:06:21,780
+Any vegetable oil will do.
+
+118
+00:06:22,700 --> 00:06:25,800
+As you're warming the oil, add some caraway seeds.
+
+119
+00:06:26,040 --> 00:06:29,760
+The function of the caraway seed is to mitigate that baby diaper smell.
+
+120
+00:06:30,320 --> 00:06:32,740
+You will not get the baby diaper smell with caraway seeds.
+
+121
+00:06:32,860 --> 00:06:38,420
+Now what you do, as the caraway seeds are warming, the cut end of the cabbage that's
+
+122
+00:06:38,420 --> 00:06:43,700
+flat, hopefully it's flat, it goes against the bottom of the pot, and you press on it
+
+123
+00:06:43,700 --> 00:06:47,980
+a little bit, and just no water or anything, just let it come.
+
+124
+00:06:47,980 --> 00:06:49,600
+Basically, you're braising.
+
+125
+00:06:50,040 --> 00:06:52,760
+If you know what braising is, you're browning slightly.
+
+126
+00:06:54,120 --> 00:06:58,460
+Usually in a medium-sized pot, quality pot or so, we're talking about five minutes on
+
+127
+00:06:58,460 --> 00:07:02,340
+a medium heat, not high, depending on your pot.
+
+128
+00:07:03,820 --> 00:07:08,220
+When you start to see some braising, browning, you can move it around.
+
+129
+00:07:09,120 --> 00:07:10,080
+Slight braising.
+
+130
+00:07:10,460 --> 00:07:11,300
+It doesn't have to be much.
+
+131
+00:07:11,380 --> 00:07:13,740
+You don't want to smoke it or burn it or fry it.
+
+132
+00:07:13,740 --> 00:07:17,480
+Just when it starts to harden, in other words, right?
+
+133
+00:07:17,820 --> 00:07:19,020
+Not harden, but caramelize.
+
+134
+00:07:19,080 --> 00:07:19,480
+Caramelize.
+
+135
+00:07:19,540 --> 00:07:19,800
+Okay.
+
+136
+00:07:19,940 --> 00:07:20,560
+You could lift it.
+
+137
+00:07:20,600 --> 00:07:25,040
+It's kind of hard to see without lifting it out, which is difficult to lift it out.
+
+138
+00:07:25,480 --> 00:07:28,560
+On the side, you should have a kettle or something with some hot water.
+
+139
+00:07:28,640 --> 00:07:33,100
+By the way, never add room temperature or cold water to a pot that's hot, right?
+
+140
+00:07:33,520 --> 00:07:38,860
+It changes your cooking time, and it does all these other things, so you want to have
+
+141
+00:07:38,860 --> 00:07:39,440
+hot water.
+
+142
+00:07:39,620 --> 00:07:42,820
+If you're going to lift that out, would you use tongs, or would you use-
+
+143
+00:07:42,820 --> 00:07:43,640
+No, a spatula.
+
+144
+00:07:43,860 --> 00:07:46,080
+Two spatulas and a spatula and a fork.
+
+145
+00:07:46,320 --> 00:07:46,460
+Okay.
+
+146
+00:07:46,600 --> 00:07:47,160
+Spatula and a fork.
+
+147
+00:07:47,180 --> 00:07:47,340
+Yeah.
+
+148
+00:07:47,400 --> 00:07:51,640
+The tongs that would be big enough to pull it out were the kind that you see by a fireplace,
+
+149
+00:07:51,860 --> 00:07:52,500
+and they wouldn't fit.
+
+150
+00:07:52,840 --> 00:07:53,100
+Okay.
+
+151
+00:07:53,660 --> 00:07:54,420
+Because it's a big head.
+
+152
+00:07:54,640 --> 00:07:56,760
+Remember, it's a pretty large piece of cabbage we're talking.
+
+153
+00:07:56,780 --> 00:07:58,340
+We're not talking small pieces of cabbage.
+
+154
+00:07:59,020 --> 00:08:03,200
+If you cut a large head of cabbage in thirds, it's going to be at least two inches thick,
+
+155
+00:08:03,200 --> 00:08:06,780
+or if you cut it in half, it's going to be four inches thick, or three inches thick.
+
+156
+00:08:07,240 --> 00:08:08,740
+We're talking about heavy pieces here.
+
+157
+00:08:08,920 --> 00:08:10,040
+Not pieces.
+
+158
+00:08:10,240 --> 00:08:10,540
+Piece.
+
+159
+00:08:10,940 --> 00:08:11,560
+Single piece.
+
+160
+00:08:11,560 --> 00:08:15,400
+It's like when you're making a pot roast, it's a big hunk of meat, right?
+
+161
+00:08:15,560 --> 00:08:17,560
+It's not stew, where it's little pieces of meat, right?
+
+162
+00:08:18,040 --> 00:08:18,220
+Right.
+
+163
+00:08:18,280 --> 00:08:19,520
+There's a big hunk of cabbage.
+
+164
+00:08:20,500 --> 00:08:25,820
+You add your hot water until it's about three quarters of an inch or so above the bottom
+
+165
+00:08:25,820 --> 00:08:27,960
+of the pot, and you put a lid on it with some weight.
+
+166
+00:08:28,100 --> 00:08:31,720
+A pressure cooker would work well, but we have the DIY pressure cooker.
+
+167
+00:08:31,880 --> 00:08:35,419
+You just have a good sealing lid, and you add some weights.
+
+168
+00:08:35,539 --> 00:08:40,760
+The weights could be ... I use diver weights, and a mug that's filled with concrete that
+
+169
+00:08:40,760 --> 00:08:46,240
+goes over the handle, which is three pounds in itself, and the diver weights are four
+
+170
+00:08:46,240 --> 00:08:46,920
+pounds each.
+
+171
+00:08:49,100 --> 00:08:51,880
+But anyway, you could use a brick wrapped in aluminum foil.
+
+172
+00:08:51,960 --> 00:08:55,180
+If you're going to use brick or rocks, wrap them in foil or something, because they do
+
+173
+00:08:55,180 --> 00:08:55,540
+crumble.
+
+174
+00:08:56,740 --> 00:08:56,840
+Right?
+
+175
+00:08:56,900 --> 00:08:59,740
+So it's like, hey, mommy, what's this crunchy stuff in here?
+
+176
+00:08:59,800 --> 00:09:00,540
+Oh, it's a rock.
+
+177
+00:09:00,620 --> 00:09:01,600
+How did a rock get in the pot?
+
+178
+00:09:01,660 --> 00:09:06,020
+Well, when you went to move it, a piece fell off into your pot, so I have it wrapped.
+
+179
+00:09:06,400 --> 00:09:07,480
+Seasoned with brick dust.
+
+180
+00:09:07,600 --> 00:09:08,540
+No, let's avoid that.
+
+181
+00:09:08,660 --> 00:09:08,760
+Yeah.
+
+182
+00:09:08,860 --> 00:09:09,560
+Wrap it in tin foil.
+
+183
+00:09:09,560 --> 00:09:09,740
+Yeah.
+
+184
+00:09:09,740 --> 00:09:11,360
+That's the song the gorillas have a song.
+
+185
+00:09:11,480 --> 00:09:12,540
+Like, hey, it's really crunchy.
+
+186
+00:09:12,720 --> 00:09:13,780
+Hey, that's a rock.
+
+187
+00:09:13,940 --> 00:09:14,040
+Right?
+
+188
+00:09:14,400 --> 00:09:18,480
+So anyway, so you're going to simmer that.
+
+189
+00:09:19,220 --> 00:09:20,120
+You can bring it up.
+
+190
+00:09:20,200 --> 00:09:21,780
+When you add your water, bring the temperature up.
+
+191
+00:09:21,860 --> 00:09:24,680
+You're not afraid of smoking or burning it, and you can put a lid on it.
+
+192
+00:09:24,780 --> 00:09:29,760
+Now, based on if the cabbage is room temperature or refrigerated, or how tender you want it
+
+193
+00:09:29,760 --> 00:09:30,060
+to be.
+
+194
+00:09:30,160 --> 00:09:33,740
+Now, I suggest when you start this out, make it really tender and mushy.
+
+195
+00:09:34,160 --> 00:09:38,460
+So it would be minimum 30 minutes on a pressure cook on the lid.
+
+196
+00:09:38,460 --> 00:09:41,700
+If you don't have a lid, it would be 45 a lid that fits with pressure.
+
+197
+00:09:41,980 --> 00:09:47,340
+It would be 40 minutes, at least 25 to 30 minutes with a pressurized top.
+
+198
+00:09:47,860 --> 00:09:52,900
+If you have a bonafide pressure cooker with a gasket and all that, 15 to 20 minutes, right?
+
+199
+00:09:54,500 --> 00:09:56,160
+And let it cool a little bit.
+
+200
+00:09:56,200 --> 00:09:59,340
+And then what you do is you lean, hold it, push it when you're done.
+
+201
+00:09:59,980 --> 00:10:00,840
+When it's done.
+
+202
+00:10:01,140 --> 00:10:01,800
+You know, a fork.
+
+203
+00:10:01,940 --> 00:10:04,720
+The way you know it's done is it's cooked all the way to the top.
+
+204
+00:10:04,740 --> 00:10:07,640
+And if you have a skewer or a fork, it should just go through with no resistance.
+
+205
+00:10:07,640 --> 00:10:09,200
+It should be completely fork tender.
+
+206
+00:10:09,900 --> 00:10:13,460
+So it might be 45 minutes for you if it came out of the fridge and you're new at this and
+
+207
+00:10:13,460 --> 00:10:14,620
+your pot is not the best.
+
+208
+00:10:16,080 --> 00:10:18,100
+Remember, the heavier pots have better heat transfer.
+
+209
+00:10:18,280 --> 00:10:20,620
+Better pots have better heat transfer.
+
+210
+00:10:22,520 --> 00:10:26,700
+Cheap culinary pots and stuff tend to burn things and undercook them at the same time,
+
+211
+00:10:26,940 --> 00:10:27,780
+believe it or not.
+
+212
+00:10:28,740 --> 00:10:28,860
+So.
+
+213
+00:10:29,440 --> 00:10:33,980
+So at this point, you want to make it as soft as possible where it still holds its shape.
+
+214
+00:10:34,000 --> 00:10:37,180
+And at this point, you put a little bit of pressure on the top of the cabbage, either
+
+215
+00:10:37,180 --> 00:10:43,480
+with a kitchen towel or a spatula or a fork and lean the pot over sideways and pour all
+
+216
+00:10:43,480 --> 00:10:44,080
+the liquid out.
+
+217
+00:10:44,180 --> 00:10:45,020
+You want to do that.
+
+218
+00:10:45,540 --> 00:10:49,860
+So the reason you're pulling the liquid out and drain it before you remove the cabbage
+
+219
+00:10:49,860 --> 00:10:54,220
+is if the cabbage slips when you're removing, it doesn't splash down and you get hit with
+
+220
+00:10:54,220 --> 00:10:54,740
+hot liquid.
+
+221
+00:10:54,920 --> 00:10:55,080
+Right.
+
+222
+00:10:55,340 --> 00:10:55,620
+Mm hmm.
+
+223
+00:10:55,940 --> 00:10:59,660
+Remove the cabbage and put it in a preheated bowl, not a plate.
+
+224
+00:10:59,740 --> 00:11:01,740
+Remember, it's round on the flat side up.
+
+225
+00:11:02,460 --> 00:11:05,160
+Now that liquid you can thicken with some cornstarch.
+
+226
+00:11:05,540 --> 00:11:09,120
+Add some cold corn in the pot, put it back in the pot and make a nice gravy with the
+
+227
+00:11:09,120 --> 00:11:11,700
+caraway seeds and the oil, the fat that was in there before.
+
+228
+00:11:12,280 --> 00:11:18,720
+You could add some garnish like parsley or some little bit of chopped, finely chopped
+
+229
+00:11:18,720 --> 00:11:22,460
+red onion or garlic that's been sauteed and then make your sauce.
+
+230
+00:11:23,420 --> 00:11:28,180
+And what you do is you serve it in a medium sized bowl and you give everyone who's part
+
+231
+00:11:28,180 --> 00:11:34,700
+eating a steak knife and they literally reach over their plate and with a steak knife, slice
+
+232
+00:11:34,700 --> 00:11:38,600
+a big hunk of this cabbage off, put it in their plate, put some of the gravy on it.
+
+233
+00:11:39,020 --> 00:11:45,060
+And it's just like eating pot roast, but it's cabbage and it's vegan, by the way, if you
+
+234
+00:11:45,060 --> 00:11:45,760
+don't use butter.
+
+235
+00:11:46,300 --> 00:11:46,620
+Right.
+
+236
+00:11:46,780 --> 00:11:48,580
+And it's so satisfying.
+
+237
+00:11:48,580 --> 00:11:50,080
+And you're like, wait a second.
+
+238
+00:11:50,780 --> 00:11:53,760
+This is supposed to be a side dish, not a main course.
+
+239
+00:11:53,760 --> 00:11:55,740
+And it's so very good now.
+
+240
+00:11:55,820 --> 00:12:01,080
+Cabbage from its medicinal purposes, even if you overcook it like this is really good for
+
+241
+00:12:01,080 --> 00:12:01,900
+skin recovery.
+
+242
+00:12:01,900 --> 00:12:05,920
+If you have burns or skin cancers, skin ailments, right, you do this for two or three weeks.
+
+243
+00:12:06,460 --> 00:12:12,000
+Any skin ailment, you have an acne or anything like that, unless you're a teenager, will
+
+244
+00:12:12,000 --> 00:12:15,700
+start to recover in a way that you, you know, like you're on your way to recovery.
+
+245
+00:12:15,980 --> 00:12:18,660
+The other thing that it's good for is it looks like your brain.
+
+246
+00:12:19,380 --> 00:12:19,740
+Right.
+
+247
+00:12:19,780 --> 00:12:21,340
+And why does it help brain function?
+
+248
+00:12:21,460 --> 00:12:23,000
+Well, it also looks like your intestines.
+
+249
+00:12:23,000 --> 00:12:24,600
+It's very soothing to the intestines.
+
+250
+00:12:25,240 --> 00:12:25,600
+Right.
+
+251
+00:12:25,640 --> 00:12:27,520
+And it'll normalize your bowel movement.
+
+252
+00:12:27,520 --> 00:12:33,540
+That's from the medicinal side and the yin and yang side also adding some parsley to
+
+253
+00:12:33,540 --> 00:12:38,100
+it, which is an upper growth leaf or carrot tops balances that even even really well.
+
+254
+00:12:38,180 --> 00:12:43,020
+If you want to go more on the Japanese style, if you want to make something delicious, if
+
+255
+00:12:43,020 --> 00:12:47,880
+you have umeboshi plum or umeboshi plum vinegar, break off little pieces of umeboshi plum into
+
+256
+00:12:47,880 --> 00:12:52,100
+your gravy or you can have some umeboshi plum vinegar.
+
+257
+00:12:52,620 --> 00:12:56,380
+I think I've gotten into umeboshi plum now before.
+
+258
+00:12:56,380 --> 00:13:00,140
+Now, that's the cabbage pot roast.
+
+259
+00:13:00,280 --> 00:13:04,020
+And when I say cabbage pot roast, I mean it's cabbage as pot roast.
+
+260
+00:13:04,300 --> 00:13:06,100
+There's no pot roast involved.
+
+261
+00:13:06,240 --> 00:13:07,380
+It is the pot roast.
+
+262
+00:13:07,640 --> 00:13:10,220
+And it's so satisfying by itself.
+
+263
+00:13:10,320 --> 00:13:11,700
+You can have it with a side tonight.
+
+264
+00:13:11,840 --> 00:13:14,600
+I'm making that and I'm having it with some fried fish on the side.
+
+265
+00:13:14,680 --> 00:13:14,840
+Right.
+
+266
+00:13:15,060 --> 00:13:15,780
+Give you an example.
+
+267
+00:13:15,800 --> 00:13:19,960
+And that turns out to be a satisfying enough centerpiece for your for your meal.
+
+268
+00:13:20,080 --> 00:13:20,400
+Really?
+
+269
+00:13:21,220 --> 00:13:21,640
+Absolutely.
+
+270
+00:13:21,820 --> 00:13:23,120
+If you cook it this way.
+
+271
+00:13:23,120 --> 00:13:28,740
+If you go the traditional route and have cabbage prepared how it's typically prepared.
+
+272
+00:13:28,840 --> 00:13:30,300
+No, it won't be satisfying at all.
+
+273
+00:13:30,560 --> 00:13:36,620
+No, even if you shred it up raw and you do stuff like that, even like every traditional
+
+274
+00:13:36,620 --> 00:13:41,520
+recipe, you see cabbage chopped up in large pieces, small pieces, shredded, cooked, steamed,
+
+275
+00:13:41,740 --> 00:13:43,380
+boiled, stewed, raw.
+
+276
+00:13:43,740 --> 00:13:46,020
+This has absolutely nothing to do with that.
+
+277
+00:13:46,600 --> 00:13:51,120
+This is like you are imitating a pot roast, except it's cabbage and just cabbage.
+
+278
+00:13:51,120 --> 00:13:52,460
+It is so satisfying.
+
+279
+00:13:53,080 --> 00:13:53,740
+Try it.
+
+280
+00:13:53,860 --> 00:13:54,940
+It's all about the cut.
+
+281
+00:13:55,100 --> 00:13:58,820
+Like when you're cooking, if you cut something, the cut changes the flavor.
+
+282
+00:13:59,040 --> 00:14:01,140
+You have done this years ago when I talked about cooking.
+
+283
+00:14:01,340 --> 00:14:04,900
+Most of the people who disagreed came back and found it agreeable.
+
+284
+00:14:04,980 --> 00:14:11,580
+If you take a carrot, a well grown, organic, ripe carrot and start cutting it in different
+
+285
+00:14:11,580 --> 00:14:16,980
+varieties, like really thin on a bias, thin on end, grate it, dice it, make shoestrings.
+
+286
+00:14:16,980 --> 00:14:22,220
+I want you to taste each piece of that same carrot with a different cut.
+
+287
+00:14:22,340 --> 00:14:25,740
+You will notice the carrot will taste different based on its cut.
+
+288
+00:14:27,920 --> 00:14:29,340
+The cut is actually something.
+
+289
+00:14:29,720 --> 00:14:34,200
+That's why when all these chefs started becoming, chef shows, cooking shows started becoming
+
+290
+00:14:34,200 --> 00:14:38,620
+popular in the 1990s and they followed all the way through the 2000s, I always pointed
+
+291
+00:14:38,620 --> 00:14:43,020
+at the TV and told people, you will never learn how to cook watching these cooking shows.
+
+292
+00:14:43,120 --> 00:14:43,360
+Never.
+
+293
+00:14:43,920 --> 00:14:44,540
+And I'm right.
+
+294
+00:14:44,540 --> 00:14:49,280
+No one's ever watched those and learned how to cook because they never get into the fine
+
+295
+00:14:49,280 --> 00:14:53,260
+points of what really affects the final effect, quality and satisfaction of a meal.
+
+296
+00:14:54,060 --> 00:15:02,060
+This is strictly just, if you deviate and you start cutting cabbage into pieces, it will
+
+297
+00:15:02,060 --> 00:15:02,720
+not work.
+
+298
+00:15:02,920 --> 00:15:05,200
+It has to be cooked whole or half.
+
+299
+00:15:06,040 --> 00:15:06,420
+It has.
+
+300
+00:15:06,740 --> 00:15:06,860
+Right?
+
+301
+00:15:07,060 --> 00:15:07,220
+Okay.
+
+302
+00:15:07,560 --> 00:15:12,040
+And if you had a pot big enough, I wouldn't put a big round globe of cabbage in there.
+
+303
+00:15:12,040 --> 00:15:16,040
+I would still cut it in half because there's something about exposing the inside to the
+
+304
+00:15:16,040 --> 00:15:16,480
+braising.
+
+305
+00:15:17,180 --> 00:15:17,420
+Remember?
+
+306
+00:15:17,680 --> 00:15:22,380
+So basically you're braising the cut end of the cabbage, adding some water, pressure cooking
+
+307
+00:15:22,380 --> 00:15:27,160
+it, making a gravy with the liquid, and you're eating it like it's a roast, just like you
+
+308
+00:15:27,160 --> 00:15:28,500
+would serve a roast in a bowl.
+
+309
+00:15:28,580 --> 00:15:30,700
+You don't want to serve it on a plate because you can have the gravy, whatever.
+
+310
+00:15:30,960 --> 00:15:32,360
+So it doesn't always pre-heat your plates.
+
+311
+00:15:32,840 --> 00:15:35,900
+Doesn't some of that liquid feed up into the rest of the cabbage though?
+
+312
+00:15:36,120 --> 00:15:36,280
+Yeah.
+
+313
+00:15:36,680 --> 00:15:38,480
+Well, it actually releases liquid.
+
+314
+00:15:38,600 --> 00:15:41,240
+So if you put an inch of liquid in there, by the time it's done, you'll still have an
+
+315
+00:15:41,240 --> 00:15:43,480
+inch of liquid unless the heat is high enough.
+
+316
+00:15:43,580 --> 00:15:48,960
+I've once got a little overly confident and I wanted it to be like a thick au jus of cabbage
+
+317
+00:15:48,960 --> 00:15:50,460
+and I burned the cabbage almost.
+
+318
+00:15:50,700 --> 00:15:54,680
+I immediately took it out of the pot and put it in another pot, but it had a nice, very
+
+319
+00:15:54,680 --> 00:15:56,000
+dark braise on it.
+
+320
+00:15:56,080 --> 00:15:56,720
+It was still good.
+
+321
+00:15:57,680 --> 00:15:59,460
+The same thing happens with the broccoli.
+
+322
+00:15:59,620 --> 00:16:03,880
+When you get a head of broccoli, usually when you buy a large head of broccoli, it's three
+
+323
+00:16:03,880 --> 00:16:04,920
+large stems.
+
+324
+00:16:05,780 --> 00:16:07,400
+Typically you'll see like one stem.
+
+325
+00:16:07,400 --> 00:16:12,020
+Stem would be coming off the stalk at least three quarters of an inch or more wide.
+
+326
+00:16:12,400 --> 00:16:13,560
+You cut that off.
+
+327
+00:16:13,620 --> 00:16:15,900
+It's about the size of an adult fist, maybe bigger.
+
+328
+00:16:16,620 --> 00:16:24,380
+What you do with the broccoli is get yourself a peeler, like a potato peeler, and grab that
+
+329
+00:16:24,380 --> 00:16:27,060
+stem and start peeling that stem like it's a cube cut.
+
+330
+00:16:27,340 --> 00:16:29,480
+Peel the skin off of that stem.
+
+331
+00:16:29,960 --> 00:16:32,160
+We're talking about a stem that's about an inch in diameter, right?
+
+332
+00:16:32,680 --> 00:16:35,860
+You want the skin off of that stem because that's really tough.
+
+333
+00:16:37,140 --> 00:16:41,640
+Then what I want you to do on that stem is cut off if it's dry because you got it at
+
+334
+00:16:41,640 --> 00:16:42,280
+the supermarket.
+
+335
+00:16:42,500 --> 00:16:48,820
+Cut the dry part piece off about a quarter of an inch to expose the fresh, fleshy part
+
+336
+00:16:48,820 --> 00:16:49,360
+of the vegetable.
+
+337
+00:16:50,240 --> 00:16:56,000
+Then I want you to, as you're facing the stem, get a knife and cut a cross into it one way
+
+338
+00:16:56,000 --> 00:16:57,460
+and then the other just to split it.
+
+339
+00:16:58,160 --> 00:17:00,840
+Cut into it all the way just shy of the florets.
+
+340
+00:17:00,840 --> 00:17:05,920
+If you have some thick florets with thick stems, stick the blade into those thick stems
+
+341
+00:17:05,920 --> 00:17:07,359
+just to open them up a little bit.
+
+342
+00:17:08,099 --> 00:17:09,579
+In this case, there's no braising.
+
+343
+00:17:10,500 --> 00:17:13,980
+You start off with a little bit of water.
+
+344
+00:17:14,140 --> 00:17:17,819
+I would say, depending on how big your pot is, you want about a quarter inch of water
+
+345
+00:17:17,819 --> 00:17:18,520
+or less.
+
+346
+00:17:20,060 --> 00:17:20,940
+Get it hot.
+
+347
+00:17:21,140 --> 00:17:22,460
+Put your broccoli in there.
+
+348
+00:17:22,540 --> 00:17:23,940
+A little sprinkle of salt.
+
+349
+00:17:24,720 --> 00:17:25,660
+Put the lid on.
+
+350
+00:17:26,180 --> 00:17:28,060
+That doesn't take about seven minutes.
+
+351
+00:17:28,060 --> 00:17:31,340
+Depending if it came out of the fridge, it might be 10 or 12 minutes.
+
+352
+00:17:32,400 --> 00:17:36,200
+If it's room temp or you pulled it out of the garden, it'll be about seven minutes or
+
+353
+00:17:36,200 --> 00:17:36,400
+so.
+
+354
+00:17:36,480 --> 00:17:37,600
+You want it tender again.
+
+355
+00:17:37,720 --> 00:17:38,940
+You don't want it to be crunchy.
+
+356
+00:17:40,500 --> 00:17:47,340
+You could say, if you do this right, because there's no spices or herbs in this, you should
+
+357
+00:17:47,340 --> 00:17:49,960
+not get that baby diaper smell, number one.
+
+358
+00:17:50,560 --> 00:17:55,460
+Number two, when you do it right, there should be no liquid at the bottom of the pan when
+
+359
+00:17:55,460 --> 00:17:56,540
+you're done, or the pot.
+
+360
+00:17:56,660 --> 00:17:58,480
+Sorry, it would be a pot, because it won't fit in a pan.
+
+361
+00:17:58,880 --> 00:18:02,880
+If you lean a crown of broccoli in a pot, it's at least three or four inches tall.
+
+362
+00:18:03,300 --> 00:18:05,340
+Again, you're not cutting this into pieces.
+
+363
+00:18:06,000 --> 00:18:09,540
+If you misinterpret what I'm saying and start cutting the cabbage and the broccoli into
+
+364
+00:18:09,540 --> 00:18:10,920
+pieces, you're done fucked up.
+
+365
+00:18:11,000 --> 00:18:11,420
+Oops, sorry.
+
+366
+00:18:11,840 --> 00:18:12,500
+Medical term.
+
+367
+00:18:12,840 --> 00:18:13,680
+You're done screwed up.
+
+368
+00:18:13,780 --> 00:18:15,060
+This is not what I'm talking about.
+
+369
+00:18:15,120 --> 00:18:17,500
+It will not taste anything like this at all.
+
+370
+00:18:19,100 --> 00:18:24,280
+When you get the broccoli out, typically a lot of times when you do this in a restaurant
+
+371
+00:18:24,280 --> 00:18:28,480
+or whatever, you want to stop the cooking by putting the broccoli or the vegetable
+
+372
+00:18:28,480 --> 00:18:30,720
+in ice water, because it still keeps cooking.
+
+373
+00:18:30,860 --> 00:18:34,860
+As a matter of fact, when you cook meat or steak, I didn't believe this until I tested
+
+374
+00:18:34,860 --> 00:18:40,840
+it myself, when you measure the temperature of a steak on the grill and then remove it
+
+375
+00:18:40,840 --> 00:18:45,040
+from the grill, no matter if it's medium well or rare, when you put it on a plate right
+
+376
+00:18:45,040 --> 00:18:50,000
+next to the grill, you'll notice the temperature of the steak slightly rises, and you're like,
+
+377
+00:18:50,020 --> 00:18:50,880
+how is that possible?
+
+378
+00:18:51,380 --> 00:18:52,360
+It's off the fire.
+
+379
+00:18:52,420 --> 00:18:53,660
+Why did the temperature go up?
+
+380
+00:18:53,660 --> 00:18:55,480
+Well, because of the contraction, right?
+
+381
+00:18:55,900 --> 00:19:00,300
+All the juices get dumped in the plate, and that's why you always have to let a steak
+
+382
+00:19:00,300 --> 00:19:02,400
+rest, and then it sucks the juices back up, right?
+
+383
+00:19:02,740 --> 00:19:04,420
+So anyway, that's meat.
+
+384
+00:19:05,000 --> 00:19:09,260
+So anyway, with the broccoli, if you do this perfectly and you make adjustments just right,
+
+385
+00:19:10,020 --> 00:19:13,440
+you should have no liquid in the bottom of the pot, right?
+
+386
+00:19:13,480 --> 00:19:14,500
+And then you serve that.
+
+387
+00:19:14,540 --> 00:19:17,060
+Now, when you put that in a bowl also, you don't want it on a plate.
+
+388
+00:19:17,160 --> 00:19:19,720
+You want it in a bowl, something with a high side, because it's going to roll around.
+
+389
+00:19:19,720 --> 00:19:23,080
+Remember, this is about minimum four inches tall, right?
+
+390
+00:19:23,560 --> 00:19:24,940
+It's a crown of broccoli.
+
+391
+00:19:25,440 --> 00:19:27,240
+Again, do not cut any pieces off.
+
+392
+00:19:27,300 --> 00:19:28,740
+You could cut into it.
+
+393
+00:19:28,780 --> 00:19:33,720
+Remember, peeling the skin off of the main stem, or if you have any thicker stems.
+
+394
+00:19:33,800 --> 00:19:38,640
+If the stems are bigger than your forefinger or thumb, you should get the peeler in there
+
+395
+00:19:38,640 --> 00:19:39,880
+and get that skin off of it.
+
+396
+00:19:40,700 --> 00:19:45,700
+Now, once you put this into a bowl, preheated bowl, there's many ways to preheat.
+
+397
+00:19:45,700 --> 00:19:50,720
+When you serve food, if it's a hot dish, you should preheat your bowls, by the way.
+
+398
+00:19:51,340 --> 00:19:54,920
+So when people are sitting around and you're eating it, the dish is warm until it, right?
+
+399
+00:19:55,320 --> 00:19:57,240
+Food doesn't get cold as fast, right?
+
+400
+00:19:57,840 --> 00:20:01,900
+Okay, so as soon as it comes out of the pot and you're ready to serve it, sprinkle some
+
+401
+00:20:01,900 --> 00:20:06,000
+vinegar on there, either umeboshi plum vinegar or red wine vinegar or rice vinegar, a little
+
+402
+00:20:06,000 --> 00:20:06,580
+acidity.
+
+403
+00:20:07,040 --> 00:20:09,400
+If you don't have vinegar, you could use a little bit of lemon or lime.
+
+404
+00:20:09,700 --> 00:20:14,000
+Lime might be preferable to lemon, because lemon imparts too much of a flavor sometimes.
+
+405
+00:20:14,690 --> 00:20:21,340
+And a little bit of olive oil, or your favorite eating salad oil, or salad dressing on it.
+
+406
+00:20:21,440 --> 00:20:27,320
+And then I serve that with a blue cheese dressing, or it's nice to serve this with a creamy dressing.
+
+407
+00:20:27,880 --> 00:20:32,880
+You can also make a dressing, I call it cheatin' cheddar, which is equal parts miso to equal
+
+408
+00:20:32,880 --> 00:20:35,420
+parts tahini, which is sesame paste.
+
+409
+00:20:35,600 --> 00:20:40,680
+A lot of people like a slightly, like a mildly altered ranch even dressing, right?
+
+410
+00:20:40,680 --> 00:20:44,360
+Yeah, I'm not a fan of ranch, but yeah, I'd rather do blue cheese than ranch.
+
+411
+00:20:44,980 --> 00:20:49,000
+But yeah, blue cheese, it's very rich, so anyway.
+
+412
+00:20:50,340 --> 00:20:51,080
+Get to the point.
+
+413
+00:20:51,340 --> 00:20:55,640
+And what you do is you serve this with steak knives, you know, the serrated steak knives.
+
+414
+00:20:56,140 --> 00:21:00,240
+And when you're ready to eat it, you reach over your plate into where this is, and you
+
+415
+00:21:00,240 --> 00:21:03,340
+cut yourself a floret, or you cut yourself a hunk of broccoli.
+
+416
+00:21:03,900 --> 00:21:08,460
+And you put some sauce, either the cheatin' cheddar, which is equal parts miso and tahini.
+
+417
+00:21:08,460 --> 00:21:10,400
+You can make a ginger carrot sauce.
+
+418
+00:21:11,440 --> 00:21:15,700
+Dip it in there, and you'll be like, this is like eating steak.
+
+419
+00:21:15,940 --> 00:21:18,280
+Broccoli is not just a side dish.
+
+420
+00:21:18,660 --> 00:21:20,180
+This is a main course.
+
+421
+00:21:20,860 --> 00:21:21,180
+Seriously.
+
+422
+00:21:21,440 --> 00:21:24,120
+I mean, it is a main course.
+
+423
+00:21:24,180 --> 00:21:27,120
+I call it broccoli steak, and it works out really well.
+
+424
+00:21:27,220 --> 00:21:30,500
+But people might say, hey, Greg, I've had broccoli before.
+
+425
+00:21:30,560 --> 00:21:31,240
+It's nothing like that.
+
+426
+00:21:31,300 --> 00:21:34,160
+Yeah, I know you've had broccoli before, or something like, because it wasn't prepared
+
+427
+00:21:34,160 --> 00:21:34,540
+this way.
+
+428
+00:21:34,540 --> 00:21:39,760
+Once you change the way it's prepared, it will change the thing itself, right?
+
+429
+00:21:41,680 --> 00:21:44,060
+It's very, very interesting, how this works.
+
+430
+00:21:44,240 --> 00:21:49,700
+This further reinforces a lot of the subtle points that I tend to think are more significant
+
+431
+00:21:49,700 --> 00:21:50,580
+and are left out.
+
+432
+00:21:51,020 --> 00:21:56,060
+The cut affects the end result and the flavor, you know, very much so.
+
+433
+00:21:56,160 --> 00:21:57,220
+Like imagine coleslaw.
+
+434
+00:21:57,340 --> 00:22:02,060
+Very finely shredded cabbage, very finely shredded, maybe some carrot for color.
+
+435
+00:22:02,060 --> 00:22:05,500
+Some cultures, like German, they don't put carrot in there, whatever.
+
+436
+00:22:05,940 --> 00:22:11,760
+Could you imagine a coleslaw made if the cabbage was cut into square chopped pieces and chopped
+
+437
+00:22:12,400 --> 00:22:13,560
+large pieces of carrot?
+
+438
+00:22:14,180 --> 00:22:16,980
+It wouldn't be, and he used even the same recipe with dressing.
+
+439
+00:22:17,120 --> 00:22:18,020
+It wouldn't resemble coleslaw.
+
+440
+00:22:18,060 --> 00:22:21,020
+It wouldn't taste like coleslaw at all, because the cut now is right.
+
+441
+00:22:21,020 --> 00:22:22,260
+Yeah, I wouldn't call it that.
+
+442
+00:22:22,380 --> 00:22:25,060
+I've had something like that before, where it's like a cabbage salad.
+
+443
+00:22:25,060 --> 00:22:25,820
+Oh, sorry to hear that.
+
+444
+00:22:26,080 --> 00:22:32,040
+Yeah, well, unfortunately, I could sit here and tell you horror stories about how, you
+
+445
+00:22:32,040 --> 00:22:34,200
+know, women in my age group.
+
+446
+00:22:34,200 --> 00:22:38,360
+There's 300 million horror stories about to happen at dinner time in America right now.
+
+447
+00:22:38,460 --> 00:22:38,600
+Right.
+
+448
+00:22:38,600 --> 00:22:39,680
+Maybe not that many.
+
+449
+00:22:39,880 --> 00:22:40,380
+What is it?
+
+450
+00:22:40,460 --> 00:22:44,620
+About 250 million horror stories are going to happen tonight.
+
+451
+00:22:44,620 --> 00:22:47,880
+That's probably, well, 200, let's just call it 200 million, just to be even about it.
+
+452
+00:22:47,960 --> 00:22:48,100
+Yeah.
+
+453
+00:22:48,260 --> 00:22:49,460
+So, you know what I mean.
+
+454
+00:22:49,480 --> 00:22:50,000
+The thing is, exactly.
+
+455
+00:22:50,700 --> 00:22:52,900
+I don't want to say it's white people, but you know.
+
+456
+00:22:53,020 --> 00:22:57,040
+Well, yeah, but I mean, pretty much I dated white women, and the truth is that white women
+
+457
+00:22:57,040 --> 00:23:01,340
+often would attempt to cook something, and yeah, I got stuff like this from some of them.
+
+458
+00:23:01,340 --> 00:23:05,500
+And I'm like, yeah, I don't know what this is, but, you know.
+
+459
+00:23:05,620 --> 00:23:06,200
+We'll try it.
+
+460
+00:23:06,480 --> 00:23:06,580
+Yeah.
+
+461
+00:23:06,580 --> 00:23:07,140
+We'll give it a shot.
+
+462
+00:23:07,140 --> 00:23:08,040
+There's no reason for it.
+
+463
+00:23:08,060 --> 00:23:08,200
+Yeah.
+
+464
+00:23:08,260 --> 00:23:10,240
+We've got into why white people can't cook.
+
+465
+00:23:10,480 --> 00:23:10,620
+Yeah.
+
+466
+00:23:10,660 --> 00:23:11,680
+And it's a cultural thing.
+
+467
+00:23:11,680 --> 00:23:12,560
+It's a cultural thing.
+
+468
+00:23:12,660 --> 00:23:13,920
+It's not their fault, really.
+
+469
+00:23:14,140 --> 00:23:14,880
+It's just kind of.
+
+470
+00:23:15,020 --> 00:23:15,300
+Yeah.
+
+471
+00:23:15,540 --> 00:23:18,680
+It's kind of like you go to certain parts on the continent of Africa, they eat crickets
+
+472
+00:23:18,680 --> 00:23:20,400
+and bugs, and they actually don't taste too bad.
+
+473
+00:23:20,520 --> 00:23:22,140
+It's kind of like, I want to say chicken.
+
+474
+00:23:22,840 --> 00:23:29,020
+It would taste like, you ever have a, get fried chicken, and a piece of the skin falls
+
+475
+00:23:29,020 --> 00:23:30,800
+off with the batter.
+
+476
+00:23:31,040 --> 00:23:31,240
+Right.
+
+477
+00:23:32,020 --> 00:23:35,280
+It kind of tastes more like that than the chicken itself.
+
+478
+00:23:35,520 --> 00:23:35,840
+But anyway.
+
+479
+00:23:36,140 --> 00:23:36,420
+Understood.
+
+480
+00:23:36,760 --> 00:23:36,860
+Yeah.
+
+481
+00:23:37,020 --> 00:23:37,500
+Okay.
+
+482
+00:23:37,740 --> 00:23:41,680
+So here's a couple of quick questions for you, though, because I take note of the fact
+
+483
+00:23:41,680 --> 00:23:42,900
+that you mentioned both times.
+
+484
+00:23:43,040 --> 00:23:47,280
+You made it a key mention that you use a steak knife, okay, to.
+
+485
+00:23:47,620 --> 00:23:48,280
+That's right.
+
+486
+00:23:48,280 --> 00:23:50,160
+Because you're cutting through a hunk of vegetable.
+
+487
+00:23:50,520 --> 00:23:50,840
+That's right.
+
+488
+00:23:50,880 --> 00:23:52,400
+A big hunk of vegetable.
+
+489
+00:23:52,680 --> 00:23:53,200
+A hunky vegetable.
+
+490
+00:23:53,560 --> 00:23:53,680
+Right.
+
+491
+00:23:53,680 --> 00:23:54,200
+Yeah.
+
+492
+00:23:54,520 --> 00:23:55,920
+Serrated makes it easier.
+
+493
+00:23:56,280 --> 00:23:56,960
+Serrated makes it easier.
+
+494
+00:23:57,000 --> 00:24:00,080
+Is it just for ease, or is there some other reason why we use a steak knife?
+
+495
+00:24:00,100 --> 00:24:00,300
+No, no.
+
+496
+00:24:00,500 --> 00:24:03,960
+It's for ease, because you're eating broccoli steak, or broccoli shtake.
+
+497
+00:24:04,160 --> 00:24:04,560
+Shtake.
+
+498
+00:24:04,660 --> 00:24:04,800
+Okay.
+
+499
+00:24:05,120 --> 00:24:07,220
+It's not a side dish anymore.
+
+500
+00:24:07,740 --> 00:24:11,780
+These veggies, you can eat them as a main course, and they are so satisfying and delicious.
+
+501
+00:24:12,000 --> 00:24:13,860
+And your bowels will thank you.
+
+502
+00:24:14,660 --> 00:24:17,420
+You know, I mean, like now, like, you know, people go out and buy broccoli.
+
+503
+00:24:17,500 --> 00:24:20,540
+They'll get some broccoli for like a family of four at a last, you know, whatever.
+
+504
+00:24:20,540 --> 00:24:26,280
+You know, no one goes out and buys a head of cabbage, you know, lives alone or lives with someone.
+
+505
+00:24:26,380 --> 00:24:27,280
+Let's say it's two people.
+
+506
+00:24:27,380 --> 00:24:28,740
+You say, this will be gone by tomorrow.
+
+507
+00:24:29,580 --> 00:24:31,240
+No one eats like that, right?
+
+508
+00:24:31,280 --> 00:24:34,040
+Or a big thing of broccoli, like, this will be gone by tomorrow.
+
+509
+00:24:34,240 --> 00:24:36,720
+I mean, no one eats that much broccoli or cabbage, but you can.
+
+510
+00:24:37,060 --> 00:24:37,360
+Of course you can.
+
+511
+00:24:37,360 --> 00:24:38,200
+And it's really good.
+
+512
+00:24:38,340 --> 00:24:39,420
+It's really satisfying.
+
+513
+00:24:39,560 --> 00:24:41,740
+And it's not like, and you get this energy boost.
+
+514
+00:24:42,060 --> 00:24:43,760
+And it's not a matter of eating raw.
+
+515
+00:24:43,840 --> 00:24:45,200
+You want to cook this well.
+
+516
+00:24:45,440 --> 00:24:46,960
+Not well done too much.
+
+517
+00:24:47,060 --> 00:24:49,620
+You want, when you start off with the-
+
+518
+00:24:50,540 --> 00:24:52,040
+I'm not eating broccoli raw.
+
+519
+00:24:52,340 --> 00:24:53,840
+Broccoli raw is great in a salad.
+
+520
+00:24:54,320 --> 00:24:55,600
+You know, honestly, if you chop it up.
+
+521
+00:24:55,620 --> 00:25:00,340
+It can be, but the quantity of plastic teeth in my mouth is increasing.
+
+522
+00:25:00,860 --> 00:25:01,440
+I understand.
+
+523
+00:25:02,220 --> 00:25:02,380
+Yeah.
+
+524
+00:25:02,600 --> 00:25:07,880
+So, you know, like what I mean by plastic teeth is like you ever try to have a meal with plastic utensils.
+
+525
+00:25:07,940 --> 00:25:11,680
+You can do it, but you just got to be, you know, remember you're using plastic utensils.
+
+526
+00:25:11,860 --> 00:25:13,000
+I'd be careful about that.
+
+527
+00:25:13,120 --> 00:25:13,260
+Yeah.
+
+528
+00:25:13,520 --> 00:25:14,580
+You could break your plastic.
+
+529
+00:25:14,720 --> 00:25:14,860
+Yeah.
+
+530
+00:25:14,960 --> 00:25:16,300
+So here's the thing.
+
+531
+00:25:16,300 --> 00:25:20,240
+The broccoli do not, the cabbage, go ahead and overcook what you consider overcooked.
+
+532
+00:25:20,360 --> 00:25:22,460
+Not too much, but it should still hold its shape.
+
+533
+00:25:22,500 --> 00:25:27,380
+If you open the lid back to the cabbage and it's flattened out, you cooked it too much.
+
+534
+00:25:27,440 --> 00:25:30,040
+It should still retain its shape, but it should be completely fork tender.
+
+535
+00:25:30,160 --> 00:25:32,300
+When you push the fork through, it should have almost no resistance.
+
+536
+00:25:32,860 --> 00:25:34,600
+The broccoli should not overcook.
+
+537
+00:25:34,680 --> 00:25:37,300
+It should resemble a very bright green color.
+
+538
+00:25:37,840 --> 00:25:45,200
+If you have a tendency to overcook, you might have a bowl of, or a bath of ice water that you dunk it in to stop it from cooking.
+
+539
+00:25:45,200 --> 00:25:47,840
+But there's something about it being served hot.
+
+540
+00:25:48,460 --> 00:25:50,480
+So if it's slightly undercooked, it's fine.
+
+541
+00:25:50,520 --> 00:25:58,440
+Because remember, you've already used a potato peeler or a vegetable peeler to remove most of the skin on the thick stalks.
+
+542
+00:25:58,640 --> 00:26:00,500
+Because that's what makes the broccoli tough to chew.
+
+543
+00:26:00,580 --> 00:26:03,840
+Not the inner juicy part, the flesh of the stalk.
+
+544
+00:26:03,940 --> 00:26:05,160
+It's the outer part of the stalk.
+
+545
+00:26:05,180 --> 00:26:07,420
+The outer part of the stalk is the part that's too chewy.
+
+546
+00:26:07,620 --> 00:26:07,780
+That's hard.
+
+547
+00:26:08,120 --> 00:26:08,520
+That's right.
+
+548
+00:26:08,560 --> 00:26:11,160
+So you remove that as much as possible.
+
+549
+00:26:11,280 --> 00:26:14,920
+And if you're going up against the floret, use a small blade.
+
+550
+00:26:15,200 --> 00:26:17,840
+Like the peel will pull off, but it won't come off too easy.
+
+551
+00:26:17,920 --> 00:26:19,760
+So you just tap it with a blade and remove it.
+
+552
+00:26:20,120 --> 00:26:22,600
+Very thick stalks, split them also with a knife.
+
+553
+00:26:22,740 --> 00:26:29,520
+So the reason I'm stressing this, and I can't stress it enough, is that these vegetables are the main course.
+
+554
+00:26:29,640 --> 00:26:33,600
+And they are very, very satisfying, especially if you have a flavorful side.
+
+555
+00:26:35,780 --> 00:26:36,220
+Condiment.
+
+556
+00:26:36,460 --> 00:26:38,720
+I've always got time to talk about condiments too.
+
+557
+00:26:39,100 --> 00:26:45,180
+But if you have a flavorful condiment, it could be your favorite condiment, or you could whip up something rich.
+
+558
+00:26:45,200 --> 00:26:46,120
+Don't be afraid.
+
+559
+00:26:46,320 --> 00:26:47,560
+Don't go bland on your condiments.
+
+560
+00:26:47,680 --> 00:26:48,120
+Go strong.
+
+561
+00:26:48,160 --> 00:26:49,980
+I'm not talking ketchup and mustard here, right?
+
+562
+00:26:50,340 --> 00:26:51,660
+Those are meat-eater condiments.
+
+563
+00:26:52,840 --> 00:26:59,400
+So what we're talking here now is, by the way, the reason I'm putting this out to people who have children, I want some feedback.
+
+564
+00:27:00,140 --> 00:27:03,300
+Because at this point, I'm not associating with anyone that has children.
+
+565
+00:27:03,560 --> 00:27:08,500
+In the past, I knew some couples that had young children, and I would suggest certain things.
+
+566
+00:27:09,020 --> 00:27:12,740
+And you're typically making a certain dish, and you're like, oh, children are never going to eat that.
+
+567
+00:27:12,740 --> 00:27:15,360
+And the response that I got back was they loved it, right?
+
+568
+00:27:15,560 --> 00:27:16,440
+Well, aside from me.
+
+569
+00:27:16,660 --> 00:27:17,660
+You actually have me.
+
+570
+00:27:17,860 --> 00:27:19,020
+I have a nine-year-old.
+
+571
+00:27:19,560 --> 00:27:19,920
+Right.
+
+572
+00:27:20,040 --> 00:27:21,380
+So do this with the cabbage.
+
+573
+00:27:22,120 --> 00:27:24,420
+And do this with the broccoli as a main dish.
+
+574
+00:27:24,580 --> 00:27:31,880
+But if you just serve – if you look like you're in the Disney things back in the 30s when they were poor in a shack and they had a pea.
+
+575
+00:27:32,000 --> 00:27:33,460
+Remember, everybody's got to split this pea.
+
+576
+00:27:33,800 --> 00:27:35,440
+Don't be pathetic about this.
+
+577
+00:27:35,520 --> 00:27:42,000
+If you do the cabbage or the broccoli, make sure you have at least one or two condiments on the side.
+
+578
+00:27:42,740 --> 00:27:45,080
+It's like a sauce of some kind to dip it.
+
+579
+00:27:45,460 --> 00:27:46,780
+You can make a peanut sauce.
+
+580
+00:27:46,920 --> 00:27:47,540
+It goes really well.
+
+581
+00:27:47,580 --> 00:27:49,220
+Peanut sauces are very easy to do.
+
+582
+00:27:49,780 --> 00:27:52,160
+One part peanut butter, two parts water.
+
+583
+00:27:52,860 --> 00:27:58,500
+And then to the water, add a little bit of sugar, fish sauce, sriracha, some other flavor.
+
+584
+00:27:58,620 --> 00:28:01,680
+You could add some bouillon, a little bit of vinegar, soy sauce.
+
+585
+00:28:02,320 --> 00:28:09,140
+And as you heat – when you put the peanut butter in the water and you start bringing it to a simmer, peanut butter starts to try to dissolve.
+
+586
+00:28:09,280 --> 00:28:10,680
+And then suddenly it gets thick.
+
+587
+00:28:10,680 --> 00:28:13,780
+Because peanut butter is actually a thickener, just like cornstarch would be.
+
+588
+00:28:14,060 --> 00:28:16,020
+And you add a little more water and flavor it up.
+
+589
+00:28:16,200 --> 00:28:19,140
+Add some sweetener, add some acid, vinegar, lime juice.
+
+590
+00:28:19,220 --> 00:28:20,120
+Don't cook the lime juice.
+
+591
+00:28:21,140 --> 00:28:22,900
+Add it in the end if that's all you have.
+
+592
+00:28:23,260 --> 00:28:24,320
+Add some soy sauce.
+
+593
+00:28:24,420 --> 00:28:25,300
+I do fish sauce.
+
+594
+00:28:25,440 --> 00:28:27,540
+The fish sauce is made from fermented anchovies.
+
+595
+00:28:28,280 --> 00:28:29,600
+But it's really delicious.
+
+596
+00:28:29,880 --> 00:28:32,040
+If you make Thai food, it's an essential.
+
+597
+00:28:32,240 --> 00:28:33,580
+Look, some people might enjoy that.
+
+598
+00:28:33,760 --> 00:28:34,580
+But you know what?
+
+599
+00:28:34,680 --> 00:28:35,260
+I want to –
+
+600
+00:28:35,260 --> 00:28:36,260
+Well, not by itself.
+
+601
+00:28:40,680 --> 00:28:42,000
+Some people just like to eat anchovies.
+
+602
+00:28:42,140 --> 00:28:43,020
+He was just into that.
+
+603
+00:28:43,240 --> 00:28:44,060
+But this is different.
+
+604
+00:28:44,220 --> 00:28:45,640
+This is fermented anchovies.
+
+605
+00:28:45,760 --> 00:28:46,000
+I understand.
+
+606
+00:28:46,620 --> 00:28:48,800
+This smells worse than any panties you can imagine.
+
+607
+00:28:48,940 --> 00:28:49,600
+Of course it does.
+
+608
+00:28:50,000 --> 00:28:50,980
+Did I just say that?
+
+609
+00:28:51,000 --> 00:28:51,440
+You did.
+
+610
+00:28:51,740 --> 00:28:59,760
+Anyhow, what I was going to say, though, is that commonly what used to be with broccoli and with cauliflower both – because I was going to ask about that, by the way.
+
+611
+00:28:59,820 --> 00:29:01,300
+Could you interchange this with cauliflower?
+
+612
+00:29:02,640 --> 00:29:02,980
+Yeah.
+
+613
+00:29:03,220 --> 00:29:05,820
+The cauliflower, I would do the broccoli steak.
+
+614
+00:29:06,220 --> 00:29:07,300
+I wouldn't do the cabbage.
+
+615
+00:29:07,420 --> 00:29:09,780
+Cabbage is – remember, there's no braising with the –
+
+616
+00:29:10,680 --> 00:29:11,080
+I'm confused.
+
+617
+00:29:11,580 --> 00:29:18,480
+The cauliflower would be strictly like the broccoli including the peeler on the stalks because the same thing would happen there.
+
+618
+00:29:18,940 --> 00:29:19,040
+OK.
+
+619
+00:29:19,280 --> 00:29:22,160
+But the – so you have the cabbage and you have – right.
+
+620
+00:29:22,260 --> 00:29:23,640
+And this is in series.
+
+621
+00:29:23,820 --> 00:29:25,240
+This is a continuing series.
+
+622
+00:29:26,640 --> 00:29:29,480
+Let me just do a little segue and a tangent and we'll end.
+
+623
+00:29:30,280 --> 00:29:36,900
+One of the things that – one of my favorite foods ever, there was a small chain in New York back in the late 70s and 80s that had baked potatoes.
+
+624
+00:29:37,000 --> 00:29:37,960
+That's all they had, right?
+
+625
+00:29:37,960 --> 00:29:38,520
+Oh, yeah.
+
+626
+00:29:38,520 --> 00:29:40,100
+So it was baked potato with a list.
+
+627
+00:29:40,740 --> 00:29:41,940
+The menu had 30 things.
+
+628
+00:29:42,080 --> 00:29:43,780
+The 30 items were toppings, right?
+
+629
+00:29:44,000 --> 00:29:44,260
+Wait a minute.
+
+630
+00:29:44,300 --> 00:29:48,300
+There was a couple of those kind of places and one of them was like a knockoff of the other, wasn't it?
+
+631
+00:29:48,580 --> 00:29:49,280
+And it was –
+
+632
+00:29:49,280 --> 00:29:49,660
+Yeah.
+
+633
+00:29:49,840 --> 00:29:51,760
+They were in the Fulton Mall in Brooklyn and all that.
+
+634
+00:29:52,120 --> 00:29:54,540
+Anyway, some in Jersey, some in Connecticut.
+
+635
+00:29:55,000 --> 00:29:57,760
+One of them had like some kind of cutesy name or something, right?
+
+636
+00:29:57,980 --> 00:29:58,520
+Sure, sure.
+
+637
+00:29:58,580 --> 00:29:59,860
+Yeah, Spuds, whatever, something.
+
+638
+00:30:00,180 --> 00:30:04,740
+But it was great because it was – Wendy's, you can still get a baked potato with chili or whatever.
+
+639
+00:30:04,740 --> 00:30:05,560
+It's a really good thing.
+
+640
+00:30:05,840 --> 00:30:08,600
+So I was like, man, baked potatoes, man, that's a lot of energy.
+
+641
+00:30:08,660 --> 00:30:11,980
+So I said, why don't we boil – let's do it all stovetop, right?
+
+642
+00:30:12,520 --> 00:30:12,620
+Oh, yeah.
+
+643
+00:30:12,720 --> 00:30:17,640
+You can still make something that is like a baked potato without firing up an oven.
+
+644
+00:30:18,080 --> 00:30:20,740
+And I developed the stovetop baked method.
+
+645
+00:30:20,940 --> 00:30:21,880
+And I think we had Joe.
+
+646
+00:30:22,200 --> 00:30:23,100
+He doesn't mind me using it.
+
+647
+00:30:23,520 --> 00:30:24,200
+He loved it.
+
+648
+00:30:24,300 --> 00:30:30,600
+He shared it with his wife and that's how she made it because they like baked – now you can have baked potatoes in 20 minutes, half hour.
+
+649
+00:30:30,700 --> 00:30:33,600
+You could make it all on the stovetop with a little burner, right?
+
+650
+00:30:33,600 --> 00:30:35,520
+And it's just like a baked potato.
+
+651
+00:30:35,600 --> 00:30:35,760
+Right.
+
+652
+00:30:35,800 --> 00:30:42,720
+Anytime I bring up food, even when I have Joe on another show or something to talk about other stuff, if I bring up food, he always brings up the stovetop potatoes.
+
+653
+00:30:43,560 --> 00:30:44,160
+Yeah, they're great.
+
+654
+00:30:44,480 --> 00:30:46,040
+You use so little energy, right?
+
+655
+00:30:46,220 --> 00:30:48,860
+And you get a baked potato because who doesn't like a baked potato?
+
+656
+00:30:48,940 --> 00:30:51,400
+And I'm talking about a bonafide baked potato with the skin on.
+
+657
+00:30:51,880 --> 00:30:59,200
+When you're ready to serve it, you score the top and you squeeze it and then all the starch pops up and it's steamy and you've got that real strong potato flavor.
+
+658
+00:30:59,360 --> 00:31:02,480
+And then you dress it 100 different ways like you were talking about at that restaurant.
+
+659
+00:31:02,880 --> 00:31:05,660
+Sure, but what I'm saying is – remember, this is stovetop.
+
+660
+00:31:05,800 --> 00:31:08,840
+It has nothing to do with boiled potatoes.
+
+661
+00:31:09,220 --> 00:31:12,840
+It doesn't taste like a boiled potato at all if you follow the instructions.
+
+662
+00:31:13,120 --> 00:31:13,800
+So this is a segue.
+
+663
+00:31:14,060 --> 00:31:16,920
+So now – because a baked potato to me is a main – I don't eat it.
+
+664
+00:31:16,920 --> 00:31:17,700
+It's not a side.
+
+665
+00:31:18,360 --> 00:31:20,920
+To me, if I'm going to have dinner, baked potato is fine.
+
+666
+00:31:21,000 --> 00:31:23,300
+I'll just have a nice toppings on it and that's good, right?
+
+667
+00:31:23,780 --> 00:31:30,000
+So this is the same thing as that with the cabbage, braised cabbage and with the cauliflower.
+
+668
+00:31:30,000 --> 00:31:34,560
+I'm glad you brought that up because cauliflower is basically albino broccoli, right?
+
+669
+00:31:35,600 --> 00:31:39,240
+And you would treat the cauliflower exactly like you do the broccoli.
+
+670
+00:31:39,500 --> 00:31:41,820
+And I recommend going through this Sonic.
+
+671
+00:31:41,900 --> 00:31:42,760
+We'll try to keep it short.
+
+672
+00:31:42,820 --> 00:31:48,880
+So if someone wants to go back and repeat step by step, we did the cabbage first and then the broccoli and then the addendum of the cauliflower.
+
+673
+00:31:49,620 --> 00:31:58,340
+Right, and look, I just got one last question and that is when you were talking about these sauces and adding a savory sauce, cheese might be one of the first things to go for.
+
+674
+00:31:58,340 --> 00:32:03,160
+And in fact, somebody sent me this email recently asking about what kind of seafood you would recommend.
+
+675
+00:32:03,660 --> 00:32:05,060
+You see food and you eat it, yeah.
+
+676
+00:32:05,100 --> 00:32:06,480
+Yeah, that would be most proper.
+
+677
+00:32:06,920 --> 00:32:08,260
+Of course, they were talking about –
+
+678
+00:32:09,740 --> 00:32:12,600
+Anything that lives in water should have fins and scales.
+
+679
+00:32:12,800 --> 00:32:18,720
+A quick example of what doesn't have fins and scales are crustacea, shrimp, lobster.
+
+680
+00:32:19,660 --> 00:32:21,860
+But then you have fish like shark and catfish.
+
+681
+00:32:21,980 --> 00:32:23,840
+They have fins but they don't have scales.
+
+682
+00:32:24,740 --> 00:32:25,180
+Right?
+
+683
+00:32:25,180 --> 00:32:28,380
+But you wouldn't eat a shark or a catfish then?
+
+684
+00:32:29,160 --> 00:32:30,640
+Well, it doesn't qualify, no.
+
+685
+00:32:30,880 --> 00:32:31,840
+Okay, fair enough.
+
+686
+00:32:32,180 --> 00:32:34,300
+Because it has fins but it doesn't have scales, right?
+
+687
+00:32:34,360 --> 00:32:36,720
+Catfish has skin and shark has bone.
+
+688
+00:32:36,920 --> 00:32:42,760
+So last thing that that email observed though is that quite often the Greek doesn't seem to be a fan of cheese.
+
+689
+00:32:43,440 --> 00:32:45,500
+But I was thinking to myself what would go –
+
+690
+00:32:45,500 --> 00:32:47,760
+I am actually, but I live in America.
+
+691
+00:32:49,220 --> 00:32:54,360
+The milk here is – if you want good cheese, you have to get it in Europe because they don't have strict milk laws, right?
+
+692
+00:32:55,640 --> 00:32:56,500
+That's right, right.
+
+693
+00:32:56,780 --> 00:32:57,780
+Okay, fair enough.
+
+694
+00:32:58,120 --> 00:33:00,900
+By the way, even if you live in the U.S., where are the best cheeses?
+
+695
+00:33:01,780 --> 00:33:05,160
+They'll say Wisconsin but you get European cheeses, right?
+
+696
+00:33:05,400 --> 00:33:06,680
+They're 30 bucks a pound, right?
+
+697
+00:33:06,940 --> 00:33:09,700
+Yeah, best cheeses are going to be what you can import and usually –
+
+698
+00:33:09,700 --> 00:33:10,500
+From France, yeah.
+
+699
+00:33:10,740 --> 00:33:12,280
+Where does the best parm come from?
+
+700
+00:33:12,460 --> 00:33:13,500
+Yeah, you get those on the coast.
+
+701
+00:33:13,500 --> 00:33:13,740
+Italy.
+
+702
+00:33:14,120 --> 00:33:18,760
+Honestly, you get it in America, you find it in New York, you find it in California because there's –
+
+703
+00:33:18,760 --> 00:33:21,240
+There's a huge difference in the complexity of flavor.
+
+704
+00:33:21,240 --> 00:33:25,680
+Right, so if your cheese came across on a boat, maybe you got a shot at having a decent cheese.
+
+705
+00:33:25,920 --> 00:33:28,080
+You definitely have a decent cheese because they – yeah.
+
+706
+00:33:28,220 --> 00:33:28,460
+Right.
+
+707
+00:33:28,780 --> 00:33:33,140
+Even when they know they send the crap over and they keep the best in Europe.
+
+708
+00:33:33,460 --> 00:33:34,660
+That's still going on by the way.
+
+709
+00:33:34,700 --> 00:33:37,480
+The car – like I know someone who was in – I knew someone a while back.
+
+710
+00:33:37,600 --> 00:33:38,240
+I was communicating with him.
+
+711
+00:33:38,520 --> 00:33:45,100
+Big fan of Audi and he lives here in the States and he got an Audi but he had it shipped.
+
+712
+00:33:45,240 --> 00:33:47,760
+He went over to Austria, wherever they make them.
+
+713
+00:33:47,800 --> 00:33:48,800
+He drove it for a week.
+
+714
+00:33:48,800 --> 00:33:53,060
+You want to drive it for a week because if you don't, then they will charge you the new car tax, right?
+
+715
+00:33:53,300 --> 00:33:53,740
+Right, right.
+
+716
+00:33:55,340 --> 00:33:56,540
+Then he had it shipped over.
