@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/preprocess.cpython-312.pyc
+*.mp3
+*.mp4
+*.wav
+greekspeak/*/*.mp3
+greekspeak/*/*.mp4
+greekspeak/*/*.wav
+greekspeak/GodSpeek/*.wav
+zbooks/
