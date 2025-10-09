@@ -22,3 +22,5 @@ A public repository of transcripts of TheGreek's sonics over the years
 - [freeman_misc](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/freeman_misc)
 - [greekspeek](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/greekspeek)
 - [rated-y](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/rated-y)
+
+![](https://i.ibb.co/0sFjr9s/alpha-prime-bot-background.jpg)
