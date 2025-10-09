@@ -1,7 +1,0 @@
-# Exclude the following from being indexed
-greekspeak/compiled_texts/* linguist-generated=true
-images/* linguist-generated=true
-zbooks/* linguist-generated=true
-*.txt linguist-generated=true
-*.docx linguist-generated=true
-*.pdf linguist-generated=true
