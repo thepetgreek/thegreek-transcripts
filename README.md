@@ -2,7 +2,7 @@
 A public repository of transcripts of TheGreek's sonics over the years
 
 ## A Compilation of Sonics in a Single File
-[Greek Sonics Compilation](https://github.com/thepetgreek/thegreek-transcripts/blob/main/compiled_greek_sonics.txt)
+[Greek Sonics Compilation](https://github.com/thepetgreek/thegreek-transcripts/raw/refs/heads/main/compiled_greek_sonics.txt)
 
 ## Index of Sonics By Show
 - [Freedom Slips Radio](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/Freedom%20Slips%20Radio)
