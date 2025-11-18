@@ -1,7 +1,10 @@
 # thegreek-transcripts
 A public repository of transcripts of TheGreek's sonics over the years
 
-## Index of Sonics
+## A Compilation of Sonics in a Single File
+[Greek Sonics Compilation](https://github.com/thepetgreek/thegreek-transcripts/blob/main/compiled_greek_sonics.txt)
+
+## Index of Sonics By Show
 - [Freedom Slips Radio](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/Freedom%20Slips%20Radio)
 - [GodSpeek](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/GodSpeek)
 - [Inertial Domain](https://github.com/thepetgreek/thegreek-transcripts/tree/main/greekspeak/Inertial%20Domain)
